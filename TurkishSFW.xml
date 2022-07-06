@@ -2,17 +2,17 @@
 <strings>
   <language name="Türkçe" base="Türkçe" variant="Türkçe" code="tr" isDefault="true" owner="@werewolfturkey"/>
   <string key = "NotInGame">
-    <value> Şu an herhangi bir oyunda değilsiniz ... </value>
+    <value> Şu an herhangi bir oyunda değilsin ... </value>
   </string>
   <string key = "PlayerStartedGame">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} oyunu başlattı! Oyuna katılmak için düğmeye basın ve muhtemelen ölün! </value>
-    <value> {0} yeni bir oyun başlattı! Yenmek için düğmeye basın! </value>
+    <value> {0} normal oyun başlattı! Oyuna katılmak için butona tıkla ve muhtemelen öl! </value>
+    <value> {0} yeni bir oyun başlattı! Kazanmak için butona tıkla! </value>
   </string>
   <string key = "PlayerStartedChaosGame">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} kaos modunda oyunu başlattı! Eğlenceye katılmak için düğmeye basın ve muhtemelen ölün :P (Roller tekrar eder) </value>
-    <value> {0} yeni kaos modunda oyun başlattı! Parçalara ayrılmak için tıkla... (Roller tekrar eder) </value>
+    <value> {0} kaos modunda oyun başlattı! Eğlenceye katılmak için butona tıkla ve muhtemelen öl :P (Roller tekrar eder) </value>
+    <value> {0} kaos modunda yeni bir oyun başlattı! Parçalara ayrılmak için butona tıkla... (Roller tekrar eder) </value>
   </string>
   <string key = "NoJoinGameRunning">
     <!-- 0 - Oyuncu adı -->
@@ -38,7 +38,7 @@
   </string>
   <string key = "ChangeNameToJoin">
     <!-- 0 - Oyuncu adı -->
-    <value> {0}, oyuna katılmak için isminizi değiştirin. </value>
+    <value> {0}, oyuna katılmak için ismini değiştir. </value>
   </string>
   <string key = "PlayerLimitReached">
     <value> Üzgünüm ama doluyuz.</value>
@@ -56,7 +56,7 @@
     <value> {0}, Sen yenisin. Lütfen /start ile bana bir mesaj gönderin. (@ {1}) Ardından oyuna yeniden katılın. Size mesaj gönderebilmem için önce benimle konuşmanız gerekiyor. </value>
   </string>
   <string key = "DeadFlee">
-    <value> Oyundan çıkamazsın! SEN ÖLÜSÜN! Mezara geri dön.! </value>
+    <value> Oyundan çıkamazsın! SEN ÖLÜSÜN! Mezarına geri dön.! </value>
   </string>
   <string key = "Flee">
     <!-- 0 - Oyuncu adı -->
@@ -75,7 +75,7 @@
     <value> Hey, sana bir şey soran olmadı! </value>
   </string>
   <string key = "NotPlaying">
-    <value> Oyunda değilsin gibi... </value>
+    <value> Oyunda değil gibisin... </value>
   </string>
   <string key = "NoPlayerName">
     <value> O isimde bir oyuncu yok! </value>
@@ -96,10 +96,10 @@
   <string key = "IdleKill">
     <!-- 0 - oyuncu adı -->
     <!-- 1 - oyuncu rolü -->
-    <value> {1} iki gece oylamaya katılmadı. İyilik güçleri bunu korkunç bir suç olarak gördü ve {0} yere kapaklandı. Öldü. </value>
+    <value> {1} iki gece üst üste oylamaya katılmadı. İyilik güçleri bunu korkunç bir suç olarak gördü ve {0} yere kapaklandı. Öldü. </value>
   </string>
   <string key = "TraitorTurnWolf">
-    <value> Seni hain !!! Kurta dönüştün. </value>
+    <value> Seni hain !!! Kurt Adama dönüştün. </value>
   </string>
   <string key = "ChoiceAccepted">
     <value>Seçim kabul edildi.</value>
@@ -123,40 +123,40 @@
     <value>{0}’in {1} olduğunu gördün!</value>
   </string>
   <string key = "AskLynch">
-    <value> Kimi linç etmek istiyorsunuz? </value>
+    <value> Kimi linç etmek istiyorsun? </value>
   </string>
   <string key = "AskDetect">
-    <value> Kimi araştırmak istiyorsunuz? </value>
+    <value> Kimi tespit etmek istiyorsun? </value>
   </string>
   <string key = "AskShoot">
     <!-- 0 - madde işareti -->
     <value>Kimi vurmak istiyorsun {0} kurşunun kaldı.</value>
   </string>
   <string key = "AskVisit">
-    <value>Kimi ziyaret etmek istiyorsunuz?</value>
+    <value>Kimi ziyaret etmek istiyorsun?</value>
   </string>
   <string key = "AskSee">
-    <value>Kimi görmek istiyorsunuz?</value>
+    <value>Kimi görmek istiyorsun?</value>
   </string>
   <string key = "AskGuard">
-    <value>Kimi korumak istiyorsunuz?</value>
+    <value>Kimi korumak istiyorsun?</value>
   </string>
   <string key = "AskEat">
-    <value>Kimi yemek istersiniz?</value>
+    <value>Kimi yemek istiyorsun?</value>
   </string>
   <string key = "AskHunt">
-    <value>Kimi avlamak istiyorsunuz?</value>
+    <value>Kimi avlamak istiyorsun?</value>
   </string>
   <string key = "AskRoleModel">
-    <value>Rol modelin kim?</value>
+    <value>Rol model olarak kimi seçmek istiyorsun?</value>
   </string>
   <string key = "AskConvert">
-    <value>Kimi kendine çekmek istiyorsun?</value>
+    <value>Kimi dönüştürmek istiyorsun?</value>
   </string>
   <string key = "DiscussWith">
     <!-- Baştaki boşlukları lütfen burada bırakın -->
     <!-- 0 - takım arkadaşı isimleri -->
-    <value>  Karar vermeden {0} ile bi görüşsen iyi olur.</value>
+    <value>  Karar vermeden önce {0} ile bi görüşsen iyi olur.</value>
   </string>
   <string key = "And">
     <!-- bu, "DiscussWith" ile eşleştirilir. yine boşlukları bırakın! -->
@@ -165,16 +165,16 @@
   <string key = "LynchTime">
     <!-- 0 - saniye sayısı -->
     <value>
-      Gecenin karanlığı çökmek üzere. Köylüler bu akşam kimi linç edeceklerine karar vermek için toplanıyorlar. Herkesin oy için {0} saniyesi var! İyi düşünün.
+      Gecenin karanlığı çökmek üzere. Stres dolu bir günden sonra köylüler bu akşam kimi linç edeceklerine dair karar vermek için toplanıyorlar. Herkesin oy kullanmak için {0} saniyesi var! İyi düşünün.
     </value>
   </string>
   <string key = "DayTime">
     <!-- 0 - saniye sayısı -->
-    <value>Gün doğdu. Suçlamalar, savunma ya da sıradan bir sohbet için tam {0} saniyeniz var.</value>
+    <value>Gün doğdu. İftiralar, suçlamalar, savunma ya da sıradan bir sohbet için tam {0} saniyeniz var.</value>
   </string>
   <string key = "NightTime">
     <!-- 0 - saniye sayısı -->
-    <value>Gece çöktü. Böylesine yoğun bir günün ardından herkes bitkin bir şekilde yatar. Gece oyuncuları, eylemlerinizi gerçekleştirmek için tam {0} saniyeniz var! </value>
+    <value>Gece çöktü. Böylesine stresli ve yoğun bir günün ardından herkes yorgun argın bir şekilde yataklarına döner. Gece oyuncuları, eylemlerinizi gerçekleştirmek için tam {0} saniyeniz var! </value>
   </string>
   <string key = "LynchKill">
     <!-- 0 - oyuncu adı -->
@@ -182,14 +182,14 @@
     <value> Köylüler şüphe içinde oylarını kullandılar. {0} öldü. {1} idi. </value>
   </string>
   <string key = "LynchTie">
-    <value> Linç için tam bir karara varamadılar. Herkes korku ve endişe içinde evine dönüyor...</value>
+    <value> Linç için tam bir karara varılamadı. Herkes korku ve endişe içinde evinlerine geri dönüyor...</value>
   </string>
   <string key = "NoLynchVotes">
-    <value> Garip, kimse oy vermedi! Bu gece linç yok... </value>
+    <value> Garip, kimse oy kullanmadı! Bu gece linç yok... </value>
   </string>
   <string key = "DetectiveEaten">
     <!-- 0 - kurban adı -->
-    <value> Köylüler sabah kalktılar ama {0}'i göremiyorlar. Onu evinde boğazına yapıştırılmış eski bir plaka ile birlikte parçalanmış olarak buluyorlar! Dedektifinizi kaybettiniz. </value>
+    <value> Köylüler sabah uyandılar ancak {0}'i yerinde göremiyorlar. Onu evinde boğazına yapıştırılmış eski bir rozet ile birlikte parçalanmış halde buluyorlar! Dedektifinizi kaybettiniz. </value>
   </string>
   <string key = "GuardianEaten">
     <!-- 0 - kurban adı -->
@@ -197,34 +197,34 @@
   </string>
   <string key = "GunnerEaten">
     <!-- 0 - kurban adı -->
-    <value> Köylüler evlerinden çıktığında önce saçmaları gördüler, sonra bacak, sonra parmaklar ve {0}’in cansız bedeni. Köyün çeşmesinin orada Kurtadam tarafından parçalanmış vaziyette.  Nişancınızı kaybettiniz.</value>
+    <value> Köylüler evlerinden çıktığında önce tüfekten çıkan saçmaları gördüler, sonra bir bacak... Sonra parmaklar???!!! ve {0}’in cansız bedeni. Köyün çeşmesinin önünde Kurtadam tarafından parçalanmış vaziyette.  Silahşörünüzü kaybettiniz.</value>
   </string>
   <string key = "SeerEaten">
     <!-- 0 - kurban adı -->
-    <value> Sabah herkes uyandı ve {0}’i ruh çağırma tahtası ve tarot kartları arasında ölü şekilde buldu. Gözcü öldü. </value>
+    <value> Sabah herkes uyandı ve {0}’i  ruh çağırma tahtası ve tarot kartları arasında ölü şekilde buldu. Gözcü öldü. </value>
   </string>
   <string key = "DrunkEaten">
     <!-- 0 - kurban adı -->
-    <value> Herkes yanan odun ve alkol kokusuyla uyanıyor… Bar yanıyor! Alevleri söndürdükten sonra, parçalara ayrılmış {0}'in kalıntılarını bulurlar. Kasaba sarhoşu ortadan kaldırıldı. </value>
+    <value> Herkes yanan ahşap ve alkol kokusuyla uyanıyor… Bar yanıyor! Alevleri söndürdükten sonra, parçalara ayrılmış halde {0}'in kalıntılarını bulurlar. Kasaba sarhoşu öldü. </value>
   </string>
   <string key = "FoolEaten">
     <!-- 0 - kurban adı -->
-    <value> Sabah herkes uyandı ve {0}’i ruh çağırma tahtası ve futbolcu kartları arasında buldular. TAM DA APTALIN İŞİ. </value>
+    <value> Sabah herkes uyandı ve {0}’i langırt masası ve Clash Royale kartları arasında buldular. Elektro Dev mi? NE AHMAKÇA AMA! </value>
   </string>
   <string key = "DefaultEaten">
     <!-- 0 - kurban adı -->
     <!-- 1 - kurban rolü -->
-    <value>Sabah pis bir kokuya uyandı herkes.  Kokuyu takip ettiler ahırda {0}’i parçalanmış vaziyette buldular, kafası yoktu. NOMNOMNOMNOM\n{1}. </value>
+    <value>Köy halkı sabah pis bir kokuya uyandı.  Kokuyu takip ettiler ve ahırda {0}’i parçalanmış vaziyette buldular, kafası kopmuştu. NOMNOMNOMNOM\n{1}. </value>
   </string>
   <string key = "HunterKilledCultist">
     <!-- 0 - kurban adı -->
-    <value> {0}'in evinden garip bir koku geliyor. Köylüler içeriye girince ayin odasında cansız vücudunu buldu. Bir vampir, Gecenin Avcısı tarafından öldürüldü! </value>
+    <value> {0}'in evinden garip bir koku geliyor. Köylüler içeriye girince ayin odasında cansız bir beden buldu. Bir vampir, Gecenin Avcısı tarafından öldürüldü! </value>
   </string>
   <string key = "NoAttack">
     <value> Köylüler sabah kasabanın merkezinde toplanarak rahat bir nefes alıyorlar. Görünüşe göre bu gece hiç saldırı olmadı. </value>
   </string>
   <string key = "CursedBitten">
-    <value> Kurt adamlar tarafından ısırıldın. Lanetli olduğun için kurt adama dönüşüyorsun. </value>
+    <value> Kurt adamlar tarafından ısırıldın. Lanetli olduğun için kurt adama dönüştün. </value>
   </string>
   <string key = "WolfTeam">
     <!-- 0 - takım arkadaşı isimleri -->
@@ -235,14 +235,14 @@
     <value> {0} ısırıldı ... ama o lanetliydi ve bir kurt adama dönüştü! Yeni ortağınız için tebrikler! </value>
   </string>
   <string key = "WolvesEatYou">
-    <value> Oh hayır! Kurt adamlar seni yedi! NOMNOMNOMNOM </value>
+    <value> Aga beeee! Kurt adamlar seni yedi! NOMNOMNOMNOM </value>
   </string>
   <string key = "WolvesEatDrunk">
     <!-- 0 - kurban adı -->
-    <value> Oh hayır! {0} sarhoştu! Şimdi sende kafayı buldun ve yarın gece saldıramazsın. </value>
+    <value> Ulannnn! {0} sarhoştu! Şimdi sende kafayı buldun ve yarın gece saldıramayacaksın. </value>
   </string>
   <string key = "GuardWolf">
-    <value> Bir kurt adamı korumaya çalıştın! Şanssızdın ve seni yedi. :( </value>
+    <value> Bir kurt adamı korumaya çalıştın! Şanssızdın ve seni yedi. Gusül şart :( </value>
   </string>
   <string key = "GuardSaved">
     <!-- 0 - kaydedilmiş oyuncu adı -->
@@ -250,18 +250,18 @@
   </string>
   <string key = "GuardNoAttack">
     <!-- 0 - oyuncu adı -->
-    <value> {0} dün gece saldırıya uğramadı. Sen de hiçbir şey yapmadın. </value>
+    <value> {0} dün gece saldırıya uğramadı. Sonuç olarak pek de bir şey yapmış olmadın. </value>
   </string>
   <string key = "GuardEmptyHouse">
     <!-- 0 - oyuncu adı -->
-    <value> {0}'i korumaya gittiniz ama evde kimse yoktu!</value>
+    <value> {0}'i korumaya gittin ama evde kimse yoktu!</value>
   </string>
   <string key = "GuardSavedYou">
-    <value> Dün gece birisi sizi izliyordu ve size saldıran saldırgan savaştı! (Bir saldırgan tarafından saldırıya uğradın, ancak sizi kurtardılar.) </value>
+    <value> Dün gece birisi seni izliyordu ve sana saldıran saldırgan ile savaştı! (Bir saldırgan tarafından saldırıya uğradın, ancak seni kurtardılar.) </value>
   </string>
   <string key = "HarlotEaten">
     <!-- 0 - oyuncu adı -->
-    <value> Yancı gece evde kalmaya karar verdi. Ama o da ne büyük bir hata !! {0} kurt adamlar tarafından yendi! </value>
+    <value> Yancı bu gece mesaiye kalmamamaya karar verdi. Ama kurt adamlar öyle düşünmüyordu :D !! {0} kurt adamlar tarafından yendi! </value>
   </string>
   <string key = "HarlotNotHome">
     <!-- 0 - oyuncu adı -->
@@ -278,46 +278,46 @@
   <string key = "HarlotFuckedVictimPublic">
     <!-- 0 - yancı adı -->
     <!-- 1 - kurban adı -->
-    <value> {0} dün gece biraz eğlenmek ve stresi azaltmak için {1} 'in evine gizlice girdi. Ne yazık ki, bulunan şey yemek yiyen bir kurt adamdı ! Kurt adam bir saniye içinde döndü ve şah damarını ısırdı ... {0} öldü. </value>
+    <value> {0} dün gece biraz eğlenmek ve stresi azaltmak için {1} 'in evine gizlice girdi. Ne yazık ki, karşısında bir kurt adam vardı ! Kurt adam bir saniye içinde döndü ve şah damarını ısırdı ... {0} öldü. </value>
   </string>
   <string key = "HarlotVisitNonWolf">
     <!-- 0 - hedef adı -->
-    <value> {0} ile çılgın bir gecenin ardından, onun bir kurt adam olmadığını anlayabilirsiniz! </value>
+    <value> {0} ile çılgın bir gecenin ardından, onun bir kurt adam olmadığını anladın! </value>
   </string>
   <string key = "HarlotVisitYou">
-    <value> Gecenin ortasında köy yancısı ile sohbet ettiğinizi hayal ettin. Ama uyandığınızda bunun bir rüya olmadığını anladınız! Maalesef gece karanlıktı ve yüzüne iyice bakamadınız. Sohbeti bitirir bitirmez, sizi düşüncelerinizle baş başa bırakmak için sessizce ayrıldı. [Yancı sizi ziyaret etti]. </value>
+    <value> Gecenin ortasında köy yancısı ile hoşbeş ettiğini hayal ettin. Ama uyandığında bunun bir rüya olmadığını anladın (Çarşafı kontrol et.)! Maalesef gece karanlıktı ve yüzüne iyice bakamadın. İşini bitirir bitirmez, seni tatmin olmuş duygularınla baş başa bırakmak için sessizce ayrıldı. [Yancı seni ziyaret etti]. </value>
   </string>
   <string key = "DetectiveCaught">
     <!-- 0 - dedektif adı -->
-    <value> Etrafta {0}'i gezinirken yakaladınız! Bu bir dedektif! </value>
+    <value> Etrafta {0}'i gezinirken yakaladın! Bu bir dedektif! </value>
   </string>
   <string key = "DetectiveSnoop">
     <!-- 0 - hedef adı -->
     <!-- 1 - hedef rol -->
-    <value> Araştırmaların sonucunda, {0}'in {1} olduğunu gösterdi. </value>
+    <value> Soruşturmaların sonucunda, {0}'in {1} olduğunu tespit ettin. </value>
   </string>
   <string key = "HarlotShot">
     <!-- 0 - topçunun adı -->
     <!-- 1 - Harlot'un adı -->
-    <value> Silahşör, akşamı yancıyla geçirdikten sonra kendini kandırılmış hissetti. {0} öcünü aldı ve {1} öldü. [{0} intikamcıdır ve {1}] 'yi ortadan kaldırmıştır. </value>
+    <value> Silahşör, akşamı yancıyla geçirdikten sonra kendini ihanete uğramış hissetti. {0} öcünü aldı ve {1} öldü. [{0} silahşör ve {1}] 'i yeryüzünden kaldırdı. </value>
   </string>
   <string key = "DefaultShot">
     <!-- 0 - Nişancının adı -->
     <!-- 1 - hedef adı -->
     <!-- 2 - Hedefin görünen adı (Hedef bir roldü) -->
-    <value> Aniden, bir silah sesi duyulur. Köylüler bakıyor ve {0}, {1} adlı kişinin cesedinin üzerinde, kafasına dönük bir tabanca ile ayakta duruyor. {2}.  </value>
+    <value> Aniden, bir silah sesi duyulur. Köylüler etrafa bakınıyor ve {0}, {1} adlı kişinin cesedinin üzerinde, kafasına dönük bir tabanca ile ayakta duruyor. {2}.  </value>
   </string>
   <string key = "WolfWins">
     <value> Kurt adam kazandı! Tebrikler </value>
   </string>
   <string key = "WolvesWin">
-    <value> Kurt adamlar kazandı! Alkışlayalım arkadaşlar! </value>
+    <value> Kurt adamlar kazandı! AAAAAAAAUUUUUUUUUUUUUUUUU! </value>
   </string>
   <string key = "VillageWins">
-    <value> Köylüler kazandı! Evinize huzur içinde dönebilirsiniz. Yine bekleriz :) </value>
+    <value> Köylüler kazandı! Köy halkı evlerine huzurla döndü. Good job :) </value>
   </string>
   <string key = "TannerWins">
-    <value> Upssss! Nasıl bu kadar saf olabiliyorsunuz. İblis sizi iyi kandırmış. İblisi linç ettin! İblis oyunu kazandı. Yazık size :D </value>
+    <value> Upssss! ulan ne enayisiniz. İblis sizi iyi kandırmış. İblisi linç ettin! İblis oyunu kazandı. Yazık size :D </value>
   </string>
   <string key = "RemainingPlayersEnd">
     <value> Kalan oyuncu, rol ve takımlar: </value>
@@ -330,15 +330,15 @@
   <string key = "CultConvertCultHunter">
     <!-- 0 - En İyi Tarikatçının (öldürülen) adı -->
     <!-- 1 - CultHunter'ın adı -->
-    <value> Kirli işi yapmak ve {1}'i dönüştürmek için {0} gönderildi; ancak o Gecenin Avcısıydı! {0} öldü! </value>
+    <value> Kirli işi yapmak ve {1}'i dönüştürmek için {0}'i gönderdin; ancak o Gecenin Avcısıydı! {0} öldü! </value>
   </string>
   <string key = "CultHunterKilledCultVisit">
     <!-- 0 - En Genç Tarikatçının adı -->
     <!-- 1 - Kalan kültist sayısı -->
-    <value> {0} dün gece evine geldi seni çevirecekti... Sen de kılıcını onun göğsüne gömdün. Bir vampir öldü ... {1} vampir kaldı! </value>
+    <value> {0} dün gece evine geldi seni dönüştürecekti... Sen de kılıcını onun göğsüne gömdün. Bir vampir öldü ... {1} vampir kaldı! </value>
   </string>
   <string key = "CultConvertYou">
-    <value> Vampir seni kendi mezhebine dönüştürdü! Artık bir vampirsin. Her gece bir başkasını çevirme şansınız olacak. </value>
+    <value> Vampir seni kendi mezhebine dönüştürdü! Artık bir vampirsin. Her gece bir başkasını çevirme şansın olacak. </value>
   </string>
   <string key = "CultTeam">
     <!-- 0 - Kültist sayısı -->
@@ -362,22 +362,22 @@
   </string>
   <string key = "HunterFindCultist">
     <!-- 0 - hedef adı -->
-    <value> {0}'in evine gidersiniz ve onu bilmem ne tanrısının sunağının önünde dua ederken bulursunuz ... Çabuk, kılıcınızı göğsüne sokar ve onu anında öldürürsünüz. </value>
+    <value> {0}'in evine gidersin ve onu bilmem ne tanrısının sunağının önünde dua ederken bulursun ... Çok rahat ve profesyonel şekilde kılıcını göğsüne sokar ve onu anında öldürürsün. </value>
   </string>
   <string key = "HunterFailedToFind">
     <!-- 0 - hedef adı -->
-    <value> {0} adlı kişinin evine gidiyorsunuz, ancak gizemli sunaklar, vampirlere has eşyalar yok. O bir vampir değil, bu yüzden eve dönüyorsun. </value>
+    <value> {0} adlı kişinin evine gidiyorsun, ancak gizemli sunaklar, vampirlere has eşyalar yok. O bir vampir değil, bu yüzden eve dönüyorsun. </value>
   </string>
   <string key = "WildChildToWolves">
     <!-- 0 - Werechild'in adı -->
-    <value> {0}'in rol modeli öldü! Öfke içinde bir kurt adama dönüşüyor! </value>
+    <value> {0}'in rol modeli öldü! Öfke içinde bir kurt adama dönüştü! </value>
   </string>
   <string key = "WildChildTransform">
     <!-- 0 - rolün adı -->
     <!-- 0 - takımın isimleri -->
-    <value> {0} öldü! Öfke içinde bir kurt adama dönüştünüz! </value>
+    <value> {0} öldü! Öfke içinde bir kurt adama dönüştün! </value>
   </string>
-  <!-- Köylü, Sarhoş, Yancı, Gözcü, Hain, Koruyucu Melek, Dedektif, Kurt, Lanetli, Nişancı, İblis, Aptal, Yabani Çocuk, Seyirci, Çırak, Tarikatçı, Tarikat Avcısı -->
+  <!-- Köylü, Sarhoş, Yancı, Gözcü, Hain, Koruyucu Melek, Dedektif, Kurt, Lanetli, Silahşör, İblis, Aptal, Yabani Çocuk, Seyirci, Çırak, Tarikatçı, Tarikat Avcısı -->
   <string key = "Villager">
     <value> Köylü 👱 </value>
   </string>
@@ -385,7 +385,7 @@
     <value> Sarhoş 🍻 </value>
   </string>
   <string key = "Harlot">
-    <value> Yancı 🍝 </value>
+    <value> Yancı 💋 </value>
   </string>
   <string key = "Seer">
     <value> Gözcü 👳 </value>
@@ -448,7 +448,7 @@
   </string>
   <string key = "MasonEaten">
     <!-- 0 - ölü adamın adı -->
-    <value> Herkes ayağa kalktığında, {0} 'in cesedini bir taş yığınının altında gömülü bulurlar kanı her yere sıçramış. Masonlarınızdan biri öldü! </value>
+    <value> Herkes ayağa kalktığında, {0} 'in cesedini bir taş yığınının altında gömülü bulurlar, kanı her yere sıçramış. Masonlarınızdan biri öldü! </value>
   </string>
   <string key = "MasonTeam">
     <value>  Masonlar: {0} </value>
@@ -460,7 +460,7 @@
   </string>
   <string key = "GuardBlockedWolf">
     <!-- 0 - hedefin adı -->
-    <value> Sürü , vücuduyla ziyafet çekmek için {0} 'in evine gider. Ama orada uzun, koca dişli karanlık birisi onları karşıladı. Koruyucu melek herkesi tek başına patakladı. Mağlup olarak ininize geri dönersiniz. </value>
+    <value> Sürü , vücuduyla ziyafet çekmek için {0} 'in evine gider. Ama orada uzun, koca dişli karanlık birisi onlara karşı koydu. Koruyucu melek herkesi tek başına alt etti. Mağlup olarak ininize geri döndünüz. </value>
   </string>
   <!-- yeni dizeler 9 Mayıs 2016 -->
   <string key = "CultUnableToConvert">
@@ -472,11 +472,11 @@
   <string key = "NameExists">
     <!-- 0 - hedefin adı -->
     <!-- 1 - ad -->
-    <value> @ {1}, {0} adında bir oyuncu zaten katıldı. Lütfen katılmak için adınızı değiştirin. </value>
+    <value> @ {1}, {0} adında bir oyuncu zaten katıldı. Lütfen katılmak için adını değiştir. </value>
   </string>
   <string key = "HarlotDiscoverCult">
     <!-- 0 - hedefin adı -->
-    <value> Dün gece iyi vakit geçirmek için gizlice {0}'in evine gittin ama gittiğinde garip bir şey fark ettin. O bir yabancı, ayrıca hasta gibi soluk görünüyordu, keskin dişleri vardı ... [{0} Bir vampirdir]. </value>
+    <value> Dün gece iyi vakit geçirmek için gizlice {0}'in evine gittin ama gittiğinde garip bir şey fark ettin. O bir yabancı, ayrıca hasta gibi soluk görünüyordu, keskin dişleri vardı ... [{0} Bir vampir]. </value>
   </string>
   <!-- yeni dize 13 Mayıs 2016 -->
   <string key = "Was">
@@ -484,8 +484,8 @@
   </string>
   <string key = "GenericDeathNoReveal">
     <!-- 0 - Ölenin adı -->
-    <value> Sabahleyin ahali uyandığında {0}’in ortalıkta olmadığını fark etti...Evini ararken kalıntıları bulundu. </value>
-    <value> Köylüler toplanırken ve güneş gökyüzünde yükselirken, dün gece bir şekilde ölen {0} kalıntıları bulunur. </value>
+    <value> Sabahleyin köy ahalisi uyandığında {0}’in ortalıkta olmadığını fark etti...Evini ararken ondan arta kalanları buldular. </value>
+    <value> Köylüler meydanda toplanırken ve güneş gökyüzünde yükselirken, dün gece garip bir şekilde ölen {0}'in kalıntıları bulunur. </value>
   </string>
   <string key = "MasonConverted">
     <!-- 0 - mason adı -->
