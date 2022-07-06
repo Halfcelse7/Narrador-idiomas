@@ -567,14 +567,14 @@
   </string>
   <!-- yeni dizeler 10 Haziran 2016 -->
   <string key ="CupidChosen">
-    <value> Seni aşk çarpmış {0}'in anısı asla kalbinizden kaybolmayacak. İkinizden biri ölürse diğeri kederden ölür. İkisi de hayatta kalırsa ikisi de kazanır. </value>
+    <value> Seni aşk çarpmış {0}'in anısı asla kalbinden kaybolmayacak. İkinizden biri ölürse diğeri de kederinden ölür. İkisi de hayatta kalırsa ikisi de kazanır. </value>
     <value> Aşk tanrısı Eros'un okları sana çarptı! {0}'i deli gibi seviyorsun! O ölürse sen de öleceksin. Eğer yaşıyorsanız ve biriniz kazanırsa, ikiniz de kazanırsınız! </value>
   </string>
   <string key = "HunterLynchedChoice">
-    <value> Köylüler seni asmaya karar verdi! Bu senin son şansın, düşerken kimi vuracağını seç! </value>
+    <value> Köylüler seni asmaya karar verdi! Bu senin son şansın, gider ayak kimi yanında götüreceğini iyi seç! </value>
   </string>
   <string key = "HunterNoChoiceLynched">
-    <value> {0} tabancasına uzanır, ancak zamanında yakalayamaz ve boynundan yüksek bir sesle öldürülür. </value>
+    <value> {0} tabancasına uzanır, ancak zamanında yakalayamaz ve boynundan yükses sesle çıkan 'ÇIT!' sesi ile ölür. </value>
   </string>
   <string key = "HunterSkipChoiceLynched">
     <value> {0} tabancasına uzanıyor, kalabalığa bakıyor ... ve kimi vuracağına karar veremedi. Kaderini kabul ederek ölür. </value>
@@ -590,7 +590,7 @@
   </string>
   <string key = "HunterNoChoiceShot">
     <!-- 0 - hedefin adı -->
-    <value> {0}’a çok pis daldılar. O kadar ki silahına uzanamadı bile. Etrafında bir kan havuzu oluştu.</value>
+    <value> {0}’a çok pis daldılar. O kadar sertti ki silahına uzanamadı bile. Etrafında bir kan havuzu oluştu.</value>
   </string>
   <string key = "HunterSkipChoiceShot">
     <!-- 0 - avcının adı -->
@@ -604,71 +604,71 @@
   </string>
   <string key = "HunterShotWolfMulti">
     <!-- 0 - hedefin adı -->
-    <value> Kurt adamlar dün gece avcıya saldırmaya çalıştı. Ancak avcı kurt adamı tüfeğiyle vurmayı başardı! {0} öldü.</value>
+    <value> Kurt adamlar dün gece avcıya saldırmaya çalıştı. Ancak avcı kurt adamlardan en az birini tüfeğiyle alt etmeyi başardı! {0} öldü.</value>
   </string>
   <string key = "HunterShotWolf">
     <!-- 0 - hedefin adı -->
-    <value> {0} dün gece avcıya saldırmaya çalıştı, ancak avcı onu tüfeğiyle vurmayı başardı! {0} öldü. </value>
+    <value> {0} dün gece avcıya saldırmaya çalıştı, ancak avcı onu tüfeğiyle onu alt etmeyi başardı! {0} öldü. </value>
   </string>
   <string key = "SerialKillerKilledWolf">
-    <value> Kurt adamlar gece geç saatte güzel bir atıştırmalık yemeye çalıştı ama onun yerine bir seri katil tarafından karşılandılar! {0} kavgada öldürüldü! </value>
+    <value> Kurt adamlar gece geç saatte güzel bir atıştırmalık yemeye çalıştı ama onun yerine bir seri katil tarafından karşılaştılar! {0} kavgada öldürüldü! </value>
   </string>
   <string key = "DefaultKilled">
     <!-- 0 - hedefin adı -->
     <!-- 1 - hedefin rolü -->
-    <value> {0} için yeteri kadar sessiz bir gece görünüyordu, ama yanıldılar. Köylüler sabah toplandılar ve onu parçalara ayrılmış halde buldular. Karaciğeri ve böbreği eksikti ... Seri katil iş başında! {1}. </value>
+    <value> {0} için yeteri kadar sessiz bir gece görünüyordu, ama yanıldılar. Köylüler sabah toplandılar ve onu parçalara ayrılmış halde buldular. Karaciğeri ve böbreği eksikti ... Seri katil iş başında! {0} {1} idi. </value>
   </string>
   <string key = "GuardBlockedKiller">
     <!-- 0 - hedefin adı -->
-    <value>Sen {0}'in cesedini koleksiyonun için toplamaya çalıştın, ama Koruyucu Melek tarafından püskürtüldün! Bu gece hiç ölüm olmadı. </value>
+    <value>Sen {0}'in cesedini koleksiyonun için toplamaya çalıştın, ama Koruyucu Melek tarafından bozguna uğradın! Bu gece hiç ölüm olmadı. </value>
   </string>
   <string key = "CultConvertHunter">
     <!-- 0 - En Genç Tarikatçının adı -->
     <!-- 1 - hedefin adı -->
-    <value>Tarikat üyesi {0}’i,  {1}’i dönüştürmek için gönderdi, ama onun yerine bir ateş açıldı ve {0}'in vücudu pencereden dışarı fırladı! {0} ölü....</value>
+    <value>Tarikat üyesi {0}’i,  {1}’i dönüştürmek için gönderdi, ama onun yerine bir ateş sesi duyuldu ve {0}'in vücudu pencereden dışarı fırladı! {0} ölü....</value>
   </string>
   <string key = "CultConvertSerialKiller">
     <!-- 0 - En Genç Tarikatçının adı -->
     <!-- 1 - hedefin adı -->
-    <value>Tarikat üyesi {0}’i, {1}’i dönüştürmek için gönderdi, ama onun yerine bir ateş açıldı ve {0}'in vücudu pencereden dışarı fırladı, bıçaklar vücudunun her yerine sokulmuş! NASIL BIR PSIKOPAT! {0} ölü....</value>
+    <value>Tarikat üyesi {0}’i, {1}’i dönüştürmek için gönderdi, ama onun yerine bir çığlık sesi duyuldu ve {0}'in vücudu pencereden dışarı fırladı, bıçaklar vücudunun her yerine sokulmuş! NASIL BIR PSIKOPAT! {0} ölü....</value>
     <value> {0} gizlice {1}'in evine girer, kapıyı açar ve bıçaklı bir deli tarafından karşılanır !! {1}, bıçağı {0}'in iç organlarına alfabetik sırayla saplayarak ve gülerek öldürür! {0} öldü. </value>
   </string>
   <string key = "GuardKiller">
-    <value> Seri Katili korumaya çalıştın ama o seni 100 kez bıçakladı! Ölüsün. </value>
+    <value> Seri Katili korumaya çalıştın ama o seni 88 kez bıçakladı! Ölüsün. </value>
   </string>
   <string key = "HarlotFuckKiller">
     <!-- 0 - hedefin adı -->
-    <value> {0} adlı kişinin evine gizlice giriyor ve biraz eğlenmeye başlıyorsunuz. Şimdiye kadar her şey harika gidiyor. {0} bir bıçak çıkarır ve seni 100 kez manyak gibi gülerek bıçaklamaya başlar! Öldün. </value>
+    <value> {0} adlı kişinin evine gizlice giriyor ve biraz eğlenmeye başlıyorsun. Şimdiye kadar her şey harika gidiyor. {0} bir bıçak çıkarır ve seni 69 kez manyak gibi gülerek bıçaklamaya başlar! Öldün. </value>
   </string>
   <string key = "HarlotFuckKillerPublic">
-    <value> {0} bu gece eğlenmeye çalıştı ama çok pis bir seri katille karşılaştı. {0} öldü. </value>
+    <value> {0} bu gece eğlenmeye çalıştı ama kafadan kontak bir seri katille karşılaştı. {0} öldü. </value>
   </string>
   <string key = "DGToMason">
     <!-- 0 - hedefin adı -->
-    <value> Çiftgiden {0}, tıpkı sizin gibi bir Mason oldu! </value>
+    <value> Çiftgiden {0}, tıpkı senin gibi bir Mason oldu! </value>
   </string>
   <string key = "DGTransformToMason">
     <!-- 0 - ölü masonun adı -->
     <!-- 1 - mason meslektaşlarının adı -->
-    <value> {0} öldü ve sen Mason oldun. Takım arkadaşlarınız (varsa): {1} </value>
+    <value> {0} öldü ve sen Mason oldun. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "DGToCult">
     <!-- 0 - yeni tarikatçının adı -->
-    <value> Çiftgiden {0}, tıpkı sizin gibi bir tarikat oldu! </value>
+    <value> Çiftgiden {0}, tıpkı senin gibi bir tarikat oldu! </value>
   </string>
   <string key = "DGTransformToCult">
     <!-- 0 - rolün adı -->
     <!-- 1 - takım arkadaşlarının adı -->
-    <value> {0} öldü ve sen tarikatçı oldun. Takım arkadaşlarınız (varsa): {1} </value>
+    <value> {0} öldü ve sen tarikatçı oldun. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "DGToWolf">
     <!-- 0 - DG'nin adı -->
-    <value> Çiftgiden {0}, tıpkı sizin gibi bir kurt adama dönüştü! </value>
+    <value> Çiftgiden {0}, tıpkı senin gibi bir kurt adama dönüştü! </value>
   </string>
   <string key = "DGTransformToWolf">
     <!-- 0 - hedefin adı -->
     <!-- 1 - takım arkadaşlarının adı -->
-    <value> {0} öldü, ve sen kurt adama dönüştün! Takım arkadaşlarınız (varsa): {1} </value>
+    <value> {0} öldü, ve sen kurt adama dönüştün! Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "SerialKillerWins" isgif = "true">
     <value> Kalan tek kişi seri katil! Kazandı! </value>
@@ -680,10 +680,10 @@
     <!-- 0 - ölünün adı -->
     <!-- 1 - sevgilinin adı -->
     <!-- 2 - roller -->
-    <value> Sevdiği kişi {0} 'nin son nefesiyle {1} yere yığılır ve ağlamaya başlar. Sevdiğinin kaybıyla yaşayamaz ve bulduğu ilk tabancayla kendini vurur. {2} </value>
+    <value> Sevdiği kişi {0} 'nin son nefesiyle {1} yere yığılır ve ağlamaya başlar. Sevdiğinin kaybıyla yaşayamaz ve bulduğu ilk tabancayla kendini vurur. {1} {2} idi </value>
   </string>
   <string key = "AskDoppelganger">
-    <value> Ölürse kim olmak istersin? </value>
+    <value> Ölürse kimin rolüne sahip olmak istersin? </value>
   </string>
   <string key = "AskCupid1">
     <value> Kimlerin deliler gibi aşık olmasını istiyorsun? İlk oyuncuyu seç: </value>
@@ -705,18 +705,18 @@
   </string>
   <string key = "NewWCRoleModel">
     <!-- 0 - hedefin adı -->
-    <value> Sen Yabani Çocuksun. Rol modeliniz : {0} </value>
+    <value> Sen Yabani Çocuksun. Rol modelin : {0} </value>
   </string>
   <string key = "LoversWin">
-    <value> Gerçek aşk sonsuza kadar sürsün ! Aşıklar kazandı! </value>
+    <value> Gerçek aşk sonsuza kadar sürer ! Aşıklar kazandı! OwO </value>
   </string>
   <string key = "HunterKilledVisiter">
     <!-- 0 - hedefin adı -->
     <!-- 1 - rol -->
-    <value> Şehir meydanının ortasında, vücuda bir çok ateş edilmiş şekilde {0}'in cesedini bulurlar. Görünüşe göre avcıya gizlice yaklaşmaya çalıştı! {1} </value>
+    <value> Köy meydanının ortasında, vücuduna bir çok kez ateş edilmiş şekilde {0}'in cesedini bulurlar. Görünüşe göre avcıya gizlice yaklaşmaya çalıştı! {1} </value>
   </string>
   <string key = "CultAttempt">
-    <value> Kapşonlu biri sizi kendi tarikatına dönüştürmeye çalıştı, ancak inancınız çok güçlü ve ona direndiniz. </value>
+    <value> Kapşonlu biri seni kendi tarikatına dönüştürmeye çalıştı, ancak inancın çok güçlü ve ona direndin. </value>
   </string>
   <string key = "AlreadyOnWaitList">
     <!-- 0 - hedefin adı -->
@@ -724,7 +724,7 @@
   </string>
   <string key = "AddedToWaitList">
     <!-- 0 - hedefin adı -->
-    <value> {0} için bekleme listesine eklendiniz. Bir sonraki oyun başladığında size mesaj göndereceğim. </value>
+    <value> {0} için bekleme listesine eklendin. Bir sonraki oyun başladığında sana mesaj göndereceğim. </value>
   </string>
   <string key = "NotifyNewGame">
     <!-- 0 - hedefin adı -->
@@ -745,17 +745,17 @@
   </string>
   <string key = "RoleModelChosen">
     <!-- 0 - hedefin adı -->
-    <value> Bir rol seçemediniz, bu yüzden sizin için {0} 'yi seçtim </value>
+    <value> Bir rol seçemedi, bu yüzden senin için {0} 'yi seçtim </value>
   </string>
   <string key = "Won">
-    <value> Kazanıldı </value>
+    <value> Kazandı </value>
   </string>
   <string key = "Lost">
-    <value> Kaybedildi </value>
+    <value> Kaybetti </value>
   </string>
   <string key = "IdleCount">
     <!-- 0 - oyuncunun adı -->
-    <value> {0} iki gece oylamaya katılmadı. İyilik güçleri bunu affedilmez bir hata olarak gördü ve o da ne? {0} yere kapaklandı ve öldü. Afk kalacaksan neden oyuna girdin ki? </value>
+    <value> {0} iki gece üst üste oylamaya katılmadı. İyilik güçleri bunu affedilmez bir hata olarak gördü ve o da ne? {0} yere kapaklandı ve öldü. Afk kalacaksan neden oyuna girdin ki? </value>
   </string>
   <!-- Yeni dizeler 7 Temmuz -->
   <string key = "AboutVG">
@@ -765,36 +765,36 @@
     <value> Sen Gözcü'sün. Bu rolde her gece birini seçebilirsin ve onun rolü sana açıklanır. Rolünü akıllıca oyna. Eğer Gözcü olduğun belli olursa Kurtlar seni yemeye çalışır!</value>
   </string>
   <string key = "AboutWw">
-    <value> Eğlence başlasın! Hergün, oyuncu arkadaşlarını aldatmaya çalışacaksın. Ancak, her gece, bir oyuncuyu öldürmek için seçeceksin! Not:Sarhoşa saldırırsan, sen kendin sarhoş olursun ve içki sersemliğiyle gelecek gece saldıramazsın! Eğer lanetliye saldırırsan, Onlar da senin gibi kurt olurlar! Haydin arkadaşlar!</value>
+    <value> Eğlence başlasın! Hergün, oyuncu arkadaşlarını aldatmaya çalışacaksın. Ancak, her gece, bir oyuncuyu öldürmek için seçeceksin! Not:Sarhoşa saldırırsan, sen kendin sarhoş olursun ve içki sersemliğiyle gelecek gece saldıramazsın! Eğer lanetliye saldırırsan, o da senin gibi kurt olur! Yalan parayla değil devam!</value>
   </string>
   <string key = "AboutHarlot">
-    <value> Bir yancı olarak, her gece başka bir oyuncuyu "ziyaret etme" fırsatına sahip olacaksın. Eğer onlar kurt değilse sana da kurt olmadıkları söylenecek (Bunu hayatta olman ile anlayacaksın tabi!). Kurtu ziyaret edersen, öldürüleceksin. Kurtların öldürmek için seçtiği oyuncuyu ziyaret edersen, sen de öldürüleceksin. Ancak eğer bir oyuncuyu ziyaret ediyorsan ve kurtlar seni öldürmeyi seçerse sen hayatta kalırsın. (Evde değildin çünkü) </value>
+    <value> Bir yancı olarak, her gece başka bir oyuncuyu "ziyaret etme" fırsatına sahip olacaksın. Eğer ziyaret ettiğin kişi kurt değilse sana da kurt olmadığı söylenecek (Bunu hayatta olman ile anlayacaksın tabi!). Kurtu ziyaret edersen, öldürüleceksin. Kurtların öldürmek için seçtiği oyuncuyu ziyaret edersen, sen de öldürüleceksin. Ancak eğer bir oyuncuyu ziyaret ediyorsan ve kurtlar seni öldürmeyi seçerse sen hayatta kalırsın. (Evde değildin çünkü) </value>
   </string>
   <string key = "AboutDrunk">
-    <value> Seni sarhoş alçak! Sarhoş olarak, Sen sadece bir köylüsün. ANCAK! Kurtlar seni öldürürse, sonraki gece için etkisiz hale gelecekler, senin yüksek alkol içerikli kanını delicesine içtikleri için.</value>
+    <value> Seni sarhoşşşşş brupppp! Sarhoş olarak, Sen sadece bir köylüsün. ANCAK! Kurtlar seni öldürürse, senin yüksek alkol içerikli kanını delicesine içtikleri için sonraki gece etkisiz hale gelecekler.</value>
   </string>
 
 
   <string key = "AboutGA">
-    <value> Sen koruyucu meleksin! Her gece korumak için bir oyuncu seçeceksiniz. Bir kurt adamı korumayı seçerseniz dikkatli olun %50 ölme şansınız var. </value>
+    <value> Sen koruyucu meleksin! Her gece korumak için bir oyuncu seçeceksin. Bir kurt adamı korumayı seçersen dikkatli ol %50 ölme şansınız var. </value>
   </string>
   <string key = "AboutDetective">
-    <value>Seni ihtiyar hafiye. Her gün başka bir oyuncuyu araştırma şansın olacak. Ancak bunu dikkatlice kullan, %40 ihtimalle kurt adamlar seni bulabilir!</value>
+    <value>Seni emekli polis memuru. Her gün başka bir oyuncuyu araştırma şansın olacak. Ancak bunu dikkatlice kullan, %40 ihtimalle kurt adamlar seni bulabilir!</value>
   </string>
   <string key = "AboutGunner">
-    <value> Biraz mutluyuz değil mi? Silahşör olarak, oyunun başında sana 2 tane altın mermi verilir. Her gün, Başka bir oyuncuya ateş etme şansın olacak. Bunu yaptığında herkes senin silahşör olduğunu bilecek! Yine de dikkatli ol, sadece 2 mermin var! </value>
+    <value> Biraz mutluyuz değil mi? Silahşör olarak, oyunun başında sana 2 tane altın mermi verilir. Her gün, Başka bir oyuncuya ateş etme şansın olacak. Bunu yaptığında herkes senin silahşör olduğunu herkes bilecek! Yine de dikkatli ol, sadece 2 mermin var! </value>
   </string>
   <string key = "AboutTanner">
     <value> iblisin amacı basitçe linç edilmek. İblis linç edilirse oyunu kazanır. Diğer herkes kaybeder. </value>
   </string>
   <string key = "AboutFool">
-    <value> Aptal’a gözcü olduğu söylenir... Gece birisini görmek için seçtiğinde, ona rastgele bir rol söylenir.</value>
+    <value> Çomar’a gözcü olduğu söylenir... Gece birisini görmek için seçtiğinde, ona rastgele bir rol söylenir.</value>
   </string>
   <string key = "AboutCult">
     <value> Tarikat Üyesi olarak senin görevin oyundaki diğer tüm oyuncaları (Kurtlar hariç) tarikat Üyesi yapmak. Eğer oyunun sonunda yaşayan tüm oyuncular tarikat Üyesi olursa tarikat kazanır. </value>
   </string>
   <string key = "AboutCH">
-    <value> Senin işin tarikatı bitirmek. Bir tarikatçı size saldırırsa ölür. Her gece hangi oyuncunun "avlanacağını" seçeceksiniz tarikatçı ise ölecek. \nOnun yardımcıları: Gözcü, Dedektif, Koruyucu Melek, Yancı ve Simyacı. </value>
+    <value> Senin işin tarikatı bitirmek. Bir tarikatçı size saldırırsa ölür. Her gece hangi oyuncunun "avlanacağını" seçeceksin tarikatçı ise ölecek. \nOnun yardımcıları: Gözcü, Dedektif, Koruyucu Melek, Yancı ve Otacı. </value>
   </string>
   <string key = "AboutWC">
     <value> Oyunun başında kendine rol model birini seçeceksin. Eğer o ölürse, kurt adam olacaksın. </value>
@@ -803,7 +803,7 @@
     <value> Şu anda normal bir köylüsün ama Gözcü ölürse, sen yeni Gözcü olacaksın. </value>
   </string>
   <string key = "AboutBH">
-    <value> Sana gerçek Gözcü’nün kim olduğu söylenecek. (Gerçek Gözcü, Ahmak değil.) </value>
+    <value> Sana gerçek Gözcü’nün kim olduğu söylenecek. (Gerçek Gözcü, Çomar değil.) </value>
   </string>
   <string key = "AboutMason">
     <value> Mason’un işi basit. Otomatik olarak diğer Mason’ların kim olduğunu bilecek. Bunun dışında basit köylü.</value>
