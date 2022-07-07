@@ -1512,10 +1512,10 @@
   </string>
 
   <string key = "SnowWolf">
-    <value> Kar Kurdu 🐺❄️ </value>
+    <value> Beyaz Kurt 🐺❄️ </value>
   </string>
   <string key = "AboutSnowWolf">
-    <value> Kar kurdu, karlı dağların kurdudur. Böylelikle buz ve karı kontrol etme sanatında ustalaşmıştır. Uzun süre yalnız yaşadığı için kar kurdu ayrı ayrı saldırmayı tercih ediyor. Birini sürü ile beraber yemek yerine, gece boyunca donması için başka bir kurbanı seçebilir; bu şekilde kurbanlarının gece eylemi yapmasını imkansız hale getirir. Ancak kurbanı gücünün kalıntılarına sahip olacak ve iki gece arka arkaya dondurulamayacak. </value>
+    <value> Beyaz kurt, karlı dağların kurdudur. Böylelikle buz ve karı kontrol etme sanatında ustalaşmıştır. Uzun süre yalnız yaşadığı için beyaz kurt ayrı ayrı saldırmayı tercih ediyor. Birini sürü ile beraber yemek yerine, gece boyunca donması için başka bir kurbanı seçebilir; bu şekilde kurbanlarının gece aksiyonları uygulamasını imkansız hale getirir. Ancak kurbanı gücünün kalıntılarına sahip olacak ve iki gece arka arkaya dondurulamayacak. </value>
   </string>
   <string key = "AskFreeze">
     <value> Bu gece kimi dondurmak istersin? </value>
@@ -1524,94 +1524,94 @@
     <value> Kurt Sürüsü : {0} </value>
   </string>
   <string key = "WolfPackSnowList">
-    <value> Kurt Sürüsü {0} ve Kar Kurdu {1}. </value>
+    <value> Kurt Sürüsü {0} ve Beyaz Kurt {1}. </value>
   </string>
   <string key = "DGTransformToAlphaWithSnow">
-    <value> {0} öldü ve Alfa kurta dönüştün. Takım Arkadaşların: {1} ve Kar Kurdu {2} </value>
+    <value> {0} öldü ve Alfa kurta dönüştün. Takım Arkadaşların: {1} ve Beyaz Kurt {2} </value>
   </string>
   <string key = "DGTransformToWolfCubWithSnow">
-    <value> {0} öldü ve Yavru kurta dönüştün. Takım Arkadaşların: {1} ve Kar Kurdu {2}. </value>
+    <value> {0} öldü ve Yavru kurta dönüştün. Takım Arkadaşların: {1} ve Beyaz Kurt {2}. </value>
   </string>
   <string key = "DGTransformToWolfWithSnow">
-    <value> {0} öldü ve Kurt adama dönüştün. Takım Arkadaşların: {1} ve Kar Kurdu {2}. </value>
+    <value> {0} öldü ve Kurt adama dönüştün. Takım Arkadaşların: {1} ve Beyaz Kurt {2}. </value>
   </string>
   <string key = "DGTransformToLycanWithSnow">
-    <value> {0} öldü ve Lycana dönüştün. Takım Arkadaşların: {1} ve Kar Kurdu {2}. </value>
+    <value> {0} öldü ve Lycana dönüştün. Takım Arkadaşların: {1} ve Beyaz Kurt {2}. </value>
   </string>
   <string key = "DGTransformToSnowWolf">
-    <value> {0} öldü ve Kar Kurduna dönüştünüz. Takım Arkadaşların: (varsa): {1}. </value>
+    <value> {0} öldü ve Beyaz Kurda dönüştün. Takım Arkadaşların: (varsa): {1}. </value>
   </string>
   <string key = "DGToFireWolf">
-    <value> Çiftgiden, {0}, yeni Ateş Kurdu oldu! </value>
+    <value> Çiftgiden, {0}, yeni Cehennem Kurdu oldu! </value>
   </string>
   <string key = "DGToSnowWolf">
-    <value> Çiftgiden, {0}, yeni Kar Kurdu oldu! </value>
+    <value> Çiftgiden, {0}, yeni Beyaz Kurt oldu! </value>
   </string>
   <string key = "WildChildSnowTransform">
-    <value> {0} öldü! Öfke içinde Kurt adama dönüştünüz. Takım Arkadaşların: {1} ve Kar Kurdu {2}. </value>
+    <value> {0} öldü! Öfke içinde Kurt adama dönüştün. Takım Arkadaşların: {1} ve Beyaz Kurt {2}. </value>
   </string>
   <string key = "HarlotFrozen">
-    <value> Evden çıkmak için kapıyı açtığınızda, bir rüzgar esintisi etrafınızı sararak soğuktan donmanıza neden olur ❄️. Kapınızın önünde sessizce bu garip esaret biçimine küfrediyorsunuz. </value>
+    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Kapının önünde sessizce bu garip esaret biçimine küfrediyorsun. </value>
   </string>
   <string key = "Kültist Dondurulmuş">
-    <value> Evden çıkmak için kapıyı açtığınızda, bir rüzgar esintisi etrafınızı sararak soğuktan donmanıza neden olur ❄️. Vampir arkadaşlarınız, içinde bulunduğunuz durumu gördüklerinde size gülüyorlar. </value>
+    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Vampir arkadaşların, içinde bulunduğun durumu gördüklerinde sana gülüyorlar. </value>
   </string>
   <string key = "CHFrozen">
-    <value> Evden çıkmak için kapıyı açtığınızda, bir rüzgar esintisi etrafınızı sararak soğuktan donmanıza neden olur ❄️. Kalçanız saatlerce bu pozisyonda kaldıktan sonra yorulmaya başlar. </value>
+    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Kalçan saatlerce bu pozisyonda kaldıktan sonra yorulmaya başlar. </value>
   </string>
   <string key = "SeeingFrozen">
     <!-- gözcü, aptal, kahin ve büyücü için kullanılır -->
-    <value> Psişik güçlerinizi kullanmak için masaya oturduğunuzda, bir rüzgar akışı sizi sarar ve soğuktan donmanıza neden olur ❄️. Genellikle soğuk bir sorun değildir, ancak yoğun soğuk beyninizi dondurur. </value>
+    <value> Psişik güçlerini kullanmak için masaya oturduğunda, bir rüzgar akışı seni sarar ve soğuktan donmana neden olur ❄️. Genellikle soğuk sorun değildir, ancak yoğun soğuk beynini dondurur. </value>
   </string>
   <string key = "SeeingFrozenNext">
     <!-- gözcü, aptal, kahin ve büyücü için kullanılır -->
-    <value> Psişik güçlerinizi kullanmak için masaya oturduğunuzda, bir rüzgar akışı sizi sarar ve soğuktan donmanıza neden olur ❄️. Bu nedenle, bir sonraki geceyi göremeyeceksiniz. </value>
+    <value> Psişik güçlerini kullanmak için masaya oturduğunda, bir rüzgar akışı seni sarar ve soğuktan donmana neden olur ❄️. Bu nedenle, bir sonraki geceyi göremeyeceksin. </value>
   </string>
   <string key = "GAFrozen">
-    <value> Evden çıkmak için kapıyı açtığınızda, bir rüzgar esintisi etrafınızı sararak soğuktan donmanıza neden olur ❄️. Şimdi bir Noel gibisin. </value>
+    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Şimdi bir Noel süsü gibisin. </value>
   </string>
   <string key = "SKFrozen">
-    <value> Evden çıkmak için kapıyı açtığınızda, bir rüzgar esintisi etrafınızı sararak soğuktan donmanıza neden olur ❄️. Şimdi Kar kurduna karşı intikam yemini etmelisin. </value>
+    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmanı neden olur ❄️. Şimdi Beyaz kurda karşı intikam yemini etmelisin. </value>
   </string>
   <string key = "PyroFrozen">
-    <value> Evden çıkmak için kapıyı açtığınızda, bir rüzgar akışı etrafınızı sarar. Ancak, siz kundakçısınız, bu yüzden ateşle bir sopa yakarsınız ve kötü planlarınıza devam edersiniz. </value>
+    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar akışı etrafını sarar. Ancak, sen kundakçısın, bu yüzden ateşle bir sopa yakarsın ve kötü planlarına devam edersin. </value>
   </string>
   <string key = "VisitorFrozen">
-    <value> Evden çıkmak için kapıyı açtığınızda, bir rüzgar akımı etrafınızı sararak soğuktan donmanıza neden olur ❄️. </value>
+    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar akışı etrafını sararak soğuktan donmana neden olur ❄️. </value>
   </string>
 
   <string key = "DefaultFrozen">
     <!-- (her-) gece hareketi olmayan tüm roller için kullanılır -->
-    <value> Siz uyurken, bir rüzgar akımı sizi sarar ve soğuktan donmanıza neden olur ❄️. Görünüşe göre soğuk bir gece geçirmişsin. </value>
+    <value> Sen uyurken, bir rüzgar akımı seni sarar ve soğuktan donmana neden olur ❄️. Görünüşe göre buz gibi bir gece geçirmişsin. </value>
   </string>
   <string key = "SuccessfulFreeze">
-    <value> {0} adlı kişinin evine gittiniz ve onu dondurmayı başardınız. Bu gece eylemlerini kullanamayacak. </value>
+    <value> {0} adlı kişinin evine gittin ve onu dondurmayı başardın. Bu gece eylemlerini kullanamayacak (eğer varsa). </value>
   </string>
   <string key = "SnowFrozeKiller">
-    <value> Kar Kurdu {0}, gece birini dondurmaya hazırlanıyordu ama yanlışlıkla seri katili ziyaret etti. Beklenmedik ziyaretçisini fark etti ve bıçaklandı. {0} öldü. </value>
+    <value> Beyaz Kurt {0}, gece birini dondurmaya hazırlanıyordu ama yanlışlıkla seri katili ziyaret etti. Beklenmedik ziyaretçisini fark etti ve bıçaklandı. {0} öldü. </value>
   </string>
   <string key = "SnowWolfTurnWolf">
-    <value> Diğer kurtlar öldü ve siz sürünün son üyesisiniz. Biraz taze köylü eti toplamak için normal bir Kurt Adam oldunuz. </value>
+    <value> Diğer kurtlar öldü ve sen sürünün son üyesisin. Biraz taze köylü eti toplamak için normal bir Kurt Adama dönüştün. </value>
   </string>
   <string key = "SnowFrozeHunter">
     <!-- 0 - hedef adı -->
-    <value> Kar Kurdu {0}, dün gece avcıyı dondurmaya çalıştı ama avcı tüfeğiyle onu vurmayı başardı! Rahmetli {0} bir Kar Kurduydu. </value>
+    <value> Beyaz Kurt {0}, dün gece avcıyı dondurmaya çalıştı ama avcı tüfeğiyle onu vurmayı başardı! Rahmetli {0} bir Beyaz Kurttu. </value>
   </string>
 
   <!-- Yeni Roller, ElNarradorBot -->
   <string key = "DGTransformToHungryWolf">
     <!-- 0 - hedefin adı -->
     <!-- 1 - takım arkadaşlarının adı -->
-    <value> {0} öldü, bu yüzden Aç Gözlü Kurt oldun. Takım Arkadaşlarınız (varsa): {1} </value>
+    <value> {0} öldü, bu yüzden Aç Kurt oldun. Takım Arkadaşların (varsa): {1} </value>
   </string>
 
   <string key = "PoliceInnocent">
     <!-- 0 - hedefin adı -->
-    <value> {0}'in adresini ziyaret ettikten sonra onun masum olduğundan emin oldun! </value>
+    <value> {0}'i sorgulamandan sonra onun masum olduğundan emin oldun! </value>
   </string>
   <string key = "PoliceGuilty">
     <!-- 0 - hedefin adı -->
-    <value> {0}'in ziyareti size hiçbir şey getirmedi. Hala onun suçlu olup olmadığını bilmiyorsun... </value>
+    <value> {0}'i sorgulaman sana hiçbir sonuç vermedi. Hala onun suçlu olup olmadığını bilmiyorsun... </value>
   </string>
   <string key = "AskPolice">
     <value> Bu gece kimi sorgulamak istiyorsunuz? </value>
@@ -1619,14 +1619,14 @@
 
   <string key = "SheriffVisitHome">
     <!-- 0 - hedefin adı -->
-    <value> Sessiz bir geceydi. {0} uyuyor gibiydi. (Hedefiniz evde kaldı). </value>
+    <value> Sessiz bir geceydi. {0} uyuyor gibiydi. (Hedefin evde kaldı). </value>
   </string>
   <string key = "SheriffVisitNotHome">
     <!-- 0 - hedefin adı -->
-    <value> İlginç... Sen {0} 'in evinde devriye gezerken, onun evi terk ettiğini gördün. (Hedefiniz evi terk etti). </value>
+    <value> İlginç... Sen {0} 'in evinde devriye gezerken, onun evi terk ettiğini gördün. (Hedefin evi terk etti). </value>
   </string>
   <string key = "AskSheriff">
-    <value> Bu gece kimi izlemek istiyorsunuz? </value>
+    <value> Bu gece kimin evini izlemek istiyorsunuz? </value>
   </string>
   <string key = "SerialKillerKilledSheriff">
     <!-- 0 - şerifin adı -->
@@ -1645,44 +1645,44 @@
   </string>
 
   <string key = "Survivor">
-    <value> Hayatta Kalan ⛺️ </value>
+    <value> Survivor ⛺️ </value>
   </string>
   <string key = "AboutSurvivor">
-    <value> Hayatta Kalan İblis gibi serbest takılır. Ama amacı iblisin tam tersi, ne olursa olsun hayatta kalmalı ve sonuna kadar hayatta kalmak için istediği tarafla ittifak kurabilir... </value>
+    <value> Survivor İblis gibi serbest takılır. Ama amacı iblisin tam tersi, ne olursa olsun hayatta kalmalı ve sonuna kadar hayatta kalmak için istediği tarafla ittifak kurabilir... </value>
   </string>
 
   <string key = "Sheriff">
     <value> Şerif 🤠 </value>
   </string>
   <string key = "AboutSheriff">
-    <value> Şerifin rolü çok önemlidir. Aynı zamanda araştırıcı ve koruyucu bir roldür. Her gece, bir oyuncunun evinde misafir olup olmadığını görebilirsiniz. Elbette yakında eve döner, böylece devriyeye çıksa bile vampirler onu dönüştürebilir. </value>
+    <value> Şerifin rolü çok önemlidir. Aynı zamanda araştırmacı ve koruyucu bir roldür. Her gece, bir oyuncunun evinden ayrılıp yada evde kaldığını anlayabilirsin. Elbette yakında eve döner, böylece devriyeye çıksa bile vampirler onu dönüştürebilir. </value>
   </string>
 
   <string key = "Police">
-    <value> Polis 👮 </value>
+    <value> Jandarma 🪖 </value>
   </string>
   <string key = "FireWolf">
-    <value> Ateş Kurdu 🐺🔥 </value>
+    <value> Cehennem Kurdu 🐺🔥 </value>
   </string>
   <string key = "AboutFireWolf">
-    <value> Ateş kurdu yemek yerken tek başına gider ama kurt ekibine aittir. Her gece bir oyuncuyu yakabilirsin. Kar kurdu gibisiniz ama fark şu ki, sonunda kurbanlarınızı kömürleştiriyorsunuz. </value>
+    <value> Cehennem kurdu yemek yerken tek başına gider ama kurt sürüsüne aittir. Her gece bir oyuncuyu yakabilirsin. Beyaz kurt gibisin ama fark şu ki, sonunda kurbanlarını kömürleştiriyorsun. </value>
   </string>
 
   <string key = "HungryWolf">
-    <value> Aç Gözlü Kurt 🐺🍽 </value>
+    <value> Aç Kurt 🐺🍽 </value>
   </string>
   <string key = "AboutHungryWolf">
-    <value> Aç Gözlü Kurt çok güçlü bir kurt. Yaşadığı sürece, kurbanların yutulma şansı %40'tır. Bu nedenle köylüler öldükten sonra rollerini göremeyecekler . </value>
+    <value> Aç Kurt çok güçlü bir kurttur. Yaşadığı sürece, kurbanları tanınmaz halde bırakma şansı %40'tır. Bu nedenle köylüler öldükten sonra rollerini göremeyecekler . </value>
   </string>
 
   <string key = "AskDouse">
-    <value> Kime benzin püskürtmek istiyorsunuz? </value>
+    <value> Kimi benzinlemek istiyorsun? </value>
   </string>
   <string key = "Tutuştur">
     <value> Ateşe ver! 🔥 </value>
   </string>
   <string key = "ExtraDouse">
-    <value> Kurt adam köy korumasını düşürdü ve siz de başka birini püskürtme fırsatını yakaladınız. </value>
+    <value> Ortalıkta herhangi bir Kurt adam kalmadığı için köy halkı gardını indirdi ve sen de başka birini benzinleme fırsatı yakaladın. </value>
   </string>
   <string key = "DefaultIgnited">
     <!-- 0 - hedefin adı -->
@@ -1696,7 +1696,7 @@
   </string>
   <string key = "PyroVisitHunter">
     <!-- 0 - hedefin adı -->
-    <value> Boooom! Bir atış köyde yankılanıyor. Köylüler evlerini terk ettikten sonra {0}'in cesedini kül ve kanla çevrili bulurlar. Görünüşe göre avcı ızgarada pişirilmeyi sevmiyor. </value>
+    <value> Boooom! Bir mermi sesi köyde yankılanıyor. Köylüler evlerini terk ettikten sonra {0}'in cesedini kül ve kanla çevrili bulurlar. Görünüşe göre avcı ızgarada pişirilmeyi sevmiyor. </value>
   </string>
   <string key = "DousedDrunkNight">
     <!-- 0 - hedefin adı -->
@@ -1704,39 +1704,39 @@
   </string>
   <string key = "GuardBlockedArso">
     <!-- 0 - hedefin adı -->
-    <value> {0}'in evine yaklaştığınızda, güçlü bir varlık hissetmeye başlarsınız. Onu koruyan koruyucu bir melek olduğunu keşfedersiniz ve hızla kaçarsınız. </value>
+    <value> {0}'in evine yaklaştığında, güçlü bir varlık hissetmeye başlarsın. Onu koruyan koruyucu bir melek olduğunu keşfedersin ve hızla kaçarsın. </value>
   </string>
 
   <string key = "PlayerDevouredWolves">
     <!-- 0 - hedefin adı -->
     <!-- 1 - aç kurtun adı -->
     <!-- 2 - hedefin rolü -->
-    <value> Görünüşe göre {1} çok acıkmış ve {0}'ı hızlıca mideye indirmiş. {0}'in rolü {2} olmasına rağmen rolünden hiçbir iz bırakmadı... </value>
+    <value> Görünüşe göre {1} çok acıkmış ve {0}'i hızlıca mideye indirmiş. {0}'in rolü {2} olmasına rağmen rolünden hiçbir iz bırakmadı... </value>
   </string>
   <string key = "WasDevoured">
-    <value> Yutulmuş </value>
+    <value> Tanınmaz halde </value>
   </string>
 
   <string key = "Imposter">
-    <value> Düzenbaz Kurt 🐺❌ </value>
+    <value> Taklitçi ❌ </value>
   </string>
   <string key = "AboutImposter">
-    <value> Düzenbaz Kurt, sadece ilk gece tüm oyun boyunca taklit etmek istediği bir oyuncuyu seçer. Vejeteryandır, diğer kurtlar gibi köylü eti yemez. Öldüğünde, taklit edilen oyuncunun rolü olarak görünecektir. Sizi gördüklerinde muhtemelen sizi çoğu zaman taklit edilen rol olarak göreceklerdir. Seçtiğin rolün eylemlerini gerçekleştiremeyeceksin, ancak kurtlarla aynı takımdan olduğun için bu durum köyün kafasını karıştırmaya hizmet edecek. Ancak Falcı gibi siz de kurtadamların kim olduğunu bilmiyorsunuz ve onlarla birlikte yemek yiyemiyorsunuz, köylü eti sevmiyorsunuz :/ </value>
+    <value> Taklitçi, sadece ilk gece tüm oyun boyunca taklit etmek istediği bir oyuncuyu seçer. Vejeteryandır, diğer kurtlar gibi köylü eti yemez. Öldüğünde, taklit edilen oyuncunun rolü olarak görünecektir. Seni gördüklerinde muhtemelen seni çoğu zaman taklit edilen rol olarak göreceklerdir. Seçtiğin rolün eylemlerini gerçekleştiremeyeceksin, ancak kurtlarla aynı takımdan olduğun için bu durum köyün kafasını karıştırmaya hizmet edecek. Ancak Falcı gibi sen de kurtadamların kim olduğunu bilmiyorsun ve onlarla birlikte yemek yiyemiyorsun, köylü eti sevmiyorsun :/ </value>
   </string>
 
   <string key = "Baker">
     <value> Fırıncı 🍞 </value>
   </string>
   <string key = "AboutBaker">
-    <value> Fırıncı, köyden bir roldür. Ölürse köylülerde öyle bir üzüntü yaratacak ki bir gün linç edilmeyecekler. Bu nedenle, kurtlar sizi öldürmek isteyeceği için saklanmanız önemlidir. Dikkatli olun, AFK'dan ölmek de önemlidir, bu yüzden intihar etmek bir seçenek değildir. </value>
+    <value> Fırıncı, köyden bir roldür. Ölürse köylülerde öyle bir üzüntü yaratacak ki bir gün linç edilmeyecekler. Bu nedenle, kurtlar seni öldürmek isteyeceği için saklanman önemlidir. Dikkatli ol, AFK'dan ölmemek de önemlidir, bu yüzden intihar etmek bir seçenek değildir. </value>
   </string>
 
   <string key = "AskImposter">
-    <value> Kimi taklit etmek istiyorsunuz? </value>
+    <value> Kimi taklit etmek istiyorsun? </value>
   </string>
   <string key = "NewIMRoleModel">
     <!-- 0 - hedefin adı -->
-    <value> Sen Düzenbaz Kurt'sun. Rolünü taklit ettiğiniz kişi : {0}. </value>
+    <value> Sen Taklitçi'sin. Rolünü taklit ettiğin kişi : {0}. </value>
   </string>
 
   <string key = "BakerNoLynch">
@@ -1749,19 +1749,19 @@
 
   <string key = "PlayerStartedClumsyGame">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} Beceriksiz bir oyun başlattı! Eğlenceye katılmak için düğmeye basın ve muhtemelen ölün. HAHAHAHA </value>
-    <value> {0} Yeni bir tuhaf oyun başlattı! Katılmak için düğmeye basın! </value>
+    <value> {0} Beceriksizce bir oyun başlattı! Eğlenceye katılmak için butona tıkla ve muhtemelen öl. HAHAHAHA </value>
+    <value> {0} Yeni bir tuhaf oyun başlattı! Katılmak için butona tıkla! </value>
   </string>
 
   <string key = "PlayerStartedSuperChaosGame">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} Süper Kaos modunda bir oyun başlattı! Eğlenceye katılmak için düğmeye basın... ve muhtemelen ölün :P (Roller tekrar eder) </value>
-    <value> {0} Yeni bir Süper Kaos modunda oyun başlattı! Yenmek için düğmeye basın! (Benzersiz roller tekrar eder) </value>
+    <value> {0} Süper Kaos modunda bir oyun başlattı! Eğlenceye katılmak için butona tıkla... ve muhtemelen öl :P (Roller tekrar eder) </value>
+    <value> {0} Yeni bir Süper Kaos modunda oyun başlattı! Kazanmak için butona tıkla! (Benzersiz roller tekrar eder) </value>
   </string>
 
   <string key = "PlayerRevived">
     <!-- 0 - yeniden canlanan adamın adı -->
-    <value> Bu gece inanılmaz bir olay meydana geldi. Köylüler toplandığında, şifacı tarafından hayata döndürülen {0}'in yüzünü tanıyorlar. </value>
+    <value> Bu gece inanılmaz bir olay meydana geldi. Köylüler toplandığında, şifacı tarafından hayata döndürülen {0}'in mezarından çıktığını görüyorlar. </value>
   </string>
 
   <string key = "AskRevive">
@@ -1769,13 +1769,13 @@
   </string>
 
   <string key = "RoleInfoHealer">
-    <value> Sen Şifacısın. Mistik güçleriniz sayesinde ölen bir köylüyü geri getirebilirsiniz. Ancak bunu yalnızca bir kez yapabilirsiniz. </value>
+    <value> Sen Şifacısın. Mistik güçlerin sayesinde ölen bir köylüyü geri getirebilirsin. Ancak bunu yalnızca bir kez yapabilirsin. </value>
   </string>
   <string key = "Healer">
     <value> Şifacı 🌟 </value>
   </string>
   <string key = "AboutHealer">
-    <value> Şifacı köyde çok önemli bir roldür. İkinci geceden itibaren köyün bir parçası olan ve ölmüş bir oyuncuyu canlandırabilir. Oyunun tamamında ölü bir rolü yalnızca bir kez canlandırabilirsiniz. Yeteneği ancak yaşadığı sürece kullanılabileceği için kendini diriltemez. </value>
+    <value> Şifacı köyde çok önemli bir roldür. İkinci geceden itibaren köyün bir parçası olan ve ölmüş bir oyuncuyu canlandırabilir. Oyunun tamamında ölü bir rolü yalnızca bir kez canlandırabilirsin. Yeteneği ancak yaşadığı sürece kullanılabileceği için kendini diriltemez. </value>
   </string>
 
   <string key = "RabidWolf">
