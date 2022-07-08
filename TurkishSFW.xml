@@ -2114,7 +2114,7 @@
 
   <string key = "RandomTargetChosen">
     <!-- 0 - hedefin adı -->
-    <value>Zaman doldu bir hedef seçemediniz, bu yüzden sizin için seçtim. Hedefiniz : {0} </value>
+    <value>Zaman doldu bir hedef seçemedin, bu yüzden senin için ben seçtim. Hedefin : {0} </value>
   </string>
   <string key = "StartInverse">
     <value> DİKKAT KÖYLÜLER! Oyun tersine çevrildi. Zafer hedefleriniz tam tersidir, bu nedenle kazanmak için kaybetmeniz gerekir. </value>
@@ -2122,9 +2122,9 @@
 
   <string key = "PlayerStartedInverted">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} bir ters oyun başlattı! Eğlenceye katılmak için düğmeye basın...(Kazanmak için kaybetmelisiniz) </value>
-    <value> {0} bir ters oyun başlattı! En çok kaybeden kim olacak? (Kazanmak için kaybetmelisiniz) </value>
-    <value> {0} yeni bir ters oyun başlattı! (Kazanmak için kaybetmelisiniz) </value>
+    <value> {0} bir ters oyun başlattı! Eğlenceye katılmak için butona tıkla...(Kazanmak için kaybetmelisin) </value>
+    <value> {0} !ıttalşab nuyo rib netsret ?kacalo mik nedebyak koç nE (nisilemtebyak niçi kamnazaK) </value>
+    <value> {0} yeni bir ters oyun başlattı! (Kazanmak için kaybetmelisin) </value>
   </string>
 
   <string key = "NightPhase">
@@ -2145,38 +2145,38 @@
   </string>
 
   <string key = "HowlingNight">
-    <value> AUUUUUUUUUUUUU !!! Köyün her yerinde ürpertici bir uğultu var. Korkan köylüler gece eylemlerini gerçekleştiremiyor. [Uluyan kurt köyü korkuttu]. </value>
+    <value> AUUUUUUUUUUUUU !!! Köyün her yerinde ürpertici bir uğultu var. Korkudan tir tir titreyen köylüler gece eylemlerini gerçekleştiremiyor. [Kâbus kurdu köyü korkuttu]. </value>
   </string>
   <string key = "HowlingWolf">
-    <value> Uluyan Kurt 🐺🌕 </value>
+    <value> Kâbus Kurdu 🐺🌕 </value>
   </string>
   <string key = "AboutHowlingWolf">
-    <value> Uluyan kurt, sürüdeki en geveze kurttur. Konuşmaktan başka bir şey yapmıyor, böylece geri kalanı onu görmezden geliyor. Dolunay gecelerinde, onu dinleyen tek kişi olan aya, uluyarak hayal kırıklığını giderir. Ve bu arada, kurt olmayanların o gece harekete geçmesini engelliyor. </value>
+    <value> Kâbus kurdu, sürüdeki en geveze kurttur. Konuşmaktan başka bir şey yapmıyor, böylece geri kalanı onu görmezden geliyor. Dolunay gecelerinde, onu dinleyen tek kişi olan aya, uluyarak hayal kırıklığını giderir. Ve bu arada, kurt olmayanların o gece harekete geçmesini engelliyor. </value>
   </string>
 
   <string key = "AskSave">
     <value> Kimi kurtarmak istiyorsun? </value>
   </string>
   <string key = "FightedWolf">
-    <value> {0} adlı kişinin evine girip onu ararken, yaklaşan bir alarm duyarsınız ... İtfaiyeciler! Yakalanmadan önce yemeden kaçmaktan başka seçeneğiniz yok. </value>
+    <value> {0} adlı kişinin evine girip onu ararken, yaklaşan bir alarm duyarsın ... İtfaiyeciler! Yakalanmadan önce kaçmaktan başka seçeneğin yok. </value>
   </string>
   <string key = "FightedArso">
-    <value> {0}'in evine yaklaşırken, en büyük düşmanın itfaiyecilerin alarmını duyarsınız! Dehşet içinde kaçıyorsun. </value>
+    <value> {0}'in evine yaklaşırken, en büyük düşmanın itfaiyecilerin alarmını duyarsın! Dehşet içinde kaçıyorsun. </value>
   </string>
   <string key = "FighterFail">
-    <value> {0} dün gece saldırıya uğramadı. Rahatsızlıktan dolayı, onu bir daha korkutmayacağına söz veriyorsun ... En azından bir gün. </value>
+    <value> {0} dün gece saldırıya uğramadı. Rahatsızlıktan dolayı, onu bir daha korkutmayacağına söz veriyorsun ... En azından bir gün arayla. </value>
   </string>
   <string key = "FighterFailSelf">
     <value> Dün gece saldırıya uğramadın. Bunun için mi itfaiyecisin? Artık evde saklanmak yok, köyün sana ihtiyacı var. Yarın başka bir oyuncuyu kurtarmalısın git ve kendin ol. </value>
   </string>
   <string key = "FighterSurvived">
-    <value> Az kalsın ölüyordun! Bu gece evinize girdiler ama geceyi itfaiye istasyonunda güvenli bir şekilde geçirdin. </value>
+    <value> Az kalsın ölüyordun! Bu gece evine girdiler ama geceyi itfaiye istasyonunda güvenli bir şekilde geçirdin. </value>
   </string>
   <string key = "Firefighter">
     <value> İtfaiyeci 👨‍🚒 </value>
   </string>
   <string key = "AboutFirefighter">
-    <value> İtfaiyeci koruyucu bir roldür. Her gece bir oyuncuyu (kendisi dahil) seri katil dışında herhangi bir tehlikeden kurtarabilir. Bununla birlikte, yanlışlıkla saldırıya uğramayan birini ziyaret ederseniz, bir sonraki gece tekrar onu rahatsız edemezsiniz. \n\nEn yüksek rütbeye ulaşan ilk oyuncu olan Chris tarafından tasarlanan roldür. </value>
+    <value> İtfaiyeci koruyucu bir roldür. Her gece bir oyuncuyu (kendisi dahil) seri katil dışında herhangi bir tehlikeden kurtarabilir. Bununla birlikte, yanlışlıkla saldırıya uğramayan birini ziyaret edersen, bir sonraki gece tekrar onu rahatsız edemezsin. \n\nEn yüksek rütbeye ulaşan ilk oyuncu olan Chris tarafından tasarlanan roldür. </value>
   </string>
   <string key = "Ghost">
     <value> Hayalet 👻 </value>
@@ -2185,20 +2185,20 @@
     <value> Hayalet, ölümden sonra bile linç etmeye devam etme gücüne sahip köyün bir rolüdür. Aksi takdirde, normal bir köylü gibidir. </value>
   </string>
   <string key = "harlotvisitwise">
-    <value> Yaşlı Bilgeyi ziyaret etme hatasını yaptın. Ne yazık ki, ne kadar akıllı olursa olsun o da biraz sosyalleşmek istiyordu, o kadar çok eğlendiniz ki ona kalp krizi geçirttin ve öldü. </value>
+    <value> Yaşlı Bilgeyi ziyaret etme hatasını yaptın. Ne yazık ki, ne kadar akıllı olursa olsun o da biraz tatmin duygusu yaşamak istiyordu, o kadar çok eğlendin ki ona kalp krizi geçirttin ve öldü. </value>
   </string>
   <string key = "harlotkillwise">
     <!-- 0 - hedefin adı -->
-    <value> Görünüşe göre Yancı, Yaşlı Bilgeyi ziyaret etti. Onunla derin bir sohbete dalmışken, {0} kalp krizinden öldü. {0} en azından yalnız ölmedi. </value>
+    <value> Görünüşe göre Yancı, Yaşlı Bilgeyi ziyaret etti. Onunla derin bir ilişkiye dalmışken, {0} kalp krizinden öldü. {0} en azından yalnız ölmedi. </value>
   </string>
   <string key = "wisekillforharlot">
     <value> Yancı seni ziyaret etti ve son büyük numarasını yaptı, yıllardır bu kadar heyecanlanmamıştın ve kalp krizinden öldün. </value>
   </string>
   <string key = "Harlotnokillwise">
-    <value> Yaşlı Bilgeyi ziyaret ettin ve önceki sefere göre muhabbet o kadar da sıkıcı değildi. Hatta sabah bile seni bırakmak istemiyordu. :D </value>
+    <value> Yaşlı Bilgeyi ziyaret ettin ve önceki sefere göre o kadar da sıkıcı değildi. Hatta sabah bile seni bırakmak istemiyordu. :D </value>
   </string>
   <string key = "wisenodeadwithharlot">
-    <value> Yancı seni ziyaret etti ve senin uzun süren sohbetler için hala dayanma gücüne sahip olduğunu görünce şaşırdı. </value>
+    <value> Yancı seni ziyaret etti ve senin uzun süren bu geceye rağmen hâlâ dayanma gücüne sahip olduğunu görünce şaşırdı. </value>
   </string>
 
 
@@ -2213,7 +2213,7 @@
     <value> Kuşlar sana, köyde {0} rolünün olmadığını söylüyor. </value>
   </string>
   <string key = "AboutAugur">
-    <value> Sen Müneccimsin 🦅. Kartal gibi gözlerin var. Her gece hangi rolün mevcut oyunda olmadığını anlayabilirsin. Ayrıca aynı rolün iki kez olmadığı söylenmeyecek. </value>
+    <value> Sen Müneccimsin 🦅. Kartal gibi gözlerin var. Her gece hangi rolün oyunda mevcut olmadığını anlayabilirsin. Ayrıca aynı rolün iki kez olmadığı söylenmeyecek. </value>
   </string>
   <string key = "AugurSeesNothing">
     <value> Bugün gökyüzünde kesinlikle kuş yok.  Bu muhtemelen köyde olmayan tüm rolleri gördüğün anlamına geliyor... </value>
@@ -2239,49 +2239,49 @@
     <value> Bugün bela çıkarmak ister misiniz? </value>
   </string>
   <string key = "TroublemakerDoubleLynch">
-    <value> Baş Belası {0} 🤯, muazzam bir skandal yaratıyor. Etrafta anlamsızca çığlık atarak koşuyor! O bütün köyü kızdırdı. Bugün 2 kez linç edeceksiniz. </value>
+    <value> Baş Belası {0} 🤯, muazzam bir skandal yaratıyor. Etrafta anlamsızca çığlık atarak koşuyor! O bütün köyü kızdırdı. Bugün 2 kez linç edeceksin. </value>
   </string>
   <string key = "TroubleDoubleLynchNow">
-    <value> Baş belası sayesinde, bugün tekrar linç edebilirsiniz! Umarım yarın daha sakin olur. </value>
+    <value> Baş belası sayesinde, bugün tekrar linç edebilirsin! Umarım yarın daha sakin olur. </value>
   </string>
 
 
   <!-- CC GÜNCELLEME -->
 
   <string key = "ccvisitedxsk">
-    <value> Sizi tuhaf bir şekilde takip ettiğini hissettiniz, ancak bir süre sonra ortadan kayboldu, ertesi sabah ön kapınızda bir bıçak saplanmış buldunuz. </value>
+    <value> Garip bir silüetin seni tuhaf bir şekilde takip ettiğini hissettin, ancak bir süre sonra ortadan kayboldu, ertesi sabah ön kapına saplanmış bir bıçak buldun. </value>
   </string>
   <string key = "skvisitacc">
-    <value> Görünüşe göre Tarikat Avcısını ziyaret etmişsin ama o hala oldukça güçlü, daha yorgun olduğunda bir şansın daha olacak. </value>
+    <value> Görünüşe göre Kelle Avcısını ziyaret etmişsin ama o hâlâ oldukça güçlü, daha yorgun olduğunda bir şansın daha olacak. </value>
   </string>
   <string key = "ccvisitedxFireWolf">
-    <value> Yakınınızda kül kokusu aldınız ve sıcaklık biraz artmış gibi görünüyor, siz havalandırma için pencereleri açarken dondurma yemenin zamanı geldi. </value>
+    <value> Yakınında kül kokusu aldın ve sıcaklık biraz artmış gibi görünüyor, sen havalandırma için pencereleri açarken dondurma yemenin zamanı geldi. </value>
   </string>
   <string key = "ccvisitadoxlobo">
-    <value> Çevrede bir hayvan duydunuz, bakmak için dışarı çıkıyorsunuz ve kapınızda bir kurt tüyü buluyorsunuz. </value>
+    <value> Çevrede bir hayvan sesi duydun, bakmak için dışarı çıkıyorsun ve kapında bir kurt tüyü buluyorsun. </value>
   </string>
 
   <string key = "grupoban">
-    <value> Sıralamalar şu anda bu grupta sınırlı, düzeltmek için bir bot yöneticisiyle konuşun. </value>
+    <value> Sıralamalı mod şu anda bu grupta sınırlı, düzeltmek için bir bot yöneticisiyle konuşun. </value>
   </string>
   <string key = "PlayerStartedmasacre">
     <!-- 0 - Oyuncu adı -->
-    <value> {0}, katliam modunda bir oyun başlattı! Eğlenceye katılmak için düğmeye basın ... ve muhtemelen ölün :D </value>
-    <value> {0} yeni bir katliam oyunu başlattı! Yenmek için düğmeye basın! :) </value>
+    <value> {0}, katliam modunda bir oyun başlattı! Eğlenceye katılmak için butona tıkla ... ve yüksek ihitmalle öl :D </value>
+    <value> {0} yeni bir katliam oyunu başlattı! Bu kargaşadan sağ çıkmak için butona tıkla! :) </value>
   </string>
   <string key = "PlayerStartedneciosforever">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} saçma sapan bir oyun başlattı! Eğlenceye katılmak için düğmeye basın… ve muhtemelen ölün ;) </value>
-    <value> {0} yeni bir aptal oyunu başlattı! Yenmek için düğmeye basın! </value>
+    <value> {0} saçma sapan bir oyun başlattı! Eğlenceye katılmak için butona tıkla… ve muhtemelen öl ;) </value>
+    <value> {0} yeni bir aptal oyunu başlattı! Kazanmak için butona tıkla! </value>
   </string>
   <string key = "CantStartnecio">
-    <value> Dereceniz aptalca bir oyuna başlamak için çok düşük. Kilidini açmak için 1800 puana ulaşın. </value>
+    <value> Derecen aptalca bir oyuna başlamak için çok düşük. Kilidini açmak için 1800 puana ulaşın. </value>
   </string>
   <string key = "CantStartmasacre">
-    <value> Rütbeniz bir katliam oyunu başlatmak için çok düşük. Kilidini açmak için 1400 puana ulaşın. </value>
+    <value> Derecen bir katliam oyunu başlatmak için çok düşük. Kilidini açmak için 1400 puana ulaşın. </value>
   </string>
   <string key = "CantStartClumsy">
-    <value> Sıralamanız beceriksiz bir oyunu başlatmak için çok düşük. Kilidini açmak için 1800 puana ulaşın. </value>
+    <value> Sıralaman beceriksiz bir oyunu başlatmak için çok düşük. Kilidini açmak için 1800 puana ulaşın. </value>
   </string>
   <string key = "NoGame">
     <value> Halihazırda oyun yok. /startgame ile yeni oyun, /startranked ile puanlı yeni oyun başlatabilirsin.</value>
@@ -2291,10 +2291,10 @@
   <!-- SEPULTURERO -->
 
   <string key = "AboutGraveDigger">
-    <value> Sen Mezarcısın ☠️. Sen ölenler için mezar kazıyorsun (evet, kurtadamlar bile cenazeyi hakediyor). Kurtadamlar ve vampirler bütün gece dışarıda oldukları için mezar kazarken şans eseri görülüp öldürülebilirsin. Ancak seni ziyaret ettiklerinde evde kimse bulamazlar. Eğer kimse ölmemişse doğal olarak mezar kazamayacağın için evde olacaksın bu sefer kurtlara ve seri katillere karşı hazırlı olsan iyi edersin çünkü tırpanla gelir en dürüst melek..</value>
+    <value> Sen Mezarcısın ☠️. Sen ölenler için mezar kazıyorsun (evet, kurtadamlar bile cenazeyi hakediyor). Kurtadamlar ve vampirler bütün gece dışarıda oldukları için mezar kazarken şans eseri onları öldürülebilirsin. Ancak seni ziyaret ettiklerinde evde kimseyi bulamazlar. Eğer kimse ölmemişse doğal olarak mezar kazamayacağın için evde olacaksın bu sefer kurtlara ve seri katillere karşı hazırlı olsan iyi edersin çünkü tırpanla gelir en dürüst melek..</value>
   </string>
   <string key = "RoleInfoGraveDigger">
-    <value> Sen Mezarcısın ☠️. Köylülerin cesetlerini atmak sizin sorumluluğunuzdadır. Dün gece öldürülen herkes için bir mezar kazarsınız. Her halükarda, genellikle mezarı bitiremeyecek kadar yorgunsunuz, bu yüzden açıkta bırakılır. Bazı ziyaretçiler onların içine düşebilir ve ölebilir. Ama geceleri dışarıda olduğunuz için, kurtlar ve katil sizi yolda bulup öldürebilir ve ne kadar çok mezar kazmanız gerekiyorsa, bunun gerçekleşmesi o kadar olasıdır. </value>
+    <value> Sen Mezarcısın ☠️. Köylülerin cesetlerini atmak senin sorumluluğundadır. Dün gece öldürülen herkes için bir mezar kazarsın. Her halükarda, genellikle mezarı bitiremeyecek kadar yorgunsun, bu yüzden bazı mezarlar açıkta bırakılır. Bazı ziyaretçiler onların içine düşebilir ve ölebilir. Ama geceleri dışarıda olduğun için, kurtlar ve katil seni yolda bulup öldürebilir ve ne kadar çok mezar kazman gerekiyorsa, bunun gerçekleşmesi o kadar olasıdır. </value>
   </string>
   <string key = "GraveDigger">
     <value> Mezarcı ☠️ </value>
@@ -2304,10 +2304,10 @@
   </string>
   <!-- {0}: son mezardan beri ölen kişilerin listesi -->
   <string key = "DigGraves">
-    <value> Gece geç saatlere kadar, {0} için mezar kazdınız. Ruhları ve bedenleri huzur içinde yatsın. </value>
+    <value> Gece geç saatlere kadar, {0} için mezar kazdın. Ruhları ve bedenleri huzur içinde yatsın. Amen... </value>
   </string>
   <string key = "GraveDiggerFrozen">
-    <value> Ölenleri gömmek için evinizden çıkarken, gölgelerden şiddetli bir rüzgar çıktı ve donuyorsun. Hareket edemiyorsunuz, içeri girip güneşin geri gelmesini beklediniz. Ölülerin huzur içinde yatması için bir gece daha beklemesi gerekecek ... </value>
+    <value> Ölenleri gömmek için evinden çıkarken, gölgelerden şiddetli bir rüzgar çıktı ve donuyorsun. Hareket edemiyorsun, içeri girip güneşin geri gelmesini bekledin. Ölülerin huzur içinde yatması için bir gece daha beklemesi gerekecek ... </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "GraveDiggerNotHome">
@@ -2319,47 +2319,47 @@
   </string>
   <!-- {0}: mezara düşen kurt -->
   <string key = "WolfFell">
-    <value> Bütün gece kazdığınız mezarı kapatmaya çalışırken, her zamanki ceset kokusundan çok farklı, korkunç bir koku fark edersiniz ... {0} kurt mezarınıza düştü ve öldü! </value>
+    <value> Bütün gece kazdığın mezarı kapatmaya çalışırken, her zamanki ceset kokusundan çok farklı, korkunç bir koku fark edersin ... {0} bir kurt ve mezarına düşüp öldü! </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "KillerStumbled">
-    <value> Karaciğeri {0} 'in vücudundan kestiniz, ancak geri dönerken, bitmemiş bir mezara çok fazla eğildiniz ve tökezlediniz. Belki de cesedin karaciğerini aramamalıydın ... Şimdi bacağın gerçekten ağrıyor. </value>
+    <value> Karaciğeri {0} 'in vücudundan kestin, ancak geri dönerken, bitmemiş bir mezara çok fazla eğildin ve tökezledin. Belki de cesedin karaciğerini aramamalıydın ... Şimdi bacağın gerçekten ağrıyor. </value>
   </string>
   <!-- {0}: amaçlanan kurban, {1}: gerçek kurban -->
   <string key = "KillerRandomKill">
-    <value> {0}'in konumundan eve dönerken, bacağınızda keskin bir ağrı fark ettiniz. {1} adlı kişinin olduğu en yakın eve gitmeye karar veriyorsunuz, böylece onu öldürüp eve geri dönüyorsunuz. </value>
+    <value> {0}'in konumundan eve dönerken, bacağında keskin bir ağrı fark ettin. {1} adlı kişinin olduğu en yakın eve gitmeye karar veriyorsun, böylece onu öldürüp eve geri dönüyorsun. </value>
   </string>
   <!-- {0}: kurban -->
   <string key = "GuardBlockedRandomKiller">
-    <value> {0} adlı kişinin evine, sadece önündeki koruyucu meleği görmek için geldiniz! Savaşmaya çalışıyorsun ama hiç şansın yok. Bu senin için gerçekten kötü bir geceydi ... </value>
+    <value> {0} adlı kişinin evine, sadece önündeki koruyucu meleği görmek için geldin! Savaşmaya çalışıyorsun ama hiç şansın yok. Bu senin için gerçekten kötü bir geceydi ... </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "HunterFell">
-    <value> O kanlı tarikatçılardan birini öldüremeden bir gece daha! Hayal kırıklığına uğramış, bir mezarın üzerinden geçip, ayak bileğinize takılıncaya kadar ayı tuzağını fark etmeyeceksiniz. Çığlık atıyorsun ve mücadele ediyorsun ama artık çok geç. Geriye, açık bırakılan bir mezara düşersiniz ve en son her şey kararmadan önce boynunuzun kırılır. </value>
+    <value> O kanlı tarikatçılardan birini öldüremeden bir gece daha! Hayal kırıklığına uğramış, bir mezarın üzerinden geçip, ayak bileğine takılıncaya kadar ayı tuzağını fark etmedin. Çığlık atıyorsun ve mücadele ediyorsun ama artık çok geç. Geriye, açık bırakılan bir mezara düşersin ve en son her şey kararmadan önce boynun kırılır. </value>
   </string>
   <!-- {0}: kült avcısı -->
   <string key = "HunterFellDigger">
-    <value> Yorucu başka bir geceden sonra, güneş doğarken eve dönüyorsunuz. Eve gelmeden hemen önce, bitmemiş bir mezarın yanında yerde duran bir kılıç dikkatinizi çeker. İçinde {0}'in cesedini buluyorsunuz. Tarikat avcısı senden şüphelenmemeliydi ... </value>
+    <value> Yorucu başka bir geceden sonra, güneş doğarken eve dönüyorsun. Eve gelmeden hemen önce, bitmemiş bir mezarın yanında yerde duran bir kılıç dikkatini çeker. İçinde {0}'in cesedini buluyorsun. Kelle avcısı senden şüphelenmemeliydi ... </value>
   </string>
   <!-- {0}: tarikatçı -->
   <string key = "CultFell">
-    <value> Bitmemiş mezarlarınızın birinden aniden gelen bir çığlık duydunuz, yorucu bir geceden dönüyorsunuz! Oraya gitmek için acele ediyorsun, sadece {0} 'i ölü olarak bulursun. Her neyse, mezarcı ne tür bir tarikatı dönüştürmeye çalışıyor? </value>
+    <value> Bitmemiş mezarlarının birinden aniden gelen bir çığlık duydun, yorucu bir geceden dönüyorsun! Oraya gitmek için acele ediyorsun, sadece {0} 'i ölü olarak bulursun. Her neyse, tarikat için mezarcıyı dönüştürmek kötü bir fikirdi. </value>
   </string>
   <!-- {0}: düşen tarikatçı, {1}: mezar kazıcı -->
   <string key = "CultConvertGraveDigger">
-    <value> {1} adlı kişinin evine giderken, {0} kiliseyi yakmanın iyi bir fikir olacağına karar verir. Aniden bir ayı kapanı bileğini yakaladığında, {0} tarikatı mezarlığa götürür! Tek duydukları, bir mezara düştükten sonra ağlaması ve tarikatın geri kalanı hayatı için koşuyor. </value>
+    <value> {1} adlı kişinin evine giderken, {0} kiliseyi yakmanın iyi bir fikir olacağına karar verir. Aniden bir ayı kapanı bileğini yakaladığında, {0} mezarlıklardan birine düşer! Tek duydukları, bir mezara düştükten sonra ağlaması ve tarikatın geri kalanı hayatı için kaçıyor. </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "ChemistFell">
-    <value> Evinize {0} giderken, hangi iksirlerin zehirli olduğunu hatırlamaya çalışıyorsunuz ve tökezleyerek gümüş bir mızrağın kalbinizi deldiği açık bir mezara düşüyorsunuz. Herhangi bir ses çıkarmadan önce öldün. </value>
+    <value> Evine {0} giderken, hangi iksirlerin zehirli olduğunu hatırlamaya çalışıyorsun ve tökezleyerek gümüş bir mızrağın kalbini deldiği açık bir mezara düşüyorsun. Herhangi bir ses çıkarmadan önce öldün. </value>
   </string>
   <!-- {0}: kimyager -->
   <string key = "ChemistFellDigger">
-    <value> Kendi kendinize "Bu sefer bir kadeh şarap kullanabildim" diye düşünüyorsunuz. Garip bir düşünce, yanınızdaki mezarı görmenizi sağlar ve kader dileğinizi duymuş gibi, içeride bir kadeh şarap dinlenir! {0} cesedinin de orada olması çok kötü ... Birden iştahınızı kaybettiniz. </value>
+    <value> Kendi kendine "Bu sefer bir kadeh şarap kullanabildim" diye düşünüyorsun. Garip bir düşünce, yanındaki mezarı görmeni sağlar ve kader dileğini duymuş gibi, içeride bir kadeh şarap dinlenir! {0}'in cesedinin de orada olması çok kötü ... Birden iştahını kaybettin. </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "HarlotFell">
-    <value> En sevdiğiniz kıyafeti giydiniz ve biraz eğlenmek için {0} 'in evine gittiniz. Ne yazık ki, bir ayı tuzağına bastığınız ve yolda bir mezara düştüğünüz için çok ileri gidemediniz ... Mesleki riskinizden bahsetmişken! </value>
+    <value> En sevdiğin kıyafeti giydin ve biraz eğlenmek için {0} 'in evine gittin. Ne yazık ki, bir ayı tuzağına bastığın ve yolda bir mezara düştüğün için çok ileri gidemedin ... Mesleki riskinden bahsetmişken! </value>
   </string>
   <!-- {0}: yancı -->
   <string key = "HarlotFellDigger">
@@ -2375,49 +2375,49 @@
   </string>
   <!-- {0}: koruyucu melek -->
   <string key = "GAFellDigger">
-    <value> Geri dönerken, yerde yatan tüyler dikkatinizi çekiyor ... Mezarlarınızdan birinde ölü yatan koruyucu melek {0}'i bulmak için uzağa bakmanıza gerek yok! Bazen "güvenlik önlemleriniz" gerçekten yanlış kişilere düşüyor. </value>
+    <value> Geri dönerken, yerde yatan tüyler dikkatini çekiyor ... Mezarlarından birinde ölü yatan koruyucu melek {0}'i bulmak için uzağa bakmana gerek yok! Bazen "güvenlik önlemlerin" gerçekten yanlış kişilere düşüyor. </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "ThiefFell">
-    <value> {0}'in rolünü çalmaya giderken mezarlığa giriyorsun, ama hiç ses çıkarmamaya o kadar odaklandın ki ayak bileğini sıkıştıran ayı tuzağının dikkatini çekiyorsun! Ayağınızın kırılması yeterli değildir, hatta yanınızdaki mezara düşüp boynunuzu kırarsınız! </value>
+    <value> {0}'in rolünü çalmaya giderken mezarlığa giriyorsun, ama hiç ses çıkarmamaya o kadar odaklandın ki ayak bileğini sıkıştıran ayı tuzağının dikkatini çekiyorsun! Ayağının kırılması yeterli değildi, hatta yanındaki mezara düşüp boynunu kırarsın! </value>
   </string>
   <!-- {0}: hırsız -->
   <string key = "ThiefFellDigger">
-    <value> Neyse ki mezarlarının etrafına güvenlik önlemleri koydun ... {0} dün gece rolünü çalmaya çalıştı ama ayı tuzağına yakalandı ve mezarına düştü! Belki şimdi köy, mezarlarınızın gerçekten gerekli olduğuna inanacaktır. </value>
+    <value> Neyse ki mezarlarının etrafına güvenlik önlemleri koydun ... {0} dün gece rolünü çalmaya çalıştı ama ayı tuzağına yakalandı ve mezarına düştü! Belki şimdi köy, mezarlarının gerçekten gerekli olduğuna inanacaktır. </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "FireWolfFell">
-    <value> Bir dahaki sefere mezar kazıcısını yakmaya gittiğinde adımına dikkat etmelisin ... Bir ayı tuzağına bastın, bir mezara düştün ve kalbine gümüş bir mızrak sapladın! Küçük ateşli kurdu hak ettin. </value>
+    <value> Bir dahaki sefere mezar kazıcısını yakmaya gittiğinde adımına dikkat etmelisin ... Bir ayı tuzağına bastın, bir mezara düştün ve kalbine gümüş bir mızrak saplandı! Küçük cehennem kurdu bunu hak ettin. </value>
   </string>
   <!-- {0}: kundakçı -->
   <string key = "FireWolfFellDigger">
-    <value> Mezarlarınızdan birinde bir duman ve kül aroması fark ettiniz. Endişelenmişsiniz, oraya gitmek için acele edin ve içinde ölü olarak dinlenen ateş kurdu {0} 'nu bulun. En azından eviniz hala temiz ... </value>
+    <value> Mezarlarından birinde bir duman ve kül aroması fark ettin. Endişelenmişsin, oraya gitmek için acele ettin ve içinde ölü olarak dinlenen cehennem kurdu {0} 'i buldun. En azından evin hala temiz ... </value>
   </string>
   <!-- {0}: ölen kişi, {1}: "(kişi) (rol)" -->
   <string key = "DefaultFellPublic">
-    <value> Mezarlığınızdaki mezarlarınızdan biri dün gece çok fazla insan içeriyordu ... Görünüşe göre {0} mezar kazıcısını ziyaret etmeye çalıştı, bir mezara düştü ve öldü! {1} </value>
+    <value> Mezarlığındaki mezarlarından biri dün gece çok fazla insan içeriyordu ... Görünüşe göre {0} mezar kazıcısını ziyaret etmeye çalıştı, bir mezara düştü ve öldü! {0} {1} idi </value>
   </string>
   <!-- {0}: yancı -->
   <string key = "HarlotFellPublic">
-    <value> Yancı {0} eğlenceli bir gece geçirmek için evden ayrılırken, yerel mezarlıkta kestirme bir yol denedi. Biraz başı dönmüş olmalı, çünkü bir sonraki adımında toprak olmadığını gördükten sonra düşene kadar üstü örtülmemiş mezarı görmedi. Belki dün ona teklif ettikleri daveti kabul etmemeliydi! </value>
+    <value> Yancı {0} eğlenceli bir gece geçirmek için evden ayrılırken, yerel mezarlıkta kestirme bir yol denedi. Biraz başı dönmüş olmalı, çünkü bir sonraki adımında toprak olmadığını fark etmedi ve üstü örtülü olmayan mezarın içine düştü. Belki dün ona teklif ettikleri daveti kabul etmemeliydi! </value>
   </string>
   <!-- {0}: ölen tarikatçı -->
   <string key = "CultistFellPublic">
-    <value> Tarikat kiliseyi yakmaya çalıştı, ancak {0}'in grubu mezarlıktan geçirirken ayak bileklerini bir ayı tuzağı yakaladı! Açık bir mezara düştüğünde çığlıklar duyuldu ve diğer tarikatlar dehşet içinde kaçtı ... </value>
+    <value> Tarikat kiliseyi yakmaya çalıştı, ancak {0}'in grubu mezarlıktan geçerken ayak bileklerini bir ayı tuzağı yakaladı! Açık bir mezara düştüğünde çığlıklar duyuldu ve diğer tarikatlar dehşet içinde kaçtı ... </value>
   </string>
   <!-- {0}: ölen kurt, {1}: "(kişi) (rol)" ne tür bir kurt olduğunu belirtmek için -->
   <string key = "WolfFellPublic">
-    <value> Sürü avlanmaya çıktığında, {0} potansiyel bir avın kokusunu alır ve ayak bileğine takılan ayı tuzağını fark etmez! Şaşıran {0}, gümüş bir mızrağın ucunun başıyla buluştuğu mezara düştü. Neyse ki mezarcı mezarlarını güvende tutar! {1} </value>
+    <value> Sürü avlanmaya çıktığında, {0} potansiyel bir avın kokusunu alır ve ayak bileğine takılan ayı tuzağını fark etmez! Şaşıran {0}, gümüş bir mızrağın ucunun başıyla buluştuğu mezara düştü. Neyse ki mezarcı mezarlarını güvende tutar! {0} {1} idi </value>
   </string>
   <string key = "SerialKillerSpottedYou" isgif = "true">
     <value> Sadece işini yapmaya çalışıyorsun, aniden çılgın bir seri katil seni bulup bıçaklar! Çok kötü :( ... </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "SerialKillerSpotted">
-    <value> Bıçağınızda kanla mezarlığa geçerken, mezarcı {0} 'i görüyorsunuz. İçgüdülerinize göre, bu gece sizin için iki kurban olacağına karar veriyorsunuz ... </value>
+    <value> Bıçağında kanla mezarlığı geçerken, mezarcı {0} 'i görüyorsun. İçgüdülerine göre, bu gece senin için iki kurban olacağına karar veriyorsun ... </value>
   </string>
   <string key = "WolvesSpottedYou" isgif = "true">
-    <value> Sadece işini yapmaya çalışırken, aniden bir kurt arkadan sana atlar ve seni öldürür! </value>
+    <value> Sadece işini yapmaya çalışırken, aniden bir kurt arkadan üzerine atlar ve seni öldürür! </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "WolvesSpotted">
@@ -2429,7 +2429,7 @@
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "KillerSpottedDiggerPublic">
-    <value> {0} köy toplantısına katılmadı. Uyuya mı kaldı? Onu kilisede aramaya giderler ve mezarlıkta hala küreği elinde tutarken bulurlar. Görünüşe göre şiddetli bıçak yaralarından öldü ... </value>
+    <value> {0} köy toplantısına katılmadı. Uyuya mı kaldı? Onu kilisede aramaya giderler ve mezarlıkta hâlâ küreği elinde tutarken bulurlar. Görünüşe göre şiddetli bıçak yaralarından öldü ... </value>
   </string>
 
   <!-- KİMYASAL -->
