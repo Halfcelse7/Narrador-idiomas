@@ -1782,25 +1782,25 @@
     <value> Kuduz Kurt 🐺🤢 </value>
   </string>
   <string key = "RabidWolf Hakkında ">
-    <value> Kuduz Kurt sensin. Alfa tarafından enfekte edilen ilk kurt sendin. Onun için çok önemlisin ve ölürsen, O senin için bir hedef arayacak (Kurtların bir sonraki kurbanı kuduz bir kurta dönüşecek). </value>
+    <value> Sen Kuduz Kurtsun. Alfa tarafından enfekte edilen ilk kurt sendin. Onun için çok önemlisin ve ölürsen, o senin yerine yeni bir halefi arayacak (Kurtların bir sonraki kurbanı kuduz bir kurta dönüşecek). </value>
   </string>
 
   <string key = "DGTransformToRabidWolf">
     <!-- 0 - hedefin adı -->
     <!-- 1 - takım arkadaşlarının adı -->
-    <value> {0} öldü, bu yüzden Kuduz Kurda dönüştün. Takım Arkadaşlarınız (varsa): {1} </value>
+    <value> {0} öldü, bu yüzden Kuduz Kurda dönüştün. Takım Arkadaşların (varsa): {1} </value>
   </string>
 
   <string key = "ImposterSees">
     <!-- 0 - hedefin rolü -->
-    <value> {0}'in taklidi yapıyorsun, öyleymiş gibi davranmaya çalış. </value>
+    <value> {0}'in rolünü taklit ediyorsun, öyleymiş gibi davranmaya çalış. </value>
   </string>
 
   <string key = "Sleepwalker">
     <value> Uyurgezer 😴 </value>
   </string>
   <string key = "AboutSleepwalker">
-    <value> Uyurgezer sadece başka sıradan bir köylüdür, aradaki fark, her gece bilmeden evi terk etme şansı %80, ve o gece kurtlara karşı bağışıktır. Ancak uyurgezer bile kendisinin ne olduğunu bilmiyor ve sadece normal bir köylü olduğunu düşünecek. </value>
+    <value> Uyurgezer sadece başka sıradan bir köylüdür, aradaki fark, her gece bilinçsiz şekilde evi terk etme şansı %80, ve o gece kurtlara karşı bağışıklılığı olacaktır. Ancak uyurgezer bile kendisinin ne olduğunu bilmiyor ve sadece normal bir köylü olduğunu düşünecek. </value>
   </string>
 
   <string key = "MinutesLeftToJoin">
@@ -1809,79 +1809,79 @@
   </string>
 
   <string key = "Herbalist">
-    <value> Simyacı 🍵 </value>
+    <value> Otacı 🍃 </value>
   </string>
   <string key = "AboutHerbalist">
-    <value> Simyacı, şifalı bitkilerde uzman olan bir köylüdür. Köydeki kurt adamların ortaya çıkması nedeniyle, her gece zehirlemek için başka bir oyuncuyu ziyaret edecek. Hedef, zehirlendiklerini bilecek ve ertesi gece ölecek. Bir panzehir var, ancak kararından pişman olursa ertesi gece ona verebilecek olan simyacının sadece kendisi tarafından biliniyor. </value>
+    <value> Otacı, şifalı bitkilerde uzman olan bir köylüdür. Köydeki kurt adamların ortaya çıkması nedeniyle, her gece zehirlemek için başka bir oyuncuyu ziyaret edecek. Hedef, zehirlendiklerini bilecek ve ertesi gece ölecek. Bir panzehir var, ancak kararından pişman olursa ertesi gece ona verebilecek olan otacının sadece kendisi tarafından biliniyor. </value>
   </string>
   <string key = "HerbalistPoisonedYou">
-    <value> Kahvaltınızı bitirdiğinizde başınız dönmeye başlar... Görünüşe göre zehirlenmişsiniz! Panzehir almazsan sonraki gece öleceksin. </value>
+    <value> Kahvaltını bitiriri bitirmez midende bir hazımsızlık hissetmeye başladın... Görünüşe göre zehirlenmişsin! Panzehir almazsan sonraki gece öleceksin. </value>
   </string>
   <string key = "GuardBlockedHerbalist">
-    <value> Bu gece {0}'i zehirlemeye çalıştınız ama birisi onu koruyordu ve sizi yaklaşmaktan alıkoydu. </value>
+    <value> Bu gece {0}'i zehirlemeye çalıştın ama birisi onu koruyordu ve seni ona yaklaşmaktan alıkoydu. </value>
   </string>
   <string key = "PoisonedAlreadyDead">
-    <value> Önceki hedefiniz zaten öldüğünden, bu gece dinlenmeye ve yarın zehirlemeye devam etmeye karar veriyorsunuz. </value>
+    <value> Önceki hedefin zaten öldüğünden, bu gece dinlenmeye ve yarın zehirlemeye devam etmeye karar veriyorsun. </value>
   </string>
   <string key = "CurePoisoned">
-    <value> Zehirleme kararından pişman oldun. Bu yüzden {0}'nin hayatını kurtarmak için ona bir panzehir verdin. </value>
+    <value> Zehirleme kararından pişman oldun. Bu yüzden {0}'in hayatını kurtarmak için ona bir panzehir verdin. </value>
   </string>
   <string key = "HerbalistCuredYou">
-    <value>Gece boyunca bir ses duyarsınız ve bakmak için dışarı çıkarsınız. Panzehir yazan bir şişe keşfedersiniz. Kaybedecek hiçbir şeyiniz olmadığı için onu içmeye karar veriyorsunuz.</value>
+    <value>Gece boyunca bir ses duyarsın ve bakmak için dışarı çıkarsın. Üzerinde panzehir yazan bir şişe keşfedersin. Kaybedecek hiçbir şeyin olmadığı için onu içmeye karar veriyorsun.</value>
   </string>
   <string key = "DefaultPoisoned">
     <!-- 0 - hedefin adı -->
     <!-- 1 - hedefin rolü -->
-    <value> Sabah olduğunda, köylüler gözlerini açmaya ve uyanmaya başlarlar, fakat sonsuza kadar uyumaya karar veren {0} dışında. Simyacı tarafından zehirlenerek öldürüldüğü anlaşılıyor. O {1} dir. </value>
+    <value> Sabah olduğunda, köylüler gözlerini açmaya ve uyanmaya başlarlar, fakat sonsuza kadar uyumaya karar veren {0} dışında. Otacı tarafından zehirlenerek öldürüldüğü anlaşılıyor. O {1} idi. </value>
   </string>
   <string key = "AskPoison">
-    <value> Bu gece kimi zehirlemek istiyorsunuz? </value>
+    <value> Bu gece kimi zehirlemek istiyorsun? </value>
   </string>
   <string key = "AskCure">
-    <value> Zehiriniz etkisini gösterdi ve {0} bu gece ölecek. Ancak yine de onu kurtarabilirsiniz. Ona panzehiri verip ölümünü önlemek mi istiyorsunuz? </value>
+    <value> Zehirin etkisini gösterdi ve {0} bu gece ölecek. Ancak yine de onu kurtarabilirsin. Ona panzehiri verip ölümünü önlemek istiyor musun? </value>
   </string>
   <string key = "WolfList">
     <value> Kurt takımı şunlardan oluşur: </value>
   </string>
 
   <string key = "Ninja">
-    <value> Ninja 👘 </value>
+    <value> Ninja 🥷 </value>
   </string>
   <string key = "AboutNinja">
-    <value> Ninja 👘, köyün bir rolüdür. Her gece uyanık kalmaya veya uyumaya karar verebilirsiniz. Uyanık kalmaya karar verirseniz, tetikte olacaksınız ve sizi ziyaret eden ilk saldırgandan saklanacaksınız. Ancak, sizi ziyaret etmezlerse, ertesi gece dinlenmelisiniz. Ek olarak, siz saklanırken suikastçı tarafından bulunma şansı %50'dir. </value>
+    <value> Ninja 🥷, köyün bir rolüdür. Her gece uyanık kalmaya veya uyumaya karar verebilirsin. Uyanık kalmaya karar verirsen, tetikte olacaksın ve seni ziyaret eden ilk saldırgandan saklanacaksın. Ancak, seni ziyaret etmezlerse, ertesi gece dinlenmelisin. Ek olarak, sen saklanırken seri katil tarafından bulunma şansın %50'dir. </value>
   </string>
   <string key = "NinjaHidden">
-    <value> Otururken birinin yaklaştığını fark edersin. O ayrılana kadar sessizlikte varlığınızı saklarsınız. (Birisi sizi ziyaret etti) </value>
+    <value> Hazır pusudayken birinin yaklaştığını fark edersin. O ayrılana kadar sessizlikle varlığını hissetirmedin. (Birisi seni ziyaret etti) </value>
   </string>
   <string key = "NinjaFailed">
     <value>
-      Otururken birinin yaklaştığını fark edersiniz. Sessizlik içinde varlığınızı o ayrılana kadar saklarsınız ... ya da öyle düşündünüz, ta ki arkadan bir figür belirip sizi bıçaklayana kadar.
+      Pusudayken birinin yaklaştığını fark edersi. Sessizlik içinde varlığını o ayrılana kadar saklarsın ... ya da öyle düşündün, ta ki arkadan bir figür belirip seni bıçaklayana kadar.
     </value>
 
   </string>
   <string key = "AskHide">
-    <value> Bu gece ayakta kalıp ziyaretçilerden kaçınmak istiyor musunuz? </value>
+    <value> Bu gece uyanık kalıp ziyaretçilerden kaçınmak istiyor musun? </value>
   </string>
   <string key = "NinjaBackstabbed">
-    <value> Uzun bir aramadan sonra, köylüler {0} 'ın cesedini çalılıkların arasına gizlenmiş olarak bulur. Görünüşe göre ninja, suikastçı tarafından saklanırken keşfedilmiş. </value>
+    <value> Uzun bir aramadan sonra, köylüler {0} 'in cesedini çalılıkların arasına gizlenmiş olarak bulur. Görünüşe göre ninja, seri katil tarafından saklanırken keşfedildi. </value>
   </string>
 
   <string key = "PointsObtained">
-    <value> {0} puan kazandınız! Yeni Puan : {1} </value>
+    <value> {0} puan kazandın! Yeni Puan : {1} </value>
   </string>
   <string key = "InvalidRolelist">
-    <value> Rol listesi geçersiz. Lütfen yalnızca virgülle ayrılmış geçerli emojileri kullandığınızdan emin olun. Daha fazla bilgi için /helpCustom kullanın. </value>
+    <value> Rol listesi geçersiz. Lütfen yalnızca virgülle ayrılmış geçerli emojileri kullandığından emin ol. Daha fazla bilgi için /helpCustom komutunu kullan. </value>
   </string>
   <string key = "PlayerStartedCustomGame">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} Özel bir oyun başlattı! Eğlenceye katılmak için düğmeye basın ve muhtemelen geberin :D </value>
-    <value> {0} Yeni bir özel oyun başlattı! Yenmek için düğmeye basın! </value>
+    <value> {0} Özel bir oyun başlattı! Eğlenceye katılmak için butona tıkla ve muhtemelen öl :D </value>
+    <value> {0} Yeni bir özel oyun başlattı! Kazanmak için butona tıkla! </value>
   </string>
   <string key = "NeedRolelist">
-    <value> Özel oyuna başlamak için bir rol listesine ihtiyacınız var. Daha fazla bilgi için /helpCustom kullanın. </value>
+    <value> Özel oyuna başlamak için bir rol listesine ihtiyacın var. Daha fazla bilgi için /helpCustom komutunu kullan. </value>
   </string>
   <string key = "NotEnoughBaddies">
-    <value> Rol listesi geçersiz. İlk 4 rolden biri kötü bir rol olmalı. Daha fazla bilgi için /helpCustom kullanın. </value>
+    <value> Rol listesi geçersiz. İlk 4 rolden biri kötü bir rol olmalı. Daha fazla bilgi için /helpCustom komutunu kullan. </value>
   </string>
   <string key = "LatestRoleList">
     <value> İşte Rollerin Listesi: </value>
@@ -1918,17 +1918,17 @@
     <value> Rastgele Tarafsız 120Sn Rolü </value>
   </string>
   <string key = "RandomSkyro">
-    <value> Suikastçı veya Kundakçı Rolü 🔪🔥 </value>
+    <value> Seri Katil veya Kundakçı Rolü 🔪🔥 </value>
   </string>
   <string key = "RandomCultable">
     <value> Her Zaman Tarikata Dönüşebilen Rastgele Roller 💯 </value>
   </string>
   <string key = "RandomLowCultable">
-    <value> Tarikat Olmayan Rastgele Roller ❇️ </value>
+    <value> Tarikat dönüşümü az olan Rastgele Roller ❇️ </value>
   </string>
 
   <string key = "HelpCustom">
-    <value> Özel bir oyun nasıl oluşturulur: \n\nÖzel bir oyun başlatmak için /startcustom komutunu ve ardından kullanılacak rollerin listesini koymalısınız. Bu liste, görünmesini istediğiniz rollerin virgülle ayrılmış ve boşluksuz emojilerinden oluşur. Daha az oyuncu katılırsa Listede yer alanların soldan başlayarak rol alacağı, bu yüzden en azından ilk 4 role kötü bir adam koymalısınız. Birçok oyuncu katılır katılmaz oyun otomatik olarak başlar. Hangi emojileri kullanabileceğinizi görmek için /emojisCustom.\n</value> yazın.
+    <value> Özel bir oyun nasıl oluşturulur: \n\nÖzel bir oyun başlatmak için /startcustom komutunu ve ardından kullanılacak rollerin listesini koymalısın. Bu liste, görünmesini istediğin rollerin virgülle ayrılmış ve boşluksuz emojilerinden oluşur. Daha az oyuncu katılırsa Listede yer alanların soldan başlayarak rol alacağı, bu yüzden en azından ilk 4 role kötü bir adam koymalısın. Birçok oyuncu katılır katılmaz oyun otomatik olarak başlar. Hangi emojileri kullanabileceğini görmek için /emojisCustom.\n</value> yazın.
   </string>
 
   <string key = "SKStabbedYou">
