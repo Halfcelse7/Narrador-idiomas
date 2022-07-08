@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <strings>
-  <language name="Türkçe" base="Türkçe" variant="Türkçe" code="tr" isDefault="true" owner="@werewolfturkey"/>
+  <language name="Türkçe" base="Türkçe" variant="Türkçe" code="tr" isDefault="true" owner="@Halfcelse"/>
   <string key = "NotInGame">
     <value> Şu an herhangi bir oyunda değilsin ... </value>
   </string>
