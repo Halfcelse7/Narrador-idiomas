@@ -2438,42 +2438,42 @@
     <value> Kimyager 👨‍🔬 </value>
   </string>
   <string key = "AboutChemist">
-    <value> Kimyager, iksir yapmayı seven ve bunu köylülere içirmeyi seven dengesiz bir kişidir. İksirlerinden ikisini karıştıracak ve diğerlerine birini tatmaya zorlayacak. Bir iksir basit gül suyudur, diğeri ise anında hayatınıza son verir. İyi şanslar! </value>
+    <value> Kimyager, iksir yapmayı seven ve bunu köylülere içirmeyi seven dengesiz bir kişidir. İksirlerinden ikisini karıştıracak ve diğerlerine birini tatmaya zorlayacak. Bir iksir basit rose şarabıdır, diğeri ise anında hayatına son verecek zehirli bir iksir. Bol şans! </value>
   </string>
   <string key = "ChemistBrewing">
-    <value> Diğer köylüler yatağa girerken, bir sonraki gece için iksirleri hazırlarken laboratuvarınızda uyanıksınız. Kurtlar tarafından yakalanmadığınızdan emin olun. </value>
+    <value> Diğer köylüler yatağa girerken, bir sonraki gece için iksirlerini hazırlamak için laboratuvarında uyanıksın. Kurtlar tarafından yakalanmadığından emin ol. </value>
   </string>
   <string key = "AskChemist">
-    <value> Çılgın bahislerinize kimi dahil etmek istiyorsunuz? </value>
+    <value> Çılgın bahislerine kimi dahil etmek istiyorsun? </value>
   </string>
   <string key = "ChemistTargetDead">
     <value> Onunla içmek için {0}'in evine gittin, ama vardığında o çoktan ölmüştü. </value>
   </string>
   <string key = "ChemistVisitYouSK">
-    <value> Kimyager 👨‍🔬, {0}, sizi ziyaret etti. Seni içmeye zorladı ama sen de bıçak çektin, görünüşe göre bıçağın daha güçlüydü 🤷‍♂️</value>
+    <value> Kimyager 👨‍🔬, {0}, seni ziyaret etti. Seni iksirlerinden birini içmeye zorladı ama sen de bıçak çektin, görünüşe göre bıçağın daha güçlüydü 🤷‍♂️</value>
   </string>
   <string key = "ChemistSK">
-    <value> Biraz içmek için {0}’ı ziyaret ettin, ancak pek de içmeye niyetli değildi çünkü seri katiller ayık gezer, bıçaklandın! 🔪</value>
+    <value> Biraz içmek için {0}’i ziyaret ettin, ancak pek de içmeye niyetli değildi çünkü seri katiller ayık gezer, bıçaklandın! 🔪</value>
   </string>
   <string key = "ChemistSKPublic">
-    <value> Kimyager 👨‍🔬 {0}, seri katili bu gece bir oyuna zorlamaya çalıştı. Katil oyun oynamaktan hoşlanmıyor gibi görünüyor... {0} ölü bulundu, bıçaklanmış, iki iksir hala çantasında!  </value>
+    <value> Kimyager 👨‍🔬 {0}, seri katili bu gece bir oyuna zorlamaya çalıştı. Katil oyun oynamaktan hoşlanmıyor gibi görünüyor... {0} ölü bulundu, bıçaklanmış halde. İki iksir hâlâ çantasında!  </value>
   </string>
   <string key = "ChemistVisitYouSuccess">
-    <value> Kimyager tarafından ziyaret edildin 👨‍🔬, Seni bir iksir seçmeye zorladı ve sen zehirli olanı seçtin. Bu dünyadan ayrılmanın ne üzücü bir yolu...</value>
+    <value> Kimyager tarafından ziyaret edildin 👨‍🔬, Seni bir iksir seçmeye zorladı ve sen zehirli olanı seçtin. Bu dünyadan ayrılmak için çok şansız bir yol...</value>
   </string>
   <string key = "ChemistSuccess">
-    <value> {0}’ın adresini ziyaret ettin ve bir iksir seçmesine izin verdin!  Zehirli olanı seçti ve eve döndün, kumar becerilerine çok güveniyorsun tabi. Bu şans oyunu değil!</value>
+    <value> {0}’in adresini ziyaret ettin ve bir iksir seçmesine izin verdin!  Zehirli olanı seçti ve eve döndün, kumar becerilerine çok güveniyorsun tabi. Bu şans oyunu değil!</value>
   </string>
   <string key = "ChemistSuccessPublic">
     <!-- {0} - Kimyacının kurbanı -->
     <!-- {1} - "(kurban) (rol)" ile değiştirilecektir -->
-    <value>Kimyager 👨‍🔬 bu gece {0}’ı ziyaret etti ve zehirli iksiri seçtirdi!  Çılgın kimyager hala hayatta iken, {0} öldü. {1}  </value>
+    <value>Kimyager 👨‍🔬 bu gece {0}’i ziyaret etti ve zehirli iksiri seçtirdi!  Çılgın kimyager hala hayatta iken, {0} öldü ve {1} idi  </value>
   </string>
   <string key = "ChemistVisitYouFail">
-    <value>Kimyageri ziyaret ettin👨‍🔬 {0}, seni bir iksir seçmeye zorladı.  Bir an tereddüt ettikten sonra, iyi olanı seçtin!  Seni şanslı!  </value>
+    <value>Kimyager seni ziyaret etti 👨‍🔬 {0}, seni bir iksir seçmeye zorladı.  Bir an tereddüt ettikten sonra, iyi olanı seçtin!  Seni şanslı!  </value>
   </string>
   <string key = "ChemistFail">
-    <value> {0}’ın adresini ziyaret ettin ve bir iksir seçmesine izin verdin!  Ancak iyi olanı seçti!  Sonuç olarak, zehirli olanı içtin ve öldün. Belki de daha iyi bir iş çıkarmalıydın... </value>
+    <value> {0}’in adresini ziyaret ettin ve bir iksir seçmesine izin verdin!  Ancak iyi olanı seçti!  Sonuç olarak, zehirli olanı içtin ve öldün. Belki de daha iyi bir iş çıkarmalıydın... </value>
   </string>
   <string key = "ChemistFailPublic">
     <value> Kimyager👨‍🔬 {0}, ölü bulundu! Anlaşılan {0} epey şanssızdı ve gece ziyaretlerinden birinde zehirli iksiri içti! Dua et, ilaçlarını hiç ondan almadın. </value>
@@ -2482,24 +2482,24 @@
     <value> {0} evde değildi! Çantanı eve geri sürükleyip kötü şansına küfrediyorsun. </value>
   </string>
   <string key = "ChemistKillWiseElder">
-    <value> Kimyagerin kim olduğunu gerçekten bilmeseniz bile, o sefil hatayı bir daha asla yapmayacağından eminsiniz. Kimyager normal bir köylü olmak için işinden ayrıldı! </value>
+    <value> Kimyagerin kim olduğunu gerçekten bilmesen bile, o sefil hatayı bir daha asla yapmayacağından eminsin. Kimyager normal bir köylü olmak için işinden ayrıldı! </value>
   </string>
   <string key = "ChemistFrozen">
-    <value> Evden çıkmak için kapıyı açtığınızda, bir rüzgar esintisi etrafınızı sararak soğuktan donmanıza neden olur 🐺☃️. Gözleriniz cebinizdeki iki iksire sabitlenmiş durumda. Görünüşe göre bu gece bahis oynayamayacaksın. </value>
+    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur 🐺❄️. Gözlerin cebindeki iki iksire sabitlenmiş durumda. Görünüşe göre bu gece bahis oynayamayacaksın. </value>
   </string>
 
   <string key = "AboutWiseElder">
-    <value> Yaşlı Bilge, kurt adam saldırısından yalnızca bir kez sağ çıkabilecektir bir dahaki sefere kurtlar yemek isterse yiyebilirler. Silahşör, avcı veya kimyager tarafından öldürülürse, güçlerini kaybedecekler ve köylü olacaklar. Yancı onu ziyaret ederse, ölme şansı %50 . </value>
+    <value> Yaşlı Bilge, kurt adam saldırısından yalnızca bir kez sağ çıkabilecektir bir dahaki sefere kurtlar yemek isterse onu kolaylıkla öldürebilecek. Silahşör, avcı veya kimyager tarafından öldürülürse, güçlerini kaybedecekler ve köylü olarak hayatlarına devam ederler. Yancı onu ziyaret ederse, ölme şansı %50 dir. </value>
   </string>
   <string key = "Policeculpable">
     <!-- 0 - hedefin adı -->
-    <value> {0}'in evini ziyaret ettikten sonra, onun zindanda olması gerektiğinden artık eminsiniz! </value>
+    <value> {0}'i uzun bir süre sorguladıktan sonra, onun zindanda olması gerektiğinden artık eminsin! </value>
   </string>
   <string key = "AboutPolice">
-    <value> Polis, köylü ya da Mason gibidir: birkaç tane olabilir. Her gece bir oyuncuyu sorgulayabilirsiniz. Masumsa %50, suçluysa %50 bilirsiniz. Aksi takdirde hiçbir şey bilemeyeceksiniz. </value>
+    <value> Jandarma, köylü ya da Mason gibidir: birkaç tane olabilir. Her gece bir oyuncuyu sorgulayabilirsiniz. Sorgulama sonucunda 3 olasılık vardır; ya sorguladığın kişinin suçlu olduğuna kanaat getireceksin, ya masum olduğuna kesninlikle inanacaksın ya da sorgulama sonucunda hiçbir şey elde edemeyeceksin (suçlu veya masum olduğunu bilemeyeceksin). </value>
   </string>
   <string key = "RoleInfoTraitor2">
-    <value> Hain! Şimdilik bir köylüsünüz, ancak köyde işlerin nasıl yürüdüğünden sıkıldığınız için, kurt adamların geri kalanı öldüğünde onlardan biri olacaksınız. </value>
+    <value> Hain! Şimdilik bir köylüsün, ancak köyde işlerin bu şekilde yürümesinden sıkıldığın için, kurt adamların geri kalanı öldüğünde onlardan biri olacaksın. </value>
   </string>
   <string key = "CursedBitten2">
     <value> Kurt adamlar tarafından ısırıldın. Görünüşe göre bir çingene size ömür boyu küfretti ama sen ona pek ilgi göstermedin Lanetli olduğun için bir kurda dönüştün! </value>
