@@ -1932,43 +1932,43 @@
   </string>
 
   <string key = "SKStabbedYou">
-    <value> Ohhh Olamazzzz Hayırrr! Seri Katil seni bıçakladı... </value>
+    <value> Ohhh Olamazzzz Hayırrr! Seri Katil seni kesip biçti... </value>
   </string>
   <string key = "PyroBurnedYou">
     <value> YANGINNN! Alevler içinde uyanıyorsun ama artık çok geç. Öldün. </value>
   </string>
 
   <string key = "Snooper">
-    <value> Koklayan Kurt 🐾 </value>
+    <value> Koklayıcı Kurt 🐾 </value>
   </string>
   <string key = "AboutSnooper">
-    <value> Koklayan kurt, kar kurdu gibi bir destek kurdudur. Her gece, bir oyuncunun gece uyanık olup olmadığını anlamak için gözetleyebilirsiniz. Ayrıca, güçlü kokusu nedeniyle hedefinizin sarhoş mu, fırıncı mı yoksa simyacı mı olduğunu belirleyebilirsiniz. Kurtların geri kalanı ölürse normal bir kurda dönüşürsünüz. Ayrıca, alfa kurt dedektifi enfekte ederse, dedektif koklayan bir kurda dönüşecektir. </value>
+    <value> Koklayıcı kurt, beyaz kurt gibi bir destek kurdudur. Her gece, bir oyuncunun gece uyanık olup olmadığını (gece aksiyonunun olup olmadığını) anlamak için gözetleyebilirsin. Ayrıca, güçlü kokusu nedeniyle hedefinin sarhoş mu, fırıncı mı yoksa otacı mı olduğunu belirleyebilirsin. Kurtların geri kalanı ölürse normal bir kurda dönüşürsün. Ayrıca, alfa kurt dedektifi enfekte ederse, dedektif koklayıcı kurda dönüşecektir. </value>
   </string>
   <string key = "AskSnoop">
-    <value> Kimi koklamak istiyorsunuz? </value>
+    <value> Kimi koklamak istiyorsun? </value>
   </string>
   <string key = "SnoopAction">
-    <value> {0} adlı kişinin evine yaklaştığınızda, bir hareket duyarsınız, bu yüzden o uyanıkmış gibi görünür. (Gece ​​eylemi vardır). </value>
+    <value> {0} adlı kişinin evine yaklaştığında, bir hareketlilik duyarsın, bu yüzden o uyanıkmış gibi görünür. (Gece ​​aksiyonu vardır). </value>
   </string>
   <string key = "SnoopNoAction">
-    <value> {0} adlı kişinin evini inceledikten sonra, alışılmadık bir şey duymuyor veya koku almıyorsunuz, {0} uyuyor gibi görünüyor. (Gece ​​hareketi yoktur). </value>
+    <value> {0} adlı kişinin evini inceledikten sonra, alışılmadık bir şey duymuyor veya koku almıyorsun, {0} uyuyor gibi görünüyor. (Gece ​​aksiyonu yoktur). </value>
   </string>
   <string key = "SnoopDrunk">
-    <value> {0} adlı kişinin evine yaklaştığınızda, güçlü bir alkol kokusu fark edersiniz. Yani {0} {1}! </value>
+    <value> {0} adlı kişinin evine yaklaştığında, güçlü bir alkol kokusu fark edersin. Yani {0} bir {1}! </value>
   </string>
   <string key = "SnoopHerbalist">
-    <value> {0} evine yaklaştığınızda, Bitki, güçlü bir zehir kokusu fark ediyorsunuz. Yani {0} {1}! </value>
+    <value> {0} evine yaklaştığınızda, Bitki, güçlü bir zehir kokusu fark ediyorsun. Yani {0} bir {1}! </value>
   </string>
   <string key = "SnoopBaker">
-    <value> {0} adlı kişinin evine yaklaşırken, taze ekmeğin nefis kokusunu alabilirsiniz. Yani {0} {1}! </value>
+    <value> {0} adlı kişinin evine yaklaşırken, taze ekmeğin nefis kokusunu alabilirsin. Yani {0} bir {1}! </value>
   </string>
   <string key = "NotEnoughMembersRanked">
-    <value> Puanlı bir oyuna başlamak için grubun en az 100 üyesi olması gerekir. /startgame ile aynı tür oyunları puan olmadan oynayabilirsiniz. </value>
+    <value> Puanlı bir oyuna başlamak için grubun en az 100 üyesi olması gerekir. /startgame ile aynı tür oyunları puan olmadan oynayabilirsin. </value>
   </string>
   <string key ="PlayerStartedRankedGame">
     <!-- 0 - Oyuncu adı -->
     <value>{0} Puanlı yeni oyun başlattı! İlk 10'a girebilecek misin?</value>
-    <value>{0} Puanlu yeni bir oyun başlattı! Eğlenceye katılmak için tıklayın... ve muhtemelen ölün :P</value>
+    <value>{0} Sıralı modda yeni bir oyun başlattı! Eğlenceye katılmak için butona tıkla... ve muhtemelen öl :P</value>
   </string>
   <string key = "DisableVillagerQ">
     <value> Köylüler (ve Lycan) devre dışı bırakılsın mı? \nŞu anda: {0} </value>
@@ -1981,7 +1981,7 @@
   </string>
 
   <string key = "StrongModeQ">
-    <value> Güçlü mod etkinleştirilsin mi? Ekibiniz için hiçbir gereksiz veya zararlı rol görünmeyecek (köylü, beceriksiz, fırıncı ...) \nŞu anda: {0} </value>
+    <value> Güçlü mod etkinleştirilsin mi? Ekibin için hiçbir gereksiz veya zararlı rol görünmeyecek (köylü, beceriksiz, fırıncı ...) \nŞu anda: {0} </value>
   </string>
   <string key = "StrongModeA">
     <value> Güçlü mod: {0} </value>
@@ -1991,99 +1991,99 @@
   </string>
 
   <string key = "ShowRankEnabled">
-    <value> Puan aralığınız sıralı oyunlarda gösterilecektir. </value>
+    <value> Puan aralığın sıralı oyunlarda gösterilecektir. </value>
   </string>
   <string key = "ShowRankDisabled">
-    <value> Puan aralığınız hiçbir oyunda gösterilmeyecek. </value>
+    <value> Puan aralığın hiçbir oyunda gösterilmeyecek. </value>
   </string>
   <string key = "CantShowRank">
-    <value> Puanınız bu komutu kullanmak için çok düşük. Önce 1000 puana ulaşın. </value>
+    <value> Puanın bu komutu kullanmak için çok düşük. Önce 1000 puana ulaşın. </value>
   </string>
 
   <string key = "NoRoleProvided">
-    <value> /toprole komutunu ve ardından bir rolün emojisini kullanmalısınız. </value>
+    <value> /toprole komutunu ve ardından bir rolün emojisini kullanmalısın. </value>
   </string>
 
   <string key = "CantSetRolelist">
-    <value> Aralığınız bu komutu kullanmak için çok düşük. Önce 2.200 puana ulaşın. </value>
+    <value> Puan aralığın bu komutu kullanmak için çok düşük. Önce 2.200 puana ulaş. </value>
   </string>
   <string key = "RolelistSaved">
     <value> Değişiklikler kaydedildi! </value>
   </string>
   <string key = "IsThisAmnesia">
-    <!-- Hafıza kaybı diliyse "Evet" yazın! Değilse, başka herhangi bir şey çalışır -->
+    <!-- Unutkan diliyse "Evet" yazın! Değilse, başka herhangi bir şey çalışır -->
     <value> Hayır </value>
   </string>
   <string key = "NewDGRoleModel">
     <!-- 0 - hedefin adı -->
-    <value> Siz bir Çiftgidensiniz. Rol modeliniz : {0} </value>
+    <value> Sen bir Çiftgidensin. Rol modelin : {0} </value>
   </string>
 
   <string key = "SpeedWolf">
     <value> Hızlı Kurt 🐺💨 </value>
   </string>
   <string key = "AboutSpeedWolf">
-    <value> Hızlı Kurt sürünün en hızlısıdır ve o gün linç edilmekten kaçmak için bir kez kaçabilir. Ancak böyle yaparak herkes hızlı kurt olduğunu bilecek ve ertesi gün linç edecekler. Doğru anı bekleyin! </value>
+    <value> Hızlı Kurt sürünün en hızlısıdır ve o gün linç edilmekten kaçmak için bir kez kaçabilir. Ancak böyle yaparak herkes hızlı kurt olduğunu bilecek ve ertesi gün linç edecekler. Doğru anı bekle! </value>
   </string>
 
   <string key = "Lookout">
-    <value> Gözlemci 🔭 </value>
+    <value> Nöbetçi 🔭 </value>
   </string>
   <string key = "AboutLookout">
-    <value> Gözlemci, her gece birinin evine bakabilen çok meraklı bir köylüdür. O gece sizi ziyaret eden tüm insanların isimlerini bileceksiniz. Ancak, hedefinize saldırılırsa, yalnızca kurtlardan birinin adını görebilirsiniz. </value>
+    <value> Nöbetçi, her gece birinin evine bakabilen çok meraklı bir köylüdür. O gece evini gözlediğin kişinin ziyaretçileri varsa hepsinin isimlerini bileceksin. Ancak, hedefine saldırılırsa, yalnızca kurtlardan birinin adını görebilirsin. </value>
   </string>
 
   <string key = "Guard">
-    <value> Koruma 🛡 </value>
+    <value> Muhafız 🛡 </value>
   </string>
   <string key = "AboutGuard">
-    <value> Koruma, köylü gibi tekrar eden bir roldür. Her gece bir oyuncuyu savunabilir ve saldırıya uğrarsa onu kurtarmak için %20 şansı vardır. Birden fazla koruma aynı kişiyi savunursa, olasılıkları artar ve 5 koruma yapmak mükemmel bir savunma oluşturur. Ayrıca, korumalar varsa, minimum 2 kişi olacaklardır. </value>
+    <value> Muhafız, köylü gibi tekrar eden bir roldür. Her gece bir oyuncuyu savunabilir ve saldırıya uğrarsa onu kurtarmak için %20 şansı vardır. Birden fazla koruma aynı kişiyi savunursa, olasılıkları artar ve 5 muhafız ile mükemmel bir kombinasyon oluşturarak kusursuz bir savunma oluşturulur. Ayrıca, oyunda muhafız varsa, minimum 2 kişi olacaklardır. </value>
   </string>
 
   <string key = "SpeedWolfRunning">
-    <value>{0} Kaçmadan önce herkesin önüne çıkıyor ve "HAHAHAHHAHA Orada kalın saflar!" diyor ve arkasına bakmadan topukluyor. Korkak Tavuk {0} Hızlı Kurt ve bugün onu linç edemezsiniz. İllaki elimize düşeceksin! </value>
+    <value>{0} Kaçmadan önce herkesin önüne çıkıyor ve "ZZOOOORRRTTT Hadi köyünüze dönün!" diyor ve arkasına bakmadan topukluyor. Korkak Tavuk {0} Hızlı Kurt ve bugün onu linç edemezsiniz. İllaki elimize düşeceksin! </value>
   </string>
   <string key = "AskRunaway">
-    <value>Kaçmak ve linç edilmemek mi istiyorsun? Şimdi böyle yaparak kendini bir kurt olarak göstereceksin. Ama linç olmayacaksın. </value>
+    <value>Kaçmak ve linç edilmekten kurtulmak istiyor musun? Şimdi böyle yaparak kendini bir kurt olarak göstereceksin. Ama linç olmayacaksın. </value>
   </string>
   <string key = "RunAway">
-    <value>Kaçın! </value>
+    <value>Kaç! </value>
   </string>
   <string key = "SpeedWolfLynched">
-    <value>{0} adlı kişiyi linç etmek üzeresiniz, ama ... o ortadan kayboldu! Ardına bakmadan kaçmış gibi görünüyor. Yarın onu daha sıkı tutun. </value>
+    <value>{0} adlı kişiyi linç etmek üzeresin, ama ... o ortadan kayboldu! Ardına bakmadan kaçmış gibi görünüyor. Yarın onu daha sıkı tutun. </value>
   </string>
 
   <string key = "GuardsStopWolf">
     <!-- 0 - hedefin adı -->
-    <value>Kurt sürüsü, vücuduyla ziyafet çekmek için {0}'ın evine gider ancak etrafı korumalar tarafından çevrilmiş olarak bulurlar. Böyle korunan birisine saldırmak iyi bir fikir değildir bu yüzden geri dönerler. </value>
+    <value>Kurt sürüsü, vücuduyla ziyafet çekmek için {0}'in evine gider ancak etrafı muhafızlar tarafından çevrilmiş olarak bulurlar. Böyle korunan birisine saldırmak iyi bir fikir değildir bu yüzden geri dönerler. </value>
   </string>
   <string key = "GuardsStopArso">
-    <value>{0} adlı kişinin evine yaklaştığınızda, onu koruyan korumalar görürsünüz, bu yüzden şimdilik geri çekilirsiniz. </value>
+    <value>{0} adlı kişinin evine yaklaştığında, onu koruyan muhafızları görürsün, bu yüzden şimdilik geri çekilirsin. </value>
   </string>
   <string key = "GuardsStopKiller">
-    <value>Koleksiyonunuza {0}'in cesedini eklemek istediniz ama korumalar sana engel oldu! Yine de kaçmadan önce onlardan birini öldürmeyi başardınız. </value>
+    <value>Koleksiyonuna {0}'in cesedini eklemek istedin ama muhafızlar sana engel oldu! Yine de kaçmadan önce onlardan birini öldürmeyi başardın. </value>
   </string>
   <string key = "GuardsFail">
-    <value>{0} saldırıya uğradı! Ancak, onu yeterince koruyamadınız ve saldırıyı durduramadınız. Çok yazık :( </value>
+    <value>{0} saldırıya uğradı! Ancak, onu yeterince koruyamadın ve saldırıyı durduramadın. Çok yazık :( </value>
   </string>
   <string key = "GuardSacrificed">
-    <value>Bu gece köyün her yerinde metal çarpışması duyulacak. Korumalar, bir kişiyi kurtarmak için katille yüzleşti. Başardılar, ancak {0} kavgada öldü. </value>
+    <value>Bu gece köyün her yerinde metal çarpışması duyuldu. Muhafızlar, bir kişiyi kurtarmak için seri katille yüzleşti. Başardılar, ancak {0} kavgada öldü. </value>
   </string>
   <string key = "GuardHero">
-    <value>{0}'in hayatını kurtardınız! Ancak, suikastçıya karşı verilen mücadele seni çok ağır yaraladı ve sen öldün ... </value>
+    <value>{0}'in hayatını kurtardın! Ancak, seri katile karşı verilen mücadele seni çok ağır yaraladı ve sen öldün ... </value>
   </string>
   <string key = "AskProtect">
     <value>Kimi korumak istiyorsun? </value>
   </string>
 
   <string key = "LookoutNoVisits">
-    <value>Bütün geceyi {0} adlı kişinin evine bakarak geçirdiniz, ancak kimse onu ziyaret etmedi. </value>
+    <value>Bütün geceyi {0} adlı kişinin evine bakarak geçirdin, ancak kimse onu ziyaret etmedi. </value>
   </string>
   <string key = "LookoutVisits">
-    <value>{0} adlı kişinin evine bakarken, {1}'in bu kişinin evini ziyaret ettiğini gördün... </value>
+    <value>{0} adlı kişinin evine bakarken, {1}'in onun evini ziyaret ettiğini gördün... </value>
   </string>
   <string key = "AskLook">
-    <value>Kime bakmak istiyorsunuz? </value>
+    <value>Kime bakmak istiyorsun? </value>
   </string>
 
   <string key = "WolfVotedFreeze">
@@ -2094,22 +2094,22 @@
   </string>
 
   <string key = "RandomTip">
-    <value>Bunları Biliyor Musunuz? : Botla ilgili ilginç bilgileri paylaşmak için oyun sırasında rastgele görünebiliriz. Hepsini okuyabilecek misin? </value>
-    <value>Bunları Biliyor Musunuz? : Koruma rolü asla tek başına ortaya çıkamaz. Minimum 2 kişi (veya daha fazla) olacaktır. </value>
-    <value>Bunları Biliyor Musunuz? : Oyunlarda, Köylü, Polis, Mason, Koruma ve Kurtadam dışında her rol benzersizdir. Bununla birlikte, hemen hemen her rol Süper Kaos modunda tekrarlanabilir. </value>
-    <value>Bunları Biliyor Musunuz? : Süper Kaos modu rolleri tekrar etme eğilimindedir. Yani, tekrar eden role sahip biri, başka hiç kimsenin sahip olmadığı bir rolü olduğunu iddia eden birinden daha güvenilirdir. </value>
-    <value>Bunları Biliyor Musunuz? : Alfa kurt, Muhtar ve Eros Süper Kaos modunda tekrarlanmaz. Diğerleri tekrar eder. </value>
-    <value>Bunları Biliyor Musunuz? : Seri Katil, korumalar yüzünden saldırısını kaçırırsa, onlardan birini rastgele öldürecek. </value>
-    <value>Bunları Biliyor Musunuz? : Simyacı, köyün daha güçlü bir rolüdür. Gözcü gibi saklanmak zorundadır çünkü onun ölümü köylüleri büyük bir dezavantaja uğratacaktır. Eğer bir melek veya koruyucuysanız, onu korumaktan çekinmeyin! </value>
-    <value>Bunları Biliyor Musunuz? : Dedektif tekniğini geliştirdi ve artık yalnızca normal kurtlar, alfa kurt ve koklayan kurt tarafından keşfedilebilir. Diğer kurtlar artık onu keşfedemez. </value>
-    <value>Bunları Biliyor Musunuz? : Yancı, kundakçının rolünü anlayamaz. Ancak, ziyaretleri sayesinde Yancı kendisini iyi olarak doğrulatabildiği için yine de faydalıdır. </value>
-    <value>Bunları Biliyor Musunuz? : Şifacı yalnızca köy rollerini canlandırabilir. Yani, birisi Yutulmuş olarak ölürse ve onu diriltmenize izin vermezse, köyden olmadığı sonucuna varabilirsiniz! </value>
-    <value>Bunları Biliyor Musunuz? : Birisi Yutulmuş olarak listelenmişse, Aç Gözlü Kurt tarafından öldürülmüş demektir, bu da köyün kafasını karıştırmak için kurbanlarının rolünü gizleyebilir. </value>
-    <value>Bunları Biliyor Musunuz? : Ninja saldırıya uğradığında art arda birkaç gece saklanabilir. Ancak, saklanırsa ve saldırıya uğramazsa, sonraki gece dinlenmelidir. </value>
-    <value>Bunları Biliyor Musunuz? : Yemeyen ve destek eylemleri olan iki kurt vardır: kar kurdu ve koklayan kurt. Kurtsanız, bunu aklınızda bulundurun ve yeteneklerini boşa harcayacağınız gibi onların ziyaret ettiklerini yemek için oy vermeyin. </value>
-    <value>Bunları Biliyor Musunuz? : Bu bot, yalnızca 5 kişiden oluşan oyunları oynamanıza izin verir, ancak bu oyunlarda yancı, lanetli veya alfa kurt gibi belirli roller devre dışı bırakılır. </value>
-    <value>Bunları Biliyor Musunuz? : Bu bot, 80 oyuncuya kadar oyun oynamanıza izin verir. Ayrıca özel oyunlardan tam anlamıyla keyif alabilmek için 30 oyuncudan sonra İblis rolü devre dışı bırakılır. </value>
-    <value>Bunları Biliyor Musunuz? : Beceriksizin rastgele bir kişiyi linç etme şansı %50'dir. Ancak bu rastgele kişi, oy kullandığı aynı kişi olabilir. Yani, oy verecek 2 kişi kaldıysa, doğru oyların %75'ine sahipsiniz demektir! </value>
+    <value>Bunları Biliyor Muydunuz? : Botla ilgili ilginç bilgileri paylaşmak için oyun sırasında rastgele görünebiliriz. Hepsini okuyabilecek misin? </value>
+    <value>Bunları Biliyor Muydunuz? : Koruma rolü asla tek başına ortaya çıkamaz. Minimum 2 kişi (veya daha fazla) olacaktır. </value>
+    <value>Bunları Biliyor Muydunuz? : Oyunlarda, Köylü, Polis, Mason, Koruma ve Kurtadam dışında her rol benzersizdir. Bununla birlikte, hemen hemen her rol Süper Kaos modunda tekrarlanabilir. </value>
+    <value>Bunları Biliyor Muydunuz? : Süper Kaos modu rolleri tekrar etme eğilimindedir. Yani, tekrar eden role sahip biri, başka hiç kimsenin sahip olmadığı bir rolü olduğunu iddia eden birinden daha güvenilirdir. </value>
+    <value>Bunları Biliyor Muydunuz? : Alfa kurt, Muhtar ve Eros Süper Kaos modunda tekrarlanmaz. Diğerleri tekrar eder. </value>
+    <value>Bunları Biliyor Muydunuz? : Seri Katil, korumalar yüzünden saldırısını kaçırırsa, onlardan birini rastgele öldürecek. </value>
+    <value>Bunları Biliyor Muydunuz? : Simyacı, köyün daha güçlü bir rolüdür. Gözcü gibi saklanmak zorundadır çünkü onun ölümü köylüleri büyük bir dezavantaja uğratacaktır. Eğer bir melek veya koruyucuysanız, onu korumaktan çekinmeyin! </value>
+    <value>Bunları Biliyor Muydunuz? : Dedektif tekniğini geliştirdi ve artık yalnızca normal kurtlar, alfa kurt ve koklayan kurt tarafından keşfedilebilir. Diğer kurtlar artık onu keşfedemez. </value>
+    <value>Bunları Biliyor Muydunuz? : Yancı, kundakçının rolünü anlayamaz. Ancak, ziyaretleri sayesinde Yancı kendisini iyi olarak doğrulatabildiği için yine de faydalıdır. </value>
+    <value>Bunları Biliyor Muydunuz? : Şifacı yalnızca köy rollerini canlandırabilir. Yani, birisi Yutulmuş olarak ölürse ve onu diriltmenize izin vermezse, köyden olmadığı sonucuna varabilirsiniz! </value>
+    <value>Bunları Biliyor Muydunuz? : Birisi Yutulmuş olarak listelenmişse, Aç Gözlü Kurt tarafından öldürülmüş demektir, bu da köyün kafasını karıştırmak için kurbanlarının rolünü gizleyebilir. </value>
+    <value>Bunları Biliyor Muydunuz? : Ninja saldırıya uğradığında art arda birkaç gece saklanabilir. Ancak, saklanırsa ve saldırıya uğramazsa, sonraki gece dinlenmelidir. </value>
+    <value>Bunları Biliyor Muydunuz? : Yemeyen ve destek eylemleri olan iki kurt vardır: kar kurdu ve koklayan kurt. Kurtsanız, bunu aklınızda bulundurun ve yeteneklerini boşa harcayacağınız gibi onların ziyaret ettiklerini yemek için oy vermeyin. </value>
+    <value>Bunları Biliyor Muydunuz? : Bu bot, yalnızca 5 kişiden oluşan oyunları oynamanıza izin verir, ancak bu oyunlarda yancı, lanetli veya alfa kurt gibi belirli roller devre dışı bırakılır. </value>
+    <value>Bunları Biliyor Muydunuz? : Bu bot, 80 oyuncuya kadar oyun oynamanıza izin verir. Ayrıca özel oyunlardan tam anlamıyla keyif alabilmek için 30 oyuncudan sonra İblis rolü devre dışı bırakılır. </value>
+    <value>Bunları Biliyor Muydunuz? : Beceriksizin rastgele bir kişiyi linç etme şansı %50'dir. Ancak bu rastgele kişi, oy kullandığı aynı kişi olabilir. Yani, oy verecek 2 kişi kaldıysa, doğru oyların %75'ine sahipsiniz demektir! </value>
   </string>
 
   <string key = "RandomTargetChosen">
