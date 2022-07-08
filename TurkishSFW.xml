@@ -2095,21 +2095,21 @@
 
   <string key = "RandomTip">
     <value>Bunları Biliyor Muydunuz? : Botla ilgili ilginç bilgileri paylaşmak için oyun sırasında rastgele görünebiliriz. Hepsini okuyabilecek misin? </value>
-    <value>Bunları Biliyor Muydunuz? : Koruma rolü asla tek başına ortaya çıkamaz. Minimum 2 kişi (veya daha fazla) olacaktır. </value>
-    <value>Bunları Biliyor Muydunuz? : Oyunlarda, Köylü, Polis, Mason, Koruma ve Kurtadam dışında her rol benzersizdir. Bununla birlikte, hemen hemen her rol Süper Kaos modunda tekrarlanabilir. </value>
+    <value>Bunları Biliyor Muydunuz? : Muhafız rolü asla tek başına ortaya çıkamaz. Minimum 2 kişi (veya daha fazla) olacaktır. </value>
+    <value>Bunları Biliyor Muydunuz? : Oyunlarda, Köylü, Polis, Mason, Muhafız ve Kurtadam dışında her rol benzersizdir. Bununla birlikte, hemen hemen her rol Süper Kaos modunda tekrarlanabilir. </value>
     <value>Bunları Biliyor Muydunuz? : Süper Kaos modu rolleri tekrar etme eğilimindedir. Yani, tekrar eden role sahip biri, başka hiç kimsenin sahip olmadığı bir rolü olduğunu iddia eden birinden daha güvenilirdir. </value>
     <value>Bunları Biliyor Muydunuz? : Alfa kurt, Muhtar ve Eros Süper Kaos modunda tekrarlanmaz. Diğerleri tekrar eder. </value>
-    <value>Bunları Biliyor Muydunuz? : Seri Katil, korumalar yüzünden saldırısını kaçırırsa, onlardan birini rastgele öldürecek. </value>
-    <value>Bunları Biliyor Muydunuz? : Simyacı, köyün daha güçlü bir rolüdür. Gözcü gibi saklanmak zorundadır çünkü onun ölümü köylüleri büyük bir dezavantaja uğratacaktır. Eğer bir melek veya koruyucuysanız, onu korumaktan çekinmeyin! </value>
-    <value>Bunları Biliyor Muydunuz? : Dedektif tekniğini geliştirdi ve artık yalnızca normal kurtlar, alfa kurt ve koklayan kurt tarafından keşfedilebilir. Diğer kurtlar artık onu keşfedemez. </value>
+    <value>Bunları Biliyor Muydunuz? : Seri Katil, muhafızlar yüzünden saldırısını gerçekleştiremez ise, onlardan birini rastgele öldürecek. </value>
+    <value>Bunları Biliyor Muydunuz? : Otacı, köyün daha güçlü bir rolüdür. Gözcü gibi saklanmak zorundadır çünkü onun ölümü köylüleri büyük bir dezavantaja uğratacaktır. Eğer bir melek veya muhafız isen, onu korumaktan çekinme! </value>
+    <value>Bunları Biliyor Muydunuz? : Dedektif tekniğini geliştirdi ve artık yalnızca normal kurtlar, alfa kurt ve koklayıcı kurt tarafından keşfedilebilir. Diğer kurtlar artık onu keşfedemez. </value>
     <value>Bunları Biliyor Muydunuz? : Yancı, kundakçının rolünü anlayamaz. Ancak, ziyaretleri sayesinde Yancı kendisini iyi olarak doğrulatabildiği için yine de faydalıdır. </value>
-    <value>Bunları Biliyor Muydunuz? : Şifacı yalnızca köy rollerini canlandırabilir. Yani, birisi Yutulmuş olarak ölürse ve onu diriltmenize izin vermezse, köyden olmadığı sonucuna varabilirsiniz! </value>
-    <value>Bunları Biliyor Muydunuz? : Birisi Yutulmuş olarak listelenmişse, Aç Gözlü Kurt tarafından öldürülmüş demektir, bu da köyün kafasını karıştırmak için kurbanlarının rolünü gizleyebilir. </value>
+    <value>Bunları Biliyor Muydunuz? : Şifacı yalnızca köy rollerini canlandırabilir. Yani, birisi tanınmaz olarak ölürse ve onu diriltmene izin vermezse, köyden olmadığı sonucuna varabilirsin! </value>
+    <value>Bunları Biliyor Muydunuz? : Birisi Tanınmaz olarak listelenmişse, Aç Kurt tarafından öldürülmüş demektir, bu da köyün kafasını karıştırmak için kurbanlarının rolünü gizleyebilir. </value>
     <value>Bunları Biliyor Muydunuz? : Ninja saldırıya uğradığında art arda birkaç gece saklanabilir. Ancak, saklanırsa ve saldırıya uğramazsa, sonraki gece dinlenmelidir. </value>
-    <value>Bunları Biliyor Muydunuz? : Yemeyen ve destek eylemleri olan iki kurt vardır: kar kurdu ve koklayan kurt. Kurtsanız, bunu aklınızda bulundurun ve yeteneklerini boşa harcayacağınız gibi onların ziyaret ettiklerini yemek için oy vermeyin. </value>
-    <value>Bunları Biliyor Muydunuz? : Bu bot, yalnızca 5 kişiden oluşan oyunları oynamanıza izin verir, ancak bu oyunlarda yancı, lanetli veya alfa kurt gibi belirli roller devre dışı bırakılır. </value>
-    <value>Bunları Biliyor Muydunuz? : Bu bot, 80 oyuncuya kadar oyun oynamanıza izin verir. Ayrıca özel oyunlardan tam anlamıyla keyif alabilmek için 30 oyuncudan sonra İblis rolü devre dışı bırakılır. </value>
-    <value>Bunları Biliyor Muydunuz? : Beceriksizin rastgele bir kişiyi linç etme şansı %50'dir. Ancak bu rastgele kişi, oy kullandığı aynı kişi olabilir. Yani, oy verecek 2 kişi kaldıysa, doğru oyların %75'ine sahipsiniz demektir! </value>
+    <value>Bunları Biliyor Muydunuz? : Yemeyen ve destek eylemleri olan iki kurt vardır: beyaz kurt ve koklayıcı kurt. Kurtsanız, bunu aklında bulundur ve kurt sürün kimi yemeyi tercih ederse onlardan bağımsız farklı bir seçim yap. </value>
+    <value>Bunları Biliyor Muydunuz? : Bu bot, yalnızca 5 kişiden oluşan oyunları oynamana izin verir, ancak bu oyunlarda yancı, lanetli veya alfa kurt gibi belirli roller devre dışı bırakılır. </value>
+    <value>Bunları Biliyor Muydunuz? : Bu bot, 80 oyuncuya kadar oyun oynamana izin verir. Ayrıca özel oyunlardan tam anlamıyla keyif alabilmek için 30 oyuncudan sonra İblis rolü devre dışı bırakılır. </value>
+    <value>Bunları Biliyor Muydunuz? : Beceriksizin rastgele bir kişiyi linç etme şansı %50'dir. Ancak bu rastgele kişi, oy kullandığı aynı kişi olabilir. Yani, oy verecek 2 kişi kaldıysa, doğru oyların %75'ine sahipsin demektir! </value>
   </string>
 
   <string key = "RandomTargetChosen">
