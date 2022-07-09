@@ -3586,39 +3586,39 @@
     <value> Sen Polissin. Her gece bir oyuncuyu sorgulayabilirsiniz. Masumsa, bilmek için %50 şansın var. Suçluysa, bunu bilmek için % 50 şansa sahipsiniz. Ayrıca birkaç polis de olabilir. İşinizi nasıl yaptığınıza bağlı olarak terfi edebilir veya rütbeniz düşürülebilir de!. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Polis eylemi yapar. \nSizi ziyaret ederlerse: \nZombiler: \nZiyaret ederseniz: %50 enfeksiyon veya hayatta kalma var (zombi keşfedin). \nZiyaret ederlerse: %30 enfeksiyon veya hayatta kalma oranı var. </value>
   </string>
   <string key = "RoleInfoBeauty">
-    <value> Sen Güzelsin. Köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana aşık olacak. Aşıkların ölürse yaşamayacaksın yani ziyarete gelen son kişi ölürse sen de ölürsün. Son ziyaretçiniz kazanırsa siz de kazanırsınız, kazanırsanız rolü ne olursa olsun onunla kazanırsınız. Seri katile dikkat et, O seni öldürebilir ve sana aşık olmaz. Köye yardım etmek için her zaman sizi kimin ziyaret ettiğini söylemelisiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüştürün. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüştürmek. </value>
+    <value> Sen Afetsin. Köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana aşık olacak. Aşıkların ölürse yaşamayacaksın yani ziyarete gelen son kişi ölürse sen de ölürsün. Son ziyaretçin kazanırsa sen de kazanırsın, kazanırsan rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, O seni öldürebilir ve sana aşık olmaz. Köye yardım etmek için her zaman seni kimin ziyaret ettiğini söylemelisin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüştüm. </value>
   </string>
   <string key = "RoleInfoNecromancer">
-    <value> Sen Necromancersin. Gece boyunca, oyunun geri kalanında ölü bir adamın rolü olmayı seçebilirsiniz. Ancak akıllıca seçim yapın, çünkü Necromancer kalarak bir oyunu kazanamazsınız. \n\nTakım: Takım seçene kadar Köy. \n\nDönüşümler: \nVampirler: Rol alana kadar bağışıktır. \nZombiler: Enfekte olma veya hayatta kalma şansı %50'dir. </value>
+    <value> Sen Reenkarnistsin. Gece boyunca, oyunun geri kalanında ölü bir adamın rolü olmayı seçebilirsin. Ancak akıllıca seçim yapın, çünkü Reenkarnist kalarak bir oyunu kazanamazsın. Tıpkı Çift giden'de olduğu gibi... \n\nTakım: Takım seçene kadar Köy. \n\nDönüşümler: \nVampirler: Rol alana kadar bağışıklılığı var. \nZombiler: Enfekte olma veya hayatta kalma şansı %50'dir. </value>
   </string>
   <string key = "RoleInfoTiti">
     <value>
-      Sen Kuklacısın. Başkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişiye ne istersen onu yaptırmak için güçlerini kullanabilirsin. Kontrol ettiğiniz her üç kişi için, kendinizi saldırılara ve hatta linçlere karşı koruyacak bir kuklanınız olacak. \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Vampiri kontrol edersin. \nSizi ziyaret ederlerse: Kendini koruyacak bir kuklası yoksa, onu öldürme veya dönüştürme şansı %50'dir. \nZombiler: \nZiyaret ederseniz: Bir zombiyi kontrol edersiniz. \nSizi ziyaret ederlerse : %50 hayatta kalma oranı veya enfeksiyonu var.
+      Sen Kukla Ustasısın. Başkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişiye ne istersen onu yaptırmak için güçlerini kullanabilirsin. Kontrol ettiğin her üç kişi için, kendini saldırılara ve hatta linçlere karşı koruyacak bir kuklanın olacak. \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Vampiri kontrol edersin. \nSeni ziyaret ederlerse: Kendini koruyacak bir kuklan yoksa, ölme veya dönüşme şansı %50'dir. \nZombiler: \nZiyaret edersen: Bir zombiyi kontrol edersin. \nSeni ziyaret ederlerse : %50 hayatta kalma oranı veya enfeksiyon.
     </value>
   </string>
   <string key = "RoleInfocazadornoche">
     <value>
-      Sen Gecenin Avcısısın. Her gece bir oyuncu seçin; seçtiğiniz kişi gecenin bir yaratığı ise, o oyuncu ölür. Yaratıklar sizi öldürmeye çalışırsa, köyde ölüden daha fazla canlı olduğu sürece ölecekler. \n\nTakım: Köy. \nAsistanlarımız: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Simyacı \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Bir vampirin ölümü. \nSizi ziyaret ederlerse: Vampir ölür. \nZombiler: Her durumda zombi ölümü..
+      Sen Kelle Avcısısın. Her gece bir oyuncu seç; seçtiğin kişi gecenin bir yaratığı ise, o oyuncu ölür. Yaratıklar seni öldürmeye çalışırsa, köydeki ölü sayısı canlı sayısından az olduğu sürece ölecekler. \n\nTakım: Köy. \nAsistanların: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Bir vampirin ölümü. \nSeni ziyaret ederlerse: Vampir ölür. \nZombiler: Her durumda zombi ölümü..
     </value>
   </string>
   <string key = "RoleInfovampir">
     <value>
-      Sen Vampirsin. Her gece kanını emecek bir av seçebileceksiniz ve susuzluğunuz arttıkça, birisi ayak izlerinizi takip etmek istemeden önce çok sayıda ölüm olacak. Kurt adamların ve vampirlerin zamanın başından beri düşman olduğu biliniyor, eğer biriyle karşı karşıya kalırsanız bir ölüm kalım savaşı vereceksiniz. Bir avcıyı ziyaret ederseniz dikkatli olun, çünkü onu dönüştürmezseniz ve korkunç bir şekilde ölürsünüz. \n\nTakım: Vampirler. \n\nDönüşümler: \nZombiler: Her durumda zombi ölümü.
+      Sen Vampirsin. Her gece kanını emmek için bir av seçebileceksin ve susuzluğun arttıkça, birisi ayak izlerini takip etmek istemeden önce çok sayıda ölüm olacak. Kurt adamların ve vampirlerin zamanın başından beri düşman olduğu biliniyor. Eğer biriyle karşı karşıya kalırsan bir ölüm kalım savaşı vereceksin. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştürmezsen korkunç bir şekilde ölürsün. \n\nTakım: Vampirler. \n\nDönüşümler: \nZombiler: Her durumda zombi ölümü.
     </value>
   </string>
   <string key = "RoleInfoidiot">
-    <value> Sen "Aptal"sın. Halk tarafından linç edilmedikçe özel bir gücün yoktur. Bu durumda, sanki Ace Ventura'ymış gibi, gerçekten kayıp bir aptalmış gibi aptalca bir şey yapacaksın ve herkes hatasını anlayacaktır; Aptal hala hayatta olabilir ve oyuna devam edebilir, ancak oylamaya katılma hakkı kalmaz. Bununla birlikte, tartışmalara katılmaya ve istediğiniz kadar konuşmaya devam edebilirsiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Ölmek için %50 , ölmezseniz %75 dönüşüm. \nZombiler: Her zaman dönüştürür. </value>
+    <value> Sen "Deli"sin. Halk tarafından linç edilmedikçe özel bir gücün yoktur. Bu durumda, sanki Ace Ventura'ymış gibi, gerçekten kayıp bir deli gibi salak saçma bir şey yapacaksın ve herkes hatasını anlayacaktır; Deli hâlâ hayatta olabilir ve oyuna devam edebilir, ancak oylamaya katılma hakkı kalmaz. Bununla birlikte, tartışmalara katılmaya ve istediğin kadar konuşmaya devam edebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Ölmek için %50 , ölmezsen %75 dönüşüm. \nZombiler: Her zaman dönüştürür. </value>
   </string>
   <string key = "RoleInfoflautista">
-    <value> Sen Kavalcısın. Kavalcı yalnız bir roldür. Her gece iki oyuncuyu eski bir melodiyle büyüleyebilirsiniz. Tüm canlı oyuncuları büyülerseniz kazanırsınız. Bazı yaratıklar sizi evde bulamayacak, ancak seri katile dikkat edin. \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Büyülü vampir. \nZiyaret ederlerse: Evde bulurlar. \nZombiler: \nZiyaret ederseniz: Sadece zombi büyülenir. \nSizi ziyaret ederlerse: Sizi evde bulamazlar. </value>
+    <value> Sen İllüzyonistsin. İllüzyonist yalnız bir roldür. Her gece iki oyuncuyu eski bir melodiyle büyüleyebilirsin. Tüm canlı oyuncuları büyülersen kazanırsın. Bazı yaratıklar seni evde bulamayacak, ancak seri katile dikkat ed. \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Vampir hipnoz olur. \nZiyaret ederlerse: Seni evde bulamazlar. \nZombiler: \nZiyaret edersen: Zombi büyülenir. \nSeni ziyaret ederlerse: Seni evde bulamazlar. </value>
   </string>
   <string key = "RoleInfotimetraveler">
     <value>
-      Sen Zaman Yolcususun. Makinenizi yeniden inşa etmenize yardım etmesi için 4 köylüyü ikna etmelisiniz. Kötü roller size yardımcı olmaz, bu yüzden amacınıza yardımcı olarak sayılmazlar. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \n-Ziyaret ederseniz: Onları tespit etmez. \nGittlerse: %25 öldü, ölmezse %33 dönüşüm var. \nZombiler: \nZiyaret ederseniz: Zombi olduğunuzu bilmeden hayatta kalın. \nSizi ziyaret ederlerse: Orada enfekte olmanın veya hayatta kalmak %30
+      Sen Zaman Yolcususun. Makineni yeniden inşa etmene yardım etmesi için 4 köylüyü ikna etmelisin. Kötü roller sana yardımcı olmaz, bu yüzden amacına yardımcı olarak sayılmazlar. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \n-Ziyaret edersen: Onları tespit edemezsib. \nZiyaret ederlerse: %25 ölüm, ölmezsen %33 dönüşüm. \nZombiler: \nZiyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \nSeni ziyaret ederlerse: Orada enfekte olmanın veya hayatta kalmanın oranı %30.
     </value>
   </string>
   <string key = "RoleInfozombi">
-    <value> Sen Zombisin. Zombiler konuşmadığı için oyunlarda konuşamazsınız. Aklınız ve mantığınız olmadığı için tüm seçimleriniz rastgele. Birini ısırırsanız, ertesi gece enfeksiyon nedeniyle dönüşecekler, bir başkası o kadar şanslı olmayacak ve daha fazlasını yiyebilmeniz için hemen dönüşecekler. \n\nTakım: Zombiler. \n\nDönüşümler: \nVampirler: Her durumda zombi ölümü . </value>
+    <value> Sen Zombisin. Zombiler konuşmadığı için oyunlarda konuşamazsın. Aklın ve mantığın olmadığı için tüm seçimlerin rastgele. Birini ısırırsan, ertesi gece enfeksiyon nedeniyle dönüşecekler, bir başkası o kadar şanslı olmayacak ve daha fazlasını yiyebilmen için hemen dönüşecekler. \n\nTakım: Zombiler. \n\nDönüşümler: \nVampirler: Her durumda zombi ölümü . </value>
   </string>
 
   <string key = "porcentajesv">
@@ -3626,47 +3626,47 @@
       VAMPİRE DÖNÜŞME OLASILIĞI
       \n\nBu roller vampirleri öldürebilir:
       \nSeri Katil 🔪:%20 ve her zaman bir vampir ölür.
-      \nGece Avcısı 🌙: Köyün yarısından fazlası hayatta olduğunda vampirler ölür, aksi takdirde %50 şansla bir vampir veya avcı ölür.
-      \nHızlı Kurt 🐺: Vampir öldürmek veya kurt öldürmek için %50.
-      \nAvcı 🎯: Vampirleşmek için %50, yoksa vampir olarak ölmek için %50.
-      \nAteş Kurt 🐺🔥
+      \nKelle Avcısı 🌙: Köyün yarısından fazlası hayatta olduğunda vampirler ölür, aksi takdirde %50 şansla bir vampir veya Kelle Avcısı ölür.
+      \nHızlı Kurt 🐺: Vampir ölümü veya kurt ölümü için %50.
+      \nAvcı 🎯: Dönüşüm için %50, yoksa vampir ölümü için %50.
+      \nCehennem Kurdu 🐺🔥
 	  
       \n\nÖzel koşullara sahip roller:
-      \nKuklacı 🎎: Öldürmek için %50, vampirleştirmek için %33 yaşıyorsa (Eğer kuklası yoksa).
-      \nNinja 💨:%50'si vampirleşmek için yaşıyorsa öldürmek için %50 (Gizli değilse).
-      \nMezarcı ☠️:%50'si vampirleşmek için yaşarsa öldürmek için %50 (Bekleyen mezarı yoksa).
-      \nYancı 💋:%50'si vampirleşmek için yaşıyorsa öldürmek için %50 (Evden çıkmazsa).
+      \nKukla Ustası 🕴: Ölüm için %50, yaşıyor ise dönüşüm için %33 (Eğer kuklası yoksa).
+      \nNinja 🥷:Ölüm için %50, yaşıyor ise dönüşüm için %50 (tetikte değilse).
+      \nMezarcı ☠️:Ölüm için %50, yaşıyor ise dönüşüm için %50 (Bekleyen mezarı yoksa).
+      \nYancı 💋:Ölüm için %50, yaşıyor ise dönüşüm için %50 (Evden çıkmazsa).
       \nUyurgezer 😴:%100 (Evden çıkmazsa).
-      \nKoklama ve Kar Kurtu 🐺: Kurtlar ölür (Evden çıkmazlarsa).
+      \nKoklayıcı ve Beyaz Kurt 🐺: Kurtlar ölür (Evden çıkmazlarsa).
       \n\nVampirleştirme rolleri %0:
-      \nNecromancer ⚰️ (Rolü alana kadar).
+      \nReenkarnistt ⚰️ (Rolü alana kadar).
       \nÇiftgiden 🎭 (Rolü alana kadar).
       \nKoruyucu Melek 👼
-      \nKavalcı 🎼✨
+      \nİllüzyonist 🎼✨
       \nHayalet 👻
 	  
       \n\nVampirlerin favori rolleri:
-      \nZaman Yolcusu ⏳ ve hayatta kalan ⛺️: Vampirleştirmek için %33 yaşıyorsa öldürmek için %25.
-      \n% 50'si öldürmek için,%33'ü vampirleştirmek için yaşıyorsa:
-      \nSimyacı 🍃
+      \nZaman Yolcusu ⏳ ve hSurvivor ⛺️: Ölüm için %25, yaşıyor ise dönüşüm için %33.
+      \n%50 Ölüm için, yaşıyor ise dönüşüm için %33:
+      \nOtacı 🍃
       \nFalcı🔮
       \nDedektif 🕵️‍♂️
       \nMüneccim 🦅
       \nŞerif 🤠
-      \nGözlemci 🔭
+      \nNöbetçi 🔭
       \nDemirci ⚒
       \nYaşlı Bilge📚
       \nGözcü👳‍♂️
       \nKimyager👨‍🔬
       \nŞifacı 🌟
-      \nİtfaiyeci 👩‍🚒: %50'si vampirleşmek için yaşıyorsa öldürmek için %50.
-      \n%50'si öldürmek için, %75'i vampirleştirmek için yaşıyorsa:
+      \nİtfaiyeci 👩‍🚒: Ölüm için %50, yaşıyor ise dönüşüm için %50.
+      \n%50 Ölüm için, yaşıyor ise dönüşüm için %75:
       \nBarışçıl☮️
-      \nAptal 🤪
+      \nDeli 🤪
       \nUyutucu 💤
       \nBaş belası 🤯
-      \nZombi 🧟: Geber.
-      \nLanetli 😾: Geber.
+      \nZombi 🧟: Ölür.
+      \nLanetli 😾: Ölür.
       \n\nListelenmeyen diğer tüm roller %100 vampirleştirilebilir.
     </value>
   </string>
@@ -3674,41 +3674,41 @@
     <value>
       ZOMBİ OLMA ŞANSI
       \n\nBu roller zombileri öldürebilir:
-      \nAteş Kurt 🐺🔥
+      \nCehennem Kurdu 🐺🔥
       \nVampir 🧛
       \nSeri Katil 🔪
-      \nGece Avcısı 🌙
-      \nAvcı 🎯: %30 enfeksiyon veya zombi öldür.
+      \nKelle Avcısı 🌙
+      \nAvcı 🎯: %30 enfeksiyon veya zombi ölür.
       \nMezarcı ☠️: Eğer mezarları bir zombi öldürmek için bekleyen mezarları varsa %40 enfeksiyon.
       \n\nÖzel koşullara sahip roller:
-      \nSilahşör 🔫: %30 enfeksiyon veya bir mermi kaybederek kaçar, mermisi yoksa, dönüştürür.
-      \nNinja 💨: %30 enfeksiyon (saklanmıyorsa).
-      \nKuklacı 🎎: %50 enfeksiyon (Kuklalarınız yoksa).
+      \nSilahşör 🔫: %30 enfeksiyon veya bir mermi kaybederek kaçar, mermisi yoksa, dönüşür.
+      \nNinja 🥷: %30 enfeksiyon (Tetikte değilse).
+      \nKuklacı 🕴: %50 enfeksiyon (Kuklaların yoksa).
       \nYancı 💋: %50 enfeksiyon (Evde kalırsa).
 	  
       \n\nZombileştirme rolleri %0:
       \nKoruyucu Melek 👼
       \nİtfaiye 👩‍🚒
-      \nKavalcı 🎼✨
+      \nİllüzyonist 🎼✨
       \nKurtlar 🐺 (tümü)
 	  
       \n\nDüşük zombileşme olasılığı olan roller:
-      \nHayatta Kalan ⛺️: %20 enfeksiyon.
+      \nSurvivor ⛺️: %20 enfeksiyon.
       \nZaman yolcusu ⏳
-      \nPolis 👮
-      \nGözlemci 🔭
+      \nJandarma 🪖
+      \nNöbetçi 🔭
       \nŞerif 🤠
       \nKurdumsu 👱🌚
       \nDedektif 🕵️‍♂️
-      \nKıdemli 👺
+      \nİblis 👺
       \n %40:
       \nFalcı 🔮
-      \nBaker 🍞
+      \nFırıncı 🍞
       \nSahte
       \nKimyager 👨‍🔬
       \n %50:
       \nÇiftgiden 🎭
-      \nNecromancer ⚰️
+      \nReenkarnist ⚰️
 	  
       \n\nBeyinlerini yemeye uygun roller:
       \n %70:
@@ -3720,31 +3720,31 @@
 	  
       \n %100 anında dönüşüm:
       \nMuhafız 🛡
-      \nAptal 🤪
+      \nDeli 🤪
       \nBeceriksiz 🤕
       \nSarhoş 🍻
-      \n\nDiğerlerinin tümü %30 Enfekte, %25 Hayatta Kalma ve %45 Dönüştürüldü.
+      \n\nDiğerlerinin tümü %30 Enfekte, %25 Hayatta Kalma ve %45 Dönüştürlme olasılığı var.
     </value>
   </string>
   <string key = "vkillzpublic">
-    <value> {0}'nı cesedi kasabanın ana caddesinin ortasında ve çoktan çürümüş, başı eksik ve kan izi yok. Bir zombi vampirler tarafından öldürülmüş görünüyor. </value>
+    <value> {0}'in cesedi kasabanın ana caddesinin ortasında ve çoktan çürümüş. Başı eksik ve kan izi yok. Bir zombi vampirler tarafından öldürülmüş gibi görünüyor. </value>
   </string>
   <string key = "nocontroltiti">
-    <value> {0}'in gece eylemi yok. Uyuyor gibi, gidiyorsunuz ama tatmin olmadınız. </value>
+    <value> {0}'in gece eylemi yok. Uyuyor gibi, gidiyorsun ama tatmin olmadın. </value>
   </string>
   <string key = "controleddead">
-    <value> {0} banyo yaparken intihar etti, küvete girdi ve radyoyu içeri düşürdü. {1}. </value>
-    <value> {0} intihar etti, vücudu oturma odasındaki lambadan sarkarken bulundu, tuhaf olan ise akşam yemeğini servis edilmiş ve yemeye hazır hale getirmiş olması. {1}. </value>
-    <value> {0} intihar etti, cesedi caddeye dağılmış halde bulundu, dokuzuncu katının penceresinden atladığı söyleniyor. {1}. </value>
-    <value> {0} intihar etti, tren raylarının üzerine kafasını koydu ve öldü. {1}. </value>
+    <value> {0} banyo yaparken ayağı sabun yüzünden kayarak düştü ve oracıkta can verdi. {0} {1} idi. </value>
+    <value> {0} intihar etti, vücudu oturma odasındaki lambadan sarkarken bulundu, tuhaf olan ise akşam yemeğini servis edilmiş ve yemeye hazır hale getirmiş olması. {0} {1} idi. </value>
+    <value> {0} intihar etti, cesedi caddeye dağılmış halde bulundu, dokuzuncu katının penceresinden atladığı söyleniyor. {0} {1} idi. </value>
+    <value> {0} intihar etti, tren raylarının üzerine kafasını koydu ve öldü. {0} {1} idi. </value>
   </string>
   <string key = "nocontrolcn">
-    <value> {0} Gecenin Avcısı, maalesef onu şimdilik kontrol edemezsiniz, onun hala çok güçlü bir iradesi var. </value>
+    <value> {0} Kelle Avcısı, maalesef onu şimdilik kontrol edemezsin, onun hâlâ çok güçlü bir iradesi var. </value>
   </string><string key = "zeatcazan2">
-    <value> {0} Bir avcının beyninin lezzetli olabileceğini düşündüm ya da buna inanmak istiyordum, kafasız kaldığı için beklediğim gibi değildi. </value>
+    <value> {0} Bir avcının beyninin lezzetli olabileceğini düşündü ya da buna inanmak istiyordu, kafasız kaldığın için beklediğin gibi değildi. </value>
   </string>
   <string key = "bağış">
-    <value> PAYPAL \nDiğer para transferleri ile karışıklığı önlemek için transfer notunda "Narrador için bağış" ve telegram kullanıcı adınızı belirtin. \nBağış Linki: \n http://paypal.me/tmogeid \nKriptopara Transfer için Coinbase tarafından kullanıcının E-postası : tmogeid@gmail.com \nDiğer para birimlerini göndermek için @tmogeid ile özel olarak iletişime geçin...Teşekkürler </value>
+    <value> PAYPAL \nDiğer para transferleri ile karışıklığı önlemek için transfer notunda "Narrador için bağış" ve telegram kullanıcı adını belirt. \nBağış Linki: \n http://paypal.me/tmogeid \nKriptopara Transfer için Coinbase tarafından kullanıcının E-postası : tmogeid@gmail.com \nDiğer para birimlerini göndermek için @tmogeid ile özel olarak iletişime geç...Teşekkürler </value>
   </string>
 
   <!-- cadejo -->
