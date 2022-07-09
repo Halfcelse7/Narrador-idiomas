@@ -3022,13 +3022,13 @@
   <!-- köy aptalı -->
 
   <string key = "idiot">
-    <value> Aptal 🤪 </value>
+    <value> Deli 🤪 </value>
   </string>
   <string key = "Aboutidiot">
-    <value> İnsanlar tarafından linç edilmedikçe özel bir güçten yoksundur. O ana kadar gerçekten bir aptalmış gibi biraz aptallık yapacak ve herkes hatasını anlayacaktır. Devamında Aptal hala yaşayabilir ve oyunu oynayabilir, ancak oylama hakkını kaybeder. Ancak artık gözcülük taslamak yok, sadece tartışmalara katılmaya ve istediğiniz kadar konuşmaya devam edeceksiniz. Kasabanın budalası kurt adamlar tarafından yenilirse (bir linçte kimliğini ifşa etmeden önce veya sonra), kanun koyucu ya da avcının vurulmasıyla, kimyacının iksiriyle, sevgilisi ölürse vb.ölecek. Bir oyuncu aptalıyla aşıksa ve linç edilirse, oyundan gerçekten çıkarılmadığı için hiçbir şey olmaz ve bu nedenle sevgilisi intihar etmemelidir. </value>
+    <value> İnsanlar tarafından linç edilmedikçe özel bir güçten yoksundur. O ana kadar gerçekten bir aptalmış gibi biraz delice ve çılgınca hareketler yapacak. Herkes hatasını anlayacaktır. Devamında deli hâlâ yaşayabilir ve oyunu oynayabilir, ancak oylama hakkını kaybeder. Artık gözcülük taslamak yok, sadece tartışmalara katılmaya ve istediğin kadar konuşmaya devam edeceksin. Kasabanın delisi kurt adamlar tarafından yenilirse (bir linçte kimliğini ifşa etmeden önce veya sonra), silahşörün ya da avcının vurulmasıyla, kimyacının iksiriyle, sevgilisi ölürse vb. ölecek. Bir oyuncu deliyle aşıksa ve linç edilirse, oyundan gerçekten çıkarılmadığı için hiçbir şey olmaz ve bu nedenle sevgilisi intihar etmemelidir. </value>
   </string>
   <string key = "Lynchidiot">
-    <value> Bekle, görünüşe göre bu aptal, celladın baltasını yalamaya başladı, {0} onu sevdiğini ve aynı şekilde bir lolipop istediğini söylüyor, o kadar aptal olmanın kötü olamayacağını anlıyorsun ve onu serbest bırakıyorsun, evet, linç de gerçekleşmez, bu yüzden onların oylarına önem vermeyin. {0} kendini kasabanın aptalı olarak gösteriyor, ona fazla ilgi göstermeyin. </value>
+    <value> Bekle, görünüşe göre bu deli, celladın baltasını yalamaya başladı, {0} onu sevdiğini ve aynı şekilde bir lolipop istediğini söylüyor, o kadar deli olmanın kötü olamayacağını anlıyorsun ve onu kendi haline bırakıyorsun. Evet, linç de gerçekleşmez. Bu yüzden onların oylarına önem vermeyin. {0} kendini kasabanın delisi olarak gösteriyor, ona fazla ilgi göstermeyin. </value>
   </string>
 
   <string key = "noforceranked">
@@ -3037,19 +3037,19 @@
 
   <string key = "NHunterKilledwxvisit">
     <!-- 0 - hedefin adı -->
-    <value> İyi şanslar, avınız evinizin kapısına geldiğinde, Gece Avcısı'nın evinin girişinde {0}'in derisi yüzülmüş ve bacaklarından asılmış halde buldular. </value>
+    <value> Büyük bal, av neredeyse avcının ayağına gelmiş. Kelle Avcısı'nın evinin girişinde {0}'in derisi yüzülmüş ve bacaklarından asılmış halde bulundu. </value>
   </string>
   <string key = "FightedfireWolf">
-    <value> Ateş kurdu {0} 'un evine girip hedefini ararken yaklaşan bir alarm duyar ... İtfaiyeciler! Yakalanmadan önce yanmadan kaçmaktan başka seçeneği yok. </value>
+    <value> Cehennem kurdu {0} 'in evine girip hedefini ararken yaklaşan bir alarm duyarsın ... İtfaiyeciler! Yakalanmadan ve yanmadan önce kaçmaktan başka seçeneğin yok. </value>
   </string>
   <string key = "GuardBlockedfireWolf">
     <!-- 0 - hedefin adı -->
-    <value> Ateş kurdu, yeni bir ızgara bedenle ziyafet çekmek için {0}'in evine gider, ama dişlerine kadar silahlanmış uzun, karanlık bir figürle karşılaşır. Koruyucu melek onun içeri girmesini engeller ve mağlup olduğunuz ininize geri dönersiniz. </value>
+    <value> Cehennem kurdu, yeni bir bedenle ızgara ziyafeti çekmek için {0}'in evine gider, ama dişlerine kadar silahlanmış uzun, karanlık bir figürle karşılaşır. Koruyucu melek onun içeri girmesini engeller ve mağlup olduğun inine geri dönersin. </value>
   </string>
 
   <string key = "nonobsranked">
     <!-- 0 - hedefin adı -->
-    <value> {0} en az 250 oyun oynayana kadar dereceli oynayamayacaksınız. </value>
+    <value> {0} en az 250 oyun oynayana kadar dereceli oynayamayacaksın. </value>
   </string>
 
   <string key = "noofigroup">
@@ -3061,30 +3061,30 @@
 
 
   <string key = "flautista">
-    <value> Kavalcı 🎼✨ </value>
+    <value> İllüzyonist 🎼✨ </value>
   </string>
   <string key = "Aboutflautista">
-    <value> Kavalcı yalnız bir roldür. Kurt, vampir veya köydeki başka bir rol olsun, her gece nereden öğrendiğiniz bilinmeyen eski bir melodiyle iki oyuncuyu büyüleyebilirsiniz, hepsi büyülenecek. Tüm canlı oyuncuları büyülerseniz kazanırsınız. Kuklacı sizi kontrol edemez, siz geceyi çatıda geçirirken kurtlar ve vampirler sizi evde bulamazlar, ama seri katile dikkat edin. </value>
+    <value> İllüzyonist yalnız bir roldür. Kurt, vampir veya köydeki başka bir rol olsun, her gece nereden öğrendiğin bilinmeyen eski bir melodiyle iki oyuncuyu büyüleyebilirsin, hepsi büyülenecek. Tüm canlı oyuncuları büyülersen kazanırsın. Kukla Ustası seni kontrol edemez, sen geceyi çatıda geçirirken kurtlar ve vampirler seni evde bulamazlar, ama seri katile dikkat et. </value>
   </string>
   <string key = "Askencant">
-    <value> Melodinizle ilk kimi büyülemek istiyorsunuz? </value>
+    <value> Melodinle ilk kimi büyülemek istiyorsun? </value>
   </string>
   <string key = "Askencant2">
     <value> İkincisi kim olacak? </value>
   </string>
   <string key = "flautistaWins">
     <value>
-      OOOOHHH HAYIRRRR OLAMAZZZ. Köyün tamamı kavalcının melodisine yenik düştü ve hayatınızın sonuna kadar ona hizmet edeceksiniz.!!
+      DÜTTT DÜRÜDÜÜÜÜÜÜÜTTTTT DÜRÜDÜRÜTTTT. Köyün tamamı İllüzyonistin melodisine yenik düştü ve hayatının sonuna kadar ona hizmet edeceksin.!!
     </value>
   </string>
   <string key = "encanteddone">
     <value> {0} büyülendi. </value>
   </string>
   <string key = "flencantedyou">
-    <value> Geceleri bir melodi dinliyorsunuz, size şey gibi geliyor, sanki daha önce duymuşsunuz gibi ama nerede olduğunu hatırlayamıyorsunuz. </value>
+    <value> Geceleri bir melodi işitiyorsun, sana şey gibi geliyor, sanki daha önce duymuşsun gibi ama nereden olduğunu hatırlayamıyorsun. </value>
   </string>
   <string key = "frozenflauti">
-    <value> Görünüşe göre buz kurdu sizi dondurmaya çalışıyor, ama göründüğünden daha akıllısınız, flütünüzle ona illüzyon veren bir melodi dinletiyorsunuz ve bu ona sizi dondurduğunu düşündürüyor. </value>
+    <value> Görünüşe göre beyaz kurt sizi dondurmaya çalışıyor, ama göründüğünden daha akıllısın, flütünle ona illüzyon veren bir melodi dinletiyorsun ve bu ona seni dondurduğunu düşündürtüyor. </value>
   </string>
   <string key = "flautiskkilled">
     <value>
@@ -3093,20 +3093,20 @@
   </string>
 
   <string key = "unabalamas">
-    <value> Muhtar, iyi hizmetleriniz karşılığında demircinin size bir mermi daha yapacağına karar verdi. </value>
+    <value> Muhtar, iyi hizmetlerinin karşılığında demircinin sana bir mermi daha yapması gerektiğine karar verdi. </value>
   </string>
   <string key = "unabalamenos">
-    <value> Muhtar, masum bir kişiyi öldürdüğünüz için sizi cezalandırmaya karar verdi, bu sabah 1 kurşununuzu polise teslim edeceksiniz. </value>
+    <value> Muhtar, masum bir kişiyi öldürdüğün için seni cezalandırmaya karar verdi, bu sabah 1 kurşununu jandarmaya teslim edeceksin. </value>
   </string>
   <string key = "sinbalas">
-    <value> Muhtar, bir kanun görevlisi olarak sizin hiçbir değerinizin olmadığına karar verdi, sadece mermilerinizi almakla kalmıyor, aynı zamanda silahsız kalacaksınız, sizi sürmediğine şükredin. </value>
+    <value> Muhtar, bir kanun görevlisi olarak senin hiçbir değerinin olmadığına karar verdi, sadece mermilerini almakla kalmıyor, aynı zamanda silahsız kalacaksın. Seni sürmediğine şükret. </value>
   </string>
 
   <string key = "Politodetec">
     <value> Muhtar, iyi hizmetlerin için bir terfiyi hak ettiğine karar verdi, seni dedektifliğe terfi etti, başarılı işlerin için tebrikler. </value>
   </string>
   <string key = "Politoserif">
-    <value> Muhtar, iyi hizmetleriniz için bir terfiyi hak ettiğinize karar verdi, sizi şerifliğe terfi ettirdi, iyi çalışmanız için tebrikler. </value>
+    <value> Muhtar, iyi hizmetlerin için bir terfiyi hak ettiğine karar verdi, seni şerifliğe terfi ettirdi, iyi çalışman için tebrikler. </value>
   </string>
   <string key = "Politogb">
     <value>
@@ -3115,35 +3115,35 @@
   </string>
 
   <string key = "baladeherrero">
-    <value> Demirci kendini gösterdi, artık kim olduğunu bildiğinize göre ona size fazladan bir kurşun yapmasını söyleme fırsatını yakalayın. </value>
+    <value> Demirci kendini gösterdi, artık kim olduğunu bildiğine göre ona sana fazladan bir mermi yapmasını söyleme fırsatını yakaladın. </value>
   </string>
 
   <string key = "titivsvamp">
-    <value> Görünüşe göre vampirler kanınızı emmeye çalıştı, kuklalarınızdan birinin sizi koruduğunu gördüğünde {0} onlar için ne büyük bir hayal kırıklığı oldu. </value>
+    <value> Görünüşe göre vampirler kanını emmeye çalıştı, kuklalarından birinin seni koruduğunu gördüğünde {0} bir anlık tereddüt eder ve yavaşça başarısızlığı ile oradan uzaklaşır. </value>
   </string>
   <string key = "titilinched">
-    <value> Bekle .... AMA BU NEDİR !! ?? BİR KUKLA !! Görünüşe göre kuklacı bulduk, ama dikkatli ol, belki {0}'in kolunda daha fazla numara vardır. </value>
+    <value> Bekle .... AMA BU DA NE !! ?? BİR KUKLA !! Görünüşe göre kukla ustasını bulduk, ama dikkatli ol, belki {0}'in elinin altında daha fazla numara vardır. </value>
   </string>
   <string key = "herbvstiti">
-    <value> Simyacı sana zehirinin bir kısmını vermek istedi, ama sen çabuk davrandın ve onu yanıltmak için bir kukla yarattın, {0} senin koruma olduğuna inanmadan eve geri döndü. </value>
+    <value> Otacı sana zehirinin bir kısmını vermek istedi, ama sen çabuk davrandın ve onu yanıltmak için bir kukla yarattın, {0} senin herhangi bir kukla koruman olmadığına inanarak eve geri döndü. </value>
   </string>>
   <string key = "firewolfvstiti">
-    <value> UUFF ne kadar sıcak, {0} seninle sıcak bir gece geçirdi, ama neyse ki onu bir kuklanla kandırdın ve seni koruduklarını düşünerek ayrıldı. </value>
+    <value> ÖÖÖFFFFF bu ne sıcak be, {0} seninle sıcak bir gece geçirdi, ama neyse ki onu bir kuklanla kandırdın ve seni koruduklarını düşünerek ayrıldı. </value>
   </string>
   <string key = "wolfvstiti">
-    <value> Kurtlar etinizin tadına bakmak istiyor ve sizi avlaması için {0}'i gönderdiler ama siz onu koruyucu şeklinde bir kukla ile korkuttunuz. </value>
+    <value> Kurtlar etinin tadına bakmak istiyor ve sebi avlaması için {0}'i gönderdiler ama sen onu koruyucu melek şeklindeki bir kukla ile korkuttun. </value>
   </string>
   <string key = "skvstiti">
     <value>
-      Artık kuklalarla ilgili büyük becerinize teşekkür edebilirsiniz, seri katili onlardan birinin koruma olduğuna inandırmayı başardınız, ama {0}'in köyde ölü olmadığını görünce anlayacaktır.
+      Artık kuklalarla ilgili büyük becerine teşekkür edebilirsin, seri katili onlardan birinin muhafız olduğuna inandırmayı başardın, ama {0} seni köyde ölü olmadığını görünce anlayacaktır.
     </value>
   </string>
   <string key = "chemistvstiti">
-    <value> Kimyacıyı, kendi kuklası yaparak onun zehiriyle öldüğüne onu inandırmayı başardın, ama kesinlikle {0}'in köyde ölü olmadığını görünce gerçeği anlayacak. </value>
+    <value> Kimyacıyı, kendi kuklası yaparak onun zehiriyle öldüğüne onu inandırmayı başardın, ama kesinlikle {0} seni köyde ölü olmadığını görünce gerçeği anlayacak. </value>
   </string>
 
   <string key = "groupnorank">
-    <value> Grup listesinde olmayan grupların dereceli olarak oynamasına izin verilmez, ancak diğer tüm modlar hizmetinizdedir.</value>
+    <value> Grup listesinde olmayan grupların dereceli olarak oynamasına izin verilmez, ancak diğer tüm modlar hizmetindedir.</value>
   </string>
   <string key = "gamecancel">
     <value> Oyun iptal edildi. Başka bir oyun başlatın. Üzgünüm :( </value>
