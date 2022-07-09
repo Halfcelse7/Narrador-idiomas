@@ -2936,86 +2936,86 @@
   <!-- ateş kurdu -->
 
   <string key = "Harlotburned">
-    <value> Evden çıkmak için kapıyı açtığınızda, yaklaşan bir alev görüyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Kapınızın önünde tamamen yanarsınız. </value>
+    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Kapının önünde tamamen kül olmuş şekilde ölürsün. </value>
   </string>
   <string key = "Cultistburned">
-    <value> Evden çıkmak için kapıyı açtığınızda, yaklaşan bir alev görüyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Vampir arkadaşlarınız, içinde bulunduğunuz durumu gördüklerinde sonunda gülüyor ve bir mumla dua ediyorlar. </value>
+    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Vampir arkadaşların, içinde bulunduğun durumu gördüklerinde sonunda gülüyor ve bir mumla dua ediyorlar. </value>
   </string>
   <string key = "CHburned">
-    <value> Evden çıkmak için kapıyı açtığınızda, yaklaşan bir alev görüyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Senin için avlanma bitti, ızgarada piştin. </value>
+    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Senin için avlanma bitti, ızgarada cız bız oldun. </value>
   </string>
   <string key = "Seeingburned">
     <!-- gözcü, aptal, kahin ve büyücü için kullanılır -->
-    <value> Psişik güçlerinizi kullanmak için masaya oturduğunuzda, bir alevin yaklaştığını görüyorsunuz, ama ... bu bir alev değil, harika !! Alevler içinde kalmış bir kurt, tepenizde beliriyor. </value>
+    <value> Psişik güçlerini kullanmak için masaya oturduğunda, parlak bir ışığın yaklaştığını görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevler içinde kalmış bir kurt, tepende beliriyor. </value>
   </string>
   <string key = "GAburned">
-    <value> Evden çıkmak için kapıyı açtığınızda, yaklaşan bir alev görüyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Şimdi bir Noel süsü gibi görünüyorsun. </value>
+    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Şimdi bir Noel süsü gibi görünüyorsun. </value>
   </string>
   <string key = "SKburned">
-    <value> Evden çıkmak için kapıyı açtığınızda, yaklaşan bir alev görüyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Şimdi sadece ateş kurduna karşı intikam yemini etmelisin, kesinlikle birbirinizi cehennemde göreceksiniz. </value>
+    <value> Yeni kurbanının canına kast etmek için evinden dışarı doğru çıkıyorsun, ancak sana doğru yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, yürek yemiş bir cehnnem kurdu !! Alevlere boğulmuş şekilde üzerine saldırıyor. Şimdi sadece cehennem kurduna karşı intikam yemini etmelisin, kesinlikle birbirinizi cehennemde göreceksin. </value>
   </string>
   <string key = "Visitorburned">
-    <value> Evden çıkmak için kapıyı açtığınızda, yaklaşan bir alev görüyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Görünüşe göre kurtlar sizi acılı bir wasabi sosuyla yeme fırsatı buldular. </value>
+    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Görünüşe göre kurtlar seni chipotle sosuyla yeme fırsatı buldular. </value>
   </string>
   <string key = "Defaultburned">
     <!-- (her-) gece hareketi olmayan tüm roller için kullanılır -->
-    <value> Sizi gecenin yarısında uyandırır çok sıcak hissediyorsun, bir bardak suya gittiğinizde bir alevin yaklaştığını görüyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Görünüşe göre bir bardak su çok pahalıydı. </value>
+    <value> Şimdi yavaş yavaş bir sıcaklık hissedeceksin, serinleyip ferahlamak için bir bardak su almaya gittiğinde bir ışığın yaklaştığını görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Görünüşe göre bir bardak su çok pahalıya patlayacak sana. </value>
   </string>
   <string key = "SuccessfulBurning">
-    <value> {0} adlı kişinin evine gittiniz ve onu yakmayı başardınız. </value>
+    <value> {0} adlı kişinin evine gittin ve onu yakıp kül etmeyi başardın. </value>
   </string>
   <string key = "FireBurnKiller">
-    <value> Ateş Kurdu {0}, gece birini yakmaya hazırlanıyordu, ancak yanlışlıkla seri katili ziyaret etti, Katil beklenmedik ziyaretçisini fark etti ve bıçakladı {0} öldü. </value>
+    <value> Cehennem Kurdu {0}, gece birini yakmaya hazırlanıyordu, ancak yanlışlıkla seri katili ziyaret etti, Katil beklenmedik ziyaretçisini fark etti ve bıçakladı, {0} öldü. </value>
   </string>
   <string key = "fireWolfTurnalfa">
-    <value> Diğer kurtlar öldü ve siz sürünün son üyesisiniz. Biraz avantaj elde etmek için Alfa Kurt oldunuz. </value>
+    <value> Diğer kurtlar öldü ve sen sürünün son üyesisin. Biraz avantaj elde etmek için Alfa Kurt oldun. </value>
   </string>
   <string key = "FireBurnHunter">
     <!-- 0 - hedef adı -->
-    <value> {0}, dün gece avcıyı yakmaya çalıştı ama avcı onu tüfeğiyle vurmayı başardı! {0} ateş kurduydu. </value>
+    <value> {0}, dün gece avcıyı yakmaya çalıştı ama avcı onu tüfeğiyle vurmayı başardı! {0} cehennem kurduydu. </value>
   </string>
   <string key = "Defaultburn">
     <!-- 0 - hedefin adı -->
     <!-- 1 - hedefin rolü -->
-    <value> Ne büyük bir felaket! Köylüler {0} 'in küllerle dolu evini keşfederler. Ateşli bir kurdun işi olmalı. {1} öldü. </value>
-    <value> Bugün trajik bir gün. Köy, Ateş Kurdunun başka bir kurbanı olan {0}'in küllerini bulur. {1} öldü. </value>
-    <value> {0} bu gece ateşle oynamaya çalıştı ve o öldü. {1}. </value>
+    <value> Ne büyük bir felaket! Köylüler {0} 'in küllerle dolu evini keşfederler. Ateşli bir kurdun işi olmalı. {0} idi {1} ve artık ölü. </value>
+    <value> Bugün trajik bir gün. Köy, Cehennem Kurdunun başka bir kurbanı olan {0}'in küllerini bulur. {0} idi {1} ve artık ölü. </value>
+    <value> {0} bu gece ateşle oynamaya çalıştı ve o öldü. {0} idi {1} ve artık ölü. </value>
   </string>
   <string key = "WolfVotedburn">
-    <value> {0}, {1}'e oy vermeye karar verdi. </value>
+    <value> {0}, yakmak için {1}'e oy kullandın. </value>
   </string>
   <string key = "Askburn">
-    <value> Bu gece kimi yakmak istiyorsunuz? </value>
+    <value> Bu gece kimi yakmak istiyorsun? </value>
   </string>
   <string key = "Chemistburned">
-    <value> Evden çıkmak için kapıyı açtığınızda, yaklaşan bir alev görüyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Bunun sana olacağına asla bahse girmezsin, Ateş Kurdu seni diri diri yaktı. </value>
+    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Bunun sana olacağına dair asla bahse girmezsin, Cehennem Kurdu seni diri diri yaktı. </value>
   </string>
   <string key = "GraveDiggerburned">
-    <value> Evden çıkmak için kapıyı açtığınızda, yaklaşan bir alev görüyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Neyse ki geziyi kurtarmak için yakınlarda zaten mezarlar var. </value>
+    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Neyse ki bu duruma karşı hazırlıklı idin ve yakınlarda mezarlar var. </value>
   </string>
   <string key = "bomberburned">
     <!-- (her-) gece hareketi olmayan tüm roller için kullanılır -->
-    <value> Bir yoldan sapıp bir alevin yaklaştığını görmeye çalıştığınızda bir şeyin sizi takip ettiğini hissediyorsunuz, ama ... bu bir alev değil, inanılmaz !! Alevlere boğulmuş bir kurt üzerinize saldırıyor. Neyse ki sen bir profesyonelsin ve alevlerini nasıl yatıştıracağını biliyordun, Ateş Kurdu akşam yemeği yemeden ıslak bir şekilde inine geri döndü. </value>
+    <value> Yanan evlere müdahale için yola çıktığın esnada peşinden gelen bir ışık fark ediyorsun, ama ... bu ışık alev değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Neyse ki sen bir profesyonelsin ve alevlerini nasıl yatıştıracağını biliyordun, Cehennem Kurdu akşam yemeği yemeden ıslak bir şekilde inine geri döndü. </value>
   </string>
   <string key = "bomberBurning">
     <value>
-      {0}'ın evine gittin ve iyi bir dalış yaptın, itfaiyeci ateş geldiğinde küçük kızlarla uğraşmaz, eve ıslak ve akşam yemeği yemeden gelirsin.
+      {0}'in evine gittin ve iyi bir dalış yaptın, her ne kadar alevlerle sarılı olsan da karşındaki itfaiyeci de bu tür alevleri söndürme konusunda maalasef ki bir hayli uzman, eve ıslak ve akşam yemeği yemeden geri dönersin.
     </value>
   </string>
   <string key = "ninjaburned">
-    <value> Saklanırken çok sıcak hissettiniz, ertesi sabah oturma odanızın yarısı yanmış ve mutfakta hediye olarak bir miktar kül bulmuşsunuz, bu ateş kurdu mutlu gitmedi. </value>
+    <value> Saklanırken yoğun bir sıcaklık hissettin, ertesi sabah oturma odanın yarısı yanmış ve mutfakta hediye olarak bir miktar kül buldun, bu cehennem kurdu mutlu gitmedi. </value>
   </string>
   <string key = "GAnoburned">
-    <value> Ateş kurdu seni bir şeytan gibi yakmaya çalıştı, ama sen hızlıydın ve kanatlarını yakmadan önce yüksekten uçtun. </value>
+    <value> Cehennem kurdu seni bir şeytan gibi yakmaya çalıştı, ama sen hızlıydın ve kanatlarını yakmadan önce yükselerek uçtun. </value>
   </string>
   <string key = "GAburnednofw">
-    <value> Ne kötü şans, bir koruyucu melek buldunuz ve onu yakmadan önce elinizin altında kaçmak için uçtu. </value>
+    <value> Ne kötü şans, bir koruyucu melek buldun ve onu yakmadan önce elinin altında kaçmak için kanatlanarak uçtu. </value>
   </string>
   <string key = "vampirKilledWolf">
-    <value> {0} görünüşe göre avını hafife almış, faakt bu küçük kurt evine geri dönememiş, görünüşe göre bir yılan tarafından ısırılmış halde ölmüş, ama yılanlar kan emmiyor, değil mi? </value>
+    <value> {0} görünüşe göre avını hafife almış, fakat bu küçük kurt evine geri dönememiş, görünüşe göre bir yılan tarafından ısırılmış halde ölmüş, ama yılanlar kan emmiyor, değil mi? </value>
   </string>
   <string key = "wolfdeadvisitvampir">
-    <value> {0}, {1}'i yutmaya çalıştı. Ne bu hata, vampir olabileceği hakkında hiçbir fikri yoktu, {1} tereddüt etmeden kafasını uçurdu, kurtlar artık onun bir vampir olduğunu biliyor. </value>
+    <value> {0}, {1}'i yutmaya çalıştı. Büyük hata, vampir olabileceği hakkında hiçbir fikri yoktu, {1} tereddüt etmeden kafasını uçurdu, kurtlar artık onun bir vampir olduğunu biliyor. </value>
   </string>
 
 
