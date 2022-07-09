@@ -2502,100 +2502,100 @@
     <value> Hain! Şimdilik bir köylüsün, ancak köyde işlerin bu şekilde yürümesinden sıkıldığın için, kurt adamların geri kalanı öldüğünde onlardan biri olacaksın. </value>
   </string>
   <string key = "CursedBitten2">
-    <value> Kurt adamlar tarafından ısırıldın. Görünüşe göre bir çingene size ömür boyu küfretti ama sen ona pek ilgi göstermedin Lanetli olduğun için bir kurda dönüştün! </value>
+    <value> Kurt adamlar tarafından ısırıldın. Görünüşe göre bir çingene seni ömür boyu lanetledi ama sen onu pek de iplemedin. Lanetli olduğun için bir kurda dönüştün! </value>
   </string>
   <string key = "TraitorTurnWolf2">
-    <value> Tüm kurt adamların öldüğünü görmek, hayvanlardan hoşlandığınız için çok üzülmenize neden oldu, bu yok oluşun devam ettiğini görünce onlardan birinin kanıyla kurt adam olmak için bir sihir yapmaya karar verdiniz. Köydeki en büyük hainsin. </value>
+    <value> Tüm kurt adamların öldüğünü görmek, hayvanlardan hoşlandığın için çok üzülmene neden oldu, bu yok oluşun devam ettiğini görünce onlardan birinin kanıyla kurt adam olmak için bir sihir yapmaya karar verdin. Köydeki en büyük hainsin. </value>
   </string>
   <string key = "AboutTraitor">
-    <value> Sen pis bir hainsin. Gözcü sizi bir köylü ya da kurt olarak görebilir. Nüfusun üçte ikisi ölünceye veya tüm kurtlar ölene kadar kimseye ihanet etmek istemeyeceksiniz. </value>
+    <value> Sen pis bir hainsin. Gözcü seni bir köylü ya da kurt olarak görebilir. Nüfusun üçte ikisi ölünceye veya tüm kurtlar ölene kadar kimseye ihanet etmek istemeyeceksin. </value>
   </string>
   <string key = "AboutCursed">
-    <value> Lanetli gibi, bir zamanlar bir çingene size ömür boyu küfretmesine rağmen onu tamamen görmezden gelirsiniz basit bir köylüsünüz. Kurt adamlar seni ısırırsa, sen de kurt adam olacaksın! Çingene'nin sana küfrettiği güne lanet olsun, şimdi her gece sevgili köylülerini kendi isteğin dışında avlamalısın. </value>
+    <value> Lanetli gibi, bir zamanlar bir çingene sana ömür boyu lanet etmesine rağmen onu tamamen görmezden gelen basit bir köylüsün. Kurt adamlar seni ısırırsa, sen de kurt adam olacaksın! Çingene'nin sana lanet okuduğu gün olmaz olsun, şimdi her gece sevgili köylülerini kendi isteğin dışında avlamalısın. </value>
   </string>
   <string key = "skytoplayerNotHome">
     <!-- 0 - oyuncu adı -->
-    <value> İlginç...! {0} evde değildi! Öldürme hakkınız kalmadı. </value>
+    <value> İlginç...! {0} evde değildi! Öldürme hakkın kalmadı. </value>
   </string>
   <string key = "playerNotHome">
     <!-- 0 - oyuncu adı -->
     <value> Ne kadar ilginç, {0} evde değildi! </value>
   </string>
   <string key = "policetoninja">
-    <value> Şüpheliyi hiçbir yerde bulamadınız. </value>
+    <value> Şüpheliyi hiçbir yerde bulamadın. </value>
   </string>
 
   <!-- GÜZELLİK VE NECRO -->
 
   <string key = "visitbeauty">
     <!-- 0 - oyuncu adı -->
-    <value> {0}'i ziyaret ettiğinizde köyün en güzeli olduğunu görürsünüz, onun ne kadar değerli olduğunu anlarsınız ve ona aptalca aşık olursunuz. </value>
+    <value> {0}'i ziyaret ettiğinde köyün devran-ı afetini görürsün, onun ne kadar cazibeli ve ateşli olduğunu anlarsın ve ona aptalca, saplantılı bir şekilde aşık olursun. </value>
   </string>
   <string key = "beautyvisited">
     <!-- 0 - oyuncu adı -->
-    <value> {0} sizi ziyaret etti ve oyunun sonuna kadar size aşık oldu... </value>
+    <value> {0} seni ziyaret etti ve oyunun sonuna kadar sana kör kütük aşık oldu... </value>
   </string>
   <string key = "beautyvisitedxharlot">
-    <value> Yancının muhabbetine ortak olmak istedin, o gece seni daha önce hiç olmadığı gibi eğlendirdi ve sana delicesine aşık oldu. </value>
+    <value> Yancının gece muhabbetine ortak olmak istedin, o gece seni daha önce hiç olmadığı gibi şehvete boğdu zevkin doruklarını yaşattı. Artık sana delicesine aşık oldu. </value>
   </string>
   <string key = "beautyvisitedxvigia">
-    <value> Birinin seni izlediğini hissettin, kim olduğunu göremedin ama sana deli gibi aşık oldular. :) </value>
+    <value> Birinin seni izlediğini hissettin, kim olduğunu göremedin ama o kişi sana deli gibi aşık oldu. :) </value>
   </string>
   <string key = "Beauty">
-    <value> Güzel 💅 </value>
+    <value> Afet 💅 </value>
   </string>
   <string key = "beautyseer">
-    <value> Kristal kürenizdeki güzelliği gördüğünüzde ona aptalca aşık olursunuz. </value>
+    <value> Kristal kürendeki afeti gördüğünde ona aptalca bir şekilde aşık olursun. </value>
   </string>
   <string key = "necroToMason">
     <!-- 0 - hedefin adı -->
-    <value> Necromancer {0} tıpkı sizin gibi bir Mason oldu! </value>
+    <value> Reenkarnist {0} tıpkı senin gibi bir Mason oldu! </value>
   </string>
   <string key = "necroTransformToMason">
     <!-- 0 - ölü masonun adı -->
     <!-- 1 - mason meslektaşlarının adı -->
-    <value> Mason olan {0}'i seçtin. Takım arkadaşlarınız (varsa): {1} </value>
+    <value> Mason olan {0}'i seçtin. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "necroToCult">
     <!-- 0 - yeni tarikatçının adı -->
-    <value> Necromancer {0}, tıpkı sizin gibi bir tarikatçı oldu! </value>
+    <value> Reenkarnist {0}, tıpkı senin gibi bir tarikatçı oldu! </value>
   </string>
   <string key = "necroTransformToCult">
     <!-- 0 - rolün adı -->
     <!-- 1 - takım arkadaşlarının adı -->
-    <value> Kültist olan {0}'i seçtiniz. Takım arkadaşlarınız (varsa): {1} </value>
+    <value> Tarikatçı olan {0}'i seçtin. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "necroToWolf ">
     <!-- 0 - DG'nin adı -->
-    <value> Necromancer {0}, tıpkı sizin gibi bir kurt adama dönüştü! </value>
+    <value> Reenkarnist {0}, tıpkı senin gibi bir kurt adama dönüştü! </value>
   </string>
   <string key = "Asknecro">
-    <value> Ölülerden kim olmak istiyorsun? </value>
+    <value> Ölülerden kimin rolüne sahip olmak istiyorsun? </value>
   </string>
   <string key = "Necromancer">
-    <value> Necromancer ⚰️ </value>
+    <value> Reenkarnist ⚰️ </value>
   </string>
   <string key = "AboutNecro">
     <value>
-      Necromancer, öldürülen birinin rolünü seçme yeteneğine sahiptir. Geceleri Necromancer, oyunun geri kalanı için ölü bir adamın rolü olmayı seçebilir. Necromancer kalmayı seçerek bir oyunu kazanamazsınız. Necromancer ve Çiftgiden aynı oyunda görünmeyecek.
-      Not: Oyuncu vampire dönüşürse, orijinal rolünü alırsınız. Diğerleri için normal kurallar geçerlidir. Eğer o yabani çocuksa ve rol modeli ölmüşse, bir kurt adam olacaksınız. Aksi takdirde, onların rol modelini devralacaksınız.
-      Vampir necromanceri dönüştüremez (ancak rolleri değiştirdikten sonra yapabilir). Dikkat: Necromancer, rollerini değiştirmediyse kazanamaz. Oyunun sonunda, necromancer hala ölü bir adamın rolünü kopyalamazsa, kaybeder (istisna: aşıklar).
+      Reenkarnist, öldürülen birinin rolünü seçme yeteneğine sahiptir. Geceleri Reenkarnist, oyunun geri kalanı için ölü bir adamın rolü olmayı seçebilir. Reenkarnist kalmayı seçerek bir oyunu kazanamazsın. Reenkarnist ve Çiftgiden aynı oyunda görünmeyecek.
+      Not: Reenkarnist rolüne sahip bir oyuncu bir vampirin rolünü seçerse, orijinal rolünü alır. Diğerleri için normal kurallar geçerlidir. Eğer o yabani çocuksa ve rol modeli ölmüşse, bir kurt adam olacaksın. Aksi takdirde, onların rol modelini devralacaksın.
+      Vampir Reenkarnisti dönüştüremez (ancak rolleri değiştirdikten sonra yapabilir). Dikkat: Reenkarnist, rollerini değiştirmediyse kazanamaz. Oyunun sonunda, Reenkarnist hâlâ ölü bir adamın rolünü kopyalamazsa, kaybeder (istisna: aşıklar).
     </value>
   </string>
   <string key = "necroToFireWolf">
-    <value> Necromancer, {0}, yeni ateş kurdu oldu! </value>
+    <value> Reenkarnist, {0}, yeni cehennem kurdu oldu! </value>
   </string>
   <string key = "necroToSnowWolf">
-    <value> Necromancer, {0}, yeni kar kurdu oldu! </value>
+    <value> Reenkarnist, {0}, yeni beyaz kurt oldu! </value>
   </string>
 
   <string key = "EmojisCustom">
-    <value> Belirli roller: Rol emojilerini, /rolelist'te görebilirsiniz \n❓ - Rastgele rol \n✅ - Rastgele köy rolü (hain , lanetli, yabani çocuk yok) \n❎ - Rastgele köy rolü (hain , lanetli, yabani çocuk var) \n⚠️ - Rastgele Kurt, SK veya Kuklacı \n⚠️👤 - Rastgele Kurt, SK, Kuklacı veya Vampir \n🆘 - Rastgele Kurt \n🚫 - Rastgele Kurt Takımı \n✳️ - Hayatta Kalan, Çiftgiden , Necromancer veya İblis \n120 - Eros, yabani çocuk, çiftgiden, falcı veya düzenbaz kurt \n🔪🔥 - SK veya kuklacı </value>
+    <value> Belirli roller: Rol emojilerini, /rolelist'te görebilirsiniz \n❓ - Rastgele rol \n✅ - Rastgele köy rolü (hain , lanetli, yabani çocuk yok) \n❎ - Rastgele köy rolü (hain , lanetli, yabani çocuk var) \n⚠️ - Rastgele Kurt, SK veya Kuklacı \n⚠️👤 - Rastgele Kurt, SK, Kuklacı veya Vampir \n🆘 - Rastgele Kurt \n🚫 - Rastgele Kurt Takımı \n✳️ - Survivor, Çiftgiden , Reenkarnist veya İblis \n120 - Eros, yabani çocuk, çiftgiden, falcı veya taklitçi \n🔪🔥 - SK veya kuklacı </value>
   </string>
 
   <string key = "NewnecroRoleModel">
     <!-- 0 - hedefin adı -->
-    <value> Sen Necromancersin. Seçtiğiniz ölü : {0} </value>
+    <value> Sen Reenkarnistsin. Seçtiğin ölü : {0} </value>
   </string>
 
   <string key = "NoGame2">
@@ -2606,110 +2606,110 @@
 
   <string key = "LoverDiedbeauty">
     <value>
-      İlginç... Güzel sevgilisine pek düşkün değildi ve aşk onu ölümden kurtardı.😮
+      İlginç... Afet sevgilisine pek de düşkün değildi ve aşk onu ölümden kurtardı. 😱🤭😲
     </value>
   </string>
   <string key = "AboutBeauty">
-    <value> Sen Güzelsin, köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana, hatta kurtlar bile sana aşık olacak. Aşıkların kazanırsa sende kazanırsın ama ziyarete gelen son kişi ölürse sende ölürsün. Son ziyaretçiniz kazanırsa rolü ne olursa olsun onunla kazanırsınız. Seri katile dikkat et, seni öldürebilir ve sana aşık olmayacak. </value>
+    <value> Sen Afetsin, köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana, hatta kurtlar bile sana aşık olacak. Aşıkların kazanırsa sende kazanırsın ama ziyarete gelen son kişi ölürse sende ölürsün. Son ziyaretçin kazanırsa rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, seni öldürebilir ve sana aşık olmayacak. </value>
   </string>
 
   <string key = "StartingGameWait">
-    <value> Oyun başlıyor, Ben rolleri dağıtana kadar bekleyiniz. </value>
+    <value> Oyun başlıyor, Ben rolleri dağıtana kadar bekleyin. </value>
   </string>
 
   <string key = "GuardianAngelFellDigger">
-    <value> İnanılmaz bir şey oldu, çalışırken seninle ilgilenen ilahi bir varlığı hissettin. Uzun sürmese de, gördüğünüz {0}, o bir melekti, neden mezarlarınızdan birinde sonsuza kadar dinlendiğini anlamıyorsunuz. </value>
+    <value> İnanılmaz bir şey oldu, çalışırken seninle ilgilenen ilahi bir varlığı hissettin. Uzun sürmese de, gördüğün kişi {0}, o bir melekti, neden mezarlarından birinde sonsuza kadar dinlendiğini anlamıyorsun. </value>
   </string>
   <string key = "FirefighterFellDigger">
-    <value> Bu gece itfaiyecileri dinliyormuş gibi görünüyordun ama pek önem vermedin, kazacak mezarların vardı. Eve döndüğünüzde itfaiyeci {0} 'i buluyorsunuz, şimdi neden sadece sireni duyduğunuzu ve kimseyi görmediğinizi anlıyorsunuz. </value>
+    <value> Bu gece itfaiyecileri siren seslerini çok yakından duymuş gibiydin ama umursamadın, kazacak mezarların vardı. Eve döndüğünde itfaiyeci {0} 'i buluyorsun, şimdi neden sadece sireni duyduğunu ve kimseyi görmediğini anlıyorsun. </value>
   </string>
   <string key = "GuardFellDigger">
-    <value> Korumalar veya başka biri bu gece sizi korumaya karar verdi, ne yazık ki {0} bir mezarın dibinde kaldı, o gece yağmur yağdığını ve bir su basmış mezar olduğunu görüyorsunuz. </value>
+    <value> Muhafızlar veya başka biri bu gece seni korumaya karar verdi, ne yazık ki {0} bir mezarın dibinde kaldı, o gece yağan yağmur yüzünden mezarın su bastığını fark ediyorsun. </value>
   </string>
 
   <string key = "linchado">
-    <value> Bu oyunu kazanmayı düşünmüş olabilirsin ama acımasızca linç edildin...Üzüldüm dostum :( </value>
-    <value> HAHAHAHAHAHAH Çok yazık. Köy seni linç etti. Geberdin!  </value>
+    <value> Bu oyunu kazanmayı düşünmüş olabilirsin ama acımasızca linç edildin... Üzüldüm dostum :( </value>
+    <value> ZZOOOOOORRRRRTTTTTT Çok yazık. Köy seni linç etti. Geberdin!  </value>
   </string>
 
   <!-- TITIRITERO -->
 
   <string key = "controltiti">
-    <value> {0} sizin seçiminiz olacak ve uyanık görünecek. </value>
+    <value> {0} senin seçimin olacak ve uyanık görünecek. </value>
   </string>
   <string key = "askcontroltiti">
-    <value> Bu gece, gece eylemlerini kontrol edecek birini seçebilirsiniz. </value>
+    <value> Bu gece, gece eylemlerini kontrol edecek birini seçebilirsin. </value>
   </string>
   <string key = "controltiti2">
-    <value> {0} sizin hedefiniz olacak. </value>
+    <value> {0} senin hedefin olacak. </value>
   </string>
   <string key = "askcontroltiti2">
     <value> Gece eylemi var, hedefinin kim olacağını seçin. </value>
   </string>
   <string key = "AboutTiti">
-    <value> Sen kuklacısın. Başkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişinin istediğini yapması için güçlerini kullanabilirsin. </value>
+    <value> Sen Kukla Ustasısın. Başkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişinin eğer ki gece aksiyonu varsa onu istediğin gibi yönlendirebileceksin. </value>
   </string>
   <string key = "Titi">
-    <value> Kuklacı 🎎 </value>
+    <value> Kukla Ustası 🕴 </value>
   </string>
   <string key = "TitiWins">
-    <value> Saklandığı yerden oyuncak bebeklerle birlikte gizemli bir gölge çıkar ve uzun zamandır beklenen zaferinin keyfini çıkarır. Kuklacı kazandı! </value>
+    <value> Saklandığı yerden oyuncak bebeklerle birlikte gizemli bir gölge çıkar ve uzun zamandır beklenen zaferinin keyfini çıkarır. Kukla Ustası kazandı! </value>
   </string>
   <string key = "titiWinsOverpower">
     <!-- 0 - SK'nin adı -->
     <!-- 1 - hedefin adı -->
-    <value> Sabah olur {0} hiçbir yerde görünmez, {1} aniden kendini asmak için lambanın ipini kullanmayı seçer. Kaybettik {1}. </value>
+    <value> Sabah olur {0} hiçbir yerde görünmez, {1} aniden kendini asmak için lambanın ipini kullanmayı seçer. {1} öldü. </value>
   </string>
 
   <string key = "PlayerStartedcultus">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} bir Tarikat oyunu başlattı! Eğlenceye katılmak için düğmeye basın ... ve muhtemelen ölümünüz için dua edin :P </value>
-    <value> {0} yeni bir Tarikat oyunu başlattı! Tarikata alınmak için düğmeye basın! </value>
+    <value> {0} bir Tarikat oyunu başlattı! Eğlenceye katılmak için butona tıkla ... ve muhtemel ölümün için dua edin :P </value>
+    <value> {0} yeni bir Tarikat oyunu başlattı! Yeni bir tür kutsanma için butona tıkla! </value>
   </string>
 
   <!-- GECE AVCISI -->
 
   <string key = "NHKillswolfEnd">
     <!-- {0} = son kurdun adı, {1} = NH'nin adı -->
-    <value> {1} ve {0} kasaba meydanında. Ancak, {1} önünde ne olduğunu çok iyi bilir ve onu {0}' ı çabucak ve acı çekmeden öldürür. {0} kurt takımının ayakta kalan son oyuncusuydu. </value>
+    <value> {1} ve {0} kasaba meydanında. Ancak, {1} önünde ne olduğunu çok iyi biliyor ve {0}'i çabucak ve acı çekmeden öldürür. {0} kurt takımının ayakta kalan son oyuncusuydu. </value>
   </string>
   <string key = "SerialKillerKilledNH">
     <!-- NH, SK'yi ziyaret ettiğinde kullanılır -->
-    <value> Köylüler sabah uyandılar ve Gece Avcısı {0}'in belediye binasının yanındaki bir arabada parçalara ayrılmış cesedinin kalıntılarını buldular. Alınan ders: seri katili ziyaret etmeyin! </value>
-    <value> Gecenin Avcısı {0}'in cesedi şehrin merkezinde yüz parçaya bölünmüş olarak bulundu. Seri katilin avlanmaya uygun olup olmadığını kontrol etmek iyi bir fikir gibi görünmüyor. </value>
+    <value> Köylüler sabah uyandılar ve Kelle Avcısı {0}'in belediye binasının yanındaki bir arabada parçalara ayrılmış cesedinin kalıntılarını buldular. Alınan ders: seri katili ziyaret etmeyin! </value>
+    <value> Kelle Avcısı {0}'in cesedi şehrin merkezinde yüz parçaya bölünmüş olarak bulundu. Seri katilin avlanmaya uygun olup olmadığını kontrol etmek iyi bir fikir gibi görünmüyordu. </value>
   </string>
   <string key = "HunterFindwolf">
     <!-- 0 - hedef adı -->
-    <value> {0}'in evine gider ve onu yukarıdan aşağıya kan lekeli bulursunuz ... Çabuk, kılıcınızı göğsüne sokar ve onu olduğu yerde öldürürsünüz. </value>
+    <value> {0}'in evine gider ve onu yukarıdan aşağıya kanlar içinde bulursun ... Çabucak bir hamle ile kılıcını göğsüne sokar ve onu olduğu yerde öldürürsün. </value>
   </string>
   <string key = "cazanvisitadoxsk">
-    <value> Sizi tuhaf bir şekilde takip ettiğini hissettiniz, ancak bir süre sonra ortadan kayboldu, ertesi sabah ön kapınızda bir bıçak saplanmış buldunuz. </value>
+    <value> Garip bir varlığın seni tuhaf bir şekilde takip ettiğini hissettin, ancak bir süre sonra ortadan kayboldu, ertesi sabah ön kapına saplanmış bir bıçak buldun. </value>
   </string>
   <string key = "skvisitacazan">
-    <value> Görünüşe göre Gecenin Avcısını ziyaret etmişsin ama o hala oldukça güçlü, daha yorgun olduğunda bir şansın daha olacak. </value>
+    <value> Görünüşe göre Kelle Avcısını ziyaret etmişsin ama o hâlâ oldukça güçlü, daha zayıf olduğu bir anda başka bir şansın daha olacak. </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "NHunterFell">
-    <value> Gecenin o kanlı yaratıklarından birini öldüremeden başka bir gece! Hayal kırıklığına uğramış, bir mezarın üzerinden geçip, ayak bileğinize takılıncaya kadar ayı tuzağını fark etmeyeceksiniz. Çığlık atıyorsun ve mücadele ediyorsun ama artık çok geç. Geriye, {0} açık bırakılan bir mezara düşersiniz ve en son her şey kararmadan önce boynunuzun kırılmasıdır. </value>
+    <value> Gecenin o kanlı yaratıklarından birini öldüremeden başka bir gece! Hayal kırıklığına uğramış, bir mezarın üzerinden geçip, ayak bileğine takılıncaya kadar ayı tuzağını fark etmedin. Çığlık atıyorsun ve mücadele ediyorsun ama artık çok geç. Geriye, {0}'in açık bıraktığı bir mezara düşersin ve duyduğun son ses boynunun kırılma sesi olur. </value>
   </string>
   <!-- {0}: kült avcısı -->
   <string key = "NHunterFellDigger">
-    <value> Yorucu başka bir geceden sonra, güneş doğarken eve dönüyorsunuz. Gelmeden hemen önce, bitmemiş bir mezarın yanında yerde duran bir kılıç dikkatinizi çeker. İçinde {0}'in cesedini buluyorsunuz. Gecenin avcısı sizden şüphelenmemeliydi ... </value>
+    <value> Yorucu başka bir geceden sonra, güneş doğarken eve dönüyorsun. Gelmeden hemen önce, bitmemiş bir mezarın yanında yerde duran bir kılıç dikkatini çeker. İçinde {0}'in cesedini buluyorsun. Kelle avcısı senden şüphelenmemeliydi ... </value>
   </string>
   <string key = "cazadornoche">
-    <value> Gecenin Avcısı 🌙 </value>
+    <value> Kelle Avcısı 🌙 </value>
   </string>
   <string key = "Aboutcazadornoche">
-    <value> İşiniz köydeki kötülüğe son vermektir. Bir kurt veya başka bir gece yaratığı size saldırırsa ölür. Her gece hangi oyuncunun "avlanacağını" seçeceksiniz; karanlık bir yaratıksa ölür. \nYardımcıları: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Simyacı. </value>
+    <value> İşin köydeki kötülüğe son vermektir. Bir kurt veya başka bir gece yaratığı sana saldırırsa ölür. Her gece hangi oyuncuyu "avlayacağını" seçeceksin; karanlık bir yaratıksa ölür. \nYardımcıları: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı. </value>
   </string>
   <string key = "cazanFailedToFind">
     <!-- 0 - hedef adı -->
-    <value> {0} adlı kişinin evine gidiyorsunuz, ancak hiçbir iz ya da kanıt yok. Zararsız görünüyor, eve dönebilirsin. </value>
+    <value> {0} adlı kişinin evine gidiyorsun, ancak hiçbir iz ya da kanıt yok. Zararsız görünüyor, eve dönebilirsin. </value>
   </string>
   <string key = "wolfeatcazan">
     <!-- 0 - kurt (öldürülen) adı -->
     <!-- 1 - Nighthunter'in adı -->
-    <value> {0}, {1}'i yemeye çalıştı ancak o Gecenin Avcısıydı! {0} öldü! </value>
+    <value> {0}, {1}'i yemeye çalıştı ancak o Kelle Avcısıydı! {0} öldü! </value>
   </string>
   <string key = "cazanKilledwolfVisit">
     <!-- 0 - kurdun adı -->
@@ -2722,7 +2722,7 @@
   </string>
   <string key = "vkilledxcn">
     <!-- 0 - cn adı -->
-    <value> Opsss Olamazzz! Gecenin Avcısı'nın sizi bulacağını kim söyleyebilirdi ki, {0} size kan içmeyi bırakmanız gerektiği konusunda harika bir fikir verdi. </value>
+    <value> Opsss Olamazzz! Kelle Avcısı'nın seni bulacağını kim söyleyebilirdi ki, {0} seni kan içmeyi bırakman gerektiği konusunda harika bir fikir verdi. </value>
   </string>
 
 
