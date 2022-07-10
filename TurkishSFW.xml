@@ -4027,4 +4027,246 @@
   <string key="cnnorabid">
     <value>Gece avcısını kuduz yapmaya çalışmak gerçekten saçma bir fikirdi, seni ölümlü cahil!</value>
   </string>
+	
+	<string key="nopara3">
+		<value>Smite haklarına sahip bir yöneticiye bu komutu kullanmasını söyle.</value>
+	</string>
+	<string key="ppointf">
+		<value> Puan, mevcut puanın </value>
+	</string>
+	<string key="fwvisitacc">
+		<value>Hâlâ yeterince güçlüyken Kelle Avcısı'nı ziyaret etmek iyi bir fikir değildi.</value>
+	</string>
+	<string key="ccvisitadoxFireWolf">
+		<value>Yakınlarda bir kül kokusu alıyorsun ve sıcaklık git gide yükselmiş gibi görünüyor. Havalandırmak için pencereleri açarken dondurma mevsimi için tam zamanı olduğunu düşünüyorsun.</value>
+	</string>
+
+	<string key="Idle">
+		<value>AFK</value>
+	</string>
+	<string key="ramvfl">
+		<value>Yancı bütün gece seni oyaladı. İllüzyon numaraların işe yaramadı. Kullanman gereken flütü kullanmalıydın.</value>
+	</string>
+	<string key="polvfl">
+		<value>Jandarma bu gece seni sorgulamak istedi. Dengeni biraz bozdu ve flüte olan caziben umduğun gibi olmadı.</value>
+	</string>
+	<string key="shervfl">
+		<value>Çatından evinin etrafında sinsi sinsi dolaşan şerifi izliyorsun. Konsantrasyonunu biraz kaybettin ve melodini büyüleyecek kadar iyi çalmadın.</value>
+	</string>
+
+	<!-- peludo -->
+
+	<string key="Aboutpeludo">
+		<value>Samara tıpkı rapunzel gibi çok uzun saçlara sahip bir köylüdür. O kadar çok saçı vardır ki yüzünü bile göremezsin bu yüzden kelle avcısı onu ziyarete gelse Samarayı kurt sanıp öldürür. Saçlarından dolayı vampirlere ve zombilere karşı normal bir köylüden daha dayanıklıdır.</value>
+	</string>
+	<string key="peludo">
+		<value>Samara 🧔🏻‍♀️</value>
+	</string>
+	<string key="NHunterKilledpeludo">
+		<!-- 0 - victim name -->
+		<value>Bu {0} mi???. Ana Caddeden aşağı yuvarlanan dev bir kürk topu sandığımız şey çok kıllı bir insandı. Kelle avcısı onu bu kadar tüylü bir kurt sanmış ve bu gece ondan kurtulmaktan çekinmemiş.</value>
+	</string>
+	<string key="HunterFindpeludo">
+		<value>Kontrollerin için {0} adresini ziyaret ettiğinde kocaman bir saç yumağı buluyorsun. İnsan olup olmadığı konusunda şüpheye düştüğünde işini bitiriyorsun.</value>
+	</string>
+	<string key="peludokilledxcn">
+		<value>Abartılı saçların olduğun için ne yazık ki {0} seni kurtla karıştırdı. Sana söylüyorum saçlarınla yüzünü kapatmanın bir anlamı yok çünkü bir hata yüzünden avlanarak öldün.</value>
+	</string>
+
+	<string key="GuardBlockedfireWolf">
+		<!-- 0 - target's name -->
+		<value>Te diriges a la casa de {0} para darte un festín con su cuerpo recién hecho a la brasa, pero te encuentras con una figura alta y oscura armada hasta los dientes. El ángel de la guarda te impide la entrada y vuelves a tu cubil derrotado.</value>
+	</string>
+	<string key="FightedfireWolf">
+		<value>Mientras te abres paso en la casa de {0}, escuchas una alarma acercarse... ¡los bomberos! No te queda otra que huir sin quemar antes de que te descubran.</value>
+	</string>
+	
+	<string key="SuccesFreeze">
+		<value>El lobo de nieve fue a casa de {0} y logró congelarlo. Esta noche no será capaz de usar sus acciones.</value>
+	</string>
+	<string key="SnoopAction2">
+		<value>Al acercarse el lobo husmeador a la casa de {0}, oye movimiento, por lo que parece que está despierto. (Tiene acción nocturna). </value>
+	</string>
+	<string key="SnoopNoAction2">
+		<value>Tras inspeccionar el lobo husmeador la casa de {0}, no oye ni huele nada inusual, parece que duerme. (No tiene acción nocturna).</value>
+	</string>
+	<string key="SnoopDrunk2">
+		<value>Al acercarse el lobo husmeador a la casa de {0}, reconoce un fuerte olor a alcohol. ¡Así que {0} es {1}!</value>
+	</string>
+	<string key="SnoopHerbalist2">
+		<value>Al acercarse el lobo husmeador a la casa de {0}, nota un olor a plantas y hierbas medicinales. ¡Así que {0} es {1}!</value>
+	</string>
+	<string key="SnoopBaker2">
+		<value>Al acercarse el lobo husmeador a la casa de {0}, distingue un delicioso olor a pan recién hecho. ¡Así que {0} es {1}!</value>
+	</string>
+	<string key="cadbprotect2">
+		<value>Cuando el lobo de fuego se acerca a {0} ve que lo acompaña un perro blanco, no le da importancia, pero cuanto mas se acerca, ese perro se vuelve cada vez más grande, ¡es el cadejo blanco!, se vuelve a casa ya que {0} está protegido contra todo mal.</value>
+	</string>
+	<string key="GuardBlockedfireWolf2">
+		<!-- 0 - target's name -->
+		<value>El lobo de fuego se dirige a la casa de {0} para darse un festín con su cuerpo recién hecho a la brasa, pero se encuentra con una figura alta y oscura armada hasta los dientes. El ángel de la guarda le impide la entrada y vuelve a vuestro cubil derrotado.</value>
+	</string>
+	<string key="FightedfireWolf2">
+		<value>Mientras el lobo de fuego se abre paso en la casa de {0}, buscando a su objetivo, escucha una alarma acercarse... ¡los bomberos! No le queda otra que huir sin quemar, antes de ser descubierto.</value>
+	</string>
+	<string key="SuccessfulBurning2">
+		<value>El lobo de fuego fue a casa de {0} y logró quemarlo.</value>
+	</string>
+	<string key="bomberBurning2">
+		<value>El lobo de fuego fue a casa de {0} y logró .... un buen chapuzón, el bombero no se anda con chiquitas cuando se trata de fuego, se vuelve a casa mojado y sin cena.</value>
+	</string>
+	<string key="fwvisitacc2">
+		<value>No fue buena idea visitar al Cazador de la Noche cuando aún es lo suficientemente fuerte, el lobo de fuego perdió el tiempo esta noche.</value>
+	</string>
+	<string key="GAburnednofw2">
+		<value>Que mala suerte, el lobo de fuego dio con un angel de la guardia y antes de quemarlo alzó el vuelo para escapar a su alcance.</value>
+	</string>
+	<string key="cadbprotect3">
+		<value>Cuando se ataca a {0} se distingue que lo acompaña un perro blanco, cuanto mas cerca se está de {0}, ese perro se vuelve cada vez más grande, ¡es el cadejo blanco!, se vuelve a casa ya que {0} está protegido contra todo mal.</value>
+	</string>
+	<string key="FightedWolf2">
+		<value>Mientras la manada se abre paso en la casa de {0}, se escucha una alarma acercarse... ¡los bomberos! No queda otra que huir sin comer, antes de ser descubiertos.</value>
+	</string>
+	<string key="GuardBlockedWolf2">
+		<!-- 0 - target's name -->
+		<value>La manada se dirige a la casa de {0} para darse un festín con su cuerpo, pero se encuentran con una figura alta y oscura armada hasta los dientes. El ángel de la guarda impide la entrada y vuelven al cubil derrotados.</value>
+	</string>
+	<string key="WolvesTriedToEatWiseElder2">
+		<!-- 0 - Wise Elder's name -->
+		<value>La manada intentó entrar en la casa de {0}, ¡pero desgraciadamente la anciana sabia se encontraba ahí! {0} impidió con éxito el ataque, pero, afortunadamente, no han reconocido a ninguno de los lobos.</value>
+	</string>
+		
+	        <string key="bestia">
+		<value>la Bestia de Gévaudan 🐺🔱</value>
+	</string>
+	<string key="RoleInfobestia">
+		<value>Eres la Bestia de Gévaudan 🐺🔱 : Una devoradora por excelencia, los habitantes de la aldea aún no saben si eres una mujer lobo o una perra-lobo enorme, todos tiemblan ante lo fuerte que eres. Volviste para cobrar venganza de tu mayor némesis: El Cadejo. Tus comidas serán 100% devorado, además serás inmune a una caza del cazador de la noche una vez, dejándolo herido para que no pueda cazar la siguiente noche.\nRol creado por Maria Emilia (@Emily212001) \n\nTeam: Lobos \n\nConversiones: \n Vampiros: \n-Si visitas: Lo devoras, excepto vampiro anciano.\n-Si te visitan: Lo espantas, excepto vampiro anciano. \n Zombis: \n-Si visitas: No lo matas.\n-Si te visitan: Mueren. </value>
+	</string>
+	<string key="aboutbestia">
+		<value>La Bestia de Gévaudan 🐺🔱 : Una devoradora por excelencia, los habitantes de la aldea aún no saben si eres una mujer lobo o una perra-lobo enorme, todos tiemblan ante lo fuerte que eres. Volviste para cobrar venganza de tu mayor némesis: El Cadejo. Tus comidas serán 100% devorado, además serás inmune a una caza del cazador de la noche una vez, dejándolo herido para que no pueda cazar la siguiente noche.\nRol creado por Maria Emilia (@Emily212001) \n\nTeam: Lobos \n\nConversiones: \n Vampiros: \n-Si visitas: Lo devoras, excepto vampiro anciano.\n-Si te visitan: Lo espantas, excepto vampiro anciano. \n Zombis: \n-Si visitas: No lo matas.\n-Si te visitan: Mueren. </value>
+	</string>
+	<string key = "GunnerShotbestia">
+		<value>{0} dispara a {1}, pero no muere, ¡es la Bestia de Gévaudan!, {0} al darse cuenta debe gastar otra bala para matar a {1}. </value>
+	</string>
+	<string key="gunvisitbest">
+		<value>Has visitado a quien no debías, te encontraste con la Bestia de Gévaudan, gastaste tu última bala pero la pudo esquivar, ojalá hubieras tenido mas munición.</value>
+	</string>
+	<string key="gunvisitbest2">
+		<value>Esta noche {0} tomó la decisión equivocada intentando matar a la Bestia de Gévaudan, ha sido devorado sin miramientos, {0} era el justiciero, la bestia tuvo suerte de esquivar la única bala que le quedaba. </value>
+	</string>
+	<string key="gunvisitbest3">
+		<value>El justiciero intentó matarte, {0} tenía solo una bala y por suerte conseguiste esquivar el disparo, lo has devorado has dejar solo sus huesos. </value>
+	</string>
+	<string key="frozenbestia">
+		<value>El lobo de nieve iba a congelarte hasta que vio que eras en parte lobo, te dijo quien era el resto de la manada para que te unieras a su estrategia. </value>
+	</string>
+	<string key="Freezebestia">
+		<value>Al acercarte a {0}, ves algo familiar en ella. !Reconoces a {0} como {1}! No dudas en darle los miembros de la manada para unir fuerzas. </value>
+	</string>
+	<string key="Freezebestia2">
+		<value>Al acercarse el lobo de nieve a {0}, ve algo familiar en ella. !Reconoció a {0} como {1}! No dudó en darle los miembros de la manada para unir fuerzas. </value>
+	</string>
+	<string key="SnoopActionbestia">
+		<value>Al acercarte a {0}, hueles algo familiar en ella. !Identificas a {0} como {1} gracias a tu olfato! No dudas en darle los miembros de la manada para unir fuerzas. </value>
+	</string>
+	<string key="SnoopActionbestia2">
+		<value>Al acercarse el husmeador a {0}, huele algo familiar en ella. !Identifica a {0} como {1} gracias a su olfato! No duda en darle los miembros de la manada para unir fuerzas. </value>
+	</string>
+	<string key="SnoopActionbestia3">
+			<value>El lobo husmeador andaba cerca de tu morada, por tu olor te reconoció como una mas de la manada, te dijo quienes eran el resto de lobos para que te unieras a ellos. </value>
+	</string>
+	<string key="bestiaburned">
+		<value>Empiezas a oler humo y cenizas en el ambiente, ves una bola de fuego acercarse y se detiene justo frente a ti, era el lobo de fuego, al reconocerte como un lobo mas te da a conocer el resto de la manada para trabajar juntos. </value>
+	</string>
+	<string key="bestiaburned2">
+		<value>Al acercarte a {0}, te fijas que tiene mucho pelo como para ser una persona, te detienes frente a ella para verla detenidamente. !{0} es {1}! Por suerte no la quemaste y decides decirle los miembros que quedan en la manada. </value>
+	</string>
+	<string key="bestiaburned3">
+		<value>Al acercarse el lobo de fuego a {0}, decidió no quemarla. !{0} es {1}! Que suerte que no acabó chamuscada para ayudaros en vuestro cometido. </value>
+	</string>
+	<string key="wtob">
+		<value>Cuando la manada pretende atacar a {0}, ven que realmente es más grande de lo que pensaban y que es en parte loba. !Encontraron a {1}! La ponen al día con los lobos que quedáis para elaborar una estrategia entre todos. </value>
+	</string>
+	<string key="wtob2">
+		<value>La manada te ha hecho una visita, en principio iban a comerte pero se dieron cuenta de que eras una de ellos, te revelan quienes son sus miembros para trabajar juntos. </value>
+	</string>
+	<string key="cadvisitbest">
+		<value>Has visitado a quien no debías, te encontraste con la Bestia de Gévaudan, es tu peor enemigo y ni tus poderes lograrán protegerte contra este animal.</value>
+	</string>
+	<string key="cadvisitbest2">
+		<value>Esta noche {0} tomó la decisión equivocada visitando a la Bestia de Gévaudan, ha sido devorado sin miramientos, la bestia ya obtuvo una gran satisfacción acabando con la presa que mas ansiaba, {0} era el cadejo. </value>
+	</string>
+	<string key="cadvisitbest3">
+		<value>Quien te iba a decir que al final el mismo cadejo acabaría visitándote, {0} tuvo la magnifica idea de visitarte en tu guarida, si supiera que eras realmente se lo hubiera pensado mejor. </value>
+	</string>
+	<string key="cadvisitvictimbest2">
+		<value>Esta noche {0} tomó la decisión equivocada eligiendo como objetivo a la propia victima de la Bestia de Gévaudan, ha sido devorado sin miramientos, la bestia ya obtuvo una gran satisfacción acabando con la presa que mas ansiaba, {0} era el cadejo. </value>
+	</string>
+	<string key="cadvisitvictimbest3">
+		<value>Quien te iba a decir que al final el mismo cadejo acabaría visitando a tu mismo objetivo de esta noche, {0} no tuvo suerte esta noche, no dejaste escapar esta oportunidad y decidiste devorarlo. </value>
+	</string>
+	<string key="guardvisitvictimbest">
+		<value>Has intentado proteger a quien no debías, te encontraste con la Bestia de Gévaudan haciendo guardia, ni con tu mejor escudo podrás protegerte contra este animal.</value>
+	</string>
+	<string key="guardvisitvictimbest2">
+		<value>Esta noche {0} tomó la decisión equivocada al proteger a el objetivo de la Bestia de Gévaudan, ha sido devorado sin miramientos, la bestia seguirá intentando encontrar al cadejo, {0} era un guardia. </value>
+	</string>
+	<string key="guardvisitvictimbest3">
+		<value>Cuando te dirigías a por {1} te encontraste con {0} patrullando los alrededores, no sacaba ojo de tu objetivo, así que decidiste acabar con él, sus días de guardia acabaron para siempre. </value>
+	</string>
+	<string key="bestkill">
+		<value>Notas algo acechándote, crees que es un lobo, pero no, una bestia enorme se abalanza sobre ti devorándote sin dejar rastro. </value>
+	</string>
+	<string key="bestkill2">
+		<value>Esta noche una bestia parecida a un lobo se ha encargado de devorar a {0} que era {1}.</value>
+	</string>
+	<string key="bestkill3">
+		<value>Has devorado a {0} que era {1}.</value>
+	</string>
+	<string key="Fightedbestia">
+		<value>Mientras te abres paso en la casa de {0}, escuchas una alarma acercarse... ¡los bomberos! No te queda otra que huir sin comer, antes de ser descubierto.</value>
+	</string>
+	<string key="GuardBlockedbestia">
+		<!-- 0 - target's name -->
+		<value>Te diriges a la casa de {0} para darte un festín con su cuerpo, pero te encuentras con una figura alta y oscura armada hasta los dientes. El ángel de la guarda te impide la entrada y vuelves a tu guarida derrotada.</value>
+	</string>
+	<string key="ccvisitadoxbestia">
+		<value>Sientes una presencia extraña afuera de casa, cuando sales a inspeccionar encuentras unas huellas, pero estas huellas son mas grandes de lo normal aun que tengan forma de lobo, debe ser una bestia enorme.</value>
+	</string>
+	<string key="bestiadeadvisitoldvamp">
+		<value>{0} intentó devorar a {1}, que error, no tenía ni idea de que pudiera ser un vampiro anciano, {1} lo desmembró y se hizo una gabardina con su piel.</value>
+	</string>
+	<string key="vampVisitbestia">
+		<value>Al atacar a {0} veis que es una bestia enorme y muy fuerte, preferís iros de vuelta a casa para prevenir una muerte segura.</value>
+	</string>
+	<string key="HunterFindbestia">
+		<!-- 0 - target name -->
+		<value>Vas a la casa de {0} ves que no hay nadie, cuando te das la vuelta ya para irte del lugar, una bestia enorme se abalanza sobre ti, {0} es la Bestia de Gévaudan, te pilló por sorpresa y te hirió de forma considerable, la próxima noche no podrás cazar a nadie, pero en la siguiente estarás preparado para acabar con ella.</value>
+	</string>
+	<string key="HunterFindbestia2">
+		<!-- 0 - target name -->
+		<value>Cuando vuelves a tu casa te encuentras la puerta abierta, hueles la esencia de {0}, sabes que no debe estar lejos, o incluso dentro, te subes sigilosamente al tejado y en cuanto sale te abalanzas sobre él, no consigues matarlo pero si que lo heriste lo suficiente para que no pueda cazar durante una noche.</value>
+	</string>
+	<string key="HunterFindbestia3">
+		<!-- 0 - target name -->
+		<value>Esta vez va la vencida, te diriges a por {0} con todas tus fuerzas y tu astucia, te escondes en unos arbustos cerca de su guarida para esperar a que salga o vuelva a ella, en cuanto apareció esta vez fuiste tu el que se abalanzó sobre ella acabando con su existencia, ya no volverá a devorar a nadie.</value>
+	</string>
+	<string key="HunterFindbestia4">
+		<!-- 0 - target name -->
+		<value>Esta noche cuando volvías a casa {0} se cobró su venganza por tu sorpresa de la otra noche, se te acabaron los días de andar devorando a la gente.</value>
+	</string>
+	<string key="HarlotFuckWolf2" >
+		<!-- 0 - player name -->
+		<value >Te escabulliste en la casa de {0} para divertirte un rato, pero te encontraste con la Bestia de Gévaudan. Has muerto.</value>
+	</string>
+	<string key="bestiavstiti">
+		<value>Ves a {0} acercarse, ¿pero que es eso? ES ENORME, debe ser la Bestia de Gévaudan, te preparas con una marioneta para confundirlo y piense que te han protegido..</value>
+	</string>
+	<string key="bestvisitwolf">
+		<value>Veis a {0} acercarse a {1}, ¿pero que es eso? ES ENORME, debe ser la Bestia de Gévaudan, os dais cuenta de que es medio loba, así que la unís a la manada para juntar fuerzas.</value>
+	</string>
+	<string key="bestvisitwolf2">
+		<value>Tenías la intención de atacar a {0}, pero os disteis cuenta de que tenéis mucho en común, eres medio loba, así que {0} decidió decirte quien era el resto de la manada.</value>
+	</string>
+	
 </strings>
