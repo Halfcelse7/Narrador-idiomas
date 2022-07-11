@@ -4146,127 +4146,127 @@
 		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Cerberos'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Emily212001) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Vampirler: \n-Ziyaret edersen: Yaşlı Vampir hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Yaşlı Vampir hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
 	</string>
 	<string key = "GunnerShotbestia">
-		<value>{0} dispara a {1}, pero no muere, ¡es la Bestia de Gévaudan!, {0} al darse cuenta debe gastar otra bala para matar a {1}. </value>
+		<value>{0}, {1}'e ateş eder ama ölmez, o Ucube Kurt! {0}, {1}'i öldürmek için bir kurşun daha harcaması gerektiğini fark eder. </value>
 	</string>
 	<string key="gunvisitbest">
-		<value>Has visitado a quien no debías, te encontraste con la Bestia de Gévaudan, gastaste tu última bala pero la pudo esquivar, ojalá hubieras tenido mas munición.</value>
+		<value>Yanlış kişiyi ziyaret ettin, Ucube Kurt ile karşılaştın. Son kurşununu harcadın ama o kurtulmayı başardı. Keşke daha fazla cephanen olsaydı.</value>
 	</string>
 	<string key="gunvisitbest2">
-		<value>Esta noche {0} tomó la decisión equivocada intentando matar a la Bestia de Gévaudan, ha sido devorado sin miramientos, {0} era el justiciero, la bestia tuvo suerte de esquivar la única bala que le quedaba. </value>
+		<value>Bu gece {0}, Ucube Kurdu öldürmeye çalışarak yanlış bir karar verdi. O belirsiz bir şekilde öldürülde ve {0} silahşördü. Ucube Kurt kendisine kalan tek kurşunu atlattığı için şanslıydı. </value>
 	</string>
 	<string key="gunvisitbest3">
-		<value>El justiciero intentó matarte, {0} tenía solo una bala y por suerte conseguiste esquivar el disparo, lo has devorado has dejar solo sus huesos. </value>
+		<value>Silahşör seni öldürmeye çalıştı, {0}'in tek kurşunu vardı ve şansına kurşunu atlatmayı başardın. onu yedin, geriye sadece kemikleri kaldı. </value>
 	</string>
 	<string key="frozenbestia">
-		<value>El lobo de nieve iba a congelarte hasta que vio que eras en parte lobo, te dijo quien era el resto de la manada para que te unieras a su estrategia. </value>
+		<value>Beyaz kurt, yarı kurt olduğunu görene kadar senii donduracaktı. Stratejisine katılman için sürünün geri kalanının kim olduğunu söyledi. </value>
 	</string>
 	<string key="Freezebestia">
-		<value>Al acercarte a {0}, ves algo familiar en ella. !Reconoces a {0} como {1}! No dudas en darle los miembros de la manada para unir fuerzas. </value>
+		<value>{0}'e yaklaştığında, onunla ilgili tanıdık bir şey görürsün. {0}'i {1} olarak tanıyorsun! Ona güçlerini birleştirmesi için sürünün üyelerinden bahsetmekten çekinmiyorsun. </value>
 	</string>
 	<string key="Freezebestia2">
-		<value>Al acercarse el lobo de nieve a {0}, ve algo familiar en ella. !Reconoció a {0} como {1}! No dudó en darle los miembros de la manada para unir fuerzas. </value>
+		<value>Beyaz Kurt {0}'e yaklaşırken onunla ilgili tanıdık bir şey görür. {0}, {1} olarak tanındı! Güçlerini birleştirmesi için ona sürünün üyelerini vermekten çekinmiyor. </value>
 	</string>
 	<string key="SnoopActionbestia">
-		<value>Al acercarte a {0}, hueles algo familiar en ella. !Identificas a {0} como {1} gracias a tu olfato! No dudas en darle los miembros de la manada para unir fuerzas. </value>
+		<value>{0}'e yaklaşırken onunla ilgili tanıdık bir koku alırsın. Burnun sayesinde {0}'i {1} olarak tanımlıyorsun! Ona güçlerini birleştirmesi için sürünün üyelerinden bahsetmekten çekinmiyorsun. </value>
 	</string>
 	<string key="SnoopActionbestia2">
-		<value>Al acercarse el husmeador a {0}, huele algo familiar en ella. !Identifica a {0} como {1} gracias a su olfato! No duda en darle los miembros de la manada para unir fuerzas. </value>
+		<value>Koklayıcı {0}'e yaklaşırken, onunla ilgili tanıdık bir koku alır. Koku alma duyusu sayesinde {0}'i {1} olarak tanımlar! Ona güçlerini birleştirmesi için sürü üyelerini vermekten çekinmiyor. </value>
 	</string>
 	<string key="SnoopActionbestia3">
-			<value>El lobo husmeador andaba cerca de tu morada, por tu olor te reconoció como una mas de la manada, te dijo quienes eran el resto de lobos para que te unieras a ellos. </value>
+			<value>Koklayıcı Kurt evinin yakınındaydı. Kokundan dolayı seni sürüden biri olarak tanıdı ve sana diğer kurtların kim olduğunu söyledi ki onlara katılasın. </value>
 	</string>
 	<string key="bestiaburned">
-		<value>Empiezas a oler humo y cenizas en el ambiente, ves una bola de fuego acercarse y se detiene justo frente a ti, era el lobo de fuego, al reconocerte como un lobo mas te da a conocer el resto de la manada para trabajar juntos. </value>
+		<value>Ortamda duman ve kül kokusu almaya başlarsın. Bir ateş topunun yaklaştığını görürsün ve tam önünde durur. o chennem kurduydu ve seni bir kurt olarak tanıyarak sürünün geri kalanına takım çalışması için sana tanıtır. </value>
 	</string>
 	<string key="bestiaburned2">
-		<value>Al acercarte a {0}, te fijas que tiene mucho pelo como para ser una persona, te detienes frente a ella para verla detenidamente. !{0} es {1}! Por suerte no la quemaste y decides decirle los miembros que quedan en la manada. </value>
+		<value>{0}'e yaklaştığında bir insana göre devasa vücuda sahip olduğunu fark ediyorsun. Daha yakından bakmak için önünde duruyorsun. {0} {1}'u! Neyse ki onu yakmadın ve ona sürünün kalan üyelerini söylemeye karar verdin. </value>
 	</string>
 	<string key="bestiaburned3">
-		<value>Al acercarse el lobo de fuego a {0}, decidió no quemarla. !{0} es {1}! Que suerte que no acabó chamuscada para ayudaros en vuestro cometido. </value>
+		<value>Cehennem kurdu {0}'e yaklaşırken onu yakmamaya karar verdi. {0} {1}'u! Onu ızgaraya düşürmeye hayallerinden vazgeçtiğin için hem takımın şanslı hem de canını geri aldın :D. </value>
 	</string>
 	<string key="wtob">
-		<value>Cuando la manada pretende atacar a {0}, ven que realmente es más grande de lo que pensaban y que es en parte loba. !Encontraron a {1}! La ponen al día con los lobos que quedáis para elaborar una estrategia entre todos. </value>
+		<value>Sürü {0}'e saldırmaya çalıştığında, gerçekten düşündüklerinden daha büyük olduğunu ve yarı kurt olduğunu görürler. Bu {1}! Birlikte strateji oluşturmak için kalan kurtlarla işbirliği yaparlar. </value>
 	</string>
 	<string key="wtob2">
-		<value>La manada te ha hecho una visita, en principio iban a comerte pero se dieron cuenta de que eras una de ellos, te revelan quienes son sus miembros para trabajar juntos. </value>
+		<value>Sürü seni ziyaret etmiş. Önce seni yemeye çalıştılar ama senin de onlardan biri olduğunu anlamışlar. Kiminle birlikte çalışacaklarını ortaya çıkardılar. </value>
 	</string>
 	<string key="cadvisitbest">
-		<value>Has visitado a quien no debías, te encontraste con la Bestia de Gévaudan, es tu peor enemigo y ni tus poderes lograrán protegerte contra este animal.</value>
+		<value>Yanlış kişiyi ziyaret ettin. Ucube Kurdu ile tanıştın, o senin en büyük düşmanın ve güçlerin bile seni bu hayvana karşı koruyamayacak.</value>
 	</string>
 	<string key="cadvisitbest2">
-		<value>Esta noche {0} tomó la decisión equivocada visitando a la Bestia de Gévaudan, ha sido devorado sin miramientos, la bestia ya obtuvo una gran satisfacción acabando con la presa que mas ansiaba, {0} era el cadejo. </value>
+		<value>Bu gece {0}, Ucube Kurdu'nu ziyaret ederek yanlış bir karar verdi. Binlerce parçalara ayrıldı ve Ucube kurt en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti. {0} Cerberus'tu. </value>
 	</string>
 	<string key="cadvisitbest3">
-		<value>Quien te iba a decir que al final el mismo cadejo acabaría visitándote, {0} tuvo la magnifica idea de visitarte en tu guarida, si supiera que eras realmente se lo hubiera pensado mejor. </value>
+		<value>Sonunda aynı Cerberus'un seni ziyaret edeceğini kim bilebilirdi. {0} seni ininde ziyaret etmek gibi muhteşem bir fikre sahipti ve gerçekte ne olduğunu bilseydi, bunun hakkında daha derinlemesine düşünürdü. </value>
 	</string>
 	<string key="cadvisitvictimbest2">
-		<value>Esta noche {0} tomó la decisión equivocada eligiendo como objetivo a la propia victima de la Bestia de Gévaudan, ha sido devorado sin miramientos, la bestia ya obtuvo una gran satisfacción acabando con la presa que mas ansiaba, {0} era el cadejo. </value>
+		<value>Bu gece {0}, Ucube Kurdu'nun kurbanını hedef olarak seçerek yanlış bir karar verdi ve acımasızca parçalarına ayrıldı. Ucube Kurdu en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti, {0} Cerberus'tu. </value>
 	</string>
 	<string key="cadvisitvictimbest3">
-		<value>Quien te iba a decir que al final el mismo cadejo acabaría visitando a tu mismo objetivo de esta noche, {0} no tuvo suerte esta noche, no dejaste escapar esta oportunidad y decidiste devorarlo. </value>
+		<value>Sonunda aynı Cerberus'un bu gece aynı hedefini ziyaret edeceğini sana kim söyleyebilirdi. {0} bu gece şanssızdı, bu fırsatın kaçmasına izin vermedin ve onu parçalarına ayırmaya karar verdin. </value>
 	</string>
 	<string key="guardvisitvictimbest">
-		<value>Has intentado proteger a quien no debías, te encontraste con la Bestia de Gévaudan haciendo guardia, ni con tu mejor escudo podrás protegerte contra este animal.</value>
+		<value>Yanlış kişiyi korumaya çalıştın. Ucube Kurdu ile ayakta nöbet tuttun. En iyi kalkanınla bile kendini bu hayvana karşı koruyamadın..</value>
 	</string>
 	<string key="guardvisitvictimbest2">
-		<value>Esta noche {0} tomó la decisión equivocada al proteger a el objetivo de la Bestia de Gévaudan, ha sido devorado sin miramientos, la bestia seguirá intentando encontrar al cadejo, {0} era un guardia. </value>
+		<value>Bu gece {0} hedefi Ucube Kurdu'ndan korumak için yanlış bir karar verdi. Tüm uzuvları köyün dört bir yanına yayıldı. Ucube Kurdu Cerberus'u aramaya devam edecek. {0} bir muhafızdı. </value>
 	</string>
 	<string key="guardvisitvictimbest3">
-		<value>Cuando te dirigías a por {1} te encontraste con {0} patrullando los alrededores, no sacaba ojo de tu objetivo, así que decidiste acabar con él, sus días de guardia acabaron para siempre. </value>
+		<value>{1}'e doğru giderken çevrede devriye gezen {0}'i fark ettin. Gözlerini hedefinden alamıyordu. Bu yüzden onun işini bitirmeye karar verdin. Nöbet günleri sonsuza kadar bitti. </value>
 	</string>
 	<string key="bestkill">
-		<value>Notas algo acechándote, crees que es un lobo, pero no, una bestia enorme se abalanza sobre ti devorándote sin dejar rastro. </value>
+		<value>Bir şeyin seni takip ettiğini fark ettin ve onun bir kurt olduğunu düşünürsün. Ama hayır, büyük bir ucubemsi bir yaratık üstüne atlar ve seni iz bırakmadan yiyip bitirir. </value>
 	</string>
 	<string key="bestkill2">
-		<value>Esta noche una bestia parecida a un lobo se ha encargado de devorar a {0} que era {1}.</value>
+		<value>Bu gece kurda benzer bir ucube, {1} olan {0}'i yemekten sorumlu.</value>
 	</string>
 	<string key="bestkill3">
-		<value>Has devorado a {0} que era {1}.</value>
+		<value>{1} olan {0}'i yedin.</value>
 	</string>
 	<string key="Fightedbestia">
-		<value>Mientras te abres paso en la casa de {0}, escuchas una alarma acercarse... ¡los bomberos! No te queda otra que huir sin comer, antes de ser descubierto.</value>
+		<value>{0}'in evine girerken bir alarm sesinin yaklaştığını duyuyorsun... itfaiyeciler! Keşfedilmeden önce yemek yemeden kaçmaktan başka seçeneğin yok.</value>
 	</string>
 	<string key="GuardBlockedbestia">
 		<!-- 0 - target's name -->
-		<value>Te diriges a la casa de {0} para darte un festín con su cuerpo, pero te encuentras con una figura alta y oscura armada hasta los dientes. El ángel de la guarda te impide la entrada y vuelves a tu guarida derrotada.</value>
+		<value>Vücudunda ziyafet çekmek için {0}'in evine gidiyorsun ancak tepeden tırnağa silahlı uzun boylu, karanlık bir figürle karşılaşıyorsun. Koruyucu melek girmeni engeller ve inine mağlup olarak dönersin.</value>
 	</string>
 	<string key="ccvisitadoxbestia">
-		<value>Sientes una presencia extraña afuera de casa, cuando sales a inspeccionar encuentras unas huellas, pero estas huellas son mas grandes de lo normal aun que tengan forma de lobo, debe ser una bestia enorme.</value>
+		<value>Evin dışında garip bir varlık hissediyorsun. Kontrole gittiğinde bazı ayak izleri buluyorsun ancak bu ayak izleri normalden daha büyük. Kurt şeklinde olsalar bile, sanki bir ucubeye ait olmalı.</value>
 	</string>
 	<string key="bestiadeadvisitoldvamp">
-		<value>{0} intentó devorar a {1}, que error, no tenía ni idea de que pudiera ser un vampiro anciano, {1} lo desmembró y se hizo una gabardina con su piel.</value>
+		<value>{0}, {1}'i parçalarına ayırmaya çalıştı. Ne büyük bir hata! Onun Kont olabileceğine dair hiçbir fikri yoktu. {1} onu parçalara ayırdı ve derisinden bir trençkot yaptı.</value>
 	</string>
 	<string key="vampVisitbestia">
-		<value>Al atacar a {0} veis que es una bestia enorme y muy fuerte, preferís iros de vuelta a casa para prevenir una muerte segura.</value>
+		<value>{0}'e saldırırken onun devasa ve çok güçlü bir ucube olduğunu görüyorsun. Kesin ölümü önlemek için eve dönmeyi tercih ediyorsun.</value>
 	</string>
 	<string key="HunterFindbestia">
 		<!-- 0 - target name -->
-		<value>Vas a la casa de {0} ves que no hay nadie, cuando te das la vuelta ya para irte del lugar, una bestia enorme se abalanza sobre ti, {0} es la Bestia de Gévaudan, te pilló por sorpresa y te hirió de forma considerable, la próxima noche no podrás cazar a nadie, pero en la siguiente estarás preparado para acabar con ella.</value>
+		<value>{0} evine gidiyorsun orada kimsenin olmadığını görüyorsun. oradan çıkmak için arkanı döndüğünde devasa bir ucube üzerinize atlıyor. {0} Ucube Kurdu ve seni şaşırttı ve önemli ölçüde yaraladı. Bir sonraki gece kimseyi avlayamayacaksın ancak bir sonraki gece onun işini bitirmeye hazır olacaksın.</value>
 	</string>
 	<string key="HunterFindbestia2">
 		<!-- 0 - target name -->
-		<value>Cuando vuelves a tu casa te encuentras la puerta abierta, hueles la esencia de {0}, sabes que no debe estar lejos, o incluso dentro, te subes sigilosamente al tejado y en cuanto sale te abalanzas sobre él, no consigues matarlo pero si que lo heriste lo suficiente para que no pueda cazar durante una noche.</value>
+		<value>Evine döndüğünde kapıyı açık buluyorsun. {0}'in kokusunu alıyorsun, uzakta olmaması gerektiğini hatta içeride olduğunu biliyorsun. Gizlice çatıya çıkıyorsun ve dışarı çıkar çıkmaz atlıyorsun. Onu öldüremezsin ama onu bir gece avlayamayacak kadar incittin.</value>
 	</string>
 	<string key="HunterFindbestia3">
 		<!-- 0 - target name -->
-		<value>Esta vez va la vencida, te diriges a por {0} con todas tus fuerzas y tu astucia, te escondes en unos arbustos cerca de su guarida para esperar a que salga o vuelva a ella, en cuanto apareció esta vez fuiste tu el que se abalanzó sobre ella acabando con su existencia, ya no volverá a devorar a nadie.</value>
+		<value>Bu sefer cesaretin var. Tüm gücünle ve kurnazlığınla {0}'in evine gidiyorsun. İninin yakınındaki bazı çalılara saklanıp onun dışarı çıkmasını ya da geri dönmesini bekliyorsun. Bu sefer ortaya çıkar çıkmaz onun üzerine atladın ve işini bitirdin. Artık kimsenin kemik parçaları etrafa yayılmayacak (Ucube kurdununki hariç :3)<./value>
 	</string>
 	<string key="HunterFindbestia4">
 		<!-- 0 - target name -->
-		<value>Esta noche cuando volvías a casa {0} se cobró su venganza por tu sorpresa de la otra noche, se te acabaron los días de andar devorando a la gente.</value>
+		<value>Bu gece eve gelirken {0} geçen geceki sürprizinin intikamını ald. İnsanları yeme günlerin bitti.</value>
 	</string>
 	<string key="HarlotFuckWolf2" >
 		<!-- 0 - player name -->
-		<value >Te escabulliste en la casa de {0} para divertirte un rato, pero te encontraste con la Bestia de Gévaudan. Has muerto.</value>
+		<value >Biraz eğlenmek için {0}'in evine gizlice girdin ama Ucube Kurduna rastladın. Öldün.</value>
 	</string>
 	<string key="bestiavstiti">
-		<value>Ves a {0} acercarse, ¿pero que es eso? ES ENORME, debe ser la Bestia de Gévaudan, te preparas con una marioneta para confundirlo y piense que te han protegido..</value>
+		<value>{0}'in yaklaştığını görüyorsun, peki bu nedir? BÜYÜK, Ucube Kurdı olmalı. Onu şaşırtmak ve seni koruduklarını düşünmek için kendin kukladan muhafızlar hazırlıyorsun.</value>
 	</string>
 	<string key="bestvisitwolf">
-		<value>Veis a {0} acercarse a {1}, ¿pero que es eso? ES ENORME, debe ser la Bestia de Gévaudan, os dais cuenta de que es medio loba, así que la unís a la manada para juntar fuerzas.</value>
+		<value>{0}'in {1}'e yaklaştığını görüyorsun, peki bu nedir? BÜYÜK, Ucube Kurdu olmalı. Yarı kurt olduğunu anlıyorsun bu yüzden güçlerini birleştirmek için onu sürüye dahil ediyorsun.</value>
 	</string>
 	<string key="bestvisitwolf2">
-		<value>Tenías la intención de atacar a {0}, pero os disteis cuenta de que tenéis mucho en común, eres medio loba, así que {0} decidió decirte quien era el resto de la manada.</value>
+		<value>{0}'e saldırmayı amaçladını ancak birçok ortak noktanızın olduğunu fark ettini. Yarı kurtsun bu yüzden {0} sana sürünün geri kalanının kim olduğunu söylemeye karar verdi.</value>
 	</string>
 	
 </strings>
