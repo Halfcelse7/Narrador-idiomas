@@ -4075,75 +4075,75 @@
 
 	<string key="GuardBlockedfireWolf">
 		<!-- 0 - target's name -->
-		<value>Te diriges a la casa de {0} para darte un festín con su cuerpo recién hecho a la brasa, pero te encuentras con una figura alta y oscura armada hasta los dientes. El ángel de la guarda te impide la entrada y vuelves a tu cubil derrotado.</value>
+		<value>Taze ızgara keyfi yapmak için {0}'in evine gidiyorsun ancak dişlerine kadar silahlanmış uzun, karanlık bir figürle karşılaşıyorsun. Koruyucu melek akşam yemeğine ulaşmana engel olur ve inine mağlup olarak dönersin.</value>
 	</string>
 	<string key="FightedfireWolf">
-		<value>Mientras te abres paso en la casa de {0}, escuchas una alarma acercarse... ¡los bomberos! No te queda otra que huir sin quemar antes de que te descubran.</value>
+		<value>{0}'in evine girerken bir alarm sesinin yaklaştığını duyuyorsun... itfaiyeciler! Onlar seni keşfetmeden önce kaçmaktan başka çaren yok.</value>
 	</string>
 	
 	<string key="SuccesFreeze">
-		<value>El lobo de nieve fue a casa de {0} y logró congelarlo. Esta noche no será capaz de usar sus acciones.</value>
+		<value>Beyaz Kurt, {0}'in evine gitti ve onu dondurmayı başardı. Bu gece aksiyonlarını gerçekleştiremeyecek.</value>
 	</string>
 	<string key="SnoopAction2">
-		<value>Al acercarse el lobo husmeador a la casa de {0}, oye movimiento, por lo que parece que está despierto. (Tiene acción nocturna). </value>
+		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken bir hareketlilik sezdi. Bu yüzden hedefinin uyanık olduğuna emin. (Gece ​​aksiyonu var). </value>
 	</string>
 	<string key="SnoopNoAction2">
-		<value>Tras inspeccionar el lobo husmeador la casa de {0}, no oye ni huele nada inusual, parece que duerme. (No tiene acción nocturna).</value>
+		<value>Koklayıcı Kurt, {0}'in evini inceledikten sonra olağandışı bir şey duymuyor veya koku almıyor. Hedefinin sadece horlama sesleri vardı. (Gece ​​aksiyonu yok).</value>
 	</string>
 	<string key="SnoopDrunk2">
-		<value>Al acercarse el lobo husmeador a la casa de {0}, reconoce un fuerte olor a alcohol. ¡Así que {0} es {1}!</value>
+		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken güçlü bir alkol kokusu alır. Yani {0} bir {1}!</value>
 	</string>
 	<string key="SnoopHerbalist2">
-		<value>Al acercarse el lobo husmeador a la casa de {0}, nota un olor a plantas y hierbas medicinales. ¡Así que {0} es {1}!</value>
+		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken ağır şifalı bitkilerin kokusu fark eder. Yani {0} bir {1}!</value>
 	</string>
 	<string key="SnoopBaker2">
-		<value>Al acercarse el lobo husmeador a la casa de {0}, distingue un delicioso olor a pan recién hecho. ¡Así que {0} es {1}!</value>
+		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken fırından yeni çıkmış taze ekmeğin nefis kokusunu fark eder. Yani {0} bir {1}!</value>
 	</string>
 	<string key="cadbprotect2">
-		<value>Cuando el lobo de fuego se acerca a {0} ve que lo acompaña un perro blanco, no le da importancia, pero cuanto mas se acerca, ese perro se vuelve cada vez más grande, ¡es el cadejo blanco!, se vuelve a casa ya que {0} está protegido contra todo mal.</value>
+		<value>Cehennem kurdu {0}'e yaklaştığında beyaz bir köpeğin ona eşlik ettiğini görür. Umurunda olmaz ama yaklaştıkça o köpek daha da büyür, işte beyaz Cerberus! {0} Cerberus'un korumasından çekinerek inine geri döner.</value>
 	</string>
 	<string key="GuardBlockedfireWolf2">
 		<!-- 0 - target's name -->
-		<value>El lobo de fuego se dirige a la casa de {0} para darse un festín con su cuerpo recién hecho a la brasa, pero se encuentra con una figura alta y oscura armada hasta los dientes. El ángel de la guarda le impide la entrada y vuelve a vuestro cubil derrotado.</value>
+		<value>Cehennem Kurdu, taze mangalda pişirilmiş vücudunun ziyafeti için {0}'in evine gider ancak tepeden tırnağa silahlı uzun boylu, esmer bir figür tarafından karşılanır. Koruyucu melek onun girmesini engeller ve inine mağlup olarak döner.</value>
 	</string>
 	<string key="FightedfireWolf2">
-		<value>Mientras el lobo de fuego se abre paso en la casa de {0}, buscando a su objetivo, escucha una alarma acercarse... ¡los bomberos! No le queda otra que huir sin quemar, antes de ser descubierto.</value>
+		<value>Cehennem Kurdu, hedefini aramak için {0}'in evine girerken itfaiyecilerin alarm sesinin duyar... Keşfedilmeden önce kaçmaktan başka seçeneği yoktur.</value>
 	</string>
 	<string key="SuccessfulBurning2">
-		<value>El lobo de fuego fue a casa de {0} y logró quemarlo.</value>
+		<value>Cehennem kurdu, {0}'in evine gitti ve onu yakmayı başardı.</value>
 	</string>
 	<string key="bomberBurning2">
-		<value>El lobo de fuego fue a casa de {0} y logró .... un buen chapuzón, el bombero no se anda con chiquitas cuando se trata de fuego, se vuelve a casa mojado y sin cena.</value>
+		<value>Cehennem kurdu {0}'in evine gitti ve iyi bir dalış yaptı. itfaiyeci yangına gelince ortalıkta dolanmadan eve ıslak ve akşam yemeği yemeden geri gider.</value>
 	</string>
 	<string key="fwvisitacc2">
-		<value>No fue buena idea visitar al Cazador de la Noche cuando aún es lo suficientemente fuerte, el lobo de fuego perdió el tiempo esta noche.</value>
+		<value>Hâlâ yeterince güçlüyken Kelle Avcısı'nı ziyaret etmek iyi bir fikir değildi. Cehennem kurdu bu gece vaktini boşa harcamıştı.</value>
 	</string>
 	<string key="GAburnednofw2">
-		<value>Que mala suerte, el lobo de fuego dio con un angel de la guardia y antes de quemarlo alzó el vuelo para escapar a su alcance.</value>
+		<value>Ne kötü şans! Cehennem kurdu bir koruyucu melek buldu ve hedefini yakamadan kaçtı.</value>
 	</string>
 	<string key="cadbprotect3">
-		<value>Cuando se ataca a {0} se distingue que lo acompaña un perro blanco, cuanto mas cerca se está de {0}, ese perro se vuelve cada vez más grande, ¡es el cadejo blanco!, se vuelve a casa ya que {0} está protegido contra todo mal.</value>
+		<value>{0}'e saldırdığında ona beyaz bir köpeğin eşlik ettiğini fark ettin. {0}'e yaklaştıkça o köpek büyür ve büyür, bu beyaz Cerberus'tur! Evine geri döndün çünkü {0} tüm kötülüklerden korunuyor .</value>
 	</string>
 	<string key="FightedWolf2">
-		<value>Mientras la manada se abre paso en la casa de {0}, se escucha una alarma acercarse... ¡los bomberos! No queda otra que huir sin comer, antes de ser descubiertos.</value>
+		<value>Sürü, {0}'in evine girerken, yaklaşan bir alarm sesi duyulur... itfaiyeciler! Keşfedilmeden önce yemek yemeden kaçmaktan başka çare yok.</value>
 	</string>
 	<string key="GuardBlockedWolf2">
 		<!-- 0 - target's name -->
-		<value>La manada se dirige a la casa de {0} para darse un festín con su cuerpo, pero se encuentran con una figura alta y oscura armada hasta los dientes. El ángel de la guarda impide la entrada y vuelven al cubil derrotados.</value>
+		<value>Sürü, {0}'in evine ziyafet çekmek için yola çıkar, ancak tepeden tırnağa silahlı uzun boylu, esmer bir figürle karşılaşır. Koruyucu melek girişi engeller ve inine mağlup olarak dönerler.</value>
 	</string>
 	<string key="WolvesTriedToEatWiseElder2">
 		<!-- 0 - Wise Elder's name -->
-		<value>La manada intentó entrar en la casa de {0}, ¡pero desgraciadamente la anciana sabia se encontraba ahí! {0} impidió con éxito el ataque, pero, afortunadamente, no han reconocido a ninguno de los lobos.</value>
+		<value>Sürü, {0}'in evine girmeye çalıştı ama ne yazık ki yaşlı bilge oradaydı! {0} saldırıyı başarıyla engelledi, ancak şans eseri kurtlardan hiçbirini tanımadı.</value>
 	</string>
 		
 	        <string key="bestia">
-		<value>la Bestia de Gévaudan 🐺🔱</value>
+		<value>Ucube Kurt 🐺🔱</value>
 	</string>
 	<string key="RoleInfobestia">
-		<value>Eres la Bestia de Gévaudan 🐺🔱 : Una devoradora por excelencia, los habitantes de la aldea aún no saben si eres una mujer lobo o una perra-lobo enorme, todos tiemblan ante lo fuerte que eres. Volviste para cobrar venganza de tu mayor némesis: El Cadejo. Tus comidas serán 100% devorado, además serás inmune a una caza del cazador de la noche una vez, dejándolo herido para que no pueda cazar la siguiente noche.\nRol creado por Maria Emilia (@Emily212001) \n\nTeam: Lobos \n\nConversiones: \n Vampiros: \n-Si visitas: Lo devoras, excepto vampiro anciano.\n-Si te visitan: Lo espantas, excepto vampiro anciano. \n Zombis: \n-Si visitas: No lo matas.\n-Si te visitan: Mueren. </value>
+		<value>Sen Ucube Kurtsun! En büyük düşmanın Cerberos'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Emily212001) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Vampirler: \n-Ziyaret edersen: Yaşlı Vampir hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Yaşlı Vampir hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
 	</string>
 	<string key="aboutbestia">
-		<value>La Bestia de Gévaudan 🐺🔱 : Una devoradora por excelencia, los habitantes de la aldea aún no saben si eres una mujer lobo o una perra-lobo enorme, todos tiemblan ante lo fuerte que eres. Volviste para cobrar venganza de tu mayor némesis: El Cadejo. Tus comidas serán 100% devorado, además serás inmune a una caza del cazador de la noche una vez, dejándolo herido para que no pueda cazar la siguiente noche.\nRol creado por Maria Emilia (@Emily212001) \n\nTeam: Lobos \n\nConversiones: \n Vampiros: \n-Si visitas: Lo devoras, excepto vampiro anciano.\n-Si te visitan: Lo espantas, excepto vampiro anciano. \n Zombis: \n-Si visitas: No lo matas.\n-Si te visitan: Mueren. </value>
+		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Cerberos'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Emily212001) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Vampirler: \n-Ziyaret edersen: Yaşlı Vampir hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Yaşlı Vampir hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
 	</string>
 	<string key = "GunnerShotbestia">
 		<value>{0} dispara a {1}, pero no muere, ¡es la Bestia de Gévaudan!, {0} al darse cuenta debe gastar otra bala para matar a {1}. </value>
