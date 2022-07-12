@@ -3751,135 +3751,135 @@
 
   <string key = "RoleInfocadejo">
     <value>
-      Sen ateşli kırmızı gözleri olan efsanevi köpek Sivas Kangal'sın. İşiniz insanların size nasıl davrandığına bağlıdır, eğer sizi rahat bırakırlarsa hedef olursunuz ve insanları her türlü kötülükten korumakla ilgilenirsiniz. Bununla birlikte, sizi rahatsız ederlerse, taş atarlarsa veya sizi korkutacak benzer bir şey olursa, siyaha dönersiniz ve o oyuncuyu korumak yerine ölümüne neden olursunuz. \n\nTakım: Köy. \n\nDönüşümler: \n Vampirler: \n-Giderseniz: Onları tespit etmez. \n-Sizi ziyaret ederlerse: Sizi evde bulamazlar. \n Zombiler: \n-Ziyaret ederseniz: Zombi olduğunuzu bilmeden hayatta kalın. \n-Sizi ziyaret ederlerse: Sizi evde bulamazlar.
+      Sen ateşli kırmızı gözleri olan, kötülüğün tanrısının evcil hayvanı olan Cerberus artık şeytani varlıkların bekçiliğini yapmıyorsun. İşin insanların sana nasıl davrandığına bağlı. Eğer seni rahatsız etmezlerse ateşini içinde tutacak ve onları koruyacaksın. Bununla birlikte, sana zarar vermeye çalışan olursa, taş atarlarsa veya seni korkutacak benzer bir şey olursa, işte o zaman eski gardiyanlık dönemlerini yâd edecek ve o oyuncuyu korumak yerine ölümüne neden olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \n Vampirler: \n-Gidersen: Onları tespit edemezsin. \n-Seni ziyaret ederlerse: Seni evde bulamazlar. \n Zombiler: \n-Ziyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \n-Seni ziyaret ederlerse: Seni evde bulamazlar.
     </value>
   </string>
   <string key = "Aboutcadejo">
-    <value> Kangal, ateşli kırmızı gözleri olan efsanevi, köpeğe benzer bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır, eğer onu rahat bırakırlarsa, beyaz olacak ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da onu korkutacak benzer şeyler atarlarsa kararır ve o oyuncuyu korumak yerine ölümüne neden olur. </value>
+    <value> Cerberus, ateşli kırmızı gözleri olan efsanevi, üç başlı köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek neden olur. </value>
   </string>
   <string key = "cadejo">
-    <value> Kangal 🐕‍🦺 </value>
+    <value> cerberus 🐕‍🦺 </value>
   </string>
   <string key = "cadebvisit">
-    <value> Görünüşe göre {0} sakindi, sizi rahatsız etmedi, onu korumak için onunla kaldın. </value>
+    <value> Görünüşe göre {0} sakindi, seni rahatsız etmedi, onu korumak için onunla birlikte kaldın. </value>
   </string>
   <string key = "cadenvisit">
     <value> {0} seni görmekten korktu ve salakça sana taş atmaya başladı, öfkelendin. </value>
   </string>
   <string key = "visitxcadeb">
-    <value> Gizemli bir güç hissediyorsunuz, bir şeyin yanınızda yürüdüğünü ve yanınızda oturduğunu duyuyorsunuz, Kangal sizi koruyor. </value>
+    <value> Gizemli bir güç hissediyorsun, bir şeyin yanında yürüdüğünü ve yanında oturduğunu hissediyorsun. Cerberus seni korudu. </value>
   </string>
   <string key = "visitxcaden">
     <value>
-      Yanınızda yürüyen bir şey duyarsınız, gözlerinizi çevirdiğinizde bir kurt görürsünüz, onu korkutmak için ona taş atmaya başlarsınız ama ... O HAYIR, o bir kurt değildi, bir Kangal idi, senin bu aptallığından ötürü şimdi siyaha döndü, bu geceyi canlı geçirmen pek mümkün değil gibi!.
+      Yanında yürüyen bir varlık hissedersin, gözlerini çevirdiğinde bir kurt görürsün. Onu korkutmak için ona taş atmaya başlarsın ama o ... HAYIR, o bir kurt değildi. CERBERUS!!! Senin bu aptallığından ötürü şimdi ateş püskürtmeye başladı. Bu geceyi canlı geçirmen pek mümkün değil gibi.
     </value>
   </string>
   <string key = "tcaden">
-    <value> Doğaüstü ve kötü bir güç fikrinizi değiştirmenize neden oluyor, {0} bugün sizin seçiminiz olacak. Görünüşe göre Kangal'ın işi! </value>
+    <value> Doğaüstü ve kötü bir güç fikrini değiştirmene neden oldu. {0} bugün senin seçimin olacak. Görünüşe göre Cerberus'un işi! </value>
   </string>
   <string key = "cadbprotect">
-    <value> {0}'e yaklaştığınızda beyaz bir köpeğin yanında olduğunu görürsünüz, yaklaştıkça köpek büyüyene kadar önem vermezsiniz, o beyaz köpek bir Kangal'dır, tüm kötülüklere karşı sizi korumalıdır. </value>
+    <value> {0}'e yaklaştığında beyaz bir köpeğin yanında olduğunu görürsün, yaklaştıkça köpek büyüyene kadar önem vermezsin. O beyaz köpek bir Cerberus'tur. Tüm kötülüklere karşı seni koruyacak. </value>
   </string>
 
   <!-- oldvampir -->
 
   <string key = "RoleInfooldvamp">
-    <value> Sen Eski Vampirsin, bin yaşın üzerindesin ve herhangi bir normal vampirden daha güçlüsün, Gecenin Avcısı bile senden korkuyor. Ziyaretlerin, diğer vampirlerin kana olan susuzluklarını giderme kararlarından ayrı. \n \nTakım: Vampirler. \n \nDönüşümler: \n Zombiler: \n-Ziyaret ederseniz: Onları öldürürsünüz. \n-Sizi ziyaret ederlerse: ölürler. </value>
+    <value> Sen Kont'sun. Bin yaşın üzerindesin ve herhangi bir normal vampirden daha güçlüsün. Kelle Avcısı bile senden korkuyor. Ziyaretlerin, diğer vampirlerin kana olan susuzluklarını giderme kararlarından ayrı. \n \nTakım: Vampirler. \n \nDönüşümler: \n Zombiler: \n-Ziyaret edersen: Onları öldürürsün. \n-Seni ziyaret ederlerse: ölürler. </value>
   </string>
   <string key = "Aboutoldvamp">
-    <value> Sen Eski Vampirsin, bin yaşın üzerindesin ve herhangi bir normal vampirden daha güçlüsün, Gecenin Avcısı bile senden korkuyor. Ziyaretlerin, diğer vampirlerin kana olan susuzluklarını giderme kararlarından ayrı. Bir linçten sağ kurtulabilir ve Gece Avcısı'nı öldürmek için %50 şansınız olabilir. </value>
+    <value> Sen Kont'sun. Bin yaşın üzerindesin ve herhangi bir normal vampirden daha güçlüsün. Kelle Avcısı bile senden korkuyor. Ziyaretlerin, diğer vampirlerin kana olan susuzluklarını giderme kararlarından ayrı. Bir linçten sağ kurtulabilir ve Kelle Avcısı'nı öldürmek için %50 şansın olabilir. </value>
   </string>
   <string key = "oldvamp">
-    <value> Yaşlı Vampir 🧛👨🏻‍🦳 </value>
+    <value> Kont 🧛👨🏻‍🦳 </value>
   </string>
   <string key = "oldvampVotedbyte">
     <value> {0}, {1}'in adresini ziyaret etmeye karar verdi. </value>
   </string>
   <string key = "DGTooldvamp">
-    <value> Çiftgiden {0} eski bir vampire dönüştü. </value>
+    <value> Çiftgiden {0} Kont'a dönüştü. </value>
   </string>
   <string key = "DGTransformTooldvamp">
-    <value> {0} öldü ve sen bir Yaşlı Vampir oldun. Takım arkadaşlarınız (varsa): {1} </value>
+    <value> {0} öldü ve sen artık Kont oldun. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "necroTooldvamp">
-    <value> Necromancer {0} eski bir vampire dönüştü. </value>
+    <value> Reenkarnist {0} Kont'a dönüştü. </value>
   </string>
   <string key = "necroTransformTooldvamp">
-    <value> Bir Yaşlı Vampir olan {0} öğesini seçtiniz. Takım arkadaşlarınız (varsa): {1} </value>
+    <value> Kont olann {0}'i seçtin. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "wolfdeadvisitoldvamp">
-    <value> {0}, {1}'yi yutmaya çalıştı, ne hata, onun yaşlı bir vampir olabileceğine dair hiçbir fikri yoktu, {1} onu parçaladı ve derisiyle bir yağmurluk yaptı, kurtlar artık onun ne olduğunu biliyor, O çok güçlü bir vampir, dikkat et. </value>
+    <value> {0}, {1}'i yemeye çalıştı. Büyük acemilik! Onun Kont olabileceğine dair hiçbir fikri yoktu. {1} onu parçaladı ve derisiyle bir yağmurluk yaptı. Kurtlar artık onun kim olduğunu biliyor. O çok güçlü bir vampir, dikkat et. </value>
   </string>
   <string key = "zdeadvisitoldvamp">
-    <value> {0} yaşlı bir vampiri yemeye çalıştı ama {1} tek eliyle çürük bir meyve gibi onun kafasını ezdi. </value>
+    <value> {0} Kont'u çalıştı ama {1} tek eliyle çürük bir meyve gibi onun kafasını ezdi. </value>
   </string>
   <string key = "HunterFindoldvamp">
-    <value> {0} adlı kişinin evine gidiyorsunuz ve onu yukarıdan aşağıya kanlar içinde buluyorsunuz, hızlıca kılıcınızı göğsüne saplıyorsunuz, şaşırtıcı bir şekilde arkanızı döndüğünüzde ortadan kaybolduğunu görüyorsunuz, hemen arkanızda beliriyor. O ESKİ VAMPİR! Ondan sıyrılıp uzaklaşıyorsunuz, elinizdeki ilk sandalyeyi kapıp kafasına vuruyor, kırılan tahta parçalarından faydalanıyor, bir tanesini kapıp onun kalbine saplayarak varlığına son veriyorsunuz. </value>
+    <value> {0} adlı kişinin evine gidiyorsun ve onu yukarıdan aşağıya kanlar içinde buluyorsun. Hızlıca kılıcını göğsüne saplıyorsun, şaşırtıcı bir şekilde arkanı döndüğünde ortadan kaybolduğunu görüyorsun. Hemen arkanda beliriyor. O BİR KONT! Ondan sıyrılıp uzaklaşıyorsun. Elindeki ilk sandalyeyi kapıp kafasına vuruyor, kırılan tahta parçalarından faydalanıyor ve bir tanesini kapıp onun kalbine saplayarak varlığına son veriyorsun. </value>
   </string>
   <string key = "vdefendofcn">
-    <value> {0} bu gece seni avlamaya çalıştı, neyse ki dikkatli davrandın ve farkedilmeden giden yoğun bir sise dönüştün. </value>
+    <value> {0} bu gece seni avlamaya çalıştı, neyse ki dikkatli davrandın ve farkedilmeden yarasaya dönüştün. </value>
   </string>
   <string key = "HarlotFuckoldv">
-    <value> Biraz eğlenmek için {0} 'in evine gizlice girdin ama eski bir vampirle karşılaştın. Öldün ve ironik bir şekilde eğlenen sen değildin. </value>
+    <value> Biraz eğlenmek için {0} 'in evine gizlice girdin ama Kont ile karşılaştın. Öldün ve ironik bir şekilde eğlenen sen değildin. </value>
   </string>
   <string key = "oldvamplinched">
-    <value> Köy, {0} bir anda onlarca yarasaya dönüşüp gözden kaybolunca linç etmek boşa yola çıktığını anladı. Bir dahaki sefere daha dikkatli olacaksın ve o uygun şekilde linç edilecek. </value>
+    <value> Köy, {0} bir anda onlarca yarasaya dönüşüp gözden kaybolunca linç etmek için boşa yola çıktığını anladı. Bir dahaki sefere daha dikkatli olacaksın ve onu uygun şekilde linç edeceksin. </value>
   </string>
   <string key = "cadbprotectofov">
-    <value> Yaşlı vampir {0} adresini ziyaret ettiğinde, kurt olmayan ve doğaüstü görünen dev bir köpeğe rastladı, kana susamış bir halde eve dönmeye karar vermesi daha iyi oldu.</value>
+    <value> Kont {0} adresini ziyaret ettiğinde, kurt olmayan ve doğaüstü görünen dev bir köpeğe rastladı, kana susamış bir halde eve dönmeye karar vermesi daha iyi oldu.</value>
   </string>
   <string key = "GuardBlockedov">
-    <value> Yaşlı vampir {0}'i ziyaret ettiğinde, ışığı onu hiçbir şey yapamaz hale getiren ve eve eli boş dönmek zorunda kalan bir melek figürüyle tanışır. </value>
+    <value> Kont {0}'i ziyaret ettiğinde, ışığı onu hiçbir şey yapamaz hale getiren ve eve eli boş dönmek zorunda kalan bir melek figürüyle tanışır. </value>
   </string>
   <string key = "oldvampConvertSerialKiller">
-    <value> {0}, {1}'yi ziyarete gittiğinde garip bir davranış gördü, katil onu bıçaklamak için üzerine atladı, {0} gibi bir vampir için önemli değil, kötü olan şey {1}'nin de onu öldürmeye karar vermesiydi. Onu elektrikli testereyle küçük parçalara ayırdı. </value>
+    <value> {0}, {1}'i ziyarete gittiğinde garip bir davranış gördü, katil onu bıçaklamak için üzerine atladı. {0} gibi bir vampir için önemli değil, kötü olan şey {1}'in de onu öldürmeye karar vermesiydi. Onu elektrikli testereyle küçük parçalara ayırdı. </value>
   </string>
   <string key = "oldvampirkillwolf">
     <value>
-      SÜRPRİZ! {1} kayıp bir kurt buldu, {0}'in varlığına korkusuzca son vermekten çekinmedi.
+      SÜRPRİZ! {1} kayıp bir kurt buldu. {0}'in varlığına korkusuzca son vermekten çekinmedi.
     </value>
   </string>
   <string key = "oldvampirkillz">
-    <value> {1}, {0}'in kanını tattı ama kan çürümüştü, bir zombiydi, bu yüzden tek eliyle zombinin kafasını ezdi. </value>
+    <value> {1}, {0}'in kanını tattı ama kanı çürümüştü, bir zombiydi. Bu yüzden tek eliyle zombinin kafasını ezdi. </value>
   </string>
   <string key = "huntKilledoldvampVisit">
-    <value> {0} bu gece seninle bir şeyler atıştırmak için evinize geldi ... Ama sen onun göğsüne bir kazık sapladın. Yaşlı vampir oracıkta öldü ... </value>
+    <value> {0} bu gece seninle bir şeyler atıştırmak için evine geldi ... Ama sen onun göğsüne bir kazık sapladın. Kont oracıkta öldü ... </value>
   </string>
   <string key = "Askovvisit">
-    <value> Bu gece kimi ziyaret edeceksiniz? </value>
+    <value> Bu gece kimi ziyaret edeceksin? </value>
   </string>
 
   <!-- shinigami y hollow -->
   <string key="RoleInfoshinigami">
-    <value> Ruhlar Alemi sizi bir Ruh Muhafızı olmanız için işe aldı, onlar Ruh Yutan'la (yozlaşmış ruhlar ve ruh yutan canavar) savaşmak için gerçek dünyaya seyahat eden ve ölen insanların iyi ruhlarını Ruhlar Alemi'ne gönderen ruhlardır. Her gece bir oyuncuyu ziyaret edebilirsiniz, eğer oyuncu öldüyse ruhunu serbest bırakacaksınız, böylece Ruh Yutanlar onu yiyemez, eğer oyuncu yaşıyorsa, ruhunu yememeleri için onu Ruh Yutanların saldırılarından koruyacaksınız. Dövüştüğünüz Ruh Yutanlardan daha fazla özgür ruhunuz olduğu sürece kazanırsınız.\n\nTakım: Köy. </value>
+    <value> Ruhlar Alemi seni Shinigami olman için işe aldı, onlar Hollow ile (yozlaşmış ruhlar ve ruh yutan canavar) savaşmak için gerçek dünyaya seyahat eden ve ölen insanların iyi ruhlarını Ruhlar Alemi'ne gönderen ruhlardır. Her gece bir oyuncuyu ziyaret edebilirsin, eğer oyuncu öldüyse ruhunu serbest bırakacaksın, böylece Hollow onu yiyemez. Eğer oyuncu yaşıyorsa, ruhunu yememeleri için onu Hollow'un saldırılarından koruyacaksın. Dövüştüğün Hollow'dan daha fazla özgür ruhun olduğu sürece kazanırsın.\n\nTakım: Köy. </value>
   </string>
   <string key="Aboutshinigami">
-    <value> Ruh Muhafızı, Ruh Yutan (ruh yutan canavarlara dönüşen yozlaşmış ruh) ile savaşmak için gerçek dünyaya seyahat eden ve ölen insanların iyi ruhlarını Ruhlar Alemine gönderen ruhlardır. Her gece bir oyuncuyu ziyaret edebilirsiniz, eğer oyuncu öldüyse ruhunu serbest bırakacaksınız, böylece Ruh Yutanlar onu yiyemez, eğer oyuncu yaşıyorsa, ruhunu yememeleri için onu Ruh Yutanların saldırılarından koruyacaksınız. Dövüştüğünüz Ruh Yutanlardan daha fazla özgür ruhunuz olduğu sürece kazanırsınız.\n\nTakım: Köy. </value>
+    <value> Shinigami, Hollow (ruh yutan canavarlara dönüşen yozlaşmış ruh) ile savaşmak için gerçek dünyaya seyahat eden ve ölen insanların iyi ruhlarını Ruhlar Alemine gönderen ruhlardan biridir. Her gece bir oyuncuyu ziyaret edebilirsin, eğer oyuncu öldüyse ruhunu serbest bırakacaksın, böylece Hollow onu yiyemez. Eğer oyuncu yaşıyorsa, ruhunu yememeleri için onu Hollow'un saldırılarından koruyacaksın. Dövüştüğün Hollow'dan daha fazla özgür ruhun olduğu sürece kazanırsın.\n\nTakım: Köy. </value>
   </string>
   <string key="RoleInfohollow">
-    <value> Bir Ruh Yutan oldunuz. Ruh Yutan, çeşitli nedenlerle diğer iyi ruhları yutan kötü ruhlar haline gelen ölen insanların ruhlarıdır, insanları ve Ruh Muhafızlarını da yiyebilirler. 3 veya daha fazla ölü ruhunu yutmayı başarırsanız, daha güçlü hale geleceksiniz ve yaşayanların ruhlarını yutmak için öldürmeye başlayabileceksiniz. Bir Ruh Muhafızını, onun kurtardığından daha fazla sayıda yediğiniz ruh olduğu sürece yenebilirsiniz.\n\nTakım: Ruh Yutan. </value>
+    <value> Sen Hollow'sun. Hollow, çeşitli nedenlerle diğer iyi ruhları yutan kötü ruhlar haline gelen ölen insanların ruhlarıdır, insanları ve Shinigami'leri de yiyebilirler. 3 veya daha fazla ölü ruhunu yutmayı başarırsan, daha güçlü hale geleceksin ve yaşayanların ruhlarını yutmak için öldürmeye başlayabileceksin. Bir Shinigami'yi, onun kurtardığından daha fazla sayıda yediğin ruh olduğu sürece yenebilirsin.\n\nTakım: Hollow. </value>
   </string>
   <string key="Abouthollow">
     <value>
-      Ruh Yutan, çeşitli nedenlerle diğer iyi ruhları yutan kötü ruhlara dönüşen, ancak insanları ve Ruh Muhafızı'nı da yiyip bitirebilen ölen insanların ruhlarıdır. 3 veya daha fazla ölü ruhu yutmayı başarırsanız, daha güçlü hale geleceksiniz ve yaşayan ruhları yutmak için öldürmeye başlayabileceksiniz. Bir Ruh Muhafızını, onun kurtardığından daha fazla sayıda yediğiniz ruh olduğu sürece yenebilirsiniz.\n\nTakım: Ruh Yutan. </value>
+      Hollow, çeşitli nedenlerle diğer iyi ruhları yutan kötü ruhlara dönüşen, ancak insanları ve Shinigami'yi de yiyip bitirebilen ölen insanların ruhlarıdır. 3 veya daha fazla ölü ruhu yutmayı başarırsan, daha güçlü hale geleceksin ve yaşayan ruhları yutmak için öldürmeye başlayabileceksin. Bir Shinigami'yi, onun kurtardığından daha fazla sayıda yediğin ruh olduğu sürece yenebilirsin.\n\nTakım: Hollow. </value>
     </string>
   <string key = "shinigami">
-    <value> Ruh Muhafızı 👻👼</value>
+    <value> Shinigami 👻👼</value>
   </string>
   <string key = "hollow">
-    <value> Ruh Yutan 👻👿</value>
+    <value> Hollow 👻👿</value>
   </string>
   <string key = "shinipierde">
-    <value>{0} 'a yaklaştığınızda, {1}' in bir Ruh Yutan'a dönüştüğü ortaya çıktı, bu sefer oldukça güçlüydü, seni bitirdi ve ruhunu emdi.</value>
+    <value>{0} 'e yaklaştığında, {1}' in bir Hollow'a dönüştüğü ortaya çıktı. Bu sefer oldukça güçlüydü, seni bitirdi ve ruhunu emdi.</value>
   </string>
   <string key = "shinipierdeh">
-    <value>{0} 'a yaklaştığınızda, {1}' in Ruh Muhafızı'na dönüştüğü ortaya çıktı, bu sefer o kadar güçlü değildi, onu yenebilir ve ruhunu yiyebilirdiniz.</value>
+    <value>{0} 'e yaklaştığında, {1}' in Shinigami'ye dönüştüğü ortaya çıktı. Bu sefer o kadar güçlü değildi, onu yenebilir ve ruhunu yiyebilirdin.</value>
   </string>
   <string key = "holpierde">
-    <value>{0} 'a yaklaştığınızda {1} Ruh Yutan'a dönüştü, bu sefer o kadar güçlü değildi, onu yenebildin ve ruhunu serbest bırakmaya özen gösterdin.</value>
+    <value>{0} 'e yaklaştığında {1} Hollow'a dönüştü. Bu sefer o kadar güçlü değildi, onu yenebildin ve ruhunu serbest bırakmaya özen gösterdin.</value>
   </string>
   <string key = "holpierdeh">
-    <value>{0} 'a yaklaştığınızda {1} ortaya çıktı, Ruh Muhafızı'na dönüştü, bu sefer oldukça güçlüydü, seni bitirdi ve ruhunu serbest bıraktı.</value>
+    <value>{0} 'e yaklaştığında {1} ortaya çıktı ve Shinigami'ye dönüştü. Bu sefer oldukça güçlüydü, seni bitirdi ve ruhunu serbest bıraktı.</value>
   </string>
   <string key = "soulliberated">
     <value>{0}'in ruhunu kurtardın.</value>
@@ -3894,28 +3894,28 @@
     <value>Ruhunu yutmak için {0}'i öldürmeyi başardın.</value>
   </string>
   <string key = "soulalive">
-    <value>{0} ile denedin ama yine de ona bir şey yapacak gücün yok.</value>
+    <value>{0}'i serbest bırakmayı denedin ama yine de ona bir şey yapacak gücün yok.</value>
   </string>
   <string key = "shinTeam">
-    <value>\n\nRuh Muhafızı Takımı: </value>
+    <value>\n\nShinigami Takımı: </value>
   </string>
   <string key = "holTeam">
-    <value>\n\nRuh Yutan Takımı: </value>
+    <value>\n\nHollow Takımı: </value>
   </string>
   <string key = "holreclut">
-    <value>{0} Ruh Yutan olduğundan öldü.</value>
+    <value>{0} Hollow olduğundan öldü.</value>
   </string>
   <string key = "shinreclut2">
-    <value>{0} öldü ve büyük manevi gücü nedeniyle Ruhlar Alemi onu Ruh Muhafızı yapmaya karar verdi.</value>
+    <value>{0} öldü ve büyük manevi gücü nedeniyle Ruhlar Alemi onu Shinigami yapmaya karar verdi.</value>
   </string>
   <string key = "shinilostatk">
-    <value>{0} bir Ruh Yutan ve oldukça aç, güçlü bir saldırı ile onu aşağı aldı ve ruhunu yedi. </value>
+    <value>{0} bir Hollow ve oldukça aç, güçlü bir saldırı ile onu aşağı aldı ve ruhunu yedi. </value>
   </string>
   <string key = "holwindef">
-    <value>{0} sana saldırmaya çalıştı ama beklediğinden daha güçlüsün, onu yenmek ve ruhunu yemek senin için zor değildi.</value>
+    <value>{0} sana saldırmaya çalıştı ama beklediğinden daha güçlüsün. Onu yenmek ve ruhunu yemek senin için zor değildi.</value>
   </string>
   <string key = "shiniwinatk">
-    <value>Daha fazla ruh yutmadan önce {0}'i öldürmeyi başardın. Bu kadar zayıf bir Ruh Yutan bulacağını kim bilebilirdi?</value>
+    <value>Daha fazla ruh yutmadan önce {0}'i öldürmeyi başardın. Bu kadar zayıf bir Hollow bulacağını kim bilebilirdi?</value>
   </string>
   <string key = "hollostdef">
     <value>{0} savaşta seni yendi ve ruhunu serbest bıraktı.</value>
@@ -3924,25 +3924,25 @@
     <value>{0} seni arkadan saldırarak şaşırttı, ruhun bu gece onun yemeği olacak.</value>
   </string>
   <string key = "holwinatk">
-    <value>{0}'i yemeye gittiğinizde, onun bir Ruh Muhafızı olduğunu görüyorsunuz, varlığını sona erdirmekten çekinmeyin.</value>
+    <value>{0}'i yemeye gittiğinde, onun bir Shinigami olduğunu görüyorsun. Varlığını sona erdirmekten çekinme.</value>
   </string>
   <string key = "shiniwindef">
-    <value>{0} sırtından sana saldırmaya çalıştı, iyi ki dikkat ettin ve işini bitirebildin.</value>
+    <value>{0} arkandan sana saldırmaya çalıştı. İyi ki dikkat ettin ve işini bitirebildin.</value>
   </string>
   <string key = "hollostatk">
-    <value>{0}'in ruhunu yemek mi istedin? Daha fazla yemeyi unut, o senden daha fazla güce sahip bir Ruh Muhafızı'ydi, varlığını sona erdirdi, ruhunu serbest bıraktı.</value>
+    <value>{0}'in ruhunu yemek mi istedin? Daha fazla yemeyi unut, o senden daha fazla güce sahip bir Shinigami'ydi ve varlığını sona erdirdi. Ruhunu serbest bıraktı.</value>
   </string>
   <string key = "futureshinigami">
-    <value>{0}'i öldürmeyi başardın, ama ruhu güçlüydü, senden kaçmayı başardı.</value>
+    <value>{0}'i öldürmeyi başardın ama ruhu güçlüydü. Senden kaçmayı başardı.</value>
   </string>
   <string key = "hollowatklive">
-    <value>Olamaz, gizemli bir varlık {0}'i öldürdü ve evin yarısını havaya uçurdu. Sanki bir ısırıkta yediler ama kim olduğuna dair hiçbir iz ya da ipucu yok.</value>
+    <value>Olamaz!!! Gizemli bir varlık {0}'i öldürdü ve evin yarısını havaya uçurdu. Sanki bir ısırıkta yediler ama kim olduğuna dair hiçbir iz ya da ipucu yok.</value>
   </string>
   <string key = "soulalive2">
     <value>{0}'e saldırmaya çalıştın ama bu sefer şans onun tarafındaydı.</value>
   </string>
   <string key = "hollowwins">
-    <value>Ruh Yutanlar kalan Ruh Muhafızına rağmen kazandı. Kalanlar sadece ruhlarının yutulmalarını beklemek zorunda kaldılar, Ruh Yutanlar bu sefer kazandı. :P</value>
+    <value>Hollow'lar kalan Shinigami'ye rağmen kazandı. Kalanlar sadece ruhlarının yutulmalarını beklemek zorunda kaldılar. Hollow'lar bu sefer kazandı. :P</value>
   </string>
   <string key = "Askshinhunt">
     <value>Bugün kimi kurtarmak ya da korumak istiyorsun?</value>
@@ -3951,42 +3951,42 @@
     <value>Bu sefer kimin ruhunu yutmak istiyorsun?</value>
   </string>
   <string key = "shinVotedKill">
-    <value>{0}, {1}'i ziyaret etmeye oy verdi.</value>
+    <value>{0}, {1}'i ziyaret etmek için oy kullandı.</value>
   </string>
   <string key = "hollowVotedKill">
-    <value>{0}, {1}'i yemeye oy verdi.</value>
+    <value>{0}, {1}'i yemek için oy kullandı.</value>
   </string>
   <string key = "holKillsshinEnd">
-    <value>{0} öldükten sonra güçlü bir Ruh Yutan haline geldi, sadece arzularını tatmin etmek için, yutmak için {1} eksikti.</value>
+    <value>{0} öldükten sonra güçlü bir Hollow haline geldi. Sadece arzularını tatmin etmek için, yutmak için {1} eksikti.</value>
   </string>
   <string key = "shinKillsholEnd">
-    <value>{0}, kalan son kişi olan {1} ile sona kaldı. Bu kalan son Ruh Yutdan'dı. Köy şimdi barış içinde yaşayabilir. Köylüler Kazandı.</value>
+    <value>{0}, kalan son kişi olan {1} ile sona kaldı. Bu kalan son Hollow'du. Köy şimdi barış içinde yaşayabilir. Köylüler Kazandı.</value>
   </string>
   <string key = "errorxban">
     <value>{0} isimli kullanıcı ban yediği için oynamasına izin verilmiyor.</value>
   </string>
   <string key = "shinitiedef">
-  <value> {0} sana arkadan kalleş bir şekilde saldırmaya çalıştı, neyse ki dikkatliydin ve onunla yüzleştin, oldukça güçlüydü, onu gebertemedin ama senin ruhani gücünü görünce evden ayrıldı. Güçlenmeniz gerekecek. </value>
+  <value> {0} sana arkadan kalleş bir şekilde saldırmaya çalıştı. Neyse ki dikkatliydin ve onunla yüzleştin. Oldukça güçlüydü, onu gebertemedin ama senin ruhani gücünü görünce evden ayrıldı. Güçlenmen gerekecek. </value>
 </string>
   <string key = "holtieatk">
-    <value> {0} yemeğini yiyeceğin zaman onun Ruh Muhafızı olduğunu görüyorsun, var gücünle savaşıyorsun ama yetmiyor ve kaçıyorsun, onu yenmek için daha güçlü olmalısın. </value>
+    <value> {0} yemeğini yiyeceğin zaman onun Shinigami olduğunu görüyorsun. Var gücünle savaşıyorsun ama yetmiyor ve kaçıyorsun. Onu yenmek için daha güçlü olmalısın. </value>
   </string>
   <string key = "holtie">
-    <value> {0}'e yaklaştığınızda, Ruh Muhafızı olan {1} belirdi, teke tek kafes dövüşü yaptınız ama kazanan olmadı. Taner tolga tarlacıdan ders almalısınız. :D</value>
+    <value> {0}'e yaklaştığında, Shinigami olan {1} belirdi. Teke tek kafes dövüşü yaptınız ama kazanan olmadı. Taner tolga tarlacıdan ders almalısın. :D</value>
   </string>
   <string key = "shinitie">
-    <value> {0}'e yaklaştığınızda, {1} Ruh Yutan'a dönüşmüş görünüyordu, onunla çok çetin bir mücadele ortaya koydunuz ama kazanan olmadı.</value>
+    <value> {0}'e yaklaştığında, {1} Hollow'a dönüşmüş görünüyordu. Onunla çok çetin bir mücadele ortaya koydun ama kazanan olmadı.</value>
   </string>
   <string key = "shinitieatk">
-    <value> {0} bir Ruh Yutan'dı, onunla kavga ettiniz ama ne yazik ki kazanamadınız, tekrar denemek için kendinizi güçlendirmeniz gerekecek. </value>
+    <value> {0} bir Hollow'du, onunla kavga ettin ama ne yazık ki kazanamadın. Tekrar denemek için kendini güçlendirmen gerekecek. </value>
   </string>
   <string key = "holtiedef">
-    <value> {0} seni buldu, onunla kavga ettin ama kazanamadın, bir dahaki sefere onu yenebilmek için kendini güçlendirmen gerekecek. </value>
+    <value> {0} seni buldu. Onunla kavga ettin ama kazanamadın. Bir dahaki sefere onu yenebilmek için kendini güçlendirmen gerekecek. </value>
   </string>
   <string key = "PlayerStartedveteran">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} emektarlar oyunu başlattı!  Katılmak için butona basın... Kesinlikle oyunun en hızlı modu 😂 </value>
-    <value> {0} yeni bir emektar oyunu başlattı! Linç etmek için düğmeye basın!</value>
+    <value> {0} İblis modunda bir oyunu başlattı!  Katılmak için butona tıkla... Kesinlikle oyunun en hızlı modu 😂 </value>
+    <value> {0} yeni bir iblis oyunu başlattı! Linç etmek için butona tıkla!</value>
   </string>
   <string key="GroupIdleCount">
     <!-- {0} - Idle count in the last 24 hours in the current group -->
@@ -3999,17 +3999,17 @@
   
   <string key="PlayerStartedbonusrank">
     <!-- 0 - Player name -->
-    <value>¡{0} Bir BONUS oyunu başladı! Katılmak ve normalden daha fazla puan kazanmak için düğmeye basın.</value>
-    <value>¡{0} yeni bir bonus oyunu başlattı! Bu fırsattan yararlanabilecek misiniz?</value>
+    <value>¡{0} BONUS oyunu başlattı! Katılmak ve normalden daha fazla puan kazanmak için butona tıkla.</value>
+    <value>¡{0} yeni bir bonus oyun başlattı! Bu fırsattan yararlanabilecek misin?</value>
   </string>
   <string key="nobonus">
     <!-- 0 - Player name -->
-    <value>{0} Kullanacak bonuslu oyununuz kalmadı.</value>
+    <value>{0} Kullanacak bonuslu oyunun kalmadı.</value>
   </string>
   <string key="titikill">
     <!-- 0 - Player name -->
-    <value>ÖLDÜNÜZ!! Kuklacı, kukla yapmak için vücudunuzun bazı kısımlarını tutmaya karar verdi.</value>
-    <value>SENİ ÖLDÜRDÜLER!! Belki bir oyuncak bebek olarak daha değerlisin, kuklacı seni nasıl kullanacağını biliyor.</value>
+    <value>ÖLDÜN!! Kukla Ustası, kukla yapmak için vücudunun bazı kısımlarını kullanmaya karar verdi.</value>
+    <value>SENİ ÖLDÜRDÜLER!! Belki bir oyuncak bebek olarak daha değerlisin. Kukla Ustası seni nasıl kullanacağını iyi biliyor.</value>
   </string>
 
   <string key="FleeDisabledrankeds">
@@ -4025,6 +4025,6 @@
     <value>Resmi grubun bir yöneticisine bu komutu kullanmasını söyleyin.</value>
   </string>
   <string key="cnnorabid">
-    <value>Gece avcısını kuduz yapmaya çalışmak gerçekten saçma bir fikirdi, seni ölümlü cahil!</value>
+    <value>Kelle avcısını kuduz yapmaya çalışmak gerçekten saçma bir fikirdi, seni ölümlü cahil!</value>
   </string>
 </strings>
