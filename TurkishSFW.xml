@@ -3194,30 +3194,30 @@
     <value> Zaman Yolcusu ⏳ </value>
   </string>
   <string key = "Abouttimetraveler">
-    <value> Zaman yolcusu, gelecekten gelen bir dahidir, köydeki katliam nedeniyle yalnız kaldığı bir gelecektendir. Amacı geçmişi değiştirerek yaşananlardan kaçınmaktır, çünkü bunun için en az 4 köylüyü zaman makinesini yeniden inşa etmesine kendisine yardım etmesi için ikna etmesi gerekir, çünkü ilk denemesinde sonbaharda bir uçurumun kenarında göründü ve makine yok edildi. Zaman yolcusu kötü rolleri ziyaret ederse, onlar kendisini kabul edecekler ama ona hiçbir konuda yardımcı olmayacaklar, hangisinin iyi ya da kötü olduğunu bilmeyeceğini ve sadece 4 iyi rolle zamanda geri dönebileceğini belirtti. </value>
+    <value> Zaman yolcusu, gelecekten gelen bir dahidir, köydeki katliam nedeniyle yalnız kaldığı bir gelecekten gelmektedir. Amacı geçmişi değiştirerek yaşananlardan kaçınmaktır. Bunun için en az 4 köylüyü zaman makinesini yeniden inşa etmesi için kendisine yardım etmesi için ikna etmesi gerekir. Çünkü ilk denemesinde sonbaharda bir uçurumun kenarında göründü ve makine düşerek yok oldu. Zaman yolcusu kötü rolleri ziyaret ederse, onlar yeniden inşa etme teklifinin kabul edecekler ama ona hiçbir konuda yardımcı olmayacaklar, hangisinin iyi ya da kötü olduğunu bilmeyeceğini ve sadece 4 iyi rolle zamanda geri dönebilir. </value>
   </string>
   <string key = "tttravelYou">
-    <value> Evinize çok garip bir karakter geldi, çok çılgınca bir fikir önerdi, kendisinin gelecekten geldiğini söylüyor. Belki bu onun çılgın konuşma tarzıydı ya da fikirleriydi ama teklifini kabul ettiniz ve ihtiyacı olan bir makineyi yapmasına yardım edeceksiniz. Bunu kimseyle tartışmamak en iyisidir. </value>
+    <value> Evine çok garip bir karakter geldi, çok çılgınca bir fikir önerdi, kendisinin gelecekten geldiğini söylüyor. Belki bu onun çılgın konuşma tarzıydı ya da fikirleriydi ama teklifini kabul ettin ve ihtiyacı olan bir makineyi yapmasına yardım edeceksin. Bunu kimseyle tartışmamak en iyisidir. </value>
   </string>
   <string key = "tttravelYou2">
-    <value> {0} 'i size zaman makinesinde yardımcı olmaya ikna edebildiniz, umarım sözünü tutar. </value>
+    <value> {0} 'i sana zaman makinesinde yardımcı olmaya ikna edebildin, umarım sözünü tutar. </value>
   </string>
   <string key = "traveltime">
     <value>
-      Ama ????? Neler oluyor? Hepiniz zamanda geriye gittiniz, köyünüzden ölenler hayatta ve iyi, {0} bir zaman makinesi yaratmayı başardınız ama bir yanlış hesaplama vardı, hepiniz gelecekte ne olduğunu hala hatırlıyorsunuz. Bakalım bu sefer nasıl bitecek?
+      Ama ????? Neler oluyor? Hepiniz zamanda geriye gittiniz, köyünüzde ölenler hayatta ve hepsi nefes alabilir durumda. {0} bir zaman makinesi yaratmayı başardı ama bir yanlış hesaplama vardı, hepiniz gelecekte neler olduğunu hâlâ hatırlıyorsunuz. Bakalım bu sefer sonu nasıl bitecek?
     </value>
   </string>
   <string key = "traveldone">
-    <value> Sonunda anladınız, küçük bir sorun olmasına rağmen, bu sefer yarattığınız makine herkese gelecekte olanları hatırlattı ve makine maalesef o zaman çizelgesinde kaldı. Asistanlarınızdan biri size içinde iki mermi olan bir silah verdi ve siz bir Silahşör oldunuz, işleri bu sefer daha agresif bir şekilde düzeltmeniz gerekecek. </value>
+    <value> Sonunda anladın, küçük bir sorun olmasına rağmen, bu sefer yarattığın makine herkese gelecekte olanları hatırlattı ve makine maalesef o zaman çizelgesinde kaldı. Asistanlarından biri sana içinde iki mermisi olan bir silah verdi ve sen artık bir Silahşör oldun. İşleri bu sefer daha agresif bir şekilde düzeltmen gerekecek. </value>
   </string>
   <string key = "traveldone2">
     <value> İnanmayacaksın, hayata döndün ya da öyle sanıyorsun. Bir bilim dehası bir zaman makinesi yarattı ve zamanı yaşadığın zamana geri döndürdü, daha iyisini yapmak için bir şansın daha var. </value>
   </string>
   <string key = "Asktraveler">
-    <value> Birini zaman makinenizi yeniden inşa etmeye ikna etme zamanı, yardımcılarınızı iyi seçin. </value>
+    <value> Birini zaman makineni yeniden inşa etmeye ikna etme zamanı, yardımcılarını iyi seç. </value>
   </string>
   <string key = "Asktraveler2">
-    <value> Makine tamamlandı, geçici süreci başlatmak istiyor musunuz? </value>
+    <value> Makine tamamlandı, geçici süreci başlatmak istiyor musun? </value>
   </string>
 
   <string key = "zombi">
@@ -3227,43 +3227,43 @@
     <value> {0} evi terk etmemiş ve evinde hırlayarak dolaşıyor, O bir zombi olmalı. </value>
   </string>
   <string key = "Policealivez">
-    <value> Onu sorguladığınızda {0}'in sadece homurdanarak yaklaştığını ve sizi ısırmak istediğini görürsünüz, bu zombiyi öldürmek için yardım istemek için kaçarsınız. </value>
+    <value> Onu sorguladığında {0}'in sadece homurdanarak yaklaştığını ve seni ısırmak istediğini görürsün, bu zombiyi öldürmek için yardım istemek için kaçarsın. </value>
   </string>
   <string key = "Policez">
-    <value> Sorgulamaya başladığınızda {0} sizi ısırır, yardım istemeye koşarsınız ama zaten enfekte olursunuz. </value>
+    <value> Sorgulamaya başladığında {0} seni ısırır, yardım istemeye koşarsın ama zaten enfekte olmuşsun. </value>
   </string>
   <string key = "HunterFindz">
-    <value> Tam olarak aradığınız şey bu değildi, ancak {0} köyde için biraz daha az pislik olan bir zombiydi. </value>
+    <value> Tam olarak aradığın şey bu değildi, ancak {0} köy için biraz daha az pislik olan bir zombiydi. </value>
   </string>
   <string key = "zkilledxcn">
-    <value> Gece Avcısı, siz sürüyü büyütmeden önce sizi buldu. </value>
+    <value> Kelle Avcısı, sen sürüyü büyütmeden önce seni buldu. </value>
   </string>
   <string key = "vampirbitez">
     <value> Bir vampir acımasızca kafanı kopardı. </value>
   </string>
   <string key = "vampirkillz">
-    <value> {1} kanı tattı {0} ama çürüktü, O bir zombi olduğu için onun kafasını kopardı. </value>
+    <value> {1} kanı tattı ama {0}'in kanı çürüktü. O bir zombi olduğu için onun kafasını kopardı. </value>
   </string>
   <string key = "chemistvsz">
-    <value> {0} seninle bir bahis tutmak istedi, ama sen sadece homurtulardan anlıyorsun. </value>
+    <value> {0} seninle bir bahis yapmak istedi, ama sen sadece homurtulardan anlıyorsun. </value>
   </string>
   <string key = "Chemisttoz">
-    <value> {0} ile bir bahis oynayacaksınız ama onunla konuşmayı bitirmediniz bile ve o çoktan size saldırıyordu, kaçmayı başardınız ama artık çok geç, size bir zombi virüsü bulaştı. </value>
+    <value> {0} ile bir bahis oynayacaksın ama onunla konuşmayı bitirmedin bile ve o çoktan sana saldırıyordu. Kaçmayı başardın ama artık çok geç, sana bir zombi virüsü bulaştı. </value>
   </string>
   <string key = "HarlotVisitz">
-    <value> Ama .... çürümüş bir insanla sohbet etmeyi nasıl düşünürsünüz? Aslında onun homurdanmalarından ne anladığınızı kim bilebilir? Şimdi kalabalıktan bir zombisiniz. </value>
+    <value> Ama .... çürümüş bir insanla bir geceyi nasıl geçirebilirsin? Aslında onun homurdanmalarından ne anladığını kim bilebilir? Şimdi zombi sürüsünün bir parçasısın. </value>
   </string>
   <string key = "harlotinz">
-    <value> Görünüşe göre yancı senin eğlenmek istedi ve sonunda kalabalıktan biri oldu, çok fazla beyni yoktu ama buna değerdi. </value>
+    <value> Görünüşe göre yancı seninle eğlenmek istedi ve sonunda sürünün bir parçası oldu, çok fazla beyni yoktu ama buna değerdi. </value>
   </string>
   <string key = "Aboutzombi">
-    <value> Zombiler efsanevi yaratıklardır, sizi ısırırlarsa  bazı roller daha az şanslı olacak ve anında oyuna sessiz başlayacaklardır. Ekip olsalar bile, her zombi ayrı ayrı hareket eder ve hem linçlerde hem de gece eylemlerinde seçimleri, zeka ve mantıktan yoksun oldukları için rastgele olur. </value>
+    <value> Zombiler efsanevi yaratıklardır, seni ısırırlarsa onların sürüsüne dahil olursun. Bazı roller daha az şanslı olacak ve anında oyuna sessiz başlayacaklar. Ekip olsalar bile, her zombi ayrı ayrı hareket eder ve hem linçlerde hem de gece eylemlerinde seçimleri zeka ve mantıktan yoksun oldukları için rastgele olur. </value>
   </string>
   <string key = "zombiFellDigger">
     <value> Mezarcı, bir mezar çukurunun içinde bir zombi bulduğunda biraz şaşırdı, bundan yararlandı ve onu orada gömülü bıraktı. </value>
   </string>
   <string key = "doptransz">
-    <value> Seçtiğin kişi zaten öldü, ne yazık ki bir zombiydi, şimdi sen de köyde homurdanmalarla dolaşıyorsun. </value>
+    <value> Seçtiğin kişi zaten öldü, ne yazık ki bir zombiydi, şimdi sen de köyde homurdanarak dolaşıyorsun. </value>
   </string>
   <string key = "GunnerShotz">
     <value> {0}, {1} 'e ateş ediyor, ama {1} ölmüyor ve homurdanarak kalkıyor, bir zombiyi iyi niyetli bir atışla öldürmek için {0} başka bir mermisinin daha olduğunun farkına varıyor. </value>
@@ -3275,13 +3275,13 @@
     <value> Sana inanmıyorum, zombi olmak için çok kötü olmalısın HAHAHAHAHAHA </value>
   </string>
   <string key = "herbatoz">
-    <value> Zehirlemeye çalışıyorsun {0} ama bir ısırık aldığını fark etmeden kaçıyorsun, çok geç de olsa enfeksiyon yüzünden zombi olacaksın. </value>
+    <value> {0}'i zehirlemeye çalışıyorsun ama onun tarafından bir ısırık aldığını fark etmeden kaçıyorsun. Çok geç de olsa enfeksiyon yüzünden zombi olacaksın. </value>
   </string>
   <string key = "wolftoz">
-    <value> {0} 'ı yemek yemek iyi bir fikir değil, eti çürümüş, başka bir meze bulsan iyi olur. </value>
+    <value> {0} 'i yemek iyi bir fikir değil. Eti çürümüş Kendine başka bir meze bulsan iyi olur. </value>
   </string>
   <string key = "zseewolf">
-    <value> {0} vücudunuzun bir bölümünü yemeye çalışırken sizden daha aç görünüyor. </value>
+    <value> {0} vücudunun bir bölümünü yemeye çalışırken senden daha aç görünüyor. </value>
   </string>
   <string key = "Askzeat">
     <value> Kimin beynini yemek istiyorsun? </value>
@@ -3290,16 +3290,16 @@
     <value> Köyde {0} yalnızca {1}'i öldürür, ancak yangın tüm zombileri öldürür. </value>
   </string>
   <string key = "NHKillszEnd">
-    <value> Zombi köyünü temizlemek için {0} sadece {1} 'in kafasını kesin. </value>
+    <value> Zombi köyünü temizlemek için {0} sadece {1} 'in kafasını kesti. </value>
   </string>
   <string key = "vampKillszEnd">
-    <value> {0} kanı tercih etti, ancak {1} kanı çürüttüğünü görünce, zombinin kafasını koparmasıyla işlem biter. </value>
+    <value> {0} kanı tercih etti, ancak {1} kanı çürüttüğünü görünce, zombinin kafasını koparmasıyla işlemi bitirdi. </value>
   </string>
   <string key = "zeatguard">
-    <value> Lezzetli bir beyin yemeye giderken, önce bir başkası çıktı. Bir korumayı zombiye çevirdin. </value>
+    <value> Lezzetli bir beyin yemeye giderken, önce bir başkası çıktı. Bir muhafızı zombiye çevirdin. </value>
   </string>
   <string key = "NHunterKilledz">
-    <value> {0} başsız köyün sokaklarından birinde belirir, cesedi günlerdir oradaymış gibi görünür, Gece Avcısı bunun bir zombi olduğunu açıklığa kavuşturur. </value>
+    <value> {0} başsız köyün sokaklarından birinde belirir, cesedi günlerdir oradaymış gibi görünür, Kelle Avcısı bunun bir zombi olduğunu idrak eder. </value>
   </string>
   <string key = "zWins">
     <value> Zombiler tüm canlıları öldürdü, köyde sadece homurtular duyuluyor, şimdi bir köy yerine herkes bir zombi sürüsü. </value>
@@ -3308,16 +3308,16 @@
     <value> {0} vampir yemeye çalıştı ama {1} çok da rahatsız olmadan onun kafasını kopardı. </value>
   </string>
   <string key = "marionetBlockedz">
-    <value> Bugünün yemeklerinin tadı beyinden daha çok kumaş ve pamuk gibi, birisi sizi yanıltmak için gürültülü bir yem koydu. </value>
+    <value> Bugünün yemeklerinin tadı beyinden daha çok kumaş ve pamuk gibi, birisi seni yanıltmak için gürültülü bir yem koydu. </value>
   </string>
   <string key = "zvstiti">
     <value> {0} beynini yemeye çalışıyordu, çok şükür onu yanıltacak gürültülü bir kuklan vardı, kesinlikle istediği lezzetleri bulamadı. </value>
   </string>
   <string key = "guardeatxz">
-    <value> Siz işinizi yaparken bir zombi arkanızdan sessizce yaklaştı, kendinizi bundan koruyamadınız ve sonunda onun ordusuna katıldınız. </value>
+    <value> Sen işini yaparken bir zombi arkandan sessizce yaklaştı, kendini bundan koruyamadın ve sonunda onun ordusuna katıldın. </value>
   </string>
   <string key = "convertz">
-    <value> Ne kötü bir şansın vardı, içiniz bir zombi ile doluydu, şimdi kalabalıktan birisiniz. </value>
+    <value> Ne kötü bir şansın vardı. İçin bir zombi ile doluydu. Şimdi kalabalıktan birisin. </value>
   </string>
   <string key = "zeat">
     <value> Bu beyin besin değeri olarak ne kadar da zengin! Sürüye taze bir zombi daha katılıyor. </value>
@@ -3326,37 +3326,37 @@
     <value> Seni bir zombi yemeye çalıştı, fakat sen hayatta kaldın çünkü onu bacağından vurdun, böylece O seni takip etmeyi bırakıyor, ama sana bir kurşun kaybettiriyor. </value>
   </string>
   <string key = "zeatfire">
-    <value> {0} ateş kurtunu yemeye çalıştın ve O seni küle çevirdi. </value>
+    <value> {0} cehennem kurdunu yemeye çalıştın ve O seni küle çevirdi. </value>
   </string>
   <string key = "znoeat">
     <value> Bu sefer tok olduğun için hiçbir şey yiyemezsin. </value>
   </string>
   <string key = "infeztado">
-    <value> Bir zombi sizi ısırdı, enfeksiyon sizi öldürmeden önce yaşamak için yalnızca bir gününüz kaldı. </value>
+    <value> Bir zombi seni ısırdı, enfeksiyon seni öldürmeden önce yaşamak için yalnızca bir günün kaldı. </value>
   </string>
   <string key = "zeatpoco">
-    <value> Açlığınızı gideremiyordunuz ama güzel bir ısırık alabildiniz. </value>
+    <value> Açlığını gideremiyordun ama güzel bir ısırık alabildin. </value>
   </string>
   <string key = "guardinz">
-    <value> Bir koruma olarak deneyiminiz sizi bir zombiden korumak için yeterli değil ve O sizi ısırıyor, şimdi siz birlikte başka bir sürüsünüz. </value>
+    <value> Bir muhafız olarak deneyimin seni bir zombiden korumak için yeterli değil ve O seni ısırıyor, şimdi senle birlikte başka bir sürüsün. </value>
   </string>
   <string key = "guardinfected">
-    <value> Koruma olmanıza rağmen, bir zombiye karşı pek bir şey yapamıyorsunuz, bir zombi göründü ve sizi savunmasızken ısırdı.</value>
+    <value> Muhafız olmana rağmen, bir zombiye karşı pek bir şey yapamıyorsun, bir zombi göründü ve seni savunmasızken ısırdı.</value>
   </string>
   <string key = "Fightedzombis">
-    <value> İtfaiye kıyafeti sayesinde {0} 'i bir zombi saldırısından koruyabilirsiniz. </value>
+    <value> İtfaiye kıyafeti sayesinde {0} 'i bir zombi saldırısından koruyabilirsin. </value>
   </string>
   <string key = "GuardBlockedzombis">
-    <value> {0}'i bir zombiden korumayı başarıyorsunuz. </value>
+    <value> {0}'i bir zombiden korumayı başarıyorsun. </value>
   </string>
   <string key = "BittenTurnedz">
-    <value> Yavaş yavaş çok aç olduğunuzu hissediyorsunuz, o kadar çok düşünemiyorsunuz ki, sadece arzuladığınız her şeyi değil, sadece insan beyni açlığınızı tatmin edecek, bir zombi oluyorsunuz. </value>
+    <value> Yavaş yavaş çok aç olduğunu hissediyorsun, o kadar çok düşünemiyorsun ki, sadece arzuladığın her şeyi değil, sadece insan beyni açlığını tatmin edecek, bir zombi oluyorsun. </value>
   </string>
   <string key = "aliveofz">
-    <value> Bir zombi belirir ama dikkatliydiniz, gürültü yapmadan sessizce saklanıp ondan kurtulursunuz. </value>
+    <value> Bir zombi belirir ama dikkatliydin, gürültü yapmadan sessizce saklanıp ondan kurtulursun. </value>
   </string>
   <string key = "zeatcazan">
-    <value> {0} Gece Avcısının beyninin lezzetli olabileceğini düşündü ya da buna inanmak istiyordu, beklendiği gibi başsız kaldı. </value>
+    <value> {0} Kelle Avcısının beyninin lezzetli olabileceğini düşündü ya da buna inanmak istiyordu, beklendiği gibi başsız kaldı. </value>
   </string>
 
   <!-- gayri resmi güncelleme -->
