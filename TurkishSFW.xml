@@ -3363,227 +3363,227 @@
 
   <string key = "RoleInfoDetective">
     <value>
-      Sen Dedektifsin. Gün boyunca, rollerini araştırmak için bir oyuncu seçebilirsiniz. Ancak, bunu yaparsanız, rolünüzün kurtadamlara ifşa edilmesi için %40 şansınız var. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm, ölmezse dönüşüm oranı %33'tür. \nZombiler: Enfekte olmak veya hayatta kalmak için %30
+      Sen Dedektifsin. Gün boyunca, rollerini araştırmak için bir oyuncu seçebilirsin. Ancak, bunu yaparken rolünün kurtadamlara ifşa edilmesi için %40 şansın var. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölürsün, ölmezsen dönüşüm oranın %33'tür. \nZombiler: Enfekte olmak veya hayatta kalmak için %30 şansın var.
     </value>
   </string>
   <string key = "RoleInfoDrunk">
-    <value> Tebrikler! Kasaba Sarhoşusun! (Aslında herkes bilir ...). \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Her zaman dönüşür. </value>
+    <value> Tebrikler! Kasaba Sarhoşusun! (Aslında herkes bunu biliyor ...). \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Her zaman dönüşür. </value>
   </string>
   <string key = "RoleInfoGuardianAngel">
-    <value> Sen Koruyucu Meleksin. Her gece korumak için bir oyuncu seçebilirsin. Bununla birlikte, bir seri katil seçerseniz %50 şansla ölme olasılığınız vardır. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Bağışıktır. \nZombiler: \nZiyaret Edilirse: Evde bulamazlar. </value>
+    <value> Sen Koruyucu Meleksin. Her gece korumak için bir oyuncu seçebilirsin. Bununla birlikte, bir seri katili seçersen %50 şansla ölme olasılığın vardır. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Bağışıklılığı var. \nZombiler: \nZiyaret Edilirse: Evde bulamazlar. </value>
   </string>
   <string key = "RoleInfoGunner">
-    <value> Sen Silahşörsün. İki mermin var. Gün boyunca başka bir oyuncuyu vurmayı seçebilirsiniz. Herkes atışları duyacak ve silahşörlüğün sizin tarafınızdan yapıldığını bilecek. İyi bir rolü öldürürseniz, Muhtar sizden bir mermi alır, eğer kötü bir kişiyi öldürürseniz size bir başka mermi yapması için demirciyi gönderir. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: \nOnları vurursanız: Sadece 1 merminiz varsa, ıskalarsınız, daha fazla varsa, onu kafasından vurmak için fazladan bir tane kullanacaksınız. \nSizi ziyaret ederlerse: En az bir mermi kaldıysa, enfekte olma veya bir mermi harcayarak hayatta kalma şansı %30, aksi takdirde her zaman dönüştürülür. </value>
+    <value> Sen Silahşörsün. İki mermin var. Gün boyunca başka bir oyuncuyu vurmayı seçebilirsin. Herkes namludan çıkan ateş seslerini duyacak ve silahşörlüğün senin tarafından yapıldığını bilecek. İyi bir rolü öldürürsen, Muhtar senden bir mermi alır, eğer kötü bir kişiyi öldürürsen sana başka bir mermi yapması için demirciyi gönderir. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: \nOnları vurursan: Sadece 1 mermin varsa, ıskalarsınız. Daha fazla varsa, onu kafasından vurmak için fazladan bir tane kullanacaksın. \nSeni ziyaret ederlerse: En az bir mermi kaldıysa, enfekte olma veya bir mermi harcayarak hayatta kalma şansın %30, aksi takdirde her zaman dönüştürülür. </value>
   </string>
   <string key = "RoleInfoHarlot">
     <value>
-      Seni Yancı! Gece boyunca başka bir oyuncuyu ziyaret edebilirsiniz. O gece kötü bir rolü veya kurbanı ziyaret ederseniz, ölebilirsiniz. Öte yandan, o gece sizi öldürmeye çalışırlarsa, sizi evde bulamazlar ve hayatta kalırsınız. Yaşlı Bilgeyi ziyaret ederken dikkatli olun, ona baston vererek ve çok çene yaparak kalp krizi geçirterek onu öldürebilirsiniz (%50 şans). \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edilirse: %50 ölme şansı vardır, hayatta kalırsa %50 şans vampir olup olmadığını keşfeder. Evde kalırsa, Onu dönüştürmek veya öldürmek için %50 şans. \nZombiler: \nZiyaret ederseniz: Her zaman ölür. \nSizi ziyaret ederlerse: Evde kalırsanız, enfekte olma veya hayatta kalma şansınız %50'dir.
+      Seni Yancı! Gece boyunca başka bir oyuncuyu ziyaret edebilirsin. O gece kötü bir rolü veya kurbanı ziyaret edersen, ölebilirsin. Öte yandan, o gece seni öldürmeye çalışırlarsa, seni evde bulamazlar ve hayatta kalırsın. Yaşlı Bilgeyi ziyaret ederken dikkatli ol. Ona baston vererek ve çok çene yaparak kalp krizi geçirterek onu öldürebilirsin (%50 şans). \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edilirse: %50 ölme şansı vardır, hayatta kalırsa %50 şans vampir olup olmadığını keşfeder. Evde kalırsa, onu dönüştürmek veya öldürmek için %50 şans. \nZombiler: \nZiyaret edersen: Her zaman ölür. \nSeni ziyaret ederlerse: Evde kalırsan, enfekte olma veya hayatta kalma şansın %50'dir.
     </value>
   </string>
   <string key = "RoleInfoWolf">
     <value>
-      SEN KURT ADAMSIN !! (Aferin XD). Her gece birini yemeyi seçebilirsiniz. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampiri öldürmek için %50 şans var. \nZombiler: \nZiyaret ederseniz: Yemekleri sevmeyeceksiniz . \nSizi ziyaret ederlerse: Daima hayatta kalın.
+      SEN KURT ADAMSIN !! (Aferin XD). Her gece birini yemeyi seçebilirsin. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampiri öldürmek için %50 şans var. \nZombiler: \nZiyaret edersen: Tatlarını sevmeyeceksin ve yemekten vazgeçeceksin . \nSeni ziyaret ederlerse: Daima hayatta kalırsın.
     </value>
   </string>
   <string key = "RoleInfoSeer">
     <value>
-      Sen Gözcüsün. Her gece diğerlerinin rollerini algılamak için bir karakter seçebilirsin, fakat aptal olmadıkça, işte o zaman oyunu mahvedersin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var, ölmezse dönüşüm oranı %33'tür. \nZombiler: %30 enfeksiyona sahip, %25 hayatta kalıyor ve %45 dönüşüyor.
+      Sen Gözcüsün. Her gece bir oyuncunun rolünü algılamak için özel bir görüşe sahipsin. Fakat çomar olmadıkça, işte o zaman oyunu mahvedersin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var, ölmezse dönüşüm oranı %33'tür. \nZombiler: %30 enfeksiyona sahip, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoVillager">
-    <value> Sen sıradan Köylüsün. Günlerinizi tarlaları işleyerek ve ekerek geçirmeye mahkumsunuz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalır ve %45 dönüştür. </value>
+    <value> Sen sıradan Köylüsün. Günlerini tarlaları işleyerek ve ekerek geçirmeye mahkumsun. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm. </value>
   </string>
   <string key = "RoleInfoTanner">
-    <value> Sen İblissin. Linç olmayı başarırsanız, hemen kazanırsınız! \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Enfekte olma veya hayatta kalma şansı %30'dur. </value>
+    <value> Sen İblissin. Linç olmayı başarırsan, hemen kazanırsın! \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Enfekte olma veya hayatta kalma şansı %30'dur. </value>
   </string>
   <string key = "RoleInfoWildChild">
-    <value> Sen Yabani Çocuksun! "Rehberiniz" olacak bir oyuncu seçin ve ölmemeye çalışın. Takım köyü olacaksınız ve adını açıklamamak daha iyi olacak, eğer ölürse kurt adam olacaksınız. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler : %30 enfeksiyona sahiptir, %25 hayatta kalır ve %45 dönüşür. </value>
+    <value> Sen Yabani Çocuksun! "Rol modelin" olacak bir oyuncu seç ve ölmemeye çalış. Köy takımında olacaksın ama adını açıklamamak daha iyi olacak. Eğer rol modelin ölürse kurt adam olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler : %30 enfeksiyona sahiptir, %25 hayatta kalma ve %45 dönüşüm. </value>
   </string>
   <string key = "RoleInfoBeholder">
-    <value> Sen Seyircisin gerçek gözcünün kim olduğu size söylenecek ve onunla aynı kişileri görebileceksiniz, bunlar size aynı anda gösterilecek. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler : Her zaman dönüşür. \nZombiler: Enfeksiyon kapma veya hayatta kalma şansı %70. </value>
+    <value> Sen Seyircisin. Gerçek gözcünün kim olduğu sana söylenecek ve onunla aynı kişileri görebileceksin, bunlar sana aynı anda gösterilecek. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler : Her zaman dönüşür. \nZombiler: Enfeksiyon kapma veya hayatta kalma şansı %70. </value>
   </string>
   <string key = "RoleInfoApprenticeSeer">
     <value>
-      Sen Gözcü Çırağı'sın. Eğer Gözcü ölürse, onun yerine Gözcü olacaksınız. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüştürmek için.
+      Sen Gözcü Çırağı'sın. Eğer Gözcü ölürse, onun yerine Gözcü olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüştüm.
     </value>
   </string>
   <string key = "RoleInfoMason">
-    <value> Sen Masonsun. Başka mason varsa, onun kim olduğunu bileceksin; aksi takdirde, sadece basit köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm var. </value>
+    <value> Sen Masonsun. Başka mason varsa, onun kim olduğunu bileceksin; aksi takdirde, sadece basit köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm. </value>
   </string>
   <string key = "RoleInfoCupid">
     <value>
-      Sen Eros'sun. Sadece iç çamaşırınız, bir yay ve iki okla Dünya'ya gönderilen, sonsuza kadar birbirini sevecek iki oyuncu seçmelisiniz. Biri ölürse, diğeri de kederinden ölecektir. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüştürme var.
+      Sen Eros'sun. Sadece iç çamaşırın, bir yay ve iki okla Dünya'ya gönderilen, sonsuza kadar birbirini sevecek iki oyuncu seçmelisin. Biri ölürse, diğeri de kederinden ölecektir. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoDoppelganger">
-    <value> Sen Çiftgiden'sin. Efsaneye göre atalarınız şekil değiştiriciydi ve istedikleri herhangi bir şekli seçebilirlerdi. Onun bazı yeteneklerini miras aldınız. Bir oyuncu seçin; O öldüğünde, onun rolüne geçeceksiniz. \n\nTakım: Seçime bağlı, oyuncu öldüğünde bunu bileceksiniz. \n\nDönüşümler: \nVampirler: Rol alana kadar vampirlere karşı bağışıktır. \nZombiler: %50 enfekte veya hayatta kalabilir. </value>
+    <value> Sen Çiftgiden'sin. Efsaneye göre ataların şekil değiştiriciydi ve istedikleri herhangi bir şekli seçebilirlerdi. Onun bazı yeteneklerini miras aldın. Bir oyuncu seç; O öldüğünde, onun rolüne geçeceksin. \n\nTakım: Seçime bağlı, oyuncu öldüğünde bunu bileceksin. \n\nDönüşümler: \nVampirler: Rol alana kadar vampirlere karşı bağışıktır. \nZombiler: %50 enfekte veya hayatta kalabilir. </value>
   </string>
   <string key = "RoleInfoHunter">
     <value>
-      Sen Avcısın. İyi uyuyamıyorsun ve asla tüfeğin olmadan yatmamalısın. Eğer linç edilirsen, öldürecek birini seçebilirsin. Eğer sizi yerlerse, onu öldürme şansınız vardır, ancak hedefinizi seçemezsiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 dönüştürme şansı var %50 öldürme oranı var. \nZombiler: %70 zombiyi öldürme veya enfekte olma şansı var.
+      Sen Avcısın. İyi uyuyamıyorsun ve asla tüfeğin olmadan yatmamalısın. Eğer linç edilirsen, yanında kendinle birlikte öldürmek için birini seçebilirsin. Eğer kurtlar seni yemeye çalışırsa, onu öldürme şansın var. Ancak hedefini seçemezsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 dönüştürme şansı var %50 öldürme oranı var. \nZombiler: %70 zombiyi öldürme veya enfekte olma şansı var.
     </value>
   </string>
   <string key = "RoleInfoSerialKiller">
     <value>
-      Sen Seri Katilsin. Yakın zamanda yerel tımarhaneden kaçtınız, amacınız diğer herkesin ölmesi. Her gece koleksiyonunuza bir gövde ekleyebilirsiniz. \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: Her zaman dönüştürün. Bunu dönüştürmek için %20 şansınız var ama bir vampir her zaman ölüyor. \nZombiler: Her durumda zombi ölümü .
+      Sen Seri Katilsin. Yakın zamanda yerel tımarhaneden kaçtın. Amacın diğer herkesin ölmesi. Her gece koleksiyonuna bir karaciğer ekleyebilirsin. \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. Bunu dönüştürmek için %20 şansın var ama bir vampir her zaman ölür. \nZombiler: Her durumda zombi ölümü .
     </value>
   </string>
   <string key = "RoleInfoMayor">
     <value>
-      Sen Muhtarsın, rolünüzü halka açıkladıktan sonra linç söz konusu olduğunda 2 oyunuz olacaktır. Köylülerin ekibindesiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 bulaşma, %25 hayatta kalma ve %45 dönüşüm.
+      Sen Muhtarsın, rolünü halka açıkladıktan sonra linç söz konusu olduğunda 2 oy hakkın olacaktır. Köylülerin ekibindesin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoPrince">
     <value>
-      Sen Prenssin. Gününüzü köylülerle geçirmek için sıkıcı ve şımarık hayatınızı bıraktınız (ne kadar içten!). Sizi linç etmeye çalışırlarsa pişman olacaklar ve o gün kimse linç edilmeyecek. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 ölür.
+      Sen Prensessin. Gününü köylülerle geçirmek için sıkıcı ve şımarık hayatını bıraktın (ne kadar içten!). Seni linç etmeye çalışırlarsa pişman olacaklar ve o gün kimse linç edilmeyecek. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 ölüm.
     </value>
   </string>
   <string key = "RoleInfoClumsyGuy">
     <value>
-      Sen Beceriksizsin. Oy vererek, seçtiğinizin dışında birisine oy verme şansınız %50'dir. Yine de bir köylüsünüz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Her zaman dönüşür.
+      Sen Beceriksizsin. Oy vererek kendi isteğin dışında farklı birine oy verme şansın %50'dir. Yine de bir köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Her zaman dönüşür.
     </value>
   </string>
   <string key = "RoleInfoSorcerer">
     <value>
-      Sen Falcısın. Köylüler yerine, gecenin yaratıklarıyla ittifak yapmayı tercih ediyorsun. Geceleri bir oyuncunun rolünü öğrenmek için güçlerinizi kullanacaksınız. Sadece kurt adamlar kazanırsa kazanırsın. Kurt adamların sefil köylülerden kurtulmasına yardım etmenin tadını çıkarın !! \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: %50 ölüm oranı var, eğer ölmezseniz dönüşüm oranı %33. \nZombiler: Enfekte olma veya hayatta kalma şansı %40'tır.
+      Sen Falcısın. Köylüler yerine, gecenin yaratıklarıyla ittifak yapmayı tercih ediyorsun. Geceleri bir oyuncunun rolünü öğrenmek için güçlerini kullanacaksın. Sadece kurt adamlar kazanırsa kazanırsın. Kurt adamların sefil köylülerden kurtulmasına yardım etmenin tadını çıkar !! \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: %50 ölüm oranı var, eğer ölmezsen dönüşüm oranı %33. \nZombiler: Enfekte olma veya hayatta kalma şansı %40'tır.
     </value>
   </string>
   <string key = "RoleInfoBlacksmith">
     <value>
-      Sen Demircisin. Köyün metal işçisi. Kurt adamların bir gece saldırmasını engellemeye yetecek kadar az miktarda gümüş tozu var. Gün boyunca, onu kasabanın etrafına serpmek isteyip istemediğinizi seçebilirsiniz. Bunun dışında basit bir köylüsünüz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var, ölmezseniz dönüşüm oranı %33. \nZombiler: %30 enfeksiyon, %25 hayatta kalıyor ve %45 dönüşüyor.
+      Sen Demircisin. Köyün metal işçisi. Kurt adamların bir gece saldırmasını engellemeye yetecek kadar az miktarda gümüş tozu var. Gün boyunca, onu kasabanın etrafına serpmek isteyip istemediğini seçebilirsin. Bunun dışında basit bir köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var, ölmezsen dönüşüm oranı %33. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoAlphaWolf">
     <value>
-      Sen Alfa Kurtsun. :D Sen lanetin kaynağısın. Isırığınız, köylüleri kurt adama dönüştüren hastalığın sebebidir. Her gece, saldırmak ve öldürmek için bir köylü seçebilirsiniz, ancak hayatta olduğunuz sürece, bunun bir kurt adama dönüşme olasılığı %25 . \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler : Vampiri öldürmek için %50 var. \nZombiler: \nZiyaret ederseniz: Yiyecekleri sevmeyeceksiniz. \nSizi ziyaret ederlerse: Her zaman hayatta kalın.
+      Sen Alfa Kurtsun. :D Sen lanetin kaynağısın. Isırığın, köylüleri kurt adama dönüştüren hastalığın sebebidir. Her gece, saldırmak ve öldürmek için bir köylü seçebilirsin, ancak hayatta olduğun sürece, saldırdığın birini kurt adama dönüştürme olasılığın %25 . \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler : Vampiri öldürmek için %50 şansın var. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoWolfCub">
     <value>
-      Sen Yavru Kurtsun. Sürün seni seviyor !! Kurt adamların geri kalanı gibi, her gece bir köylüye saldırıp onu öldürmeyi seçeceksiniz. Eğer ölürseniz, sürünüz öfkeye kapılır ve ertesi gece iki köylüye birden saldırır. Ne yazık ki, yine de ölmüş olacaksınız. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampiri öldürme şansı %50'dir. \nZombiler: \nZiyaret ederseniz: Yiyecekleri sevmeyeceksiniz. \nSizi ziyaret ederlerse: Daima hayatta kalın.
+      Sen Yavru Kurtsun. Sürün seni seviyor !! Kurt adamların geri kalanı gibi, her gece bir köylüye saldırıp onu öldürmeyi seçeceksin. Eğer ölürsen, sürün öfkeye kapılır ve ertesi gece iki köylüye birden saldırır. Ne yazık ki, yine de ölmüş olacaksın. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampiri öldürme şansı %50'dir. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Daima hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoWolfMan">
-    <value> Sen Kurdumsu'sun. Bir köylü daha. Ancak ormanda kurtlarla çok zaman geçirdiğiniz için Gözcü sizi bir Kurtadam olarak algılayacaktır. Oh hayır! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Enfekte olma veya hayatta kalma şansı %30'dur. </value>
+    <value> Sen Kurdumsu'sun. Bir köylü daha. Ancak ormanda kurtlarla çok zaman geçirdiğin için Gözcü seni bir Kurtadam olarak algılayacaktır. Oh hayır! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Enfekte olma veya hayatta kalma şansı %30'dur. </value>
   </string>
   <string key = "RoleInfoLycan">
-    <value> Sen Lycansın. Sen bir kurtsun, ama gözcünün kafası karışacak ve seni bir köylü olarak algılayacak, diğer roller seni sadece dolunayda algılayabilir. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: %50 şans var Vampiri öldür yoksa bir kurt ölür. \nZombiler: \nZiyaret edersen: Yiyecekleri sevmeyeceksin. \nSizi ziyaret ederlerse: Her zaman hayatta kalın. </value>
+    <value> Sen Lycansın. Sen bir kurtsun, ama gözcünün kafası karışacak ve seni bir köylü olarak algılayacak, diğer roller seni sadece dolunayda algılayabilir. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: %50 şans var Vampiri öldür yoksa bir kurt ölür. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Her zaman hayatta kal. </value>
   </string>
   <string key = "RoleInfoOracle">
     <value>
-      Sen Kahin'sin. Her gece baktığın kişinin ne olmadığını görmek için birini seçebilirsiniz. Hala hayatta olan başka birinin rolünü göreceksiniz, bu yüzden role dikkat edin, onlardan biri hala var. :) \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon var, %25 hayatta kalıyor ve %45 dönüşüyor.
+      Sen Kâhin'sin. Her gece baktığın kişinin ne olmadığını görmek için birini seçebilirsin. Hâlâ hayatta olan başka birinin rolünü göreceksin, bu yüzden role dikkat edin, onlardan biri hala var. :) \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon var, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoSandman">
-    <value> Sen Uyutucusun. Oyunda yalnızca bir kez herkesi için sağlıklı bir şekilde uyutabilirsiniz, böylece o gece kimse eylemlerini kullanamaz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölür, eğer ölmezseniz %75 dönüşüm vardır. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm Var. </value>
+    <value> Sen Uyutucusun. Oyunda yalnızca bir kez herkesi sağlıklı bir şekilde uyutabilirsin. Böylece o gece kimse gece eylemlerini kullanamaz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölür, eğer ölmezsen %75 dönüşüm vardır. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm Var. </value>
   </string>
   <string key = "RoleInfoPacifist">
     <value>
-      Sen Barışçılsın. Kimsenin linç edilmemesi için komşularınızı ikna etme gücüne sahipsiniz. Bunu yalnızca bir kez yapabilirsiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölür, ölmezseniz %75 dönüşüm var. \nZombiler: %70 Enfekte olma veya hayatta kalma yüzdesi.
+      Sen Barışçılsın. Kimsenin linç edilmemesi için komşularını ikna etme gücüne sahipsin. Bunu yalnızca bir kez yapabilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölür, ölmezsen %75 dönüşüm var. \nZombiler: %70 Enfekte olma veya hayatta kalma.
     </value>
   </string>
   <string key = "RoleInfoSnowWolf">
     <value>
-      Sen Kar Kurdusun. Her gece, avlanmak için çantanızı takip etmek yerine, herhangi bir gece eylemini kullanamayacak bir köylüyü dondurmak için sinsice hareket edersiniz. Ancak kurbanınızda gücünüzün artıkları olacak ve arka arkaya iki gece dondurulamayacak. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Vampiri dondurun. \nSizi ziyaret ederlerse: Harekete geçmezsen ölürsün, yoksa evde bulamazlar. \nZombiler: \nZiyaret ederseniz: Zombiyi dondurun. \nSizi ziyaret ederlerse: Her zaman hayatta kalın.
+      Sen Beyaz Kurtsun. Her gece, avlanmak için sürünü takip etmek yerine, herhangi bir köylüyü dondurmak için sinsice hareket edersin ve onların o gece aksiyonlarından alıkoyarsın. Ancak kurbanında gücünün artıkları olacak ve arka arkaya iki gece dondurulamayacak. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Vampiri dondurursun. \nSeni ziyaret ederlerse: Harekete geçmezsen ölürsün, yoksa evde bulamazlar. \nZombiler: \nZiyaret edersen: Zombiyi dondurursun. \nSenş ziyaret ederlerse: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoSurvivor">
-    <value> Sen Hayatta Kalansın. Tek amacınız hayatta kalmaktır, eğer tüm köy ölürse başka bir taraf seçebileceksiniz. \n\nEkip: Tarafsız \n\nDönüşümler: \nVampirler: %25 ölüm var, ölmezse %33 dönüşüm var. \nZombiler: Enfekte olmak veya hayatta kalmak için %20. </value>
+    <value> Sen Survivor'sın. Tek amacın hayatta kalmaktır, eğer tüm köy ölürse başka bir taraf seçebileceksin. \n\nEkip: Tarafsız \n\nDönüşümler: \nVampirler: %25 ölüm var, ölmezse %33 dönüşüm var. \nZombiler: Enfekte olmak veya hayatta kalmak için %20 şans. </value>
   </string>
   <string key = "RoleInfoSheriff">
     <value>
-      Sen Şerifsin. Her gece bir oyuncunun evinde devriye gezip oradan ayrılıp ayrılmadıklarını görebilirsiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nSizi ziyaret ederlerse: %50 ölüm oranı var, ölmezlerse dönüşüm oranı %33'tür. \nZombiler: \nZiyaret ederseniz: Bir zombi keşfedersiniz. \nSizi ziyaret ederlerse: Enfekte olma veya hayatta kalma şansı %30'dur.
+      Sen Şerifsin. Her gece bir oyuncunun evinde devriye gezip oradan ayrılıp ayrılmadıklarını görebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nSeni ziyaret ederlerse: %50 ölüm oranı var, ölmezsen dönüşüm oranı %33'tür. \nZombiler: \nZiyaret edersen: Bir zombi keşfedersin. \nSeni ziyaret ederlerse: Enfekte olma veya hayatta kalma şansı %30'dur.
     </value>
   </string>
   <string key = "RoleInfoFireWolf">
-    <value> Sen Ateş Kurdusun! Görünüşe göre sen bir kurt adamken kimyager seninle yolunu bulmuş, ateşe karşı dirençlisin ve gerekirse herkesi yakıp etrafındaki her şeyi ateşleyebiliyorsun. Her gece diri diri yakacak bir oyuncu seçin, çünkü adettendir sadece eti iyi pişmiş seviyorsunuz. Farklı avları öldürürken hedeflerinizi paketlemeyi unutmayın. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Her durumda vampirleri yakın. \nZombiler: Her durumda zombi ölümü </value>
+    <value> Sen Cehennem Kurdusun! Görünüşe göre sen bir kurt adamken kimyager seninle yolunu bulmuş, ateşe karşı dirençlisin ve gerekirse herkesi yakıp etrafındaki her şeyi ateşleyebiliyorsun. Her gece diri diri yakacak bir oyuncu seçin, çünkü adettendir sadece eti iyi pişmiş seviyorsun. Farklı avları öldürürken hedeflerini sürünle bağımsız olarak seçmeyi unutma. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Her durumda vampirleri yak. \nZombiler: Her durumda zombi ölümü </value>
   </string>
   <string key = "RoleInfoHungryWolf">
-    <value> Sen Aç Gözlü Kurtsun. Sen sürünün en açısın. Hayatta olduğunuz sürece kurbanlarınızın rolünün köye ifşa edilmeme ihtimali %40'tır. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: %50 şansınız var. vampiri öldür ya da bir kurt ölür. \nZombiler: \nZiyaret edersen: Yiyecekleri sevmeyeceksin. \nZiyaret ederlerse: Her zaman hayatta kalır. </value>
+    <value> Sen Aç Kurtsun. Sen sürünün en açısın. Hayatta olduğun sürece kurbanlarının rolünün köye ifşa edilmeme ihtimali %40'tır. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: %50 şansın var. Vampiri öldür ya da bir kurt ölür. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nZiyaret ederlerse: Her zaman hayatta kal. </value>
   </string>
   <string key = "RoleInfoImposter">
     <value>
-      Sen Düzenbaz Kurtsun. Sen kurtların yanındasın ama vejeteryansın, köylü eti sevmezsin. Becerileriniz sayesinde, oyun boyunca bir oyuncunun rolünü taklit edebilirsiniz. Onun eylemlerini gerçekleştiremeyeceksiniz, ancak öldüğünüzde o rol olarak görüneceksiniz. Gözcü, çoğu zaman sizi taklit edilen rol olarak görüyor. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Enfekte olma veya bulaşma olasılığı %40'tır. hayatta kalır.
+      Sen Taklitçisin. Sen kurtların yanındasın ama vejeteryansın, köylü eti sevmezsin. Becerilerin sayesinde, oyun boyunca bir oyuncunun rolünü taklit edebilirsin. Onun eylemlerini gerçekleştiremeyeceksin, ancak öldüğünde o rol olarak görüneceksin. Gözcü, çoğu zaman seni taklit edilen rol olarak görüyor. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Enfekte olma veya dönüşüm olasılığı %40'tır.
     </value>
   </string>
   <string key = "RoleInfoBaker">
     <value>
-      Sen Fırıncısın. Köydeki herkes tarafından onurlandırılan ve sevilen bir köylüsünüz. Her ne olursa olsun ölürseniz, köy yas tutacak ve bir gün boyunca linç olmayacak. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüştürün. \nZombiler: %40 enfekte olma hayatta kalma yüzdesi.
+      Sen Fırıncısın. Köydeki herkes tarafından onurlandırılan ve sevilen bir köylüsün. Her ne olursa olsun ölürsen, köy yas tutacak ve bir gün boyunca linç olmayacak. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşüm. \nZombiler: %40 enfekte olma ve hayatta kalma.
     </value>
   </string>
   <string key = "RoleInfoHealer">
     <value>
-      Sen Şifacısın. Mistik güçleriniz sayesinde ölen bir köylüyü geri getirebilirsiniz. Ancak, bunu yalnızca bir kez yapabilirsiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var, ölmezseniz dönüşüm oranı %33. \nZombiler : Enfekte olmak veya hayatta kalmak %70
+      Sen Şifacısın. Mistik güçlerin sayesinde ölen bir köylüyü geri getirebilirsin. Ancak, bunu yalnızca bir kez yapabilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var, ölmezsen dönüşüm oranı %33. \nZombiler : Enfekte olma veya hayatta kalma %70 şams.
     </value>
   </string>
   <string key = "RoleInfoRabidWolf">
-    <value> Sen Kuduz Kurtsun. Alfa tarafından enfekte olan ilk kurttun. Onun için büyük önemlisiniz ve ölürseniz, sizin için bir halef arayacak (kurtların bir sonraki kurbanı kuduz bir kurt olacak). \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler : Vampir öldürmek %50 \nZombiler: \nZiyaret ederseniz: Yiyecekleri sevmeyeceksiniz. \nSizi ziyaret ederlerse: Her zaman hayatta kalın. </value>
+    <value> Sen Kuduz Kurtsun. Alfa tarafından enfekte olan ilk kurttun. Onun için büyük öneme sahipsin ve ölürsen, senin için bir halef arayacak (kurtların bir sonraki kurbanı kuduz bir kurt olacak). \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler : Vampir öldürmek %50 \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Her zaman hayatta kal. </value>
   </string>
   <string key = "RoleInfoSleepwalker">
     <value> Sen sıradan Köylüsün. Günlerinizi tarlaları işleyerek ve yenilerek geçirmeye mahkumsunuz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalır ve %45 dönüştür. </value>
   </string>
   <string key = "RoleInfoHerbalist">
     <value>
-      Sen Simyacı'sın. Kurt adamların tehdidi nedeniyle, her gece bir kişiyi zehirlemek için bilginizi kullanmaya karar veriyorsunuz. Bu kişi zehirlendiğini bilecek ve ertesi gece ölecek. Panzehiri yalnızca siz biliyorsunuz ve onu bir sonraki gece ona verip kurtarmayacağınıza veya ölmesine izin verip vermeyeceğinize karar verebilirsiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Zehirli vampir. \nSizi ziyaret ederlerse: %50 ölüm oranı vardır, ölmezlerse dönüşüm oranı %33'tür. \nZombiler: \nZiyaret ederseniz: Her zaman enfekte olurlar. \nSizi ziyaret ederlerse: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm Var.
+      Sen Otacı'sın. Kurt adamların tehdidi nedeniyle, her gece bir kişiyi zehirlemek için bilgini kullanmaya karar veriyorsun. Bu kişi zehirlendiğini bilecek ve ertesi gece ölecek. Panzehiri yalnızca sen biliyorsun ve onu bir sonraki gece ona verip kurtarmayacağına veya ölmesine izin verip vermeyeceğine karar verebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Zehirli vampir. \nSeni ziyaret ederlerse: %50 ölüm oranı vardır, ölmezsen dönüşüm oranı %33'tür. \nZombiler: \nZiyaret edersen: Her zaman zehirlenirler. \nSeni ziyaret ederlerse: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm Var.
     </value>
   </string>
   <string key = "RoleInfoNinja">
-    <value> Sen Ninjasın. Her gece uyanık kalmaya veya uyumaya karar verebilirsiniz. Uyanık kalmaya karar verirseniz, tetikte olacaksınız ve sizi ziyaret eden ilk saldırgandan saklanacaksınız. Ancak, sizi ziyaret etmezlerse, ertesi gece dinlenmelisiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Eğer saklanmazsa, onu dönüştürmek ya da öldürmek için %50 şans vardır . \nZombiler: Eğer saklanmazlarsa %30 enfeksiyon kapma veya hayatta kalma şansına sahiptir.</value>
+    <value> Sen Ninjasın. Her gece tetikte olmaya veya uyumaya karar verebilirsin. Tetikte olmaya karar verirsen seni ziyaret eden ilk saldırgandan saklanacaksın. Ancak, seni ziyaret etmezlerse, ertesi gece dinlenmelisin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Eğer saklanmazsa, onu dönüştürmek ya da öldürmek için %50 şans vardır . \nZombiler: Eğer saklanmazsa %30 enfeksiyon veya hayatta kalma şansına sahiptir.</value>
   </string>
   <string key = "RoleInfoSnooper">
     <value>
-      Sen Koklayan Kurtsun. Her gece, bir oyuncunun gece aksiyonu olup olmadığını anlamak için gözetleyebilirsiniz. Ayrıca, güçlü kokuları nedeniyle sarhoşu, fırıncıyı veya simyacıyı ayırt edebileceksiniz. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Yalnızca geceleri algılar. \nSizi ziyaret ederlerse: Harekete geçmezse ölür, aksi takdirde evde bulamazlar. \nZombiler: Her zaman hayatta kalır.
+      Sen Koklayıcı Kurtsun. Her gece, bir oyuncunun gece aksiyonu olup olmadığını anlamak için gözetleyebilirsin. Ayrıca, güçlü kokuları nedeniyle sarhoşu, fırıncıyı veya otacıyı ayırt edebileceksin. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Yalnızca geceleri algılar. \nSeni ziyaret ederlerse: Harekete geçmezsen ölürsün, aksi takdirde evde bulamazlar. \nZombiler: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoSpeedWolf">
-    <value> Sen Hızlı Kurtsun. Sürünün en hızlısı sizsiniz ve oyun başına bir kez o gün linç edilmekten kaçınmak için kaçabilirsiniz. Ancak bunu yaparak herkes senin hızlı kurt olduğunu bilecek ve ertesi gün seni linç edecekler. Doğru anı bekleyin! \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampiri veya bir kurdu öldürme şansı %50'dir. \nZombiler: \n-Ziyaret ederseniz: Kazandınız Yemekten hoşlanmıyorum. \nSizi ziyaret ederlerse: Daima hayatta kalın. </value>
+    <value> Sen Hızlı Kurtsun. Sürünün en hızlısı sensin ve oyun başında bir kez o gün linç edilmekten kaçıp kurtulabilirsin. Ancak bunu yaparak herkes senin hızlı kurt olduğunu bilecek ve ertesi gün seni linç edecekler. Doğru anı bekle! \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampiri veya bir kurdu öldürme şansı %50'dir. \nZombiler: \n-Ziyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Daima hayatta kal. </value>
   </string>
   <string key = "RoleInfoLookout">
-    <value> Sen Gözlemcisin. Her gece bir oyuncunun evine bakıp onu kimin ziyaret ettiğini öğrenebilirsiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Sadece izleyin. \nZiyaret ederlerse : %50 ölüm var, eğer ölmezse dönüşüm oranı %33. \nZombiler: Enfekte olmak veya hayatta kalmak için %30 var. </value>
+    <value> Sen Nöbetçisin. Her gece bir oyuncunun evine bakıp onu kimin/kimlerin ziyaret ettiğini öğrenebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Sadece gözlemlersin. \nZiyaret ederlerse : %50 ölüm var, eğer ölmezsen dönüşüm oranı %33. \nZombiler: Enfekte olma veya hayatta kalma için %30 şans var. </value>
   </string>
   <string key = "RoleInfoGuard">
     <value>
-      Sen Korumasın. Her gece bir oyuncuyu savunabilirsin. Onu savunan her muhafız için, saldırıya uğrarsa onu kurtarmak için %20 hakkınız var. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: \nZiyaret ederseniz: Sizi dönüştürmek %50. \nSizi ziyaret ederlerse: %30 enfeksiyon kaparlar, %25 hayatta kalır ve %45 dönüşür.
+      Sen Muhafızsın. Her gece bir oyuncuyu savunabilirsin. Onu savunan her muhafız için, saldırıya uğrarsa onu kurtarmak için %20 hakkın var. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: \nZiyaret edersen: Seni dönüştürmek için %50 şans. \nSeni ziyaret ederlerse: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoHowlingWolf">
     <value>
-      Sen Uluyan Kurtsun. Dolunay gecelerinde uluyacak, köylüleri korkutacak ve gece hareketlerini yapmalarını engelleyeceksiniz. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampir %50 öldürülür veya ölür. bir kurt. \nZombiler: \nZiyaret ederseniz: Yemekleri beğenmezsiniz. \nZiyaret ederlerse: Her zaman hayatta kalır.
+      Sen Kâbus Kurdusun. Dolunay gecelerinde uluyacak, köylüleri korkutacak ve gece hareketlerini yapmalarını engelleyeceksin. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampir %50 öldürülür veya bir kurt ölür. \nZombiler: \nZiyaret edersen: YTatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nZiyaret ederlerse: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoFirefighter">
     <value>
-      Sen İtfaiyecisin. Her gece birini kurtlardan veya ateş kurtunun alevlerinden kurtarabilirsiniz. Kendinizi kurtarabilirsiniz, ancak hedefiniz saldırıya uğramazsa, sonraki gece onu ziyaret edemezsiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Algılamıyor. \nSizi ziyaret ederlerse: %50 ölüm oranı var, ölmezlerse %50 dönüşümleri var. \nZombiler: \nZiyaret ederseniz: Ziyaret edilmez. \nSizi ziyaret ederlerse: Her zaman hayatta kalırlar.
+      Sen İtfaiyecisin. Her gece birini kurtlardan veya cehennem kurdunun alevlerinden kurtarabilirsin. Kendini de kurtarabilirsin, ancak hedefin saldırıya uğramazsa, sonraki gece onu ziyaret edemezsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Algılamazlar. \nSeni ziyaret ederlerse: %50 ölüm oranı var, ölmezsen %50 dönüşüm şansı var. \nZombiler: \nZiyaret edersen: Ziyaret edilmez. \nSeni ziyaret ederlerse: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoGhost">
     <value>
-      Sen Hayaletsin! Sen köyün bir parçasısın. Kurtları öldürmek için bir köylünün bedenine sahip oldunuz. Ölürseniz, ruh halinizden linç etmeye devam edebilirsiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Bağışıktır. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
+      Sen Hayaletsin! Sen köyün bir parçasısın. Kurtları öldürmek için bir köylünün bedenine sahip oldun. Ölürsen, ruh halinde linç etmeye devam edebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Bağışıklılık var. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoAugur">
     <value>
-      Sen Müneccimsin. Bir şeyleri görme gücüne sahipsiniz, ancak yancıdan veya kahinden çok farklı bir şekilde. Köyde olmayan rolleri görebilen tek kişi sizsiniz ve bunlardan birini asla iki kez göremeyeceksiniz! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var dönüşüm oranı %33. \nZombiler: %30 enfekte, %25 hayatta kalabilir ve %45 dönüştürülebilir.
+      Sen Müneccimsin. Bir şeyleri görme gücüne sahipsin, ancak yancıdan veya kahinden çok farklı bir şekilde. Köyde olmayan rolleri görebilen tek kişi sensin ve bunlardan birini asla iki kez göremeyeceksin (Oyunda mason olmadığı bilgisi gelirse ikinci kez sana bu bilgi verilmeyecek)! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var dönüşüm oranı %33. \nZombiler: %30 enfekte, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoTroublemaker">
     <value>
-      Sen Baş Belasısın. Bir köy genci olarak, tüm bunlarla birlikte tam ergenlik çağındasınız. Her oyunda bir kez, her şey için çok üzüldüğünüzde, köyde büyük bir öfkeye neden olabilirsiniz ve köylüler o gün 2 kez linç ederler. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Ölmek için %50, eğer ölmezse %75 dönüşüm var. \nZombiler: %70 enfekte olma veya hayatta kalma.
+      Sen Baş Belasısın. Bir köy genci olarak, tüm bunlarla birlikte tam ergenlik çağındasın. Her oyunda bir kez, her şey için çok üzüldüğünde, köyde büyük bir öfkeye neden olabilirsin ve köylüler o gün 2 kez linç ederler. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Ölmek için %50, eğer ölmezsen %75 dönüşüm var. \nZombiler: %70 enfekte olma veya hayatta kalma.
     </value>
   </string>
   <string key = "RoleInfoGraveDigger">
     <value>
-      Sen Mezarcısın. Köylülerin cesetlerini atmak sizin sorumluluğunuzdadır. Dün gece öldürülen herkes için bir mezar kazarsınız. Her halükarda, genellikle mezarı bitiremeyecek kadar yorgunsunuz, bu yüzden mezarlar açıkta bırakılıyor. Bazı ziyaretçiler onların içine düşebilir ve ölebilir. Ama gece dışarı çıktığın için, kurtlar ve katil seni yolda bulup öldürebilir ve ne kadar çok mezar kazarsan ölme şansın o kadar çok olur. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Kazılacak mezarınız yoksa %50 ölüm oranı vardır, ölmezseniz %50 dönüşüm elde edersiniz. \nZombiler: Kazılacak mezar yoksa Enfekte olma veya hayatta kalma şansı %40.
+      Sen Mezarcısın. Köylülerin cesetlerini atmak senin sorumluluğundadır. Dün gece öldürülen herkes için bir mezar kazarsın. Her halükarda, genellikle mezarı bitiremeyecek kadar yorgunsun, bu yüzden mezarlar açıkta bırakılıyor. Bazı ziyaretçiler onların içine düşebilir ve ölebilir. Ama gece dışarı çıktığın için, kurtlar ve katil seni yolda bulup öldürebilir ve ne kadar çok mezar kazarsan ölme şansın o kadar çok olur. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Kazılacak mezarın yoksa %50 ölüm oranı vardır, ölmezsen %50 dönüşüm elde edersin. \nZombiler: Kazılacak mezar yoksa Enfekte olma veya hayatta kalma şansı %40.
     </value>
   </string>
   <string key = "RoleInfoChemist">
-    <value> Sen Kimyagersin. Zehirli iksirleri seviyorsunuz ve ayrıca onlarla hayatınızı riske atmayı seviyorsunuz ... hatta birazcık bile! İki iksir hazırlayacaksınız: bunlardan biri zehirlidir; diğerinin etkisi yoktur, ancak aynı görünürler. Her gece bir oyuncu seçip onu sizinle içmeye zorlayabilirsiniz. Şanslı olabilir ve hayatta kalabilirsin. Partneriniz zararsız içeceği seçerse, zehirlenecek ve öleceksiniz. İyi şanslar! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Bir bahis yapın. \nSizi ziyaret ederlerse: %50 ölüm oranı vardır. dönüşüm oranı %33'tür. \nZombiler: \nZiyaret ederseniz: Her zaman virüslüdür. \nSizi ziyaret ederlerse: %40 enfekte olma veya hayatta kalma şansı vardır. </value>
+    <value> Sen Kimyagersin. Zehirli iksirleri seviyorsun ve ayrıca onlarla hayatını riske atmayı seviyorsun ... hatta birazcık bile olsa! İki iksir hazırlayacaksın: bunlardan biri zehirlidir; diğerinin etkisi yoktur, ancak aynı görünürler. Her gece bir oyuncu seçip onu seninle içmeye zorlayabilirsin. Şanslı olabilir ve hayatta kalabilirsin. Partnerin zararsız içeceği seçerse, zehirlenecek ve öleceksin. İyi şanslar! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Bir bahis yap. \nSeni ziyaret ederlerse: %50 ölüm oranı vardır. dönüşüm oranı %33'tür. \nZombiler: \nZiyaret edersen: Her zaman virüslüdür. \nSeni ziyaret ederlerse: %40 enfekte olma veya hayatta kalma şansı vardır. </value>
   </string>
   <string key = "RoleInfoWiseElder">
-    <value> Sen Yaşlı Bilgesin. Kurt adamların saldırısından yalnızca bir kez kurtulabileceksiniz; Bir dahaki sefere bu kadar şanslı olmayacaksın. İntikamcı, avcı veya kimyager tarafından öldürülürseniz, güçlerini kaybederler ve köylü olurlar. Yancı sizi ziyaret etmeye karar verirse dikkatli olun, çünkü bu yaştaki uzun sohbetler için kalbiniz zayıftır, o çılgın geceden %50 şansla kurtulacaksınız. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm, ölmezse dönüşüm oranı %33'tür. \nZombiler: Her zaman enfekte olurlar. </value>
+    <value> Sen Yaşlı Bilgesin. Kurt adamların saldırısından yalnızca bir kez kurtulabileceksin; Bir dahaki sefere bu kadar şanslı olmayacaksın. Silahşör, avcı veya kimyager tarafından öldürülürsen, güçlerini kaybederler ve köylü olurlar. Yancı seni ziyaret etmeye karar verirse dikkatli ol, çünkü bu yaştaki birine göre böylr bir gece aksiyonu için kalbin zayıftır, o çılgın geceden %50 şansla kurtulacaksın. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm, ölmezsen dönüşüm oranı %33'tür. \nZombiler: Her zaman enfekte. </value>
   </string>
   <string key = "RoleInfoPolice">
-    <value> Sen Polissin. Her gece bir oyuncuyu sorgulayabilirsiniz. Masumsa, bilmek için %50 şansın var. Suçluysa, bunu bilmek için % 50 şansa sahipsiniz. Ayrıca birkaç polis de olabilir. İşinizi nasıl yaptığınıza bağlı olarak terfi edebilir veya rütbeniz düşürülebilir de!. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret ederseniz: Polis eylemi yapar. \nSizi ziyaret ederlerse: \nZombiler: \nZiyaret ederseniz: %50 enfeksiyon veya hayatta kalma var (zombi keşfedin). \nZiyaret ederlerse: %30 enfeksiyon veya hayatta kalma oranı var. </value>
+    <value> Sen Jandarmasın. Her gece bir oyuncuyu sorgulayabilirsin. Masumsa, bilmek için %50 şansın var. Suçluysa, bunu bilmek için de % 50 şansa sahipsin. Ayrıca birkaç jandarma de olabilir. İşini nasıl yaptığına bağlı olarak terfi edebilir veya rütben düşürülebilir de!. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Jandarma eylemi yapar. \nSeni ziyaret ederlerse: %50 vampir olam veya ölme şansı var \nZombiler: \nZiyaret edersen: %50 enfeksiyon veya hayatta kalma var (zombi keşfet). \nZiyaret ederlerse: %30 enfeksiyon veya hayatta kalma oranı var. </value>
   </string>
   <string key = "RoleInfoBeauty">
     <value> Sen Güzelsin. Köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana aşık olacak. Aşıkların ölürse yaşamayacaksın yani ziyarete gelen son kişi ölürse sen de ölürsün. Son ziyaretçiniz kazanırsa siz de kazanırsınız, kazanırsanız rolü ne olursa olsun onunla kazanırsınız. Seri katile dikkat et, O seni öldürebilir ve sana aşık olmaz. Köye yardım etmek için her zaman sizi kimin ziyaret ettiğini söylemelisiniz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüştürün. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüştürmek. </value>
