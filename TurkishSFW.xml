@@ -4027,4 +4027,246 @@
   <string key="cnnorabid">
     <value>Kelle avcısını kuduz yapmaya çalışmak gerçekten saçma bir fikirdi, seni ölümlü cahil!</value>
   </string>
+	
+	<string key="nopara3">
+		<value>Smite haklarına sahip bir yöneticiye bu komutu kullanmasını söyle.</value>
+	</string>
+	<string key="ppointf">
+		<value> Puan, mevcut puanın </value>
+	</string>
+	<string key="fwvisitacc">
+		<value>Hâlâ yeterince güçlüyken Kelle Avcısı'nı ziyaret etmek iyi bir fikir değildi.</value>
+	</string>
+	<string key="ccvisitadoxFireWolf">
+		<value>Yakınlarda bir kül kokusu alıyorsun ve sıcaklık git gide yükselmiş gibi görünüyor. Havalandırmak için pencereleri açarken dondurma mevsimi için tam zamanı olduğunu düşünüyorsun.</value>
+	</string>
+
+	<string key="Idle">
+		<value>AFK</value>
+	</string>
+	<string key="ramvfl">
+		<value>Yancı bütün gece seni oyaladı. İllüzyon numaraların işe yaramadı. Kullanman gereken flütü kullanmalıydın.</value>
+	</string>
+	<string key="polvfl">
+		<value>Jandarma bu gece seni sorgulamak istedi. Dengeni biraz bozdu ve flüte olan caziben umduğun gibi olmadı.</value>
+	</string>
+	<string key="shervfl">
+		<value>Çatından evinin etrafında sinsi sinsi dolaşan şerifi izliyorsun. Konsantrasyonunu biraz kaybettin ve melodini büyüleyecek kadar iyi çalmadın.</value>
+	</string>
+
+	<!-- peludo -->
+
+	<string key="Aboutpeludo">
+		<value>Samara tıpkı rapunzel gibi çok uzun saçlara sahip bir köylüdür. O kadar çok saçı vardır ki yüzünü bile göremezsin bu yüzden kelle avcısı onu ziyarete gelse Samarayı kurt sanıp öldürür. Saçlarından dolayı vampirlere ve zombilere karşı normal bir köylüden daha dayanıklıdır.</value>
+	</string>
+	<string key="peludo">
+		<value>Samara 🧔🏻‍♀️</value>
+	</string>
+	<string key="NHunterKilledpeludo">
+		<!-- 0 - victim name -->
+		<value>Bu {0} mi???. Ana Caddeden aşağı yuvarlanan dev bir kürk topu sandığımız şey çok kıllı bir insandı. Kelle avcısı onu bu kadar tüylü bir kurt sanmış ve bu gece ondan kurtulmaktan çekinmemiş.</value>
+	</string>
+	<string key="HunterFindpeludo">
+		<value>Kontrollerin için {0} adresini ziyaret ettiğinde kocaman bir saç yumağı buluyorsun. İnsan olup olmadığı konusunda şüpheye düştüğünde işini bitiriyorsun.</value>
+	</string>
+	<string key="peludokilledxcn">
+		<value>Abartılı saçların olduğun için ne yazık ki {0} seni kurtla karıştırdı. Sana söylüyorum saçlarınla yüzünü kapatmanın bir anlamı yok çünkü bir hata yüzünden avlanarak öldün.</value>
+	</string>
+
+	<string key="GuardBlockedfireWolf">
+		<!-- 0 - target's name -->
+		<value>Taze ızgara keyfi yapmak için {0}'in evine gidiyorsun ancak dişlerine kadar silahlanmış uzun, karanlık bir figürle karşılaşıyorsun. Koruyucu melek akşam yemeğine ulaşmana engel olur ve inine mağlup olarak dönersin.</value>
+	</string>
+	<string key="FightedfireWolf">
+		<value>{0}'in evine girerken bir alarm sesinin yaklaştığını duyuyorsun... itfaiyeciler! Onlar seni keşfetmeden önce kaçmaktan başka çaren yok.</value>
+	</string>
+	
+	<string key="SuccesFreeze">
+		<value>Beyaz Kurt, {0}'in evine gitti ve onu dondurmayı başardı. Bu gece aksiyonlarını gerçekleştiremeyecek.</value>
+	</string>
+	<string key="SnoopAction2">
+		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken bir hareketlilik sezdi. Bu yüzden hedefinin uyanık olduğuna emin. (Gece ​​aksiyonu var). </value>
+	</string>
+	<string key="SnoopNoAction2">
+		<value>Koklayıcı Kurt, {0}'in evini inceledikten sonra olağandışı bir şey duymuyor veya koku almıyor. Hedefinin sadece horlama sesleri vardı. (Gece ​​aksiyonu yok).</value>
+	</string>
+	<string key="SnoopDrunk2">
+		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken güçlü bir alkol kokusu alır. Yani {0} bir {1}!</value>
+	</string>
+	<string key="SnoopHerbalist2">
+		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken ağır şifalı bitkilerin kokusu fark eder. Yani {0} bir {1}!</value>
+	</string>
+	<string key="SnoopBaker2">
+		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken fırından yeni çıkmış taze ekmeğin nefis kokusunu fark eder. Yani {0} bir {1}!</value>
+	</string>
+	<string key="cadbprotect2">
+		<value>Cehennem kurdu {0}'e yaklaştığında beyaz bir köpeğin ona eşlik ettiğini görür. Umurunda olmaz ama yaklaştıkça o köpek daha da büyür, işte beyaz Cerberus! {0} Cerberus'un korumasından çekinerek inine geri döner.</value>
+	</string>
+	<string key="GuardBlockedfireWolf2">
+		<!-- 0 - target's name -->
+		<value>Cehennem Kurdu, taze mangalda pişirilmiş vücudunun ziyafeti için {0}'in evine gider ancak tepeden tırnağa silahlı uzun boylu, esmer bir figür tarafından karşılanır. Koruyucu melek onun girmesini engeller ve inine mağlup olarak döner.</value>
+	</string>
+	<string key="FightedfireWolf2">
+		<value>Cehennem Kurdu, hedefini aramak için {0}'in evine girerken itfaiyecilerin alarm sesinin duyar... Keşfedilmeden önce kaçmaktan başka seçeneği yoktur.</value>
+	</string>
+	<string key="SuccessfulBurning2">
+		<value>Cehennem kurdu, {0}'in evine gitti ve onu yakmayı başardı.</value>
+	</string>
+	<string key="bomberBurning2">
+		<value>Cehennem kurdu {0}'in evine gitti ve iyi bir dalış yaptı. itfaiyeci yangına gelince ortalıkta dolanmadan eve ıslak ve akşam yemeği yemeden geri gider.</value>
+	</string>
+	<string key="fwvisitacc2">
+		<value>Hâlâ yeterince güçlüyken Kelle Avcısı'nı ziyaret etmek iyi bir fikir değildi. Cehennem kurdu bu gece vaktini boşa harcamıştı.</value>
+	</string>
+	<string key="GAburnednofw2">
+		<value>Ne kötü şans! Cehennem kurdu bir koruyucu melek buldu ve hedefini yakamadan kaçtı.</value>
+	</string>
+	<string key="cadbprotect3">
+		<value>{0}'e saldırdığında ona beyaz bir köpeğin eşlik ettiğini fark ettin. {0}'e yaklaştıkça o köpek büyür ve büyür, bu beyaz Cerberus'tur! Evine geri döndün çünkü {0} tüm kötülüklerden korunuyor .</value>
+	</string>
+	<string key="FightedWolf2">
+		<value>Sürü, {0}'in evine girerken, yaklaşan bir alarm sesi duyulur... itfaiyeciler! Keşfedilmeden önce yemek yemeden kaçmaktan başka çare yok.</value>
+	</string>
+	<string key="GuardBlockedWolf2">
+		<!-- 0 - target's name -->
+		<value>Sürü, {0}'in evine ziyafet çekmek için yola çıkar, ancak tepeden tırnağa silahlı uzun boylu, esmer bir figürle karşılaşır. Koruyucu melek girişi engeller ve inine mağlup olarak dönerler.</value>
+	</string>
+	<string key="WolvesTriedToEatWiseElder2">
+		<!-- 0 - Wise Elder's name -->
+		<value>Sürü, {0}'in evine girmeye çalıştı ama ne yazık ki yaşlı bilge oradaydı! {0} saldırıyı başarıyla engelledi, ancak şans eseri kurtlardan hiçbirini tanımadı.</value>
+	</string>
+		
+	        <string key="bestia">
+		<value>Ucube Kurt 🐺🔱</value>
+	</string>
+	<string key="RoleInfobestia">
+		<value>Sen Ucube Kurtsun! En büyük düşmanın Cerberos'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Emily212001) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Vampirler: \n-Ziyaret edersen: Yaşlı Vampir hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Yaşlı Vampir hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
+	</string>
+	<string key="aboutbestia">
+		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Cerberos'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Emily212001) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Vampirler: \n-Ziyaret edersen: Yaşlı Vampir hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Yaşlı Vampir hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
+	</string>
+	<string key = "GunnerShotbestia">
+		<value>{0}, {1}'e ateş eder ama ölmez, o Ucube Kurt! {0}, {1}'i öldürmek için bir kurşun daha harcaması gerektiğini fark eder. </value>
+	</string>
+	<string key="gunvisitbest">
+		<value>Yanlış kişiyi ziyaret ettin, Ucube Kurt ile karşılaştın. Son kurşununu harcadın ama o kurtulmayı başardı. Keşke daha fazla cephanen olsaydı.</value>
+	</string>
+	<string key="gunvisitbest2">
+		<value>Bu gece {0}, Ucube Kurdu öldürmeye çalışarak yanlış bir karar verdi. O belirsiz bir şekilde öldürülde ve {0} silahşördü. Ucube Kurt kendisine kalan tek kurşunu atlattığı için şanslıydı. </value>
+	</string>
+	<string key="gunvisitbest3">
+		<value>Silahşör seni öldürmeye çalıştı, {0}'in tek kurşunu vardı ve şansına kurşunu atlatmayı başardın. onu yedin, geriye sadece kemikleri kaldı. </value>
+	</string>
+	<string key="frozenbestia">
+		<value>Beyaz kurt, yarı kurt olduğunu görene kadar senii donduracaktı. Stratejisine katılman için sürünün geri kalanının kim olduğunu söyledi. </value>
+	</string>
+	<string key="Freezebestia">
+		<value>{0}'e yaklaştığında, onunla ilgili tanıdık bir şey görürsün. {0}'i {1} olarak tanıyorsun! Ona güçlerini birleştirmesi için sürünün üyelerinden bahsetmekten çekinmiyorsun. </value>
+	</string>
+	<string key="Freezebestia2">
+		<value>Beyaz Kurt {0}'e yaklaşırken onunla ilgili tanıdık bir şey görür. {0}, {1} olarak tanındı! Güçlerini birleştirmesi için ona sürünün üyelerini vermekten çekinmiyor. </value>
+	</string>
+	<string key="SnoopActionbestia">
+		<value>{0}'e yaklaşırken onunla ilgili tanıdık bir koku alırsın. Burnun sayesinde {0}'i {1} olarak tanımlıyorsun! Ona güçlerini birleştirmesi için sürünün üyelerinden bahsetmekten çekinmiyorsun. </value>
+	</string>
+	<string key="SnoopActionbestia2">
+		<value>Koklayıcı {0}'e yaklaşırken, onunla ilgili tanıdık bir koku alır. Koku alma duyusu sayesinde {0}'i {1} olarak tanımlar! Ona güçlerini birleştirmesi için sürü üyelerini vermekten çekinmiyor. </value>
+	</string>
+	<string key="SnoopActionbestia3">
+			<value>Koklayıcı Kurt evinin yakınındaydı. Kokundan dolayı seni sürüden biri olarak tanıdı ve sana diğer kurtların kim olduğunu söyledi ki onlara katılasın. </value>
+	</string>
+	<string key="bestiaburned">
+		<value>Ortamda duman ve kül kokusu almaya başlarsın. Bir ateş topunun yaklaştığını görürsün ve tam önünde durur. o chennem kurduydu ve seni bir kurt olarak tanıyarak sürünün geri kalanına takım çalışması için sana tanıtır. </value>
+	</string>
+	<string key="bestiaburned2">
+		<value>{0}'e yaklaştığında bir insana göre devasa vücuda sahip olduğunu fark ediyorsun. Daha yakından bakmak için önünde duruyorsun. {0} {1}'u! Neyse ki onu yakmadın ve ona sürünün kalan üyelerini söylemeye karar verdin. </value>
+	</string>
+	<string key="bestiaburned3">
+		<value>Cehennem kurdu {0}'e yaklaşırken onu yakmamaya karar verdi. {0} {1}'u! Onu ızgaraya düşürmeye hayallerinden vazgeçtiğin için hem takımın şanslı hem de canını geri aldın :D. </value>
+	</string>
+	<string key="wtob">
+		<value>Sürü {0}'e saldırmaya çalıştığında, gerçekten düşündüklerinden daha büyük olduğunu ve yarı kurt olduğunu görürler. Bu {1}! Birlikte strateji oluşturmak için kalan kurtlarla işbirliği yaparlar. </value>
+	</string>
+	<string key="wtob2">
+		<value>Sürü seni ziyaret etmiş. Önce seni yemeye çalıştılar ama senin de onlardan biri olduğunu anlamışlar. Kiminle birlikte çalışacaklarını ortaya çıkardılar. </value>
+	</string>
+	<string key="cadvisitbest">
+		<value>Yanlış kişiyi ziyaret ettin. Ucube Kurdu ile tanıştın, o senin en büyük düşmanın ve güçlerin bile seni bu hayvana karşı koruyamayacak.</value>
+	</string>
+	<string key="cadvisitbest2">
+		<value>Bu gece {0}, Ucube Kurdu'nu ziyaret ederek yanlış bir karar verdi. Binlerce parçalara ayrıldı ve Ucube kurt en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti. {0} Cerberus'tu. </value>
+	</string>
+	<string key="cadvisitbest3">
+		<value>Sonunda aynı Cerberus'un seni ziyaret edeceğini kim bilebilirdi. {0} seni ininde ziyaret etmek gibi muhteşem bir fikre sahipti ve gerçekte ne olduğunu bilseydi, bunun hakkında daha derinlemesine düşünürdü. </value>
+	</string>
+	<string key="cadvisitvictimbest2">
+		<value>Bu gece {0}, Ucube Kurdu'nun kurbanını hedef olarak seçerek yanlış bir karar verdi ve acımasızca parçalarına ayrıldı. Ucube Kurdu en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti, {0} Cerberus'tu. </value>
+	</string>
+	<string key="cadvisitvictimbest3">
+		<value>Sonunda aynı Cerberus'un bu gece aynı hedefini ziyaret edeceğini sana kim söyleyebilirdi. {0} bu gece şanssızdı, bu fırsatın kaçmasına izin vermedin ve onu parçalarına ayırmaya karar verdin. </value>
+	</string>
+	<string key="guardvisitvictimbest">
+		<value>Yanlış kişiyi korumaya çalıştın. Ucube Kurdu ile ayakta nöbet tuttun. En iyi kalkanınla bile kendini bu hayvana karşı koruyamadın..</value>
+	</string>
+	<string key="guardvisitvictimbest2">
+		<value>Bu gece {0} hedefi Ucube Kurdu'ndan korumak için yanlış bir karar verdi. Tüm uzuvları köyün dört bir yanına yayıldı. Ucube Kurdu Cerberus'u aramaya devam edecek. {0} bir muhafızdı. </value>
+	</string>
+	<string key="guardvisitvictimbest3">
+		<value>{1}'e doğru giderken çevrede devriye gezen {0}'i fark ettin. Gözlerini hedefinden alamıyordu. Bu yüzden onun işini bitirmeye karar verdin. Nöbet günleri sonsuza kadar bitti. </value>
+	</string>
+	<string key="bestkill">
+		<value>Bir şeyin seni takip ettiğini fark ettin ve onun bir kurt olduğunu düşünürsün. Ama hayır, büyük bir ucubemsi bir yaratık üstüne atlar ve seni iz bırakmadan yiyip bitirir. </value>
+	</string>
+	<string key="bestkill2">
+		<value>Bu gece kurda benzer bir ucube, {1} olan {0}'i yemekten sorumlu.</value>
+	</string>
+	<string key="bestkill3">
+		<value>{1} olan {0}'i yedin.</value>
+	</string>
+	<string key="Fightedbestia">
+		<value>{0}'in evine girerken bir alarm sesinin yaklaştığını duyuyorsun... itfaiyeciler! Keşfedilmeden önce yemek yemeden kaçmaktan başka seçeneğin yok.</value>
+	</string>
+	<string key="GuardBlockedbestia">
+		<!-- 0 - target's name -->
+		<value>Vücudunda ziyafet çekmek için {0}'in evine gidiyorsun ancak tepeden tırnağa silahlı uzun boylu, karanlık bir figürle karşılaşıyorsun. Koruyucu melek girmeni engeller ve inine mağlup olarak dönersin.</value>
+	</string>
+	<string key="ccvisitadoxbestia">
+		<value>Evin dışında garip bir varlık hissediyorsun. Kontrole gittiğinde bazı ayak izleri buluyorsun ancak bu ayak izleri normalden daha büyük. Kurt şeklinde olsalar bile, sanki bir ucubeye ait olmalı.</value>
+	</string>
+	<string key="bestiadeadvisitoldvamp">
+		<value>{0}, {1}'i parçalarına ayırmaya çalıştı. Ne büyük bir hata! Onun Kont olabileceğine dair hiçbir fikri yoktu. {1} onu parçalara ayırdı ve derisinden bir trençkot yaptı.</value>
+	</string>
+	<string key="vampVisitbestia">
+		<value>{0}'e saldırırken onun devasa ve çok güçlü bir ucube olduğunu görüyorsun. Kesin ölümü önlemek için eve dönmeyi tercih ediyorsun.</value>
+	</string>
+	<string key="HunterFindbestia">
+		<!-- 0 - target name -->
+		<value>{0} evine gidiyorsun orada kimsenin olmadığını görüyorsun. oradan çıkmak için arkanı döndüğünde devasa bir ucube üzerinize atlıyor. {0} Ucube Kurdu ve seni şaşırttı ve önemli ölçüde yaraladı. Bir sonraki gece kimseyi avlayamayacaksın ancak bir sonraki gece onun işini bitirmeye hazır olacaksın.</value>
+	</string>
+	<string key="HunterFindbestia2">
+		<!-- 0 - target name -->
+		<value>Evine döndüğünde kapıyı açık buluyorsun. {0}'in kokusunu alıyorsun, uzakta olmaması gerektiğini hatta içeride olduğunu biliyorsun. Gizlice çatıya çıkıyorsun ve dışarı çıkar çıkmaz atlıyorsun. Onu öldüremezsin ama onu bir gece avlayamayacak kadar incittin.</value>
+	</string>
+	<string key="HunterFindbestia3">
+		<!-- 0 - target name -->
+		<value>Bu sefer cesaretin var. Tüm gücünle ve kurnazlığınla {0}'in evine gidiyorsun. İninin yakınındaki bazı çalılara saklanıp onun dışarı çıkmasını ya da geri dönmesini bekliyorsun. Bu sefer ortaya çıkar çıkmaz onun üzerine atladın ve işini bitirdin. Artık kimsenin kemik parçaları etrafa yayılmayacak (Ucube kurdununki hariç :3)<./value>
+	</string>
+	<string key="HunterFindbestia4">
+		<!-- 0 - target name -->
+		<value>Bu gece eve gelirken {0} geçen geceki sürprizinin intikamını ald. İnsanları yeme günlerin bitti.</value>
+	</string>
+	<string key="HarlotFuckWolf2" >
+		<!-- 0 - player name -->
+		<value >Biraz eğlenmek için {0}'in evine gizlice girdin ama Ucube Kurduna rastladın. Öldün.</value>
+	</string>
+	<string key="bestiavstiti">
+		<value>{0}'in yaklaştığını görüyorsun, peki bu nedir? BÜYÜK, Ucube Kurdı olmalı. Onu şaşırtmak ve seni koruduklarını düşünmek için kendin kukladan muhafızlar hazırlıyorsun.</value>
+	</string>
+	<string key="bestvisitwolf">
+		<value>{0}'in {1}'e yaklaştığını görüyorsun, peki bu nedir? BÜYÜK, Ucube Kurdu olmalı. Yarı kurt olduğunu anlıyorsun bu yüzden güçlerini birleştirmek için onu sürüye dahil ediyorsun.</value>
+	</string>
+	<string key="bestvisitwolf2">
+		<value>{0}'e saldırmayı amaçladını ancak birçok ortak noktanızın olduğunu fark ettini. Yarı kurtsun bu yüzden {0} sana sürünün geri kalanının kim olduğunu söylemeye karar verdi.</value>
+	</string>
+	
 </strings>
