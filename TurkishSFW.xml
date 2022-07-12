@@ -179,7 +179,7 @@
   <string key = "LynchKill">
     <!-- 0 - oyuncu adı -->
     <!-- 1 - oyuncu rolü -->
-    <value> Köylüler şüphe içinde oylarını kullandılar. {0} öldü. {1} idi. </value>
+    <value> Köylüler şüphe içinde oylarını kullandılar. {0} öldü. {1}. </value>
   </string>
   <string key = "LynchTie">
     <value> Linç için tam bir karara varılamadı. Herkes korku ve endişe içinde evinlerine geri dönüyor...</value>
