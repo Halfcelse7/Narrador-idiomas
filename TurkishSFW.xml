@@ -3074,7 +3074,7 @@
   </string>
   <string key = "flautistaWins">
     <value>
-      DÜTTT DÜRÜDÜÜÜÜÜÜÜTTTTT DÜRÜDÜRÜTTTT. Köyün tamamı İllüzyonistin melodisine yenik düştü ve hayatının sonuna kadar ona hizmet edeceksin.!!
+      KAHRETSİNNNNNN!!!! Köyün tamamı İllüzyonistin melodisine yenik düştü ve hayatının sonuna kadar ona hizmet edeceksin.!!
     </value>
   </string>
   <string key = "encanteddone">
@@ -3751,14 +3751,14 @@
 
   <string key = "RoleInfocadejo">
     <value>
-      Sen ateşli kırmızı gözleri olan, kötülüğün tanrısının evcil hayvanı olan Cerberus artık şeytani varlıkların bekçiliğini yapmıyorsun. İşin insanların sana nasıl davrandığına bağlı. Eğer seni rahatsız etmezlerse ateşini içinde tutacak ve onları koruyacaksın. Bununla birlikte, sana zarar vermeye çalışan olursa, taş atarlarsa veya seni korkutacak benzer bir şey olursa, işte o zaman eski gardiyanlık dönemlerini yâd edecek ve o oyuncuyu korumak yerine ölümüne neden olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \n Vampirler: \n-Gidersen: Onları tespit edemezsin. \n-Seni ziyaret ederlerse: Seni evde bulamazlar. \n Zombiler: \n-Ziyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \n-Seni ziyaret ederlerse: Seni evde bulamazlar.
+      Sen ateşli kırmızı gözleri olan Cadejo'sun. İşin insanların sana nasıl davrandığına bağlı. Eğer seni rahatsız etmezlerse onları koruyacaksın. Bununla birlikte, sana zarar vermeye çalışan olursa, taş atarlarsa veya seni korkutacak benzer bir şey olursa, o oyuncuyu korumak yerine ölümüne neden olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \n Vampirler: \n-Gidersen: Onları tespit edemezsin. \n-Seni ziyaret ederlerse: Seni evde bulamazlar. \n Zombiler: \n-Ziyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \n-Seni ziyaret ederlerse: Seni evde bulamazlar.
     </value>
   </string>
   <string key = "Aboutcadejo">
-    <value> Cerberus, ateşli kırmızı gözleri olan efsanevi, üç başlı köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
+    <value> Cerberus, ateşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
   </string>
   <string key = "cadejo">
-    <value> cerberus 🐕‍🦺 </value>
+    <value> Cadejo 🐕‍🦺 </value>
   </string>
   <string key = "cadebvisit">
     <value> Görünüşe göre {0} sakindi, seni rahatsız etmedi, onu korumak için onunla birlikte kaldın. </value>
@@ -3767,18 +3767,18 @@
     <value> {0} seni görmekten korktu ve salakça sana taş atmaya başladı, öfkelendin. </value>
   </string>
   <string key = "visitxcadeb">
-    <value> Gizemli bir güç hissediyorsun, bir şeyin yanında yürüdüğünü ve yanında oturduğunu hissediyorsun. Cerberus seni korudu. </value>
+    <value> Gizemli bir güç hissediyorsun, bir şeyin yanında yürüdüğünü ve yanında oturduğunu hissediyorsun. Cadejo seni korudu. </value>
   </string>
   <string key = "visitxcaden">
     <value>
-      Yanında yürüyen bir varlık hissedersin, gözlerini çevirdiğinde bir kurt görürsün. Onu korkutmak için ona taş atmaya başlarsın ama o ... HAYIR, o bir kurt değildi. CERBERUS!!! Senin bu aptallığından ötürü şimdi ateş püskürtmeye başladı. Bu geceyi canlı geçirmen pek mümkün değil gibi.
+      Yanında yürüyen bir varlık hissedersin, gözlerini çevirdiğinde bir kurt görürsün. Onu korkutmak için ona taş atmaya başlarsın ama o ... HAYIR, o bir kurt değildi. CADEJO!!! Senin bu aptallığından ötürü şimdi ateş püskürtmeye başladı. Bu geceyi canlı geçirmen pek mümkün değil gibi.
     </value>
   </string>
   <string key = "tcaden">
-    <value> Doğaüstü ve kötü bir güç fikrini değiştirmene neden oldu. {0} bugün senin seçimin olacak. Görünüşe göre Cerberus'un işi! </value>
+    <value> Doğaüstü ve kötü bir güç fikrini değiştirmene neden oldu. {0} bugün senin seçimin olacak. Görünüşe göre Cadejo'nun işi! </value>
   </string>
   <string key = "cadbprotect">
-    <value> {0}'e yaklaştığında beyaz bir köpeğin yanında olduğunu görürsün, yaklaştıkça köpek büyüyene kadar önem vermezsin. O beyaz köpek bir Cerberus'tur. Tüm kötülüklere karşı seni koruyacak. </value>
+    <value> {0}'e yaklaştığında beyaz bir köpeğin yanında olduğunu görürsün, yaklaştıkça köpek büyüyene kadar önem vermezsin. O beyaz köpek bir Cadejo'dur. Tüm kötülüklere karşı seni koruyacak. </value>
   </string>
 
   <!-- oldvampir -->
@@ -4197,13 +4197,13 @@
 		<value>Bu gece {0}, Ucube Kurdu'nu ziyaret ederek yanlış bir karar verdi. Binlerce parçalara ayrıldı ve Ucube kurt en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti. {0} Cerberus'tu. </value>
 	</string>
 	<string key="cadvisitbest3">
-		<value>Sonunda aynı Cerberus'un seni ziyaret edeceğini kim bilebilirdi. {0} seni ininde ziyaret etmek gibi muhteşem bir fikre sahipti ve gerçekte ne olduğunu bilseydi, bunun hakkında daha derinlemesine düşünürdü. </value>
+		<value>Sonunda aynı Cadejo'nun seni ziyaret edeceğini kim bilebilirdi. {0} seni ininde ziyaret etmek gibi muhteşem bir fikre sahipti ve gerçekte ne olduğunu bilseydi, bunun hakkında daha derinlemesine düşünürdü. </value>
 	</string>
 	<string key="cadvisitvictimbest2">
-		<value>Bu gece {0}, Ucube Kurdu'nun kurbanını hedef olarak seçerek yanlış bir karar verdi ve acımasızca parçalarına ayrıldı. Ucube Kurdu en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti, {0} Cerberus'tu. </value>
+		<value>Bu gece {0}, Ucube Kurdu'nun kurbanını hedef olarak seçerek yanlış bir karar verdi ve acımasızca parçalarına ayrıldı. Ucube Kurdu en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti, {0} Cadejo'ydu. </value>
 	</string>
 	<string key="cadvisitvictimbest3">
-		<value>Sonunda aynı Cerberus'un bu gece aynı hedefini ziyaret edeceğini sana kim söyleyebilirdi. {0} bu gece şanssızdı, bu fırsatın kaçmasına izin vermedin ve onu parçalarına ayırmaya karar verdin. </value>
+		<value>Sonunda aynı cadejo'nun bu gece aynı hedefini ziyaret edeceğini sana kim söyleyebilirdi. {0} bu gece şanssızdı. Bu fırsatın kaçmasına izin vermedin ve onu parçalarına ayırmaya karar verdin. </value>
 	</string>
 	<string key="guardvisitvictimbest">
 		<value>Yanlış kişiyi korumaya çalıştın. Ucube Kurdu ile ayakta nöbet tuttun. En iyi kalkanınla bile kendini bu hayvana karşı koruyamadın..</value>
