@@ -1941,7 +1941,7 @@
     <value>{0} ha iniziato una partita a punti! Premi il pulsante per partecipare alla competizione... e probabilmente morire...</value>
   </string>
   <string key="NotEnoughMembersRanked">
-    <value>Per iniziare una partita con i punti, il gruppo deve avere almeno 100 giocatori. Puoi giocare le altre modalità, quella senza punti con /startgame.</value>
+    <value>Per iniziare una partita con i punti, il gruppo deve avere almeno 50 giocatori. Puoi giocare le altre modalità, quella senza punti con /startgame.</value>
   </string>
 
   <string key="DisableVillagerQ">

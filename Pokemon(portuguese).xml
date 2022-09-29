@@ -812,7 +812,7 @@
   </string>
   <string key="AddedToWaitList">
     <!-- 0 - target's name -->
-    <value>Você entrou na lista de espera para {0}.  Irei te mandar mensagem no privado quando o próximo jogo iniciar.\nEnquanto espera, por que não passa pela loja? https://teespring.com/stores/werewolf-for-telegram</value>
+    <value>Você entrou na lista de espera para {0}.  Irei te mandar mensagem no privado quando o próximo jogo iniciar.\nEnquanto espera, por que não passa pela loja? https://narradorbot.com/paquetes-de-bonificacion/</value>
   </string>
   <string key="NotifyNewGame">
     <!-- 0 - target's name -->

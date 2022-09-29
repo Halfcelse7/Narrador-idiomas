@@ -1929,7 +1929,7 @@
 		<value>{0} telah memulai permainan baru dengan poin! Apakah Anda akan berhasil mencapai puncak?</value>
 	</string>
 	<string key="NotEnoughMembersRanked">
-		<value>Untuk memulai pertandingan dengan poin, party harus memiliki minimal 100 anggota. Anda dapat memainkan jenis permainan yang sama, tetapi tanpa poin, dengan /startgame.</value>
+		<value>Untuk memulai pertandingan dengan poin, party harus memiliki minimal 50 anggota. Anda dapat memainkan jenis permainan yang sama, tetapi tanpa poin, dengan /startgame.</value>
 	</string>
 
 	<string key="DisableVillagerQ">

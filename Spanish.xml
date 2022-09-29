@@ -53,7 +53,7 @@
   <string key="PMTheBot">
     <!-- 0 - Player name -->
     <!-- 1 - bot username -->
-    <value>{0}, por favor, mándame un privi (@{1}) con /start. No tengo constancia de haberte escrito por privado antes. Para que pueda enviarte mensajes necesito, que me hables tú primero.</value>
+	  <value>{0}, no tengo ningún registro de haberte escrito antes. Necesito que me hables primero para poder enviarte mensajes, puedes hacerlo presionando el siguiente botón.</value>
   </string>
   <string key="DeadFlee">
     <value>¡No puedes huir! ¡ESTÁS MUERTO! Vuelve a la tumba. ¡Por Dios!</value>
@@ -1808,7 +1808,7 @@
     <value>¡{0} ha iniciado una nueva partida con puntos! ¿Lograrás entrar en el top?</value>
   </string>
   <string key="NotEnoughMembersRanked">
-    <value>Para iniciar una partida con puntos, el grupo debe tener al menos 100 miembros. Puedes jugar el mismo tipo de partida, pero sin puntos, con /startgame.</value>
+    <value>Para iniciar una partida con puntos, el grupo debe tener al menos 50 miembros. Puedes jugar el mismo tipo de partida, pero sin puntos, con /startgame.</value>
   </string>
 
   <string key="DisableVillagerQ">
@@ -3984,7 +3984,7 @@
 	</string>
 	<string key="HarlotFuckWolf2" >
 		<!-- 0 - player name -->
-		<value >Te escabulliste en la casa de {0} para divertirte un rato, pero te encontraste con la Bestia de Gévaudan. Has muerto.</value>
+		<value>Te escabulliste en la casa de {0} para divertirte un rato, pero te encontraste con la Bestia de Gévaudan. Has muerto.</value>
 	</string>
 	<string key="bestiavstiti">
 		<value>Ves a {0} acercarse, ¿pero que es eso? ES ENORME, debe ser la Bestia de Gévaudan, te preparas con una marioneta para confundirlo y piense que te han protegido..</value>
@@ -3996,4 +3996,9 @@
 		<value>Tenías la intención de atacar a {0}, pero os disteis cuenta de que tenéis mucho en común, eres medio loba, así que {0} decidió decirte quien era el resto de la manada.</value>
 	</string>
 	
+	
+	<string key="StartMe2" >
+		<!-- 0 - player name -->
+		<value>Iníciame</value>
+	</string>
 </strings>

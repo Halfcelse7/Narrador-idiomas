@@ -795,7 +795,7 @@ Pemain {0},{1} telah dibunuh kerana tidak mengundi 2 kali dalam 24 jam yang lalu
 	</string>
 	<string key="AddedToWaitList">
 		<!-- 0 - target's name -->
-		<value>Anda telah ditambah pada senarai tunggu {0}.  Oppa akan PM anda apabila prmainan bermula.\nKetika anda menunggu, apa kata cuba memeriksa laman web https://teespring.com/stores/werewolf-for-telegram</value>
+		<value>Anda telah ditambah pada senarai tunggu {0}.  Oppa akan PM anda apabila prmainan bermula.\nKetika anda menunggu, apa kata cuba memeriksa laman web https://narradorbot.com/paquetes-de-bonificacion/</value>
 	</string>
 	<string key="NotifyNewGame">
 		<!-- 0 - target's name -->

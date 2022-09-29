@@ -966,7 +966,7 @@
   </string>
   <string key="AddedToWaitList">
     <!-- 0 - target's name -->
-    <value>Du wurdest zur Warteliste für {0} hinzugefügt. Ich werde dir privat eine Nachricht schreiben, sobald das nächste Spiel startet.\nDu kannst dich ja mal im Shop umsehen, während du wartest. https://teespring.com/stores/werewolf-for-telegram</value>
+    <value>Du wurdest zur Warteliste für {0} hinzugefügt. Ich werde dir privat eine Nachricht schreiben, sobald das nächste Spiel startet.\nDu kannst dich ja mal im Shop umsehen, während du wartest. https://narradorbot.com/paquetes-de-bonificacion/</value>
   </string>
   <string key="NotifyNewGame">
     <!-- 0 - target's name -->

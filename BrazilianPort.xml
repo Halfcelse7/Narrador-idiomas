@@ -1890,7 +1890,7 @@
     <value>{0} iniciou uma partida ranqueada! Você vai conseguir chegar ao topo?</value>
   </string>
   <string key="NotEnoughMembersRanked">
-    <value>Para iniciar um jogo com pontos, o grupo deve ter pelo menos 100 membros. Você pode jogar o mesmo tipo de jogo, mas sem pontos, com /startgame.</value>
+    <value>Para iniciar um jogo com pontos, o grupo deve ter pelo menos 50 membros. Você pode jogar o mesmo tipo de jogo, mas sem pontos, com /startgame.</value>
   </string>
   <string key="DisableVillagerQ">
     <value>Desativar aldeões (e Lycan)?\n Atualmente: {0}</value>

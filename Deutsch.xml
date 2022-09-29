@@ -1894,7 +1894,7 @@
 		<value>{0} hat ein neues Spiel mit Punkten gestartet! Wirst du auf die Spitzenposition kommen?</value>
 	</string>
 	<string key="NotEnoughMembersRanked">
-		<value>Um ein neues Spiel mit Punkten zu starten, muss die Gruppe mindestens 100 Mitglieder haben. Du kannst mit /startgame die gleiche Art von spiel starten, aber ohne Punkte.</value>
+		<value>Um ein neues Spiel mit Punkten zu starten, muss die Gruppe mindestens 50 Mitglieder haben. Du kannst mit /startgame die gleiche Art von spiel starten, aber ohne Punkte.</value>
 	</string>
 	<string key="DisableVillagerQ">
 		<value>Deaktiviere Dorfbewohner (und Lycan)? \NAktuell: {0}</value>
@@ -2164,7 +2164,7 @@
 		<value> Du hast gerade ein Tier in der Umgebung gehört, weswegen du raus gehst um nachzusehen und du findest Wolfskacke an deiner Tür. III!!  </value>
 	</string>
 	<string key="grupoban">
-		<value>Klassifizierungen sind in dieser Gruppe derzeit eingeschränkt, deswegen sprich zu einem Bot Administrator um dies zu lösen.(@KarelysCRP oder @tmogeid)</value>
+		<value>Klassifizierungen sind in dieser Gruppe derzeit eingeschränkt, deswegen sprich zu einem Bot Administrator um dies zu lösen.(@tmogeid)</value>
 	</string>
 	<string key="PlayerStartedmasacre">
 		<!-- 0 - Player name -->

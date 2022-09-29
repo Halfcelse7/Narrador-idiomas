@@ -1963,7 +1963,7 @@
     <value> {0} adlı kişinin evine yaklaşırken, taze ekmeğin nefis kokusunu alabilirsin. Yani {0} bir {1}! </value>
   </string>
   <string key = "NotEnoughMembersRanked">
-    <value> Puanlı bir oyuna başlamak için grubun en az 100 üyesi olması gerekir. /startgame ile aynı tür oyunları puan olmadan oynayabilirsin. </value>
+    <value> Puanlı bir oyuna başlamak için grubun en az 50 üyesi olması gerekir. /startgame ile aynı tür oyunları puan olmadan oynayabilirsin. </value>
   </string>
   <string key ="PlayerStartedRankedGame">
     <!-- 0 - Oyuncu adı -->
