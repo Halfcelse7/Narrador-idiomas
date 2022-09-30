@@ -1157,6 +1157,12 @@
   <string key="JoinButton">
     <!-- this is for a button, no markdown or html -->
     <value>¡Palante!</value>
+	  <value>JOIN</value>
+	  <value>¡Atrévete!</value>
+	  <value>Únete</value>
+	  <value>A jugar</value>
+	  <value>Ya tardas</value>
+	  <value>Juguemos</value>
   </string>
   <string key="NotMember">
     <value>No puedes unirte al juego porque parece que no pertecenes a {0}.</value>
@@ -3995,10 +4001,13 @@
 	<string key="bestvisitwolf2">
 		<value>Tenías la intención de atacar a {0}, pero os disteis cuenta de que tenéis mucho en común, eres medio loba, así que {0} decidió decirte quien era el resto de la manada.</value>
 	</string>
-	
-	
+		
 	<string key="StartMe2" >
 		<!-- 0 - player name -->
 		<value>Iníciame</value>
+	</string>
+	<string key="pafk" >
+		<!-- 0 - player name -->
+		<value>Has muerto AFK en esta partida, como penalización se te restarán </value>
 	</string>
 </strings>

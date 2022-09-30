@@ -3954,4 +3954,8 @@
 		<!-- 0 - player name -->
 		<value>Démarrez-moi</value>
 	</string>
+	<string key="pafk" >
+		<!-- 0 - player name -->
+		<value>Vous êtes mort d'AFK durant cette partie, comme pénalité nous vous retirons </value>
+	</string>
 </strings>

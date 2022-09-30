@@ -4099,5 +4099,9 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 		<!-- 0 - player name -->
 		<value>Start Me</value>
 	</string>
+	<string key="pafk" >
+		<!-- 0 - player name -->
+		<value>You have died AFK in this game, as a penalty it's </value>
+	</string>
 	
 	</strings>
