@@ -4266,7 +4266,19 @@
 		<value>{0}'in {1}'e yaklaştığını görüyorsun, peki bu nedir? BÜYÜK, Ucube Kurdu olmalı. Yarı kurt olduğunu anlıyorsun bu yüzden güçlerini birleştirmek için onu sürüye dahil ediyorsun.</value>
 	</string>
 	<string key="bestvisitwolf2">
-		<value>{0}'e saldırmayı amaçladını ancak birçok ortak noktanızın olduğunu fark ettini. Yarı kurtsun bu yüzden {0} sana sürünün geri kalanının kim olduğunu söylemeye karar verdi.</value>
+		<value>{0}'e saldırmayı amaçladın ancak birçok ortak noktanızın olduğunu fark ettin. Yarı kurtsun bu yüzden {0} sana sürünün geri kalanının kim olduğunu söylemeye karar verdi.</value>
+	</string>
+	<string key ="StartMe2">
+		<!-- 0 - player name -->
+		<value>Beni başlat</value>
 	</string>
 	
+	<string key="PmTheBot">
+		<!-- 0 - Player Name -->
+		<value>{0}, Sana daha önce özel mesaj attığıma dair hiçbir kayıt bulamadım. Sana mesaj gönderebilmem için önce benimle bir konuşma başlatmanı istiyorum. Aşağıdaki düğmeye basarak bunu yapabilirsin.</value>
+	</string>
+	<strink key="pafk">
+		<!-- 0 - player name -->
+		<value>Bu oyunda AFK kalarak öldün. Ceza olarak rapor edilecek</value>
+	</string>
 </strings>
