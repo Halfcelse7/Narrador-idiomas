@@ -4103,5 +4103,72 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 		<!-- 0 - player name -->
 		<value>You have died AFK in this game, as a penalty it's </value>
 	</string>
+
+	<!-- Outubro -->
+
+	<!-- estatísticas -->
+
+	<string key="textstats" >
+		<value>I only show the stats in private message, you can send me the command or use the following button:</value>
+	</string>
+	<string key="statsbutton" >
+		<value>PRESS</value>
+		<value>STATS</value>
+		<value>PRESS HERE!</value>
+	</string>
+	<string key="stnogame" >
+		<value>You haven't played any games yet.</value>
+	</string>
+	<string key="estranho" >
+		<value>\n\nRank:</value>
+	</string>
+	<string key="stpoint" >
+		<value>Points earned.\n</value>
+	</string>
+	<string key="stachievement" >
+		<value>Achievements unlocked.\n\n</value>
+	</string>
+	<string key="stinfog" >
+		<value>Games:\n</value>
+	</string>
+	<string key="stgames" >
+		<value> in total\n</value>
+	</string>
+	<string key="stwing" >
+		<value> won</value>
+	</string>
+	<string key="stlostg" >
+		<value> lost</value>
+	</string>
+	<string key="stsurvg" >
+		<value> survived </value>
+	</string>
+	<string key="staffkg" >
+		<value> AFK </value>
+	</string>
+	<string key="stinforole" >
+		<value>\nRoles you played the most times:\n</value>
+	</string>
+	<string key="stinforole2" >
+		<value>(Villager, Mason, Guard, Police and Werewolf are not shown as they are the most repetitive roles)\n</value>
+	</string>
+	<string key="stkills" >
+		<value>\nTypes of death you've had the most:\n</value>
+	</string>
+	<string key="stkills2" >
+		<value>You haven't died in the game yet.\n</value>
+	</string>
+	<string key="stkilled" >
+		<value>\nPlayers you've killed the most:\n</value>
+	</string>
+	<string key="stkilled2" >
+		<value>You haven't killed anyone yet.\n</value>
+	</string>
+	<string key="stkilledby" >
+		<value>\nPlayers who killed you the most:\n</value>
+	</string>
+	<string key="stkilledby2" >
+		<value>No one has killed you yet.\n</value>
+	</string>
 	
 	</strings>

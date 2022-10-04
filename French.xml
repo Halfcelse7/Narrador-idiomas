@@ -3958,4 +3958,72 @@
 		<!-- 0 - player name -->
 		<value>Vous êtes mort d'AFK durant cette partie, comme pénalité nous vous retirons </value>
 	</string>
-</strings>
+
+	<!-- octobre -->
+
+	<!-- stats -->
+
+		<string key="textstats" >
+			<value>Les statisques sont envoyées uniquememnt en privé, vous pouvez m'envoyer la commande ou utiliser le bouton suivant:</value>.
+		</string>
+		<string key="botonstats" >
+			<value>APPUYEZ ICI !</value>
+			<value>STATS</value>
+			<value>CLIQUEZ ICI ! </value>
+		</string>
+		<string key="stnogame" >
+			<value>Vous n'avez encore joué à aucun jeu</value>
+		</string>
+		<string key="strango" >
+			<value>\n\nRang:</value>
+		</string>
+		<string key="stpoint" >
+			<value>Points gagnés.\n</value>
+		</string>
+		<string key="stlogro" >
+			<value>Réalisations effectuées.\n\n</value>
+		</string>
+		<string key="stinfog" >
+			<value>Parties:\n</value>
+		</string>
+		<string key="stgames" >
+			<value>au total\n</value>
+		</string>
+		<string key="stwing" >
+			<value> Gagnés </value>
+		</string>
+		<string key="stlostg" >
+			<value> perdue </value>
+		</string>
+		<string key="stsurvg" >
+			<value> survécu </value>
+		</string>
+		<string key="stafkg" >
+			<value> AFK </value>
+		</string>
+		<string key="stinforole" >
+			<value>\nRôles avec lesquels vous avez le plus souvent joués :\n</value>
+		</string>
+		<string key="stinforole2" >
+			<value>(Pas de villageois, de maçon, de garde, de policier ou de loup car ce sont les rôles les plus répétitifs).\n</value>
+		</string>
+		<string key="stkills" >
+			<value>\nLes façons dont vous êtes morts le plus souvent:\n </value>
+		</string>
+		<string key="stkills2" >
+			<value>Vous n'êtes pas encore mort d'une quelque façon que ce soit:\n</value>
+		</string>
+		<string key="stkilled" >
+			<value>\nLes joueurs que vous avez le plus souvent tués :\n</value>
+		</string>
+		<string key="stkilled2" >
+			<value>Vous n'avez encore tué personne:\n</value>
+		</string>
+		<string key="stkilledby" >
+			<value>\nLes joueurs qui vous ont le plus souvent tués:\n</value>
+		</string>
+		<string key="stkilledby2" >
+			<value>Personne ne vous a encore tué.\n</value>
+		</string>
+
+	</strings>
