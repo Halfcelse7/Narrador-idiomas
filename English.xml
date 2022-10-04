@@ -4111,7 +4111,7 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 	<string key="textstats" >
 		<value>I only show the stats in private message, you can send me the command or use the following button:</value>
 	</string>
-	<string key="statsbutton" >
+	<string key="botonstats" >
 		<value>PRESS</value>
 		<value>STATS</value>
 		<value>PRESS HERE!</value>
@@ -4119,13 +4119,13 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 	<string key="stnogame" >
 		<value>You haven't played any games yet.</value>
 	</string>
-	<string key="estranho" >
+	<string key="strango" >
 		<value>\n\nRank:</value>
 	</string>
 	<string key="stpoint" >
 		<value>Points earned.\n</value>
 	</string>
-	<string key="stachievement" >
+	<string key="stlogro" >
 		<value>Achievements unlocked.\n\n</value>
 	</string>
 	<string key="stinfog" >
