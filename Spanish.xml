@@ -4001,13 +4001,81 @@
 	<string key="bestvisitwolf2">
 		<value>Tenías la intención de atacar a {0}, pero os disteis cuenta de que tenéis mucho en común, eres medio loba, así que {0} decidió decirte quien era el resto de la manada.</value>
 	</string>
-		
+
+	<!-- septiembre -->
+	
 	<string key="StartMe2" >
-		<!-- 0 - player name -->
 		<value>Iníciame</value>
 	</string>
 	<string key="pafk" >
-		<!-- 0 - player name -->
 		<value>Has muerto AFK en esta partida, como penalización se te restarán </value>
 	</string>
+
+	<!-- octubre -->
+
+	<!-- stats -->
+
+	<string key="textstats" >
+		<value>Las estadísticas solo las enseño por privado, puedes reenviarme el comando o usar el siguiente botón:</value>
+	</string>
+	<string key="botonstats" >
+		<value>PÚLSAME</value>
+		<value>STATS</value>
+		<value>Pincha ¡AQUÍ!</value>
+	</string>
+	<string key="stnogame" >
+		<value>Aún no has participado en ninguna partida.</value>
+	</string>
+	<string key="strango" >
+		<value>\n\nRango:</value>
+	</string>
+	<string key="stpoint" >
+		<value>Puntos conseguidos.\n</value>
+	</string>
+	<string key="stlogro" >
+		<value>Logros conseguidos.\n\n</value>
+	</string>
+	<string key="stinfog" >
+		<value>Partidas:\n</value>
+	</string>
+	<string key="stgames" >
+		<value> en total\n</value>
+	</string>
+	<string key="stwing" >
+		<value> ganadas </value>
+	</string>
+	<string key="stlostg" >
+		<value> perdidas </value>
+	</string>
+	<string key="stsurvg" >
+		<value> sobrevividas </value>
+	</string>
+	<string key="stafkg" >
+		<value> AFK </value>
+	</string>
+	<string key="stinforole" >
+		<value>\nRoles con los que has jugado mas veces:\n</value>
+	</string>
+	<string key="stinforole2" >
+		<value>(No sale aldeano, masón, guardia, policía ni lobo por ser los roles más repetitivos)\n</value>
+	</string>
+	<string key="stkills" >
+		<value>\nFormas de las que más has muerto:\n</value>
+	</string>
+	<string key="stkills2" >
+		<value>Aún no has muerto de ninguna forma.\n</value>
+	</string>
+	<string key="stkilled" >
+		<value>\nJugadores que más has matado:\n</value>
+	</string>
+	<string key="stkilled2" >
+		<value>Aún no has matado a nadie.\n</value>
+	</string>
+	<string key="stkilledby" >
+		<value>\nJugadores que te mataron más veces:\n</value>
+	</string>
+	<string key="stkilledby2" >
+		<value>Aún no te mató nadie.\n</value>
+	</string>
+	
 </strings>
