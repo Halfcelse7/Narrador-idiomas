@@ -4277,5 +4277,72 @@
 	<string key="pafk">
 		<!-- 0 - player name -->
 		<value>Bu oyunda AFK kalarak öldün. Ceza olarak rapor edilecek </value>
-		</string>
+	</string>
+	
+	<!-- October -->
+
+        <!-- stats -->
+	
+	<string key="textstats">
+		<value>İstatistikleri yalnızca özel mesajdan gösterebilirim. Komutu özel olarak gönderebilirsin ya da alttaki butonu kullanabilirsin.</value>
+	</string>
+	<string key="botonstats">
+		<value>BENİ BAŞLAT</value>
+                <value>İSTATİSTİK</value>
+                <value>Buraya TIKLA</value>
+	</string>
+	<string key="stnogame">
+		<value>Şu ana kadar herhangi bir oyunda yer almadın</value>
+	</string>
+	<string key="strango">
+		<value>\n\nRank</value>
+	</string>
+	<string key="stpoint">
+		<value>Kazandığı Puan</value>
+	</string>
+	<string key="stlogro">
+		<value>Elde ettiği başarılar\n\n</value>
+	</string>
+	<string key="stinfog">
+		<value>Oyun Sayısı:\n</value>
+	</string>
+	<string key="stgames">
+		<value>Toplam:\n</value>
+	</string>
+	<string key="stwing">
+		<value>Kazandığı Oyun</value>
+	</string>
+	<string key="stlostg">
+		<value>Kaybettiği Oyun</value>
+	</string>
+	<string key="stsurvg">
+		<value>Hayatta Kaldığı Oyun</value>
+	</string>
+	<string key="stafkg">
+		<value>AFK Kaldığı Oyun</value>
+	</string>
+	<string key="stinforole">
+		<value>\nEn çok oynadığın roller:\n</value>
+	</string>
+	<string key="stinforole2">
+		<value>(KÖylü, Mason, Muhafız, Jandarma yada Kurt Adam rolleri en çok oynadığın roller arasında gösterilmeyecek)\n</value>
+	</string>
+	<string key="stkills">
+		<value>\nEn çok öldürülme şekillerin:\n</value>
+	</string>
+	<string key="stkills2">
+	        <value>Şu ana dek henüz herhangi bir şekilde öldürülmedin.\n</value>
+	</string>
+	<string key="stkilled">
+		<value>\En çok öldürdüğün oyuncular:\n</value>
+	</string>
+	<string key="stkilled2">
+		<value>Şu ana dek henüz herhangi bir oyuncuyu öldürmedin.\n</value>
+	</string>
+	<string keu="stkilledby">
+		<value>\nEn çok öldürüldüğün oyuncular:\n</value>
+	</string>
+	<string key="stkilledby2">
+		<value>Şu ana dek henüz herhangi biri tarafından öldürülmedim.\n</value>
+	</string>
 </strings>
