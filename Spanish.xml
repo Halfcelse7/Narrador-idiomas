@@ -738,9 +738,6 @@
   <string key="AboutSK">
     <value>El manicomio era una idiotez. Menudo chiste. Pero ahora eres libre, y puedes volver a hacer lo que más te gusta: ¡matar! La asesina en serie conforma su propio equipo individual. Ganará si es el último jugador en pie (excepción: amantes). Como asesina en serie, podrás matar a CUALQUIERA: hombre lobo, cazador, justiciero, ángel de la guarda, etc., quien sea. Si los hombres lobo te atacan, tendrás un 80% de matar a uno de ellos (aleatorio) y sobrevivirás.</value>
   </string>
-  <string key="AboutPara">
-    <value>Para es el desarrollador majadero al que le gusta ladrarle a la gente (y con razón: a ver si lo dejáis jugar, eh). Puede que haya estado jugando con los hombres lobo demasiado tiempo. Jugar con los hombres lobo es una MUY mala idea.</value>
-  </string>
   <string key="EndTime">
     <value>Duración de la partida: {0}</value>
   </string>
@@ -2976,7 +2973,7 @@
     <value>el viajero del tiempo ⏳</value>
   </string>
   <string key="Abouttimetraveler">
-    <value>El viajero del tiempo es un genio venido del futuro, un futuro en el que estaba el solo debido a la masacre de la aldea. Su propósito es evitar lo ocurrido cambiando el pasado, para ello debe convencer por lo menos a 3 aldeanos de que le ayuden a reconstruir su máquina del tiempo, ya que en el primer intento que era de prueba apareció al borde de un acantilado y esta se destruyó en la caída. Si el viajero del tiempo visita roles malos estos aceptarán igualmente pero no lo ayudarán en nada, dicho esto no sabrá cuales son buenos o malos y solo con 4 buenos podrá volver otra vez atrás en el tiempo.</value>
+    <value>El viajero del tiempo es un genio venido del futuro, un futuro en el que estaba el solo debido a la masacre de la aldea. Su propósito es evitar lo ocurrido cambiando el pasado, para ello debe convencer a la tercera parte de la aldea de que le ayuden a reconstruir su máquina del tiempo, ya que en el primer intento, que era de prueba, apareció al borde de un acantilado y esta se destruyó en la caída. Si el viajero del tiempo visita roles malos estos aceptarán igualmente pero no lo ayudarán en nada, dicho esto no sabrá cuales son buenos o malos.</value>
   </string>
   <string key="tttravelYou">
     <value>Un personaje muy extraño a llegado a tu casa a proponerte una idea muy loca, dice que viene del futuro. Quizás fue su forma de hablar o sus ideas pero aceptaste su proposición y le ayudarás a fabricar una máquina que necesita. Lo mejor será que no comentes esto con nadie.</value>
@@ -3328,7 +3325,7 @@
     <value>El flautista es un rol solitario. Cada noche podrá encantar a dos jugadores con una melodía ancestral. Ganas si encantas a todos los jugadores vivos. Algunas criaturas no te encontrarán en casa, pero ten cuidado con la asesina en serie.\n\nTeam: Ninguno.\n\nConversiones:\n Vampiros:\n-Si visitas: Encantas vampiro.\n-Si te visitan: No lo encuentran en casa.\n Zombis:\n-Si visitas: Solo se encanta el zombi.\n-Si te visitan: No te encontrarán en casa.</value>
   </string>
   <string key="RoleInfotimetraveler">
-    <value>Eres el viajero del tiempo, debes convencer a 4 aldeanos para ayudarte a reconstruir tu máquina. Los roles malos no te ayudarán así que no contarán como ayudantes para tu propósito.\n\nTeam: Aldea.\n\nConversiones:\n Vampiros:\n-Si visitas: No los detecta.\n-Si te visitan: Tiene un 25% de muerte, si no muere hay un 33% de conversión.\n Zombis:\n-Si visitas: Sobrevive sin saber que es zombi.\n-Si te visitan: Hay un 30% de ser infectado o de sobrevivir.</value>
+    <value>Eres el viajero del tiempo, debes convencer a la tercera parte de la aldea para ayudarte a reconstruir tu máquina. Los roles malos no te ayudarán así que no contarán como ayudantes para tu propósito.\nNO DEBES REVELARTE EN EL JUEGO, por lo menos hasta que completes la máquina.\n\nTeam: Aldea.\n\nConversiones:\n Vampiros:\n-Si visitas: No los detecta.\n-Si te visitan: Tiene un 25% de muerte, si no muere hay un 33% de conversión.\n Zombis:\n-Si visitas: Sobrevive sin saber que es zombi.\n-Si te visitan: Hay un 30% de ser infectado o de sobrevivir.</value>
   </string>
   <string key = "RoleInfozombi">
     <value>Eres un zombi. No puedes hablar en las partidas ya que los zombis no hablan. Todas tus elecciones son al azar ya que careces de inteligencia y raciocinio. Si muerdes a alguien se convertirá la noche siguiente por la infección, otro no tendrán tanta suerte y se convertirán al momento ya que comerás más de ellos. \n\nTeam: Zombis.\n\nConversiones:\nVampiros: Muerte de zombi en cualquier caso (visitas y te visitan).</value>
@@ -3716,9 +3713,6 @@
     <!-- {0} - Idle count in the last 24 hours in the current group -->
     <!-- This string is appended to the "IdleCount" string, make sure this string fits as next sentence after "IdleCount" -->
     <value>{0} de esas muertes fueron en este grupo.</value>
-  </string>
-  <string key="joinmensaje">
-    <value>\n/join /join /join /join /join\n /join /join /join /join /join\n</value>
   </string>
   <string key="helperTurnWolf">
     <value>Los lobos han muerto, y eres el último ayudante de la manada. Te has convertido en un hombre lobo normal.</value>
