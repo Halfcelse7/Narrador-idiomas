@@ -3825,6 +3825,9 @@
 		<!-- This string is appended to the "IdleCount" string, make sure this string fits as next sentence after "IdleCount" -->
 		<value>{0} of those kills were in this group.</value>
 	</string>
+	<string key="helperTurnWolf">
+		<value>The wolves are dead, and you are the last helper of the pack. You have become a normal werewolf.</value>
+	</string>
 	<string key="NightTimer">
 		<value>Set Night Timer</value>
 	</string>
