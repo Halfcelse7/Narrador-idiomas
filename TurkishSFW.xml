@@ -91,7 +91,7 @@
   <string key = "PlayerVotedLynch">
     <!-- 0 - Seçmen adı -->
     <!-- 1 - Hedef adı -->
-    <value>{0}, linç etmek için {1}’i seçti.</value>
+    <value>{0}, {1}’i linç etmeyi seçti.</value>
   </string>
   <string key = "IdleKill">
     <!-- 0 - oyuncu adı -->
@@ -99,7 +99,7 @@
     <value> {1} iki gece üst üste oylamaya katılmadı. İyilik güçleri bunu korkunç bir suç olarak gördü ve {0} yere kapaklandı. Öldü. </value>
   </string>
   <string key = "TraitorTurnWolf">
-    <value> Dolunay vakti olduğunda, vücudunda acı dolu bir değişim hissediyorsun. Köydeki tüm kurtların ölümünün ardından kanındaki bozukluk gereğince köye hainlik edip, bir kurt adama dönüşüyorsun! </value>
+    <value> Seni hain !!! Kurt Adama dönüştün. </value>
   </string>
   <string key = "ChoiceAccepted">
     <value>Seçim kabul edildi.</value>
@@ -115,7 +115,7 @@
   <string key = "BeholderNewSeer">
     <!-- 0 - çırak adı -->
     <!-- 1 - gözcü adı -->
-    <value> {0} kalfaydı, şimdi yeni Gözcü olma sırası {1} 'de. </value>
+    <value> {0} çıraktı, şimdi yeni Gözcü olma sırası {1} 'de. </value>
   </string>
   <string key = "SeerSees">
     <!-- 0 - oyuncu adı -->
@@ -165,7 +165,7 @@
   <string key = "LynchTime">
     <!-- 0 - saniye sayısı -->
     <value>
-      Köye karanlık çökmek üzere. Köy halkı meşaleleri ile bir bir meydanda toplanıp, bugün aralarından kimi asacaklarına karar vermek zorundalar. Herkesin oy kullanmak için {0} saniyesi var! İyi düşünün.
+      Gecenin karanlığı çökmek üzere. Stres dolu bir günden sonra köylüler bu akşam kimi linç edeceklerine dair karar vermek için toplanıyorlar. Herkesin oy kullanmak için {0} saniyesi var! İyi düşünün.
     </value>
   </string>
   <string key = "DayTime">
@@ -179,7 +179,7 @@
   <string key = "LynchKill">
     <!-- 0 - oyuncu adı -->
     <!-- 1 - oyuncu rolü -->
-    <value> Köy halkı endişe ve merak içerisinde oylarını  kullandılar. {0} oylama sonucu en çok oyu alarak idam sehpasına çıkarıldı. {0} öldü. {1}. </value>
+    <value> Köylüler şüphe içinde oylarını kullandılar. {0} öldü. {1}. </value>
   </string>
   <string key = "LynchTie">
     <value> Linç için tam bir karara varılamadı. Herkes korku ve endişe içinde evinlerine geri dönüyor...</value>
@@ -421,7 +421,7 @@
     <value> Seyirci 👁 </value>
   </string>
   <string key = "ApprenticeSeer">
-    <value> Gözcü Çırağı 🙇 </value>
+    <value> Kalfa 🙇 </value>
   </string>
   <string key = "Tarikatçı">
     <value> Tarikatçı 👤 </value>
@@ -503,11 +503,11 @@
   <!-- DAHA FAZLA STRINGS 16 Mayıs 2016 -->
   <string key = "AdminAdded">
     <!-- 0 - hedefin adı -->
-    <value> {0} yönetim listesine eklendi. Grup ayarlarını değiştirmek için /config kullanın. </value>
+    <value> {0} yönetim listesine eklendi. Grup ayarlarını değiştirmek için /config komutunu kullan. </value>
   </string>
   <string key = "AlreadyInGame">
     <!-- 0 - hedefin adı -->
-    <value> Zaten oyundasınız! </value>
+    <value> Zaten oyundasın! </value>
   </string>
   <string key = "MultipleGames">
     <value>Grubun çoklu oyun başlatma hakkı kazandı...</value>
@@ -515,11 +515,11 @@
   <string key = "GroupQueue">
     <!-- 0 - hedefin adı -->
     <!-- 1 - hedefin adı -->
-    <value> Grubunuz sırada. Konum: {0} /{1}. </value>
+    <value> Grubun sırada. Konum: {0} /{1}. </value>
   </string>
   <string key = "MaintBreak">
     <!-- 0 - hedefin adı -->
-    <value> Üzgünüm! Kısa bir bakım dönemine gireceğim. Bundan sonra oyun başlatamayacaksınız. \n{0} oyununun bitmesini bekliyorum ... </value>
+    <value> Üzgünüm! Kısa bir bakım dönemine gireceğim. Bundan sonra oyun başlatamayacaksın. \n{0} oyununun bitmesini bekliyorum ... </value>
   </string>
 
   <string key = "MaxGames">
@@ -779,16 +779,16 @@
     <value> Sen koruyucu meleksin! Her gece korumak için bir oyuncu seçeceksin. Bir kurt adamı korumayı seçersen dikkatli ol %50 ölme şansınız var. </value>
   </string>
   <string key = "AboutDetective">
-    <value>Seni emekli polis memuru. Her gün başka bir oyuncuyu araştırma şansın olacak. Ancak bunu dikkatlice kullan, %40 ihtimalle kurt adamlar seni bulabilir!</value>
+    <value>Dedektif olarak gündüz vakti herhangi bir oyuncuyu araştırma şansın olacak. Ancak bunu dikkatlice kullan, %40 ihtimalle kurt adamlar seni bulabilir!</value>
   </string>
   <string key = "AboutGunner">
-    <value> Biraz mutluyuz değil mi? Silahşör olarak, oyunun başında sana 2 tane altın mermi verilir. Her gün, Başka bir oyuncuya ateş etme şansın olacak. Bunu yaptığında herkes senin silahşör olduğunu herkes bilecek! Yine de dikkatli ol, sadece 2 mermin var! </value>
+    <value> Biraz mutluyuz değil mi? Silahşör olarak, oyunun başında sana 2 tane altın mermi verilir. Her gün, Başka bir oyuncuya ateş etme şansın olacak. Bunu yaptığında herkes senin silahşör olduğunu herkes bilecek! Oyunda Demirci ve Muhtar ortaya çıkarsa, ekstra bir mermi kazanacaksın. Kötü rolleri her vurduğunda ekstra bir mermin olacak ancak masumları vurursan Muhtar seni cezalandırmak için mermilerinden birini elinden alacak. </value>
   </string>
   <string key = "AboutTanner">
     <value> iblisin amacı basitçe linç edilmek. İblis linç edilirse oyunu kazanır. Diğer herkes kaybeder. </value>
   </string>
   <string key = "AboutFool">
-    <value> Çomar’a gözcü olduğu söylenir... Gece birisini görmek için seçtiğinde, ona rastgele bir rol söylenir.</value>
+    <value> Çomar’a gözcü olduğu söylenir... Gece birisini görmek için seçtiğinde, ona rastgele bir rol söylenir. Bu rol oyunda var olan rollerden biridir.</value>
   </string>
   <string key = "AboutCult">
     <value> Tarikat Üyesi olarak senin görevin oyundaki diğer tüm oyuncaları (Kurtlar hariç) tarikat Üyesi yapmak. Eğer oyunun sonunda yaşayan tüm oyuncular tarikat Üyesi olursa tarikat kazanır. </value>
@@ -810,9 +810,9 @@
   </string>
   <string key = "AboutDG">
     <value>
-      Ataların başkalarının kılığına girebiliyordu... Fakat sen onların tüm gücüne sahip değilsin. Oyunun başında bir oyuncu seç ve o ölürse onun rolüne geçeceksin.
+      Ataların başkalarının kılığına girebiliyordu... Fakat sen onların tüm gücüne sahip değilsin. Oyunun başında bir oyuncu seç ve o ölürse onun rolüne geçeceksin. Unutma! Çift Giden olarak kazanamazsın. Rol modelin öldüğü vakit onun takımıyla da oyunu kazanmak zorundasın. Rolüne kavuştuktan sonra herşeyin daha güzel olabileceğini düşünmüş olabilirsin ama şimid herşey daha da zorlaşacak.
       Not: Eğer oyuncu vampir olursa sen onun gerçek rolünü alacaksın. Eğer Yabani Çocuk ise ve rol modeli ölürse Kurt olursun. Yoksa onun rol modelini alırsın.
-      Vampir Çiftgiden’i dönüştüremez. (ama Çiftgiden rolleri değiştirirse yapabilir.) Aynı zamanda, Çiftgiden dönüşene kadar kazanamaz. Oyunun sonunda Çiftgiden aynıysa eğer o zaman kaybeder.(Aşık hariç)
+      Vampir Çiftgiden’i dönüştüremez. (ama Çiftgiden rolleri değiştirirse yapabilir.) Oyunun sonunda Çiftgiden aynıysa eğer o zaman kaybeder.(Aşık hariç)
     </value>
   </string>
   <string key = "AboutCupid">
@@ -1097,7 +1097,7 @@
     <value> Prenses, Köy Takımı stratejisinde anahtar bir rol oynar. Prenses linç edildiği zaman, rolü ortaya çıkar. Ve yaşamaya devam eder. Ama bu birkez olur ve rolleri açığa çıkar. Köylüler linç etmeye devam ederlerse ölür. </value>
   </string>
   <string key = "AboutSorcerer">
-    <value> Eski ihtiyar Gözcüyü hatırlıyor musun? İyi, şimdi Kurt Takımı’nda olma zamanı. Falcı kurtların gözcüsüdür. Sadece Kurtları ve Gözcüleri görebilirler. Kurtlarla beraber kazanırlar. </value>
+    <value> Eski ihtiyar Gözcüyü hatırlıyor musun? İyi, şimdi Kurt Takımı’nda olma zamanı. Falcı kurtların gözcüsüdür. Kurtlarla beraber kazanırlar. Gözcüden çok daha iyisin çünkü taklitçi, kurdumsu ve Lycan senin kafanı karıştıramaz. Kristal küren her türden rolü algılayabilir. Tüm kurtlar öldüğü vakit emeklerini boşa gitmemesi uğruna sen de bir kurt adama dönüşeceksin! Daha önceden görüş güçlerinle ettiğin bilgiler sayesinde şimdi bir yırtıcısın! Gerisini köylüler düşünsün... </value>
   </string>
   <string key = "AboutClumsy">
     <value> Beceriksiz’sin. Keşke kahvaltıda o kadar alkol almasaydın. Lanet olası, önünü bile göremiyorsun! Bir de istediğin adama oy verebileceğini mi sanıyorsun? (Verdiğin oyda tuturma ihtimalin %50.)</value>
@@ -1164,7 +1164,7 @@
   </string>
 
   <string key = "CultConvertWolf">
-    <value> Tarikat {0}’i {1}’i döndürsün diye gönderdi, fakat onun yerine {0}'ın kafasını pencereden dışarı uçarken gördüler... Acaba kafayı neden yemediler! {0} ölü.. </value>
+    <value> Tarikat {0}’i {1}’i döndürsün diye gönderdi, fakat onun yerine {0}'in kafasını pencereden dışarı uçarken gördüler... Acaba kafayı neden yemediler! {0} ölü.. </value>
   </string>
   <string key = "HarlotFuckedKilledPublic">
     <!-- Harlot, SK'nin kurbanını ziyaret ettiğinde ve öldüğünde kullanılır -->
@@ -1175,7 +1175,7 @@
 
   <!-- Yeni Ölüm İpleri 05 ARALIK -->
   <string key = "ApprenticeSeerEaten">
-    <value> Kasaba, tarot çalışırken ikinci el bir ruh çağırma tahtasında {0} 'in başsız vücudunu bulmak için uyanır. Gözcü Çırağı öldü :/ </value>
+    <value> Kasaba, tarot çalışırken ikinci el bir ruh çağırma tahtasında {0} 'in başsız vücudunu bulmak için uyanır. Kalfa öldü :/ </value>
   </string>
   <string key = "BlacksmithKilled">
     <value> Görünüşe göre köy demircisi {0}, ellerinde, ayaklarında ve kafasında sıkışmış cephaneliğinden alınan 5 bıçakla birlikte demirci masasında bulunduğu için geceleri çok kötü şansa sahipti. Belki de seri katil, silah ve organ koleksiyonunu {0}'in kalbi, karaciğeri ve midesi ile genişletmeyi umuyordu. </value>
@@ -1688,7 +1688,7 @@
     <!-- 0 - hedefin adı -->
     <!-- 1 - hedefin rolü -->
     <value> Ne büyük bir felaket! Köylüler, {0}'in evinin yanmış olduğunu keşfeder. Kundakçının işi olmalı. {1}. </value>
-    <value> Bugün trajik bir gün. Köy, başka bir kundakçının kurbanı olan {0} 'ın küllerini bulur. {1}. </value>
+    <value> Bugün trajik bir gün. Köy, başka bir kundakçının kurbanı olan {0} 'in küllerini bulur. {1}. </value>
     <value> {0} bu gece ateşle oynamaya çalıştı ve o öldü... {1}. </value>
   </string>
   <string key = "PyroWins" isgif = "true">
@@ -1721,7 +1721,7 @@
     <value> Taklitçi ❌ </value>
   </string>
   <string key = "AboutImposter">
-    <value> Taklitçi, sadece ilk gece tüm oyun boyunca taklit etmek istediği bir oyuncuyu seçer. Vejeteryandır, diğer kurtlar gibi köylü eti yemez. Öldüğünde, taklit edilen oyuncunun rolü olarak görünecektir. Seni gördüklerinde muhtemelen seni çoğu zaman taklit edilen rol olarak göreceklerdir. Seçtiğin rolün eylemlerini gerçekleştiremeyeceksin, ancak kurtlarla aynı takımdan olduğun için bu durum köyün kafasını karıştırmaya hizmet edecek. Ancak Falcı gibi sen de kurtadamların kim olduğunu bilmiyorsun ve onlarla birlikte yemek yiyemiyorsun, köylü eti sevmiyorsun :/ </value>
+    <value> Taklitçi tıpkı Falcı gibi kurtların müttefikidir. Gecenin başında seçtiği bir oyuncuyu taklit edebilir. Öldüğü zaman taklit ettiği rol olarak gözükür, hatta dedektif ve gözcü de onu taklit ettiği rol olarak görür. Bu yüzden köylülerin kafasını oldukça karıştırmış olacak. Bir Kurdu taklit edersen ona mesaj atmaktan sakın çekinme! Tüm kurtlar öldüğünde emeklerinin boşa gitmemesi için bir kurt adama dönüşeceksin! Müttefik gibi müttefik... </value>
   </string>
 
   <string key = "Baker">
@@ -3122,13 +3122,13 @@
     <value> Görünüşe göre vampirler kanını emmeye çalıştı, kuklalarından birinin seni koruduğunu gördüğünde {0} bir anlık tereddüt eder ve yavaşça başarısızlığı ile oradan uzaklaşır. </value>
   </string>
   <string key = "titilinched">
-    <value> Bekle .... AMA BU DA NE !! ?? BİR KUKLA !! Görünüşe göre kukla ustasını bulduk ama dikkatli ol! Belki {0}'in elinin altında daha fazla numara vardır. </value>
+    <value> Bekle .... AMA BU DA NE !! ?? BİR KUKLA !! Görünüşe göre kukla ustasını bulduk, ama dikkatli ol, belki {0}'in elinin altında daha fazla numara vardır. </value>
   </string>
   <string key = "herbvstiti">
     <value> Otacı sana zehirinin bir kısmını vermek istedi, ama sen çabuk davrandın ve onu yanıltmak için bir kukla yarattın, {0} senin herhangi bir kukla koruman olmadığına inanarak eve geri döndü. </value>
   </string>>
   <string key = "firewolfvstiti">
-    <value> ÖÖÖFFFFF bu ne sıcak be! {0} seninle sıcak bir gece geçirdi ama neyse ki onu bir kuklanla kandırdın ve seni koruduklarını düşünerek ayrıldı. </value>
+    <value> ÖÖÖFFFFF bu ne sıcak be, {0} seninle sıcak bir gece geçirdi, ama neyse ki onu bir kuklanla kandırdın ve seni koruduklarını düşünerek ayrıldı. </value>
   </string>
   <string key = "wolfvstiti">
     <value> Kurtlar etinin tadına bakmak istiyor ve sebi avlaması için {0}'i gönderdiler ama sen onu koruyucu melek şeklindeki bir kukla ile korkuttun. </value>
@@ -3189,12 +3189,12 @@
 
   <!-- zaman yolcusu -->
 
- 
+
   <string key = "timetraveler">
     <value> Zaman Yolcusu ⏳ </value>
   </string>
   <string key = "Abouttimetraveler">
-    <value> Zaman yolcusu, gelecekteki köyde katliam nedeniyle yalnız yaşayan birdahidir. Amacı geçmişi değiştirerek yaşananlardan kaçınmaktır. Bunun için en az 3 köylüyü zaman makinesini yeniden inşa etmesi için kendisine yardım etmesi için ikna etmesi gerekir. Çünkü ilk denemesinde sonbaharda bir uçurumun kenarında göründü ve makine düşerek yok oldu. Zaman yolcusu kötü rolleri ziyaret ederse, onlar yeniden inşa etme teklifini kabul edecekler ama ona hiçbir konuda yardımcı olmayacaklar. Hangisinin iyi ya da kötü olduğunu bilmeyeceğini ve sadece 3 iyi rolle zamanda geri dönebilir. </value>
+    <value> Zaman yolcusu, gelecekten gelen bir dahidir, köydeki katliam nedeniyle yalnız kaldığı bir gelecekten gelmektedir. Amacı geçmişi değiştirerek yaşananlardan kaçınmaktır. Bunun için en az 4 köylüyü zaman makinesini yeniden inşa etmesi için kendisine yardım etmesi için ikna etmesi gerekir. Çünkü ilk denemesinde sonbaharda bir uçurumun kenarında göründü ve makine düşerek yok oldu. Zaman yolcusu kötü rolleri ziyaret ederse, onlar yeniden inşa etme teklifinin kabul edecekler ama ona hiçbir konuda yardımcı olmayacaklar, hangisinin iyi ya da kötü olduğunu bilmeyeceğini ve sadece 4 iyi rolle zamanda geri dönebilir. </value>
   </string>
   <string key = "tttravelYou">
     <value> Evine çok garip bir karakter geldi, çok çılgınca bir fikir önerdi, kendisinin gelecekten geldiğini söylüyor. Belki bu onun çılgın konuşma tarzıydı ya da fikirleriydi ama teklifini kabul ettin ve ihtiyacı olan bir makineyi yapmasına yardım edeceksin. Bunu kimseyle tartışmamak en iyisidir. </value>
@@ -3614,7 +3614,7 @@
   </string>
   <string key = "RoleInfotimetraveler">
     <value>
-      Sen Zaman Yolcususun. Makineni yeniden inşa etmene yardım etmesi için 3 köylüyü ikna etmelisin. Kötü roller sana yardımcı olmaz, bu yüzden amacına yardımcı olarak sayılmazlar. Makineni yeniden inşa edene kadar kendini ortaya çıkarma! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \n-Ziyaret edersen: Onları tespit edemezsin. \nZiyaret ederlerse: %25 ölüm, ölmezsen %33 dönüşüm. \nZombiler: \nZiyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \nSeni ziyaret ederlerse: Orada enfekte olmanın veya hayatta kalmanın oranı %30.
+      Sen Zaman Yolcususun. Makineni yeniden inşa etmene yardım etmesi için 4 köylüyü ikna etmelisin. Kötü roller sana yardımcı olmaz, bu yüzden amacına yardımcı olarak sayılmazlar. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \n-Ziyaret edersen: Onları tespit edemezsib. \nZiyaret ederlerse: %25 ölüm, ölmezsen %33 dönüşüm. \nZombiler: \nZiyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \nSeni ziyaret ederlerse: Orada enfekte olmanın veya hayatta kalmanın oranı %30.
     </value>
   </string>
   <string key = "RoleInfozombi">
@@ -4295,10 +4295,10 @@
 		<value>Şu ana kadar herhangi bir oyunda yer almadın</value>
 	</string>
 	<string key="strango">
-		<value>\n\nRank</value>
+		<value>\n\nLig</value>
 	</string>
 	<string key="stpoint">
-		<value>Kazandığı Puan</value>
+		<value>Kazandığı Puan\n</value>
 	</string>
 	<string key="stlogro">
 		<value>Elde ettiği başarılar\n\n</value>
@@ -4322,27 +4322,27 @@
 		<value>AFK Kaldığı Oyun</value>
 	</string>
 	<string key="stinforole">
-		<value>\nEn çok oynadığın roller:\n</value>
+		<value>En çok oynadığın roller:\n</value>
 	</string>
 	<string key="stinforole2">
-		<value>(KÖylü, Mason, Muhafız, Jandarma yada Kurt Adam rolleri en çok oynadığın roller arasında gösterilmeyecek)\n</value>
+		<value>(Köylü, Mason, Muhafız, Jandarma yada Kurt Adam rolleri en çok oynadığın roller arasında gösterilmeyecek)\n</value>
 	</string>
 	<string key="stkills">
-		<value>\nEn çok öldürülme şekillerin:\n</value>
+		<value>En çok öldürülme şekillerin:\n</value>
 	</string>
 	<string key="stkills2">
 	        <value>Şu ana dek henüz herhangi bir şekilde öldürülmedin.\n</value>
 	</string>
 	<string key="stkilled">
-		<value>\En çok öldürdüğün oyuncular:\n</value>
+		<value>En çok öldürdüğün oyuncular:\n</value>
 	</string>
 	<string key="stkilled2">
 		<value>Şu ana dek henüz herhangi bir oyuncuyu öldürmedin.\n</value>
 	</string>
 	<string keu="stkilledby">
-		<value>\nEn çok öldürüldüğün oyuncular:\n</value>
+		<value>En çok öldürüldüğün oyuncular:\n</value>
 	</string>
 	<string key="stkilledby2">
-		<value>Şu ana dek henüz herhangi biri tarafından öldürülmedim.\n</value>
+		<value>Şu ana dek henüz herhangi biri tarafından öldürülmedin.\n</value>
 	</string>
 </strings>
