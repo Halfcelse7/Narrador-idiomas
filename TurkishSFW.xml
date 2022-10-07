@@ -3122,13 +3122,13 @@
     <value> Görünüşe göre vampirler kanını emmeye çalıştı, kuklalarından birinin seni koruduğunu gördüğünde {0} bir anlık tereddüt eder ve yavaşça başarısızlığı ile oradan uzaklaşır. </value>
   </string>
   <string key = "titilinched">
-    <value> Bekle .... AMA BU DA NE !! ?? BİR KUKLA !! Görünüşe göre kukla ustasını bulduk, ama dikkatli ol, belki {0}'in elinin altında daha fazla numara vardır. </value>
+    <value> Bekle .... AMA BU DA NE !! ?? BİR KUKLA !! Görünüşe göre kukla ustasını bulduk ama dikkatli ol! Belki {0}'in elinin altında daha fazla numara vardır. </value>
   </string>
   <string key = "herbvstiti">
     <value> Otacı sana zehirinin bir kısmını vermek istedi, ama sen çabuk davrandın ve onu yanıltmak için bir kukla yarattın, {0} senin herhangi bir kukla koruman olmadığına inanarak eve geri döndü. </value>
   </string>>
   <string key = "firewolfvstiti">
-    <value> ÖÖÖFFFFF bu ne sıcak be, {0} seninle sıcak bir gece geçirdi, ama neyse ki onu bir kuklanla kandırdın ve seni koruduklarını düşünerek ayrıldı. </value>
+    <value> ÖÖÖFFFFF bu ne sıcak be! {0} seninle sıcak bir gece geçirdi ama neyse ki onu bir kuklanla kandırdın ve seni koruduklarını düşünerek ayrıldı. </value>
   </string>
   <string key = "wolfvstiti">
     <value> Kurtlar etinin tadına bakmak istiyor ve sebi avlaması için {0}'i gönderdiler ama sen onu koruyucu melek şeklindeki bir kukla ile korkuttun. </value>
@@ -3189,12 +3189,12 @@
 
   <!-- zaman yolcusu -->
 
-
+ 
   <string key = "timetraveler">
     <value> Zaman Yolcusu ⏳ </value>
   </string>
   <string key = "Abouttimetraveler">
-    <value> Zaman yolcusu, gelecekten gelen bir dahidir, köydeki katliam nedeniyle yalnız kaldığı bir gelecekten gelmektedir. Amacı geçmişi değiştirerek yaşananlardan kaçınmaktır. Bunun için en az 4 köylüyü zaman makinesini yeniden inşa etmesi için kendisine yardım etmesi için ikna etmesi gerekir. Çünkü ilk denemesinde sonbaharda bir uçurumun kenarında göründü ve makine düşerek yok oldu. Zaman yolcusu kötü rolleri ziyaret ederse, onlar yeniden inşa etme teklifinin kabul edecekler ama ona hiçbir konuda yardımcı olmayacaklar, hangisinin iyi ya da kötü olduğunu bilmeyeceğini ve sadece 4 iyi rolle zamanda geri dönebilir. </value>
+    <value> Zaman yolcusu, gelecekteki köyde katliam nedeniyle yalnız yaşayan birdahidir. Amacı geçmişi değiştirerek yaşananlardan kaçınmaktır. Bunun için en az 3 köylüyü zaman makinesini yeniden inşa etmesi için kendisine yardım etmesi için ikna etmesi gerekir. Çünkü ilk denemesinde sonbaharda bir uçurumun kenarında göründü ve makine düşerek yok oldu. Zaman yolcusu kötü rolleri ziyaret ederse, onlar yeniden inşa etme teklifini kabul edecekler ama ona hiçbir konuda yardımcı olmayacaklar. Hangisinin iyi ya da kötü olduğunu bilmeyeceğini ve sadece 3 iyi rolle zamanda geri dönebilir. </value>
   </string>
   <string key = "tttravelYou">
     <value> Evine çok garip bir karakter geldi, çok çılgınca bir fikir önerdi, kendisinin gelecekten geldiğini söylüyor. Belki bu onun çılgın konuşma tarzıydı ya da fikirleriydi ama teklifini kabul ettin ve ihtiyacı olan bir makineyi yapmasına yardım edeceksin. Bunu kimseyle tartışmamak en iyisidir. </value>
@@ -3614,7 +3614,7 @@
   </string>
   <string key = "RoleInfotimetraveler">
     <value>
-      Sen Zaman Yolcususun. Makineni yeniden inşa etmene yardım etmesi için 4 köylüyü ikna etmelisin. Kötü roller sana yardımcı olmaz, bu yüzden amacına yardımcı olarak sayılmazlar. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \n-Ziyaret edersen: Onları tespit edemezsib. \nZiyaret ederlerse: %25 ölüm, ölmezsen %33 dönüşüm. \nZombiler: \nZiyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \nSeni ziyaret ederlerse: Orada enfekte olmanın veya hayatta kalmanın oranı %30.
+      Sen Zaman Yolcususun. Makineni yeniden inşa etmene yardım etmesi için 3 köylüyü ikna etmelisin. Kötü roller sana yardımcı olmaz, bu yüzden amacına yardımcı olarak sayılmazlar. Makineni yeniden inşa edene kadar kendini ortaya çıkarma! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \n-Ziyaret edersen: Onları tespit edemezsin. \nZiyaret ederlerse: %25 ölüm, ölmezsen %33 dönüşüm. \nZombiler: \nZiyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \nSeni ziyaret ederlerse: Orada enfekte olmanın veya hayatta kalmanın oranı %30.
     </value>
   </string>
   <string key = "RoleInfozombi">
