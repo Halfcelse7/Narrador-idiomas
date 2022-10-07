@@ -91,7 +91,7 @@
   <string key = "PlayerVotedLynch">
     <!-- 0 - Seçmen adı -->
     <!-- 1 - Hedef adı -->
-    <value>{0}, {1}’i linç etmeyi seçti.</value>
+    <value>{0}, linç etmek için {1}’i seçti.</value>
   </string>
   <string key = "IdleKill">
     <!-- 0 - oyuncu adı -->
@@ -99,7 +99,7 @@
     <value> {1} iki gece üst üste oylamaya katılmadı. İyilik güçleri bunu korkunç bir suç olarak gördü ve {0} yere kapaklandı. Öldü. </value>
   </string>
   <string key = "TraitorTurnWolf">
-    <value> Seni hain !!! Kurt Adama dönüştün. </value>
+    <value> Dolunay vakti olduğunda, vücudunda acı dolu bir değişim hissediyorsun. Köydeki tüm kurtların ölümünün ardından kanındaki bozukluk gereğince köye hainlik edip, bir kurt adama dönüşüyorsun! </value>
   </string>
   <string key = "ChoiceAccepted">
     <value>Seçim kabul edildi.</value>
@@ -115,7 +115,7 @@
   <string key = "BeholderNewSeer">
     <!-- 0 - çırak adı -->
     <!-- 1 - gözcü adı -->
-    <value> {0} çıraktı, şimdi yeni Gözcü olma sırası {1} 'de. </value>
+    <value> {0} kalfaydı, şimdi yeni Gözcü olma sırası {1} 'de. </value>
   </string>
   <string key = "SeerSees">
     <!-- 0 - oyuncu adı -->
@@ -165,7 +165,7 @@
   <string key = "LynchTime">
     <!-- 0 - saniye sayısı -->
     <value>
-      Gecenin karanlığı çökmek üzere. Stres dolu bir günden sonra köylüler bu akşam kimi linç edeceklerine dair karar vermek için toplanıyorlar. Herkesin oy kullanmak için {0} saniyesi var! İyi düşünün.
+      Köye karanlık çökmek üzere. Köy halkı meşaleleri ile bir bir meydanda toplanıp, bugün aralarından kimi asacaklarına karar vermek zorundalar. Herkesin oy kullanmak için {0} saniyesi var! İyi düşünün.
     </value>
   </string>
   <string key = "DayTime">
@@ -179,7 +179,7 @@
   <string key = "LynchKill">
     <!-- 0 - oyuncu adı -->
     <!-- 1 - oyuncu rolü -->
-    <value> Köylüler şüphe içinde oylarını kullandılar. {0} öldü. {1}. </value>
+    <value> Köy halkı endişe ve merak içerisinde oylarını  kullandılar. {0} oylama sonucu en çok oyu alarak idam sehpasına çıkarıldı. {0} öldü. {1}. </value>
   </string>
   <string key = "LynchTie">
     <value> Linç için tam bir karara varılamadı. Herkes korku ve endişe içinde evinlerine geri dönüyor...</value>
