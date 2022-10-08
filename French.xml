@@ -2915,8 +2915,10 @@
 	<string key = "timetraveler">
 		<value> le voyageur du temps ⏳ </value>
 	</string>
-	<string key = "Abouttimetraveler">
-		<value> Le voyageur du temps est un génie venu du futur, un futur dans lequel il s'est retrouvé seul à cause du massacre du village. Son but est d'éviter ce qui s'est passé en changeant le passé, pour cela il doit convaincre au moins 3 villageois de l'aider à reconstruire sa machine à voyager dans le temps, car lors de la première tentative qui était un test il est apparu au bord d'une falaise et elle a été détruite dans la chute. Si le voyageur du temps visite des mauvais rôles, ils les accepteront également mais ne l'aideront en rien, cela dit il ne saura pas lesquels sont bons ou mauvais et ce n'est qu'avec 4 bons qu'il pourra remonter le temps à nouveau. </value>
+	<string key="Abouttimetraveler">
+	<value>
+		Le voyageur du temps est un génie venu du futur, un futur dans lequel il s'est retrouvé seul à cause du massacre du village. Son but est d'éviter ce qui s'est passé en changeant le passé, et pour cela il doit convaincre la troisième partie du village de l'aider à reconstruire sa machine à remonter le temps, car lors de la première tentative, qui était un test, il est apparu au bord d'une falaise et elle a été détruite dans la chute. Si le voyageur du temps visite les mauvais rôles, ils accepteront toujours mais ne l'aideront en aucune façon, cela dit il ne saura pas lesquels sont bons ou mauvais.
+	</value>
 	</string>
 	<string key = "tttravelYou">
 		<value> Un personnage très étrange est venu chez vous pour vous proposer une idée très folle, il dit venir du futur. Peut-être était-ce la façon de parler de lui ou de ses idées mais vous avez accepté sa proposition et vous allez l'aider à fabriquer une machine dont il a besoin. Il est préférable de ne pas en parler avec qui que ce soit. </value>
@@ -3295,8 +3297,8 @@
 	<string key = "RoleInfoflautista">
 		<value> Le joueur de flûte est un rôle solitaire. Chaque nuit, il pourra enchanter deux joueurs avec une mélodie ancienne. Vous gagnez si vous enchantez tous les joueurs vivants. Certaines créatures ne vous trouveront pas chez vous, mais faites attention au tueur en série. \nÉquipe : Aucune. \n\nConversions : \nVampires : \n -Si vous nous rendez visite : Enchanter le vampire. \n -Si ils vous rendent visite : Ils ne peuvent pas le trouver chez eux. \nZombies : \nSi vous nous rendez visite : Ils n'aiment que le zombie. \n -Si tu leur rends visite : Ils ne te trouveront pas chez toi. </value>
 	</string>
-	<string key = "RoleInfotimetraveler">
-		<value>Vous êtes le voyageur du temps, vous devez convaincre 4 villageois de vous aider à reconstruire votre machine. Les mauvais rôles ne t'aideront pas, ils ne comptent donc pas comme des aides pour ton objectif. \n\nÉquipe : Village. \n\nConversions : \n Vampires : \n -Si vous les visitez : Il ne les détecte pas. \n -S'ils vous rendent visite : Il a une mortalité de 25%, s'il ne meurt pas il y a une conversion de 33%. \nZombies : \n -Si vous les visitez : Survivre sans savoir que c'est un zombie. \nSi ils te rendent visite : Il y a 30% de chances d'être infecté ou de survivre. </value>
+	<string key="RoleInfotimetraveler">
+		<value>Vous êtes le voyageur du temps, vous devez convaincre la troisième partie du village de vous aider à reconstruire votre machine. Les rôles bad ne vous aideront pas, donc ils ne compteront pas comme des aides pour votre objectif.\nVOUS NE DEVEZ PAS VOUS RÉVÉLER DANS LE JEU, du moins jusqu'à ce que vous ayez terminé la machine.\n\nEquipe : Village. \n\nConversions :\nVampires :\n-Si vous les visitez : Vous n'etes pas détecté.\n-S'ils te visitent : Vous avez 25% de chance de mourir, si vous ne mourez pas il y a une conversion de 33%. \nZombies : \nSi vous visitez : Survivre sans savoir qu'il est zombie : \n-S'ils te visitent : Il y a 30% de chances d'être infecté ou de survivre.</value>
 	</string>
 	<string key = "RoleInfozombi">
 		<value> Tu es un zombie. Tu ne peux pas parler dans les jeux car les zombies ne parlent pas. Tous vos choix sont aléatoires car vous manquez d'intelligence et de raison. Si tu mords quelqu'un, il se convertira la nuit suivante à cause de l'infection, un autre n'aura pas cette chance et se convertira immédiatement puisque tu en mangeras plus. \nÉquipe : Zombies. \n\n Conversions : \nVampires : Mort des zombies dans tous les cas (visite et vous visite). </value>
@@ -3422,9 +3424,7 @@
 		<value> {0} pensait, du moins on veut le croire, que le cerveau d'un chasseur pouvait être savoureux, ce n'est pas ce qu'il attendait puisqu'il s'est retrouvé sans tête. </value>
 	</string>
 	<string key = "donation">
-		<value>
-			PAYPAL \n Indiquez dans la note de transfert "DONATION POUR NARRADOR" et le nom d'utilisateur pour éviter toute confusion avec d'autres types de transferts. Décochez la case de protection de l'acheteur s'il apparaît comme un don. \n Le lien est le suivant : \n http://paypal.me/tmogeid \n \n CRYPTO \n Si vous voulez faire don de crypto-monnaies, cela peut être fait par Coinbase à l'email de l'utilisateur tmogeid@gmail.com \n Pour d'autres portefeuilles ou pour envoyer les codes nécessaires (en fonction de la monnaie) contactez en privé avec @tmogeid
-		</value>.
+		<value>---PAYPAL---\n Indiquez dans la note de transfert "DON POUR NARRADOR" et le nom d'utilisateur pour éviter toute confusion avec d'autres types de transferts. Décochez la case de protection de l'acheteur si elle apparaît, car il s'agit d'un don. \n\n---CRYPTOMONAIE---\n Si vous souhaitez faire un don en cryptomonnaies, vous pouvez le faire via Coinbase à l'adresse électronique de l'utilisateur tmogeid@gmail.com. \n\n---VIREMENTS---\n Il est également possible de faire des dons par virement international, soit à partir de l'application de votre banque, soit par bizum ou moneygram (où les transferts entre cartes sont gratuits) et autres. \n\nPour toute question ou clarification, vous pouvez contacter @tmogeid</value>
 	</string>
 
 	<!-- cadejo -->
@@ -4026,4 +4026,11 @@
 			<value>Personne ne vous a encore tué.\n</value>
 		</string>
 
+	<string key="helperTurnWolf">
+		<value>Les loups sont morts, et tu es la dernière aide de la meute.  Tu es devenu un loup-garou normal.</value>
+	</string>
+	<string key="playerNotHome" >
+		<!-- 0 - player name -->
+		<value>Comme c'est étrange!{0} n'etait pas chez lui !</value>
+	</string>
 	</strings>
