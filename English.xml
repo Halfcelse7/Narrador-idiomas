@@ -4172,6 +4172,9 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 	</string>
 	<string key="stkilledby2" >
 		<value>No one has killed you yet.\n</value>
+	</string><string key="playerNotHome" >
+	<!-- 0 - player name -->
+	<value>That's weird, {0} wasn't home!</value>
 	</string>
 	
 	</strings>
