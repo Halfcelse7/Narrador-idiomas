@@ -1775,14 +1775,14 @@
     <value> Şifacı 🌟 </value>
   </string>
   <string key = "AboutHealer">
-    <value> Şifacı köyde çok önemli bir roldür. İkinci geceden itibaren köyün bir parçası olan ve ölmüş bir oyuncuyu canlandırabilir. Oyunun tamamında ölü bir rolü yalnızca bir kez canlandırabilirsin. Yeteneği ancak yaşadığı sürece kullanılabileceği için kendini diriltemez. </value>
+    <value> Şifacı mistik güçlere sahip eşsiz bir köy rolüdür. 2. Geceden itibaren köyden ölen herhangi bir rolü hayata geri dödürebilir. Gecenin yaratıklarından veya solo rollerden herhangi birini diriltemezsin. Tanınmaz haldeki bir oyuncuyu diriltemezsen bil ki o kötü roldür.</value>
   </string>
 
   <string key = "RabidWolf">
     <value> Kuduz Kurt 🐺🤢 </value>
   </string>
-  <string key = "RabidWolf Hakkında ">
-    <value> Sen Kuduz Kurtsun. Alfa tarafından enfekte edilen ilk kurt sendin. Onun için çok önemlisin ve ölürsen, o senin yerine yeni bir halefi arayacak (Kurtların bir sonraki kurbanı kuduz bir kurta dönüşecek). </value>
+  <string key = "AboutRabidWolf">
+    <value> Kuduz Kurt yeryüzünde Alfa Kurt tarafından enfeksiyon kapmış ilk kurttur. Sürü ve Alfa için çok değerlidir. Herhangi bir yolla kuduz kurt öldüğü zaman (AFK hariç) Alfa kurt bir sonraki saldırısında 100% enfeksiyon şansına sahip olacaktır. Bu döngü her bir kuduz öldüğünde sonsuza dek devam eder. Ancak Alfa kurt öldürüldüğü zaman Kuduz kurt işlevini yitirecektir. </value>
   </string>
 
   <string key = "DGTransformToRabidWolf">
@@ -1800,7 +1800,7 @@
     <value> Uyurgezer 😴 </value>
   </string>
   <string key = "AboutSleepwalker">
-    <value> Uyurgezer sadece başka sıradan bir köylüdür, aradaki fark, her gece bilinçsiz şekilde evi terk etme şansı %80, ve o gece kurtlara karşı bağışıklılığı olacaktır. Ancak uyurgezer bile kendisinin ne olduğunu bilmiyor ve sadece normal bir köylü olduğunu düşünecek. </value>
+    <value> Uyurgezer sadece başka sıradan bir köylüdür. Aradaki fark, her gece bilinçsiz şekilde evi terk etme şansı %80 ve o gece saldırganlara karşı bağışıklılığı olacaktır. Ancak uyurgezer bile kendisinin ne olduğunu bilmiyor ve sadece normal bir köylü olduğunu düşünecek. </value>
   </string>
 
   <string key = "MinutesLeftToJoin">
@@ -3755,7 +3755,7 @@
     </value>
   </string>
   <string key = "Aboutcadejo">
-    <value> Cerberus, ateşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
+    <value> Cadejo, ateşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
   </string>
   <string key = "cadejo">
     <value> Cadejo 🐕‍🦺 </value>
@@ -4140,10 +4140,10 @@
 		<value>Ucube Kurt 🐺🔱</value>
 	</string>
 	<string key="RoleInfobestia">
-		<value>Sen Ucube Kurtsun! En büyük düşmanın Cerberos'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Emily212001) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Vampirler: \n-Ziyaret edersen: Yaşlı Vampir hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Yaşlı Vampir hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
+		<value>Sen Ucube Kurtsun! En büyük düşmanın Cadejo'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Vampirler: \n-Ziyaret edersen: Yaşlı Vampir hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Yaşlı Vampir hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
 	</string>
 	<string key="aboutbestia">
-		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Cerberos'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığın olacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Emily212001) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Vampirler: \n-Ziyaret edersen: Yaşlı Vampir hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Yaşlı Vampir hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
+		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Cadejo'dan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığın olacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı </value>
 	</string>
 	<string key = "GunnerShotbestia">
 		<value>{0}, {1}'e ateş eder ama ölmez, o Ucube Kurt! {0}, {1}'i öldürmek için bir kurşun daha harcaması gerektiğini fark eder. </value>
