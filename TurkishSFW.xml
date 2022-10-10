@@ -2151,7 +2151,7 @@
     <value> Kâbus Kurdu 🐺🌕 </value>
   </string>
   <string key = "AboutHowlingWolf">
-    <value> Kâbus kurdu, sürüdeki en geveze kurttur. Konuşmaktan başka bir şey yapmıyor, böylece geri kalanı onu görmezden geliyor. Dolunay gecelerinde, onu dinleyen tek kişi olan aya, uluyarak hayal kırıklığını giderir. Ve bu arada, kurt olmayanların o gece harekete geçmesini engelliyor. </value>
+    <value> Kâbus kurdu, sürüdeki ürpertici kurtlardan biridir. Sürüdeki yırtıcı kurtlardan biri olması yanı sıra, her dolunay vakti köyün yüksek dağlarında ulumaya başlar. Bu sayede köydeki bütün herkesin kâbuslarına girer ve onları korkutarak gece aksiyonlarını engeller. Kelle Avcısı, Seri Katil, İllüzyonist, kısacası kurt sürüsündekiler hariç herkes Kâbus kurdu yaşadığı müddetçe dolunay zamanlarında gece aksiyonlarını gerçekleştiremeyecek. </value>
   </string>
 
   <string key = "AskSave">
@@ -2577,8 +2577,8 @@
   </string>
   <string key = "AboutNecro">
     <value>
-      Reenkarnist, öldürülen birinin rolünü seçme yeteneğine sahiptir. Geceleri Reenkarnist, oyunun geri kalanı için ölü bir adamın rolü olmayı seçebilir. Reenkarnist kalmayı seçerek bir oyunu kazanamazsın. Reenkarnist ve Çiftgiden aynı oyunda görünmeyecek.
-      Not: Reenkarnist rolüne sahip bir oyuncu bir vampirin rolünü seçerse, orijinal rolünü alır. Diğerleri için normal kurallar geçerlidir. Eğer o yabani çocuksa ve rol modeli ölmüşse, bir kurt adam olacaksın. Aksi takdirde, onların rol modelini devralacaksın.
+      Ölümbir son değil, başlangıçtır! Reenkarnist, öldürülen birinin rolünü seçme yeteneğine sahiptir. Geceleri Reenkarnist, oyunun geri kalanı için ölü bir adamın rolü olmayı seçebilir. Reenkarnist kalmayı seçerek bir oyunu kazanamaz. Reenkarnist ve Çiftgiden aynı oyunda görünmeyecek.
+      Not: Reenkarnist rolüne sahip bir oyuncu bir vampirin rolünü seçerse, orijinal rolünü alır ancak saf vampir olan bir oyuncuyu seçerse de vampir olur. Diğerleri için normal kurallar geçerlidir. Eğer o yabani çocuksa ve rol modeli ölmüşse, bir kurt adam olacak. Aksi takdirde, onların rol modelini devralacak.
       Vampir Reenkarnisti dönüştüremez (ancak rolleri değiştirdikten sonra yapabilir). Dikkat: Reenkarnist, rollerini değiştirmediyse kazanamaz. Oyunun sonunda, Reenkarnist hâlâ ölü bir adamın rolünü kopyalamazsa, kaybeder (istisna: aşıklar).
     </value>
   </string>
@@ -2700,7 +2700,7 @@
     <value> Kelle Avcısı 🌙 </value>
   </string>
   <string key = "Aboutcazadornoche">
-    <value> İşin köydeki kötülüğe son vermektir. Bir kurt veya başka bir gece yaratığı sana saldırırsa ölür. Her gece hangi oyuncuyu "avlayacağını" seçeceksin; karanlık bir yaratıksa ölür. \nYardımcıları: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı. </value>
+    <value> O eski yobaz avcısı olan çelimsiz Tarikatçı Avcısını hatırlıyor musun? Her ne kadar sığ bir topluluğun sonunu getirse de gecenin yeni yaratıklarına karşı aşırı zayıf ve o artık tarih oldu! Kelle Avcısı önüne gelen herhangi bir kurdu, vampiri ve zombiyi avlamaktan asla çekinmez. Her gece bir oyuncuyu seçer ve eğer bu kişi Gecenin karanlık yaratıklarından biri ise ölecektir. Kurtlar, vampirler ve zombiler Kelle Avcısına saldırmaya çalışırla alt etmek hiç de kolay olmayacak! Ancak köylülerin yarısı öldüğü zaman bir şansları olabilir. Kelle Avcısı, İllüzyonisti ve Kukla Ustasını avlayamaz. Eğer Kont ile karşı karşıya gelirlerse o savaştan yalnızca biri sağ çıkacak ve ikisinin de şansı yarı yarıya (50%-50%). Ucube Kurda karşı dikkatli olmalı çünkü onu avlamaya çalışırsa yaralanacak ve ertesi gece avlanmaya çıkamaz. Bu köye önderlik edebilecek tek kişi Kelle Avcısıdır ve oyunda yalnızca bir tane olabilir. Reenkarnist Kelle Avcısının yerine geçer ve Şifacı ölü Kelle avcısını diriltmeye çalışırsa başarısız olacaktır. \nYardımcıları: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı. </value>
   </string>
   <string key = "cazanFailedToFind">
     <!-- 0 - hedef adı -->
