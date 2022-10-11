@@ -4100,7 +4100,7 @@
 		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken fırından yeni çıkmış taze ekmeğin nefis kokusunu fark eder. Yani {0} bir {1}!</value>
 	</string>
 	<string key="cadbprotect2">
-		<value>Cehennem kurdu {0}'e yaklaştığında beyaz bir köpeğin ona eşlik ettiğini görür. Umurunda olmaz ama yaklaştıkça o köpek daha da büyür, işte beyaz Cerberus! {0} Cerberus'un korumasından çekinerek inine geri döner.</value>
+		<value>Cehennem kurdu {0}'e yaklaştığında beyaz bir köpeğin ona eşlik ettiğini görür. Umurunda olmaz ama yaklaştıkça o köpek daha da büyür, işte beyaz Cadejo! {0} Cadejo'nun korumasından çekinerek inine geri döner.</value>
 	</string>
 	<string key="GuardBlockedfireWolf2">
 		<!-- 0 - target's name -->
@@ -4122,7 +4122,7 @@
 		<value>Ne kötü şans! Cehennem kurdu bir koruyucu melek buldu ve hedefini yakamadan kaçtı.</value>
 	</string>
 	<string key="cadbprotect3">
-		<value>{0}'e saldırdığında ona beyaz bir köpeğin eşlik ettiğini fark ettin. {0}'e yaklaştıkça o köpek büyür ve büyür, bu beyaz Cerberus'tur! Evine geri döndün çünkü {0} tüm kötülüklerden korunuyor .</value>
+		<value>{0}'e saldırdığında ona beyaz bir köpeğin eşlik ettiğini fark ettin. {0}'e yaklaştıkça o köpek büyür ve büyür, bu beyaz Cadejo'dur! Evine geri döndün çünkü {0} tüm kötülüklerden korunuyor .</value>
 	</string>
 	<string key="FightedWolf2">
 		<value>Sürü, {0}'in evine girerken, yaklaşan bir alarm sesi duyulur... itfaiyeciler! Keşfedilmeden önce yemek yemeden kaçmaktan başka çare yok.</value>
@@ -4209,7 +4209,7 @@
 		<value>Yanlış kişiyi korumaya çalıştın. Ucube Kurdu ile ayakta nöbet tuttun. En iyi kalkanınla bile kendini bu hayvana karşı koruyamadın..</value>
 	</string>
 	<string key="guardvisitvictimbest2">
-		<value>Bu gece {0} hedefi Ucube Kurdu'ndan korumak için yanlış bir karar verdi. Tüm uzuvları köyün dört bir yanına yayıldı. Ucube Kurdu Cerberus'u aramaya devam edecek. {0} bir muhafızdı. </value>
+		<value>Bu gece {0} hedefi Ucube Kurdu'ndan korumak için yanlış bir karar verdi. Tüm uzuvları köyün dört bir yanına yayıldı. Ucube Kurdu Cadejo'yu aramaya devam edecek. {0} bir muhafızdı. </value>
 	</string>
 	<string key="guardvisitvictimbest3">
 		<value>{1}'e doğru giderken çevrede devriye gezen {0}'i fark ettin. Gözlerini hedefinden alamıyordu. Bu yüzden onun işini bitirmeye karar verdin. Nöbet günleri sonsuza kadar bitti. </value>
@@ -4266,7 +4266,7 @@
 		<value>{0}'in {1}'e yaklaştığını görüyorsun, peki bu nedir? BÜYÜK, Ucube Kurdu olmalı. Yarı kurt olduğunu anlıyorsun bu yüzden güçlerini birleştirmek için onu sürüye dahil ediyorsun.</value>
 	</string>
 	<string key="bestvisitwolf2">
-		<value>{0}'e saldırmayı amaçladını ancak birçok ortak noktanızın olduğunu fark ettini. Yarı kurtsun bu yüzden {0} sana sürünün geri kalanının kim olduğunu söylemeye karar verdi.</value>
+		<value>{0}'e saldırmayı amaçladın ancak birçok ortak noktanızın olduğunu fark ettin. Yarı kurtsun bu yüzden {0} sana sürünün geri kalanının kim olduğunu söylemeye karar verdi.</value>
 	</string>
 
 
@@ -4345,4 +4345,6 @@
 	<string key="stkilledby2">
 		<value>Şu ana dek henüz herhangi biri tarafından öldürülmedin.\n</value>
 	</string>
+	<string key="donation">
+		<value>---PAYPAL---\n Diğer aktarım türleri ile karıştırılmaması için "ANLATICI İÇİN BAĞIŞ" aktarım notunda ve kullanıcı adını belirtin. Bağış olarak görünüyorsa alıcı koruma kutusunun işaretini kaldırın. \n\n---CRIPTOCURRENCIES---\n Kripto para bağışlamak istiyorsanız, bunu Coinbase aracılığıyla kullanıcının e-posta adresine gönderebilirsiniz: tmogeid@gmail.com \n\n---TRANSFERENCES---\n Ayrıca banka uygulamanızdan, bizum veya moneygram (kartlar arası transferlerin ücretsiz olduğu yerlerde) ve benzerlerinden uluslararası transfer yoluyla bağış yapmak da mümkündür. \n\n Herhangi bir şüpheniz veya açıklamanız için @tmogeid ile iletişime geçebilirsiniz</value>
 </strings>
