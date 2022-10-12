@@ -2610,7 +2610,7 @@
     </value>
   </string>
   <string key = "AboutBeauty">
-    <value> Sen Afetsin, köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana, hatta kurtlar bile sana aşık olacak. Aşıkların kazanırsa sende kazanırsın ama ziyarete gelen son kişi ölürse sende ölürsün. Son ziyaretçin kazanırsa rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, seni öldürebilir ve sana aşık olmayacak. </value>
+    <value> Sen Afetsin, köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana, hatta kurtlar bile sana aşık olacak. Aşıkların kazanırsa sende kazanırsın. Seni ziyaret edenler linç edilerek ölürse hayatta kalabilirsin. Son ziyaretçin kazanırsa rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, seni öldürebilir ve sana aşık olmayacak. </value>
   </string>
 
   <string key = "StartingGameWait">
@@ -2647,7 +2647,7 @@
     <value> Gece eylemi var, hedefinin kim olacağını seçin. </value>
   </string>
   <string key = "AboutTiti">
-    <value> Sen Kukla Ustasısın. Başkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişinin eğer ki gece aksiyonu varsa onu istediğin gibi yönlendirebileceksin. </value>
+    <value> Sen Kukla Ustasısın. Başkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişinin eğer ki gece aksiyonu varsa onu istediğin gibi yönlendirebileceksin. Öte yandan aksiyonu olmayan oyuncuların ise intihar etmesini sağlayabilirsin. </value>
   </string>
   <string key = "Titi">
     <value> Kukla Ustası 🕴 </value>
@@ -2843,7 +2843,7 @@
     <value> Bu gece kimi ısırmak istiyorsun? </value>
   </string>
   <string key = "Aboutvampir">
-    <value> Sen vampirsin. Her gece kanını emecek bir av seçebileceksin. (başka bir oyuncuyu ziyaret ettiğinde %50 öldürme şansın olacaktır, hedefin ölmezse dönüşecek her rol için farklı bir yüzde vardır ve dönüşmeyi başaramayanlar ölür). Kurtadamların ve vampirlerin zamanın başından beri düşman olduğu biliniyor, biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin, diğer yandan seni ziyaret ederlerse birden fazla olmaları gerekecek. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen ve korkunç bir şekilde ölürsün. </value>
+    <value> Sen vampirsin. Her gece kanını emecek bir av seçebileceksin. (başka bir oyuncuyu ziyaret ettiğinde %50 öldürme şansın olacaktır, hedefin ölmezse dönüşecek her rol için farklı bir yüzde vardır ve dönüşmeyi başaramayanlar ölür). Kurtadamların ve vampirlerin zamanın başından beri düşman olduğu biliniyor, Biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin, diğer yandan seni ziyaret ederlerse birden fazla olmaları gerekecek. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen ve korkunç bir şekilde ölürsün. </value>
   </string>
   <string key = "vampir">
     <value> Vampir 🧛 </value>
@@ -3064,7 +3064,7 @@
     <value> İllüzyonist 🎼✨ </value>
   </string>
   <string key = "Aboutflautista">
-    <value> İllüzyonist yalnız bir roldür. Kurt, vampir veya köydeki başka bir rol olsun, her gece nereden öğrendiğin bilinmeyen eski bir melodiyle iki oyuncuyu büyüleyebilirsin, hepsi büyülenecek. Tüm canlı oyuncuları büyülersen kazanırsın. Kukla Ustası seni kontrol edemez, sen geceyi çatıda geçirirken kurtlar ve vampirler seni evde bulamazlar, ama seri katile dikkat et. </value>
+    <value> İllüzyonist yalnız bir roldür. Kurt, vampir veya köydeki başka herhangi bir rol olsun, nereden öğrendiğini bilmediği bir melodi ile her bir gece 2 oyuncuyu etkisi altına alabilir. Tüm canlı oyuncuları büyülersen kazanırsın. Kukla Ustası seni kontrol edemez, sen geceyi çatıda geçirirken kurtlar ve vampirler seni evde bulamazlar, ama seri katile dikkat et. </value>
   </string>
   <string key = "Askencant">
     <value> Melodinle ilk kimi büyülemek istiyorsun? </value>
