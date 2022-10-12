@@ -4339,7 +4339,7 @@
 	<string key="stkilled2">
 		<value>Şu ana dek henüz herhangi bir oyuncuyu öldürmedin.\n</value>
 	</string>
-	<string keu="stkilledby">
+	<string key="stkilledby">
 		<value>En çok öldürüldüğün oyuncular:\n</value>
 	</string>
 	<string key="stkilledby2">
