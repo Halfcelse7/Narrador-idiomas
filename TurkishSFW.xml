@@ -91,15 +91,15 @@
   <string key = "PlayerVotedLynch">
     <!-- 0 - Seçmen adı -->
     <!-- 1 - Hedef adı -->
-    <value>{0}, {1}’i linç etmeyi seçti.</value>
+    <value>{0}, linç etmek için {1}’i seçti.</value>
   </string>
   <string key = "IdleKill">
     <!-- 0 - oyuncu adı -->
     <!-- 1 - oyuncu rolü -->
-    <value> {1} iki gece üst üste oylamaya katılmadı. İyilik güçleri bunu korkunç bir suç olarak gördü ve {0} yere kapaklandı. Öldü. </value>
+    <value> {0} iki gece üst üste oylamaya katılmadı. Oylarnı geçiştirdiği için oyundan otomatik olarak düştü ve öldü. AFK cezası puan ve istatistiklerine yansıyacaktır. {1}</value>
   </string>
   <string key = "TraitorTurnWolf">
-    <value> Seni hain !!! Kurt Adama dönüştün. </value>
+    <value> Tüm kurt adamların ölümünden sonra köylüler gardını indirmeye başlıyordu. Ancak senin için işler farklıydı. Vücudun başkalaşım geçiriyor ve her bir kemiğin kırılarak evrim geçiriyordu! Yaşayan kurt adam kalmadı ve sen hain olarak kurt adama dönüştün! </value>
   </string>
   <string key = "ChoiceAccepted">
     <value>Seçim kabul edildi.</value>
@@ -4253,7 +4253,7 @@
 	</string>
 	<string key="HunterFindbestia4">
 		<!-- 0 - target name -->
-		<value>Bu gece eve gelirken {0} geçen geceki sürprizinin intikamını ald. İnsanları yeme günlerin bitti.</value>
+		<value>Bu gece eve gelirken {0} geçen geceki sürprizinin intikamını aldı. İnsanları yeme günlerin bitti.</value>
 	</string>
 	<string key="HarlotFuckWolf2" >
 		<!-- 0 - player name -->
@@ -4347,6 +4347,29 @@
 	</string>
 	<string key="donation">
 		<value>---PAYPAL---\n Diğer aktarım türleri ile karıştırılmaması için "ANLATICI İÇİN BAĞIŞ" aktarım notunda ve kullanıcı adını belirtin. Bağış olarak görünüyorsa alıcı koruma kutusunun işaretini kaldırın. \n\n---CRIPTOCURRENCIES---\n Kripto para bağışlamak istiyorsanız, bunu Coinbase aracılığıyla kullanıcının e-posta adresine gönderebilirsiniz: tmogeid@gmail.com \n\n---TRANSFERENCES---\n Ayrıca banka uygulamanızdan, bizum veya moneygram (kartlar arası transferlerin ücretsiz olduğu yerlerde) ve benzerlerinden uluslararası transfer yoluyla bağış yapmak da mümkündür. \n\n Herhangi bir şüpheniz veya açıklamanız için @tmogeid ile iletişime geçebilirsiniz</value>
+    </string>
+	
+	<!-- modos pro -->
 
+	<string key="PlayerStartedbonuspro">
+		<!-- 0 - Player Name -->
+		<value>{0} bonus pro modunda bir oyun başlattı! Yalnızca 1000 oyun oynamış yada minimum 2600 puana erişen oyuncular katılabilir. Acemiler için yer yok!</value>
+		<value>{0} yeni bir bonus pro oyunun başlattı! Yalnızca 1000 oyun oynamış yada minimum Altın lige erişen oyuncular katılabilir! Ustaların arasında kazanabilecek misin?</value>
+	</string>
+	<string key="PlayerStartedRankedPro">
+		<!-- 0 - Player Name -->
+		<value>{0} Sıralamalı pro modunda bir oyun başlattı! Yalnızca 1000 oyun oynamış yada minimum 2600 puana erişen oyuncular katılabilir. Acemiler için yer yok!</value>
+		<value>{0} yeni bir sıralamalı pro oyunun başlattı! Yalnızca 1000 oyun oynamış yada minimum Altın lige erişen oyuncular katılabilir! Ustaların arasında kazanabilecek misin?</value>
+	</string>
+	<string key="nonobsranked">
+		<!-- 0 - target's name -->
+		<value>{0} bu tür modda bir oyunu başlatacak kadar kadifiyeli değilsin. Bunun için en az 1000 oyun oynamış olman yada Altın (🥇) ligde olman gerek.</value>
+	</string>
+	<string key="nonobsranked2">
+		<!-- 0 - target's name -->
+		<value>{0} henüz bu tür bir modda oynamaya hazır değilsin. Önce 1000 oyun oyna yada Altın (🥇) lige eriş. Acemiler için bu mod uygun değil...</value>
+	</string>
+	<string key="groupnorank">
+		<value>Pro modlar Resmi olmayan gruplarda oynanılmaz. Yine de geri kalan modlar hâlâ oynanabilir.</value>
 	</string>
 </strings>
