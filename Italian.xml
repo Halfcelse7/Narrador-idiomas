@@ -3009,7 +3009,7 @@ Il Negromante ha la capacità di scegliere il ruolo di qualcuno ucciso. Di notte
 
   <string key="nonobsranked">
     <!-- 0 - target's name -->
-    <value>{0} non puoi giocare partite classificate finché non avrai almeno 250 partite.</value>
+    <value>{0} non puoi giocare partite classificate-pro finché non avrai almeno 1000 partite.</value>
   </string>
 
   <string key="noofigroup">
