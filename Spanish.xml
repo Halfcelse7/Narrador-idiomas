@@ -501,10 +501,6 @@
     <value>¡Se acabó el tiempo! Se más rápido la próxima vez.</value>
   </string>
   <!-- new strings june 10 2016 -->
-  <string key="CupidChosen">
-    <value>Has sido golpeado por el amor. El recuerdo de {0} nunca desaparecerá de tu corazón. Si uno de los dos muere, el otro morirá de pena. Si estando vivos los dos, uno de los dos gana, el otro ganará también.</value>
-    <value>¡Las flechas de Cupido te han alcanzado! ¡Estás locamente enamorado(a) de {0}! Si muere, tú también. Si estáis vivos y uno de los dos gana, ¡los dos ganaréis!</value>
-  </string>
   <string key="HunterLynchedChoice">
     <value>¡Los aldeanos han decidido colgarte! Esta es tu última oportunidad, ¡escoge a quién disparar mientras caes!</value>
   </string>
@@ -719,13 +715,6 @@
       Tus ancestros tenían la habilidad de transformarse en otros. Aunque no tengas las mismas habilidades, puedes escoger a alguien al principio de la partida. Si ese jugador muere, tomarás su rol.
       Nota: Si el jugador se convierte al Vampirismo, obtendrás su rol original. Para los demás se aplicarán las reglas normales: si era el niño salvaje y su modelo a seguir está muerto, te convertirás en hombre lobo. Si no, heredarás su modelo a seguir.
       El vampiro no puede convertir al doppelgänger (el doble [pero sí después de cambiar de rol]). Cuidado: El doppelgänger no podrá ganar si no ha cambiado de rol. Si al finalizar el juego, el doppelgänger sigue siendo el doble, pierde (excepción: amantes).
-    </value>
-  </string>
-  <string key="AboutCupid">
-    <value>
-      El amor está en el aire. Como Cupido, elegirás dos jugadores al principio de la partida. ¡Esos dos se enamorarán locamente! Si uno muere, el otro morirá de pena :_(
-      Nota: Los amantes se conocerán entre sí, pero no sabrán sus roles. Si los amantes son los dos únicos supervivientes, ganarán, independientemente de sus equipos. Si están en distintos equipos (aldeano + hombre lobo), y un equipo gana (hombre lobo), el amante (aldeano) también ganará.
-      Si, estando vivos los dos, al menos uno de los amantes está en el equipo ganador, ganarán ambos.
     </value>
   </string>
   <string key="AboutHunter">
@@ -2826,10 +2815,6 @@
     <value>Que buena suerte, da gusto cuando tus presas vienen a la puerta de tu casa, se encontraron a {0} despellejado y colgado de las patas en la entrada de la casa del Cazador de la Noche.</value>
   </string>
 
-  <string key="nonobsranked">
-    <!-- 0 - target's name -->
-    <value>{0} no podrás jugar rankeds hasta que por lo menos hayas jugado 250 partidas.</value>
-  </string>
 
   <string key="noofigroup">
     <!-- 0 - target's name -->
@@ -2917,9 +2902,6 @@
   </string>
 
 
-  <string key="groupnorank">
-    <value>Los grupos que no sean de la Grouplist no tienen permitido jugar rankeds, aun así están todos los demás modos a vuestra disposición.</value>
-  </string>
   <string key="gamecancel">
     <value>Juego cancelado. Inicien otra partida.</value>
   </string>
@@ -2971,12 +2953,6 @@
 
   <string key="timetraveler">
     <value>el viajero del tiempo ⏳</value>
-  </string>
-  <string key="Abouttimetraveler">
-    <value>El viajero del tiempo es un genio venido del futuro, un futuro en el que estaba el solo debido a la masacre de la aldea. Su propósito es evitar lo ocurrido cambiando el pasado, para ello debe convencer a la tercera parte de la aldea de que le ayuden a reconstruir su máquina del tiempo, ya que en el primer intento, que era de prueba, apareció al borde de un acantilado y esta se destruyó en la caída. Si el viajero del tiempo visita roles malos estos aceptarán igualmente pero no lo ayudarán en nada, dicho esto no sabrá cuales son buenos o malos.</value>
-  </string>
-  <string key="tttravelYou">
-    <value>Un personaje muy extraño a llegado a tu casa a proponerte una idea muy loca, dice que viene del futuro. Quizás fue su forma de hablar o sus ideas pero aceptaste su proposición y le ayudarás a fabricar una máquina que necesita. Lo mejor será que no comentes esto con nadie.</value>
   </string>
   <string key="tttravelYou2">
     <value>Has podido convencer a {0} para que te ayudase con la máquina del tiempo, esperemos que cumpla su palabra.</value>
@@ -3180,9 +3156,6 @@
   <string key="RoleInfoMason">
     <value>Eres un masón. Si hay otro, sabrás quién es; en caso contrario, eres un aldeano más.\n\nTeam: Aldea.\n\nConversiones:\n Vampiros: Siempre se convierte.\n Zombis: Tiene un 30% de infección, 25% de sobrevivir y 45% de convertirse.</value>
   </string>
-  <string key="RoleInfoCupid">
-    <value>Eres Cupido. Enviado a la Tierra con solo tu ropa interior, un arco y dos flechas, debes elegir a dos jugadores que se amarán por la eternidad. Si uno muere, el otro morirá de pena.\n\nTeam: Aldea.\n\nConversiones:\n Vampiros: Se convierte siempre.\n Zombis: Tiene un 30% de infección, 25% de sobrevivir y 45% de convertirse.</value>
-  </string>
   <string key="RoleInfoDoppelganger">
     <value>Eres un doppelgänger (el doble). La leyenda dice que tus ancestros eran metamorfos, y podían escoger cualquier forma que quisieran. Tú has heredado algunas de sus capacidades. Escoge a un jugador; cuando muera, te quedarás con su rol.\n\nTeam: Depende de elección, lo sabrás al morir el jugador.\nDEBES REVELARTE AL INICIO DE LA PARTIDA\n\nConversiones:\n Vampiros: Inmune hasta hacerse con un rol.\n Zombis: Tiene un 50% de infectarse o de sobrevivir.</value>
   </string>
@@ -3323,9 +3296,6 @@
   </string>
   <string key="RoleInfoflautista">
     <value>El flautista es un rol solitario. Cada noche podrá encantar a dos jugadores con una melodía ancestral. Ganas si encantas a todos los jugadores vivos. Algunas criaturas no te encontrarán en casa, pero ten cuidado con la asesina en serie.\n\nTeam: Ninguno.\n\nConversiones:\n Vampiros:\n-Si visitas: Encantas vampiro.\n-Si te visitan: No lo encuentran en casa.\n Zombis:\n-Si visitas: Solo se encanta el zombi.\n-Si te visitan: No te encontrarán en casa.</value>
-  </string>
-  <string key="RoleInfotimetraveler">
-    <value>Eres el viajero del tiempo, debes convencer a la tercera parte de la aldea para ayudarte a reconstruir tu máquina. Los roles malos no te ayudarán así que no contarán como ayudantes para tu propósito.\nNO DEBES REVELARTE EN EL JUEGO, por lo menos hasta que completes la máquina.\n\nTeam: Aldea.\n\nConversiones:\n Vampiros:\n-Si visitas: No los detecta.\n-Si te visitan: Tiene un 25% de muerte, si no muere hay un 33% de conversión.\n Zombis:\n-Si visitas: Sobrevive sin saber que es zombi.\n-Si te visitan: Hay un 30% de ser infectado o de sobrevivir.</value>
   </string>
   <string key = "RoleInfozombi">
     <value>Eres un zombi. No puedes hablar en las partidas ya que los zombis no hablan. Todas tus elecciones son al azar ya que careces de inteligencia y raciocinio. Si muerdes a alguien se convertirá la noche siguiente por la infección, otro no tendrán tanta suerte y se convertirán al momento ya que comerás más de ellos. \n\nTeam: Zombis.\n\nConversiones:\nVampiros: Muerte de zombi en cualquier caso (visitas y te visitan).</value>
@@ -4071,5 +4041,62 @@
 	<string key="stkilledby2" >
 		<value>Aún no te mató nadie.\n</value>
 	</string>
-	
+
+	<!-- modos pro -->
+
+	<string key="PlayerStartedbonuspro">
+		<!-- 0 - Player name -->
+		<value>¡{0} ha empezado una partida BonusPro! Solo puedes unirte con rango oro o con más de 1000 partidas jugadas. No se admiten manqueos 🤣</value>
+		<value>¡{0} ha iniciado una nueva partida BonusPro! Solo puedes unirte con rango oro o con más de 1000 partidas jugadas. Solo apto para veteranos.</value>
+	</string>
+	<string key="PlayerStartedRankedpro">
+		<!-- 0 - Player name -->
+		<value>¡{0} ha empezado una partida RankedPro! Solo puedes unirte con rango oro o con más de 1000 partidas jugadas. No se admiten manqueos 🤣</value>
+		<value>¡{0} ha iniciado una nueva partida RankedPro! Solo puedes unirte con rango oro o con más de 1000 partidas jugadas. Solo apto para veteranos.</value>
+	</string>
+	<string key="nonobsranked">
+		<!-- 0 - target's name -->
+		<value>{0} no podrás jugar este tipo de modo hasta que por lo menos hayas jugado 1000 partidas o hasta que alcances rango oro (🥇).</value>
+	</string>
+	<string key="nonobsranked2">
+		<!-- 0 - target's name -->
+		<value>No podrás iniciar este tipo de modo hasta que por lo menos hayas jugado 1000 partidas o hasta que alcances rango oro (🥇).</value>
+	</string>
+	<string key="groupnorank">
+		<value>Los grupos que no sean oficiales no tienen permitido jugar modos pro, aun así están todos los demás modos a vuestra disposición.</value>
+	</string>
+
+
+	<string key="Abouttimetraveler">
+		<value>El viajero del tiempo es un genio venido del futuro, un futuro en el que estaba el solo debido a la masacre de la aldea. Su propósito es evitar lo ocurrido cambiando el pasado, para ello debe convencer a la tercera parte de la aldea de que le ayuden a reconstruir su máquina del tiempo, ya que en el primer intento, que era de prueba, apareció al borde de un acantilado y esta se destruyó en la caída. Si el viajero del tiempo visita roles malos estos aceptarán igualmente pero no lo ayudarán en nada, dicho esto no sabrá cuales son buenos o malos.\nNO PUEDE REVELARSE EN LA PARTIDA, a no ser que esté en peligro de muerte como por ejemplo si la herborista de da veneno. Tampoco es un rol de visión así que no puede usarse para safear otros jugadores en caso de haberse revelado ya que no sabrá si los que visita son malos o buenos.</value>
+	</string>
+	<string key="tttravelYou">
+		<value>Un personaje muy extraño a llegado a tu casa a proponerte una idea muy loca, dice que viene del futuro. Quizás fue su forma de hablar o sus ideas pero aceptaste su proposición y le ayudarás a fabricar una máquina que necesita.\n\nNO PUEDES REVELAR QUE TE HA VISITADO, esto será un secreto por el bien de todos.</value>
+	</string>
+	<string key="RoleInfotimetraveler">
+		<value>Eres el viajero del tiempo, debes convencer a la tercera parte de la aldea para ayudarte a reconstruir tu máquina. Los roles malos no te ayudarán así que no contarán como ayudantes para tu propósito.\nNO DEBES REVELARTE EN EL JUEGO, por lo menos hasta que completes la máquina del tiempo, como unica excepción puedes revelarte si estás en peligro de muerte como por ejemplo si la herborista de da veneno, en el último caso no podrás usar este rol para safear otros jugadores, ya que no sabrás quienes son buenos o malos.\n\nTeam: Aldea.\n\nConversiones:\n Vampiros:\n-Si visitas: No los detecta.\n-Si te visitan: Tiene un 25% de muerte, si no muere hay un 33% de conversión.\n Zombis:\n-Si visitas: Sobrevive sin saber que es zombi.\n-Si te visitan: Hay un 30% de ser infectado o de sobrevivir.</value>
+	</string>
+	<string key="CupidChosen">
+		<value>Has sido golpeado por el amor. El recuerdo de {0} nunca desaparecerá de tu corazón. Si uno de los dos muere, el otro morirá de pena. Si estando vivos los dos, uno de los dos gana, el otro ganará también.\nCupido es {1}, él también ganará si ganais como pareja, pero debéis deshaceros de él cuando estéis cerca de la victoria, si vuestros equipos son diferentes no habrá problema ya que al final podréis matarlo.</value>
+		<value>¡Las flechas de Cupido te han alcanzado! ¡Estás locamente enamorado(a) de {0}! Si muere, tú también. Si estáis vivos y uno de los dos gana, ¡los dos ganaréis!\nCupido es {1}, él también ganará si ganáis como pareja, pero debéis deshaceros de él cuando estéis cerca de la victoria, si vuestros equipos son diferentes no habrá problema ya que al final podréis matarlo.</value>
+	</string>
+	<string key="AboutCupid">
+		<value>
+			El amor está en el aire. Como Cupido, elegirás dos jugadores al principio de la partida. ¡Esos dos se enamorarán locamente! Si uno muere, el otro morirá de pena :_(
+			\nNota: Los amantes se conocerán entre sí, harás equipo con ellos para que ganen como pareja pero tu siempre deberás morir antes de que eso ocurra, si la pareja mueres colaborarás con la aldea.
+			\nSi los amantes son los dos únicos supervivientes, ganarán, independientemente de sus equipos. Si están en distintos equipos (aldeano + hombre lobo), y un equipo gana (hombre lobo), el amante (aldeano) también ganará.
+			\nSi, estando vivos los dos, al menos uno de los amantes está en el equipo ganador, ganarán ambos.
+		</value>
+	</string>
+	<string key="RoleInfoCupid">
+		<value>Eres Cupido. Enviado a la Tierra con solo tu ropa interior, un arco y dos flechas, debes elegir a dos jugadores que se amarán por la eternidad. Si uno muere, el otro morirá de pena. Harás equipo con ellos para que ganen como pareja pero para que esto suceda solo deben quedar ellos vivos, lo que significa que tendrán que matarte de alguna forma antes si están cerca de conseguirlo.\n\nTeam: Amor o Aldea si muere la pareja.\n\nConversiones:\n Vampiros: Se convierte siempre.\n Zombis: Tiene un 30% de infección, 25% de sobrevivir y 45% de convertirse.</value>
+	</string>
+	<string key="CupidChosen2">
+		<value>La pareja son {0} y {1}.</value>
+	</string>
+
+
+	<string key="confictplayer">
+		<value>{0} no puedes unirte a esta partida debido a conflictos con alguno de los jugadores.</value>
+	</string>
 </strings>
