@@ -1928,7 +1928,7 @@
   </string>
 
   <string key = "HelpCustom">
-    <value> Özel bir oyun nasıl oluşturulur: \n\nÖzel bir oyun başlatmak için /startcustom komutunu ve ardından kullanılacak rollerin listesini koymalısın. Bu liste, görünmesini istediğin rollerin virgülle ayrılmış ve boşluksuz emojilerinden oluşur. Daha az oyuncu katılırsa Listede yer alanların soldan başlayarak rol alacağı, bu yüzden en azından ilk 4 role kötü bir adam koymalısın. Birçok oyuncu katılır katılmaz oyun otomatik olarak başlar. Hangi emojileri kullanabileceğini görmek için /emojisCustom.\n</value> yazın.
+    <value> Özel bir oyun nasıl oluşturulur: \n\nÖzel bir oyun başlatmak için /startcustom komutunu ve ardından kullanılacak rollerin listesini koymalısın. Bu liste, görünmesini istediğin rollerin virgülle ayrılmış ve boşluksuz emojilerinden oluşur. Daha az oyuncu katılırsa Listede yer alanların soldan başlayarak rol alacağı, bu yüzden en azından ilk 4 role kötü bir adam koymalısın. Birçok oyuncu katılır katılmaz oyun otomatik olarak başlar. Hangi emojileri kullanabileceğini görmek için /emojisCustom.\n yazın.</value>
   </string>
 
   <string key = "SKStabbedYou">
@@ -4372,4 +4372,5 @@
 	<string key="groupnorank">
 		<value>Pro modlar Resmi olmayan gruplarda oynanılmaz. Yine de geri kalan modlar hâlâ oynanabilir.</value>
 	</string>
+	
 </strings>
