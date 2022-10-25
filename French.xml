@@ -2767,7 +2767,7 @@
 	</string>
 	<string key = "nonobsranked">
 		<!-- 0 - target's name -->
-		<value>{0} vous ne pourrez pas jouer classé tant que vous n'aurez pas joué au moins 250 parties. </value>
+		<value>{0} vous ne pourrez pas jouer classé-pro tant que vous n'aurez pas joué au moins 1000 parties. </value>
 	</string>
 	<string key = "noofigroup">
 		<!-- 0 - target's name -->
