@@ -2988,7 +2988,7 @@
 
 	<string key="nonobsranked">
 		<!-- 0 - target's name -->
-		<value>{0} tidak akan dapat memainkan peringkat sampai Anda telah memainkan setidaknya 250 game.</value>
+		<value>{0} tidak akan dapat memainkan peringkat sampai Anda telah memainkan setidaknya 1000 game.</value>
 	</string>
 
 	<string key="noofigroup">
