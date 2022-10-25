@@ -3051,7 +3051,7 @@
     </string>
   <string key = "nonobsranked">
     <!-- 0 - nome do alvo -->
-    <value>{0} você não poderá jogar com classificação até ter jogado pelo menos 250 jogos. </value>
+    <value>{0} você não poderá jogar com classificação-pro até ter jogado pelo menos 1000 jogos. </value>
   </string>
   <string key = "noofigroup">
     <!-- 0 - nome do alvo -->
