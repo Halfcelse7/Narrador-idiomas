@@ -2947,7 +2947,7 @@
 	</string>
 	<string key = "nonobsranked">
 		<!-- 0 - target's name -->
-		<value>{0}, du wirst nicht in der Lage sein Ranglistenspiele zu spielen, bevor du nicht mindestens 250 Spiele gespielt hast. </value>
+		<value>{0}, du wirst nicht in der Lage sein Ranglistenspiele-pro zu spielen, bevor du nicht mindestens 1000 Spiele gespielt hast. </value>
 	</string>
 	<string key = "noofigroup">
 		<!-- 0 - target's name -->
