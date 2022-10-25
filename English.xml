@@ -560,10 +560,6 @@
 		<value>Time's up!</value>
 	</string>
 	<!-- new strings june 10 2016 -->
-	<string key="CupidChosen">
-		<value>You have been struck by love. {0}'s memory will never fade in your heart. If one of you dies, the other one will die out of sorrow. If one of you wins, the other one wins too.</value>
-		<value>Cupid's arrow has struck you! You are madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win.</value>
-	</string>
 	<string key="HunterLynchedChoice">
 		<value>The village has chosen to hang you! This is your last chance, choose to shoot someone as you go down!</value>
 	</string>
@@ -804,13 +800,6 @@
 			Your ancestors had the ability to metamorph into others... while you don't have their full abilities, you can pick a player at the start of the game. If that player dies, you will become what they were.
 			Note: If the player was converted to cult, you will take on their original role. All other normal rules apply: If they were Wild Child and their role model died, you will become a wolf. Otherwise, you will inherit their role model.
 			The cult cannot convert the Doppelgänger (but can after the doppelganger switches roles). Also - the Doppelgänger can NOT win unless they have transformed. If at the end of the game, the Doppelgänger is still the same, they lose (exception: lover)
-		</value>
-	</string>
-	<string key="AboutCupid">
-		<value>
-
-			Love is in the air. As Cupid, you will choose two players at the start of the game. These two players will become madly in love! If one of them dies, the other will die of sorrow :(
-			Note: Lovers will know who each other are, but not be told their roles. If the lovers are the last two alive, they win, regardless of teams. If the lovers are on different teams (villager + wolf), and one team wins (wolf), the lover (villager) wins as well. TL;DR if at least one of the lovers was on the winning team, they both win together.
 		</value>
 	</string>
 	<string key="AboutHunter">
@@ -2945,7 +2934,7 @@
 	</string>
 	<string key = "nonobsranked">
 		<!-- 0 - target's name -->
-		<value>{0} you will not be able to play ranked until you have played at least 250 games. </value>
+		<value>{0} you will not be able to play rankedpro until you have played at least 1000 games. </value>
 	</string>
 	<string key = "noofigroup">
 		<!-- 0 - target's name -->
@@ -3088,12 +3077,6 @@
 
 	<string key = "timetraveler">
 		<value> the time traveler ⏳ </value>
-	</string>
-	<string key = "Abouttimetraveler">
-		<value> The time traveler is a genius from the future, a future in which he was alone due to the massacre of the village. His purpose is to avoid what happened by changing the past, for this he must convince at least 3 villagers to help him rebuild his time machine, since in the first attempt that was a test he appeared on the edge of a cliff and it was destroyed in the fall. If the time traveler visits bad roles, they will accept them equally but will not help him in anything, that said he will not know which are good or bad and only with 4 good ones will he be able to go back in time again. </value>
-	</string>
-	<string key = "tttravelYou">
-		<value> A very strange character has come to your house to propose a very crazy idea, he says he comes from the future. Maybe it was the way of talking about him or his ideas but you accepted his proposal and you will help him make a machine that he needs. It is best not to discuss this with anyone. </value>
 	</string>
 	<string key = "tttravelYou2">
 		<value>
@@ -3318,9 +3301,6 @@
 	<string key = "RoleInfoMason">
 		<value> You are a Mason. If there is another, you will know who he is; otherwise, you are just another villager. \n\nTeam: Village. \n\nConversions: \nVampires: Always converts. \nZombies: Has 30% infection, 25% survival and 45% become. </value>
 	</string>
-	<string key = "RoleInfoCupid">
-		<value> You are Cupid. Sent to Earth with only your underwear, a bow and two arrows, you must choose two players who will love each other for eternity. If one dies, the other will die of grief. \n\nTeam: Village. \n\nConversions: \nVampires: Always converts. \nZombies: Have 30% infection, 25% survive and 45% to become. </value>
-	</string>
 	<string key = "RoleInfoDoppelganger">
 		<value> You are a doppelgänger (double). Legend has it that your ancestors were shapeshifters, and they could choose any shape they wanted. You have inherited some of its abilities. Choose a player; when he dies, you will keep his role. \n\nTeam: It depends on the choice, you will know it when the player dies. \nYOU MUST REVEAL AT THE START OF THE GAME \n\nConversions: \nVampires: Immune until you get a role. \nZombies: 50% infected or survivable. </value>
 	</string>
@@ -3466,9 +3446,6 @@
 	<string key = "RoleInfoflautista">
 		<value> The piper is a lonely role. Each night he will be able to enchant two players with an ancient melody. You win if you enchant all alive players. Some creatures won't find you at home, but watch out for the serial killer. \n\nTeam: None. \n\nConversions: \nVampires: \n-If you visit: Enchant vampire. \n-If they visit you : They can't find it at home. \nZombies: \n-If you visit: They only love the zombie. \n-If they visit you: They won't find you at home. </value>
 	</string>
-	<string key = "RoleInfotimetraveler">
-		<value> You are the time traveler, you must convince 4 villagers to help you rebuild your machine. Bad roles won't help you so they won't count as helpers for your purpose. \n\nTeam: Village. \n\nConversions: \nVampires: \n-If you visit: It doesn't detect them. \n-If they visit you : It has a 25% death, if it does not die there is a 33% conversion. \nZombies: \n-If you visit: Survive without knowing it is a zombie. \n-If they visit you: There is a 30% of being infected or to survive. </value>
-	</string>
 	<string key = "RoleInfozombi">
 		<value> You are a zombie. You cannot speak in games as zombies do not speak. All your choices are random as you lack intelligence and reason. If you bite someone they will convert the next night due to the infection, another will not be so lucky and they will convert immediately since you will eat more of them. \n\nTeam: Zombies. \n\nConversions: \nVampires: Zombie death in any case (visits and visits you). </value>
 	</string>
@@ -3592,8 +3569,8 @@
 		<value> {0} thought, or so we want to believe, that a hunter's brain could be tasty, it was not what he expected since he was left without a head. </value>
 	</string>
 	<string key = "donation">
-		<value> PAYPAL \n Indicate in the transfer note "DONATION FOR NARRADOR" and username to avoid confusion with other types of transfers. Uncheck the buyer protection box if it appears as a donation. \n The link is the following: \n http://paypal.me/tmogeid \n \n CRYPTO \n If you want to donate cryptocurrencies it can be done by Coinbase to the user's email tmogeid@gmail.com \n For other wallets or to send necessary codes (depending on the currency) contact privately with @tmogeid </value>
-	</string>
+	<value>---PAYPAL---\n Write on transfer note "DONATION TO NARRADOR" and your username to avoid confusion with other types of transfers. Mark off the buyer's protection box if it appears that it is a donation. \n\n---CRYPTOCURRENCY---\n If you want to donate cryptocurrencies it can be done by Coinbase to the user's email: tmogeid@gmail.com \n\n---TRANSFERS---\n It is also possible to make donations by means of an international transfer, from your bank app, bizum or moneygram (where transfers between cards are free) and similar. \n\n For any questions or clarification, please contact: @tmogeid</value>
+</string>
 	<!-- cadejo -->
 
 	<string key = "RoleInfocadejo">
@@ -4176,5 +4153,38 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 	<!-- 0 - player name -->
 	<value>That's weird, {0} wasn't home!</value>
 	</string>
-	
+
+	<string key="Abouttimetraveler">
+		<value>The Time Traveler is a genius from the future, a future where they were alone because of the massacre that happened in the village. Their purpose is to avoid what happened before by going back in time and changing the past, for that they must convince the third part of the village to help them rebuild the time machine, since in the first attempt, which was a test, the machine appeared on the edge of a cliff and was destroyed in the fall. If the Time Traveler visits bad roles, they will accept it too, but they won't help, that is, they won't know who the bad guys are and who the good guys are. \n. MUST NOT CLAIM YOUR REAL ROLE IN THE GAME unless they are in danger of death, for example if the herbalist poisons them. They're also not a vision role, so it can't be used to say that someone is safe or not if they reveal themselves, because it's not possible to know if the visitors are good or not.</value>
+	</string>
+	<string key="tttravelYou">
+		<value>A very strange character came to your house to propose a very crazy idea, they say they came from the future. Maybe it was their way of talking or their ideas, but you've decided to accept their proposal and you've decided to help them make a time machine they need. \n\n YOU MUST AVOID SAYING THAT THEY VISIT YOU, this must be kept secret for everyone's sake.</value>
+	</string>
+	<string key="RoleInfotimetraveler">
+		<value>
+			You are the Time Traveller, you must convince the third part of the village to help you rebuild your machine. Bad roles won't help you, so they won't count as helpers for your purpose.
+			\n YOU MUST AVOID TELLING YOUR ROLE, at least until complete time machine, because the only exception that you can reveal your role is in case you are in danger of death, in case the herbalist gives you poison, in the last case, you cannot use use this role to tell if other players are safe or not.
+			\n\nTeam: Village.\n\nConversions:\n Vampires:\n-If you visit: It does not detect them.\n-If they visit you: It has a 25% death rate, if it does not die there is a 33% conversion .\n Zombies:\n-If you visit: Survive without knowing that you are a zombie.\n-If you are visited: There is a 30% chance of being infected or surviving.
+		</value>
+	</string>
+	<string key="CupidChosen">
+		<value>You have been struck by love. {0}'s memory will never fade in your heart. If one of you dies, the other one will die out of sorrow. If while both are alive, one of them wins, the other wins too.\nThe Cupid is {1}, they will also win if you win as a pair, but you should get rid of them when victory is near, if your teams are different then there will be no problem as in the end you can kill them.</value>
+		<value>You have been struck by love. You're madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win.\nThe Cupid is {1}, they will also win if you win as a pair, but you should get rid of them when victory is near, if your teams are different then there will be no problem as in the end you can kill them.</value>
+	</string>
+	<string key="AboutCupid">
+		<value>
+			Love is in the air. As Cupid, you will choose two players at the start of the game. These two players will become madly in love! If one of them dies, the other will die of sorrow :(
+			\nNote: Lovers will meet, you will team up with them to win as a couple, but you must always die before them for that to happen, if the couple dies you join the village for victory.
+			\nIf the lovers are the only two survivors, they will win, regardless of their team. If they are on different teams (Villager + Werewolf), and one team wins (werewolf), the lover (villager), will also win.
+			\nIf both are alive, and at least one of the lovers is on the winning team, then both will win.
+		</value>
+	</string>
+	<string key="RoleInfoCupid">
+		<value>
+		You are Cupid. Sent to Earth with only underpants, a bow and two arrows, you get to choose two players to love each other for eternity. If one of them dies, the other one dies of sorrow.
+		You will join them so they can win as a pair, but for that to happen only they must survive at the end of the game, which means they will have to kill you so that they are the only survivors in case they are close to winning as a pair.\n\nTeam: Lovers or Village if the pair dies.\n\nConversions:\n Vampires: Always converts.\n Zombies: Has 30% infection rate, 25% chance to survive, and 45% chance to convert.</value>
+	</string>
+	<string key="CupidChosen2">
+		<value>The pair is {0} and {1}.</value>
+	</string>
 	</strings>
