@@ -4095,8 +4095,37 @@
 		<value>La pareja son {0} y {1}.</value>
 	</string>
 
-
 	<string key="confictplayer">
 		<value>{0} no puedes unirte a esta partida debido a conflictos con alguno de los jugadores.</value>
+	</string>
+
+	<!-- noviembre -->
+	
+	<string key="pointsum">
+		<value>\n\nResumen de puntos de la partida:\n</value>
+	</string>
+	<string key="pointbonus">
+		<value> puntos acumulados por tu buen juego.\n</value>
+	</string>
+	<string key="pointbadbonus">
+		<value> puntos restados por malas acciones.\n</value>
+	</string>
+	<string key="pointsrole">
+		<value> puntos asignados a tu rol cuando pierde o gana.\n</value>
+	</string>
+	<string key="pointbigg">
+		<value> puntos de bonificación por masiva.\n</value>
+	</string>
+	<string key="psumendinf">
+		<value>\nLa totalidad de estos puntos es multiplicada por un factor que depende de tu rango:\n🌑x6 🌘x5 🌗x4 🌖x3 🌕x2 🔅x1'5 🔆x0'8\n🥉x0'6 🥈x0'5 🥇x0'4 💎x0'2 💎👉🏆x0`17 🏆x0'1
+		</value>
+	</string>
+	<string key="psumendinfb">
+		<value>\nLa totalidad de estos puntos es multiplicada por un factor que depende de tu rango:\n🌑x12 🌘x10 🌗x8 🌖x6 🌕x4 🔅x3 🔆x1'6\n🥉x1'2 🥈x1 🥇x0'8 💎x0'6 💎👉🏆x0'51 🏆x0'3
+		</value>
+	</string>
+	<string key="pointlost">
+		<value> puntos de penalización por perder (depende de tu rango).\nPenalizaciones:\n🌑/🌘/🌗/🌖/🌕/🔅-0 🔆-1 🥉-2	\n🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6
+		</value>
 	</string>
 </strings>
