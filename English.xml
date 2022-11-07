@@ -4187,4 +4187,58 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 	<string key="CupidChosen2">
 		<value>The pair is {0} and {1}.</value>
 	</string>
+
+	<!-- modos pro -->
+
+	<string key="PlayerStartedbonuspro">
+		<!-- 0 - Player name -->
+		<value>{0} started a game in mode BonusPro! You can only join if you have gold rank or with more than 1000 games played. Noobs are not allowed 🤣</value>
+		<value>¡{0} started a new BonusPro game! You can only join if you have gold rank or with more than 1000 games played. Veterans only.</value>
+	</string>
+	<string key="PlayerStartedRankedpro">
+		<!-- 0 - Player name -->
+		<value>A RankedPro game has started by {0}! You can only join if you have gold rank or with more than 1000 games played. Noobs are not allowed 🤣</value>
+		<value>{0} has started a new RankedPro game! You can only join if you have gold rank or with more than 1000 games played. Veterans only.</value>
+	</string>
+	<string key="nonobsranked">
+		<!-- 0 - target's name -->
+		<value>{0} you will not be able to play games in this mode until you have played at least 1000 games or until you reach gold rank (🥇).</value>
+	</string>
+	<string key="nonobsranked2">
+		<!-- 0 - target's name -->
+		<value>You will not be able to start games in this mode until you have played at least 1000 games or until you reach gold rank (🥇).</value>
+	</string>
+	<string key="groupnorank">
+		<value>Unofficial groups are not allowed to play in the mode pro, all other modes are still available.</value>
+	</string>
+
+	<!-- noviembre -->
+
+	<string key="pointsum">
+		<value>\n\nSummary of game points:\n</value>
+	</string>
+	<string key="pointbonus">
+		<value> points earned for your good game.\n-</value>
+	</string>
+	<string key="pointbadbonus">
+		<value> points deducted for bad actions.\n</value>
+	</string>
+	<string key="pointsrole">
+		<value> points assigned to your role when you lose or win.\n</value>
+	</string>
+	<string key="pointbigg">
+		<value> big game bonus points.\n</value>
+	</string>
+	<string key="psumendinf">
+		<value>\nThe totality of these points is multiplied by a factor that depends on your rank:\n🌑x6 🌘x5 🌗x4 🌖x3 🌕x2 🔅x1'5 🔆x0'8\n🥉x0'6 🥈x0'5 🥇x0'4 💎x0'2 💎👉🏆x0`17 🏆x0'1
+		</value>
+	</string>
+	<string key="psumendinfb">
+		<value>\nThe totality of these points is multiplied by a factor that depends on your rank:\n🌑x12 🌘x10 🌗x8 🌖x6 🌕x4 🔅x3 🔆x1'6\n🥉x1'2 🥈x1 🥇x0'8 💎x0'6 💎👉🏆x0'51 🏆x0'3
+		</value>
+	</string>
+	<string key="pointlost">
+		<value> penalty points for losing (depends on your rank).\n\nPenalties:\n🌑/🌘/🌗/🌖/🌕/🔅-0 🔆-1 🥉-2  \n🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6
+		</value>
+	</string>
 	</strings>

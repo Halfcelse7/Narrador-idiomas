@@ -4105,7 +4105,7 @@
 		<value>\n\nResumen de puntos de la partida:\n</value>
 	</string>
 	<string key="pointbonus">
-		<value> puntos acumulados por tu buen juego.\n</value>
+		<value> puntos acumulados por tu buen juego.\n-</value>
 	</string>
 	<string key="pointbadbonus">
 		<value> puntos restados por malas acciones.\n</value>
@@ -4125,7 +4125,7 @@
 		</value>
 	</string>
 	<string key="pointlost">
-		<value> puntos de penalización por perder (depende de tu rango).\nPenalizaciones:\n🌑/🌘/🌗/🌖/🌕/🔅-0 🔆-1 🥉-2	\n🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6
+		<value> puntos de penalización por perder (depende de tu rango).\n\nPenalizaciones:\n🌑/🌘/🌗/🌖/🌕/🔅-0 🔆-1 🥉-2	\n🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6
 		</value>
 	</string>
 </strings>
