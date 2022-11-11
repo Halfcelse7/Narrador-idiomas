@@ -3048,9 +3048,6 @@
   <string key = "NHKillszEnd">
     <value>{0} solo tiene que cortarle la cabeza a {1} para que la aldea quede limpia de zombis.</value>
   </string>
-  <string key = "vampKillszEnd">
-    <value>{0} prefería sangre, pero al ver que {1} la tiene podrida, acaba con él arrancándole la cabeza.</value>
-  </string>
 <string key = "zeatguard">
     <value>Mientras te proponías comer un delicioso cerebro, otro apareció antes. Convertiste a un guardia en zombi. </value>
   </string>
@@ -4127,5 +4124,173 @@
 	<string key="pointlost">
 		<value> puntos de penalización por perder (depende de tu rango).\n\nPenalizaciones:\n🌑/🌘/🌗/🌖/🌕/🔅-0 🔆-1 🥉-2	\n🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6
 		</value>
+	</string>
+	
+<!-- susurrador -->
+
+  <string key="susurrador">
+    <value>el susurrador 🤫</value>
+  </string>
+  <string key="RoleInfosusurrador">
+    <value>Eres un Susurrador 🤫 : Con tanto tormento por los horrores de la aldea, un día descubriste que disfrazado con pieles de zombi estos no solo no te atacaban, sino que eras capaz de guiarlos. Cada noche tratas de convertir a alguien en zombi para aumentar la horda. En cada linche guías a los zombis hacia tu elección, aun que voten a otra persona tu voto es el que cuenta, vota rápido ya que si vota un zombi antes que tú no podrás linchar. \n\nTeam: Zombis \n\nConversiones: \n Vampiros: \n-Si visitas o te visitan: Te decapitan por confundirte con un zombi. \n Lobos: \n-Si visitas: No encuentras a nadie ya que buscas personas.\n-Si te visitan: Te confunden con un zombi y sobrevives. </value>
+  </string>
+  <string key="aboutsusurrador">
+    <value>El Susurrador 🤫 : Con tanto tormento por los horrores de la aldea, un día descubrió que disfrazado con pieles de zombi estos no solo no lo atacaban, sino que era capaz de guiarlos. Cada noche trata de convertir a alguien en zombi para aumentar la horda. En cada linche guía a los zombis hacia su elección, aun que voten a otra persona tu voto es el que cuenta, vota rápido ya que si vota un zombi antes que tú no podrás linchar. Como está camuflado es capaz de despistar a los lobos y a veces incluso al cazador de la noche y a la sk. \n\nTeam: Zombis \n\nConversiones: \n Vampiros: \n-Si visitas o te visitan: Te decapitan por confundirte con un zombi. \n Lobos: \n-Si visitas: No encuentras a nadie ya que buscas personas.\n-Si te visitan: Te confunden con un zombi y sobrevives. </value>
+  </string>
+  <string key = "doptranssus">
+    <value>Una buena noticia es que el susurrador ha muerto, la no tan buena es que ha sido tu elección a copiar. </value>
+  </string>
+  <string key = "necrotranssus">
+    <value>Has elegido convertirte en el nuevo líder de la horda de zombis usando el cuerpo del susurrador.</value>
+  </string>
+  <string key = "susseewolf">
+    <value>Mientras guías a tu horda esta noche notas algo acercarse, es {0} en forma de bestia, gracias a tus pieles de zombi lo despistas haciéndolo pensar que eres uno más de la horda.</value>
+  </string>
+  <string key = "HunterFindsus">
+    <value>No era precisamente lo que andabas buscando, pero {0} era un zombi, algo menos de escoria en la aldea, lo raro es que no parece estar tan podrido.</value>
+  </string>
+  <string key = "cnxsus">
+    <value>Esta noche vas a comprobar si {0} no es una criatura de la noche, has llegado tarde, ya es todo un zombi, te aproximas para asestarle el golpe final en su cabeza cuando !TE HA ESQUIVADO!, y no solo eso, ¡ERA UN CONTRATAQUE!, el cazador esta noche se volvió la presa del susurrador. </value>
+  </string>
+  <string key = "cnxsus2">
+    <value>mientras paseas con tu querida horda ves a {0} acercarse a ti, notas sus intenciones de matarte, te está confundiendo con un zombi, no dejas escapar esta gran oportunidad y le contraatacas por sorpresa cuando intenta acabar contigo.</value>
+  </string>
+  <string key = "HarlotVisitsus">
+    <value>Esta noche tu cliente tiene una careta muy peculiar, no le das importancia y crees que es un degenerado o algo por el estilo, la mala noticia no es que no te haya pagado, si no que decidió acabar con tu vida para darle otra nueva, el susurrador te añadió a su colección de zombis. </value>
+  </string>
+  <string key = "harlotinsus">
+    <value>La ramera decidió atenderte esta noche, como ha visto tus pieles, mejor te ocupas de que se quede para siempre en tu horda.</value>
+  </string>
+  <string key = "polixsus">
+    <value>{0} pretendía interrogarte esta noche, no tienes tiempo para ocuparte de él y esconder a tus zombis, mejor lo añadimos a la horda.</value>
+  </string>
+  <string key = "polixsus2">
+    <value>Cuando estás por comenzar el interrogatorio de {0} notas un olor a podrido, cuando giras la vista para ver de que se trata..... olvídate de interrogatorios, ahora solo quieres cerebros.</value>
+</string>
+  <string key = "chemxsus">
+<value>Hoy toca apostar tu vida con {0}, nunca imaginarías que sería tu última apuesta, el susurrador prefirió apostar por tu hambre de cerebros.</value>
+  </string>
+  <string key = "chemxsus2">
+    <value>{0} aparece por tu casa justo antes de ponerte la careta, pretende que hagas una apuesta con él a ver quien sale vivo, decides mejor que sea un zombi más de tu horda.</value>
+  </string>
+  <string key = "guardinsus">
+    <value>Quién te diría que esta noche a quien protegías era el susurrador, en un momento que le diste la espalda para revisar el terreno llegó su momento para apuñalarte y dejar que te conviertas. </value>
+  </string>
+  <string key = "bomberodinsus">
+    <value>Mientras te ocupabas de proteger de lobos, el susurrador se ocupaba de añadirte a la horda, debías protegerte mejor de él. </value>
+  </string>
+  <string key = "herbxsus">
+    <value>Voy a envenenar a {0} que huele mal, eso pensabas, pero su olor era por algo mas siniestro, era el susurrador, ahora tus hierbas tienen más vida que tú. </value>
+  </string>
+  <string key = "herbxsus2">
+    <value>{0} quiso hacerte una visita, ella pensaba que no te ibas a dar de cuenta, pero la viste echar algo raro en tu bebida. Realmente da igual, la ibas añadir a tu grupito de zombis hiciera lo que hiciera.</value>
+  </string>
+  <string key="vkillsuspublic">
+    <value>El cuerpo de {0} es encontrado sin cabeza en una callejuela, está rodeado de unas pieles raras. Parece que el susurrador fue confundido por un zombi.</value>
+  </string>
+  <string key = "NHunterKilledsus">
+    <value>{0} aparece decapitado en una de las calles de la aldea, el Cazador de la Noche pensaba que era un zombi y por eso no dudó en acabar con él cortándole la cabeza, la sorpresa fue cuando vieron que solo estaba disfrazado. </value>
+  </string>
+  <string key="SerialKillerKilledsus">
+    <value>El susurrador no tuvo mucha suerte esta noche con su víctima, la asesina en seria prefiere seguir asesinando en vez de comer cerebros ¡{0} fue asesinado a sangre fría!</value>
+  </string>
+  <string key="vampirKilledsus">
+    <value>{0} parece que subestimó a su víctima, nunca imaginó encontrarse con un vampiro y como aborrecen a los zombis, al ser confundido con uno lo dejaron sin cabeza.</value>
+  </string>
+  <string key="NHunterKilledsusxvisit">
+    <!-- 0 - target's name -->
+    <value>{0} quiso probar suerte a ver si podía añadir al Cazador de la Noche a su colección, pero la suerte no estuvo de su lado.</value>
+  </string>
+  <string key="SerialKillerKilledz">
+    <!-- 0 - target's name -->
+    <value>Algún aldeano dio un aviso de que el cuerpo de {0} estaba colgado de una farola sin cabeza, en el suelo había una firma muy peculiar hecha con su sangre que decía SK, ahora se le dio por firmar a esta loca.</value>
+  </string>
+  <string key="vampirKilledz">
+    <!-- 0 - target's name -->
+    <value>{0} intentó atacar a un vampiro, este entendió de que se trataba, no hubo mas remedio que ir a por su cabeza y quedarse sin sangre para la cena, {0} era un zombi.</value>
+  </string>
+  <string key="susKillsHunterEnd">
+    <value>{1} sabe que en el pueblo solo queda {0}, así que aprovecha mientras {0} está afilando las puntas de sus flechas para dar fin a su vida, {0} acabó siendo un zombi más en la colección del Susurrador.</value>
+  </string>
+  <string key="HunterKillssusEnd">
+    <value>
+      Sabiendo que solo quedaba {0} en el pueblo, {1} intenta matarlo por sorpresa, pero {0} ya olía sus pieles a varios metros y se las arregla para hacer que {1} se lleve un tiro entre ceja y ceja. ¡Los aldeanos han ganado!
+    </value>
+  </string>
+  <string key="HunterKillszEnd">
+    <value>
+      Como solo quedaba {0} en el pueblo, {1} intenta comerse su cerebro, pero {0} ya escuchaba sus gruñidos desde el otro lado de la calle y en cuanto se acerca le clava el hacha en medio de su cabeza. ¡Los aldeanos han ganado!
+</value>
+  </string>
+  <string key = "bestKillszEnd">
+    <value>{0} acaba solo con {1} en la aldea, está claro que un zombi no tiene nada que hacer. ¡La manada ha ganado!</value>
+  </string>
+<string key = "susend">
+    <value>{0} se ha quedado solo en la aldea, al ver que ni zombis hay para entretenerse, cae en tal depresión que lo incita a suicidarse.</value>
+  </string>
+  <string key = "Asksuskill">
+    <value>¿A quién quieres añadir a tu horda esta noche?</value>
+  </string>
+  <string key = "suslider">
+    <value>Hay un zombi que parece listo, se encargará del linche a ver cómo acaba esto.\n\n NO LINCHES ANTES DE {0}\nDebes esperar a su linche primero o él no podrá guiar a los zombis.</value>
+  </string>
+  <string key = "guartransxsus">
+    <value>Mientras vigilas los alrededores te encuentras con un zombi, cuando vas a deshacerte de él, de repente saca un cuchillo y te lo clava en el pecho.</value>
+  </string>
+  <string key = "transguard">
+    <value>Cuando te diriges a la casa de tu victima te encuentras que hay alguien protegiéndolo, que mejor momento para añadir a alguien a tu colección haciendo el truco del zombi falso.</value>
+  </string>
+  <string key = "targettransxsus">
+    <value>Esta noche el susurrador decidió que serás un zombi mas de su horda.</value>
+  </string>
+  <string key = "sustranstarget">
+    <value>Has conseguido un zombi nuevo para tu horda.</value>
+  </string>
+  <string key = "marionetBlockedsus">
+    <value>Que raro, creías que añadías un zombi mas a tu horda, pero nunca se convirtió, parecía una persona de trapo. </value>
+  </string>
+  <string key = "susskilled">
+    <value>Mira tu por donde, la asesina no quiso que siguieras aumentando tu horda y te hizo una visita sorpresa.</value>
+  </string>
+  <string key = "skxsus">
+    <value>Que pena, solo es un zombi, vas a clavarle el cuchillo por la espalda pero sorprendentemente te esquiva y te clava un pedazo de cristal en el cuello. Era el susurrador, ahora serás otro zombi más de su horda.</value>
+  </string>
+  <string key = "skinsus">
+    <value>Escuchaste un ruido raro, de repente oyes:\n\n"Que pena, solo es un zombi."\n\n¡ES LA ASESINA EN SERIE!, mantienes la calma, en cuanto se acerca a tus espaldas te das la vuelta y le clavas un pedazo de cristal que tenías a mano. quien diría que añadirías a la asesina en serie a tu horda, que suerte.</value>
+  </string>
+  <string key = "susxvamp">
+    <value>Increíble, te encuentras un vampiro, al parecer no aguantan a los zombis, te confunde con uno y te arranca la cabeza.</value>
+  </string>
+  <string key = "susxsk">
+    <value>¡QUEEE!, viene a por mi corriendo con un cuchillo, de esta no me salvo ni disfrazado de zombi.</value>
+  </string>
+  <string key = "susxsk2">
+    <value>Ves a un zombi cerca de tu casa, curiosamente lo ves guardarse un machete, ¿desde cuándo hacen eso? acabemos con él antes de que se vuelva mas listo.</value>
+  </string>
+  <string key = "sustranssk">
+    <value>Hay un zombi cerca de tu casa, vas a darle fin a su penosa existencia, pero saca un machete, ¿un zombi con machete?, con tu cuchillito no puedes hacer nada contra un machete y ya te tiene a su alcance, que zombi mas listo piensas mientras que da machetazos hasta aburrirse.</value>
+  </string>
+  <string key = "sustranssk2">
+    <value>Justo ves a tu victima llegando a casa, parece que no tiene miedo ni aun que te viera con tus pieles de zombi, se dirige hacia ti con un cuchillo, por suerte hoy decidiste salir de casa con un machete, de esta no se salva esta loca.</value>
+  </string>
+  <string key = "susdeadxcn">
+    <value>Que raro, hay un zombi cerca de mi casa, no sabe donde se mete, es hora de cortar cabezas.</value>
+  </string>
+  <string key = "susdeadxcn2">
+    <value>No parecía estar en casa, hasta que viste todo girar a tu alrededor, realmente no era que todo giraba, sino que tu cabeza rodaba después de ser cortad por el Cazador de la Noche.</value>
+  </string>
+<string key = "zeatfire">
+    <value>Pensabas que {0} era solo un perrito, pero te equivocabas, se hizo un churrasco contigo.</value>
+  </string>
+  <string key = "fwKilledzvisit">
+    <value>Se nota que los zombis carecen de inteligencia,{0} se convirtió en una fogata andante por cortesía del lobo de fuego.</value>
+  </string>
+<string key = "fwKilledsusvisit">
+    <value>{0} se volvió una montaña de cenizas, eso le pasa por andar curioseando entre las cosas del lobo de fuego.</value>
+  </string>
+
+
+	<string key = "vampKillszEnd">
+		<value>{0} prefería sangre, pero al ver que {1} es un zombi, acaba con él arrancándole la cabeza.</value>
 	</string>
 </strings>
