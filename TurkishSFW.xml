@@ -110,12 +110,12 @@
   </string>
   <string key = "ApprenticeNowSeer">
     <!-- 0 - gözcü adı -->
-    <value> {0} Gözcüydü. En sevdiği çırağı olarak, yeni Gözcü olma sırası sende. </value>
+    <value> {0} Gözcüydü. En sevdiği kalfası olarak, yeni Gözcü olma sırası sende. </value>
   </string>
   <string key = "BeholderNewSeer">
     <!-- 0 - çırak adı -->
     <!-- 1 - gözcü adı -->
-    <value> {0} çıraktı, şimdi yeni Gözcü olma sırası {1} 'de. </value>
+    <value> {0} kalfaydı, şimdi yeni Gözcü olma sırası {1} 'de. </value>
   </string>
   <string key = "SeerSees">
     <!-- 0 - oyuncu adı -->
@@ -179,7 +179,7 @@
   <string key = "LynchKill">
     <!-- 0 - oyuncu adı -->
     <!-- 1 - oyuncu rolü -->
-    <value> Köylüler şüphe içinde oylarını kullandılar. {0} öldü. {1}. </value>
+    <value> Oy kullanma süresi doldu ve sandıklar kapatıldı. Oylarını şüphe hırs içinde kullanan köylüler oy çoğunluğu ile idam sehpasına çıkartmak için {0}'i seçti. {0} öldü. {1}. </value>
   </string>
   <string key = "LynchTie">
     <value> Linç için tam bir karara varılamadı. Herkes korku ve endişe içinde evinlerine geri dönüyor...</value>
@@ -224,7 +224,7 @@
     <value> Köylüler sabah kasabanın merkezinde toplanarak rahat bir nefes alıyorlar. Görünüşe göre gece vakti herhangi bir tehlike teşkil edecek aksiyon yaşanmadı. </value>
   </string>
   <string key = "CursedBitten">
-    <value> Kurt adamlar tarafından ısırıldın. Lanetli olduğun için kurt adama dönüştün. </value>
+    <value> Kurt adamlar sana saldırdı ancak ölmedin. Hemen sevinme çünkü vücudundaki lanet yüzünden evrim geçirdin ve bir kurt adama dönüştün. Artık sen de sürünün bir parçasısın ve saf değiştirmenin vakti geldi. </value>
   </string>
   <string key = "WolfTeam">
     <!-- 0 - takım arkadaşı isimleri -->
@@ -448,7 +448,7 @@
   </string>
   <string key = "MasonEaten">
     <!-- 0 - ölü adamın adı -->
-    <value> Herkes ayağa kalktığında, {0} 'in cesedini bir taş yığınının altında gömülü bulurlar, kanı her yere sıçramış. Masonlarınızdan biri öldü! </value>
+    <value> Gündüz vakti köylüler meydanda toplandıklarında bir sessizlik sezdiler. Herhangi bir kazı çalışması yada inşaat aracı sesi yoktu. Şantiyeyi kontrole gittiklerinde betonların altında {0}'in cesedini bulurlar. Kurtlar masonlarınızdan birini katletti. </value>
   </string>
   <string key = "MasonTeam">
     <value>  Masonlar: {0} </value>
@@ -600,7 +600,7 @@
     <!-- 0 - avcı -->
     <!-- 1 - hedefin adı -->
     <!-- 2 - hedefin rolü -->
-    <value>Ölüm, {0} yere düşüyor... düşerken {1}’i alnının çatından vuruyor. {2}</value>
+    <value> Ölüm kapıya dayanır ve {0} son nefesini vermek üzere. Ölmeden hemen önce tüfeğine davranır, süngüsünü çeker ve {1}'e ateş ederek onu da yanında götürür. {2}</value>
   </string>
   <string key = "HunterShotWolfMulti">
     <!-- 0 - hedefin adı -->
@@ -748,10 +748,10 @@
     <value> Bir rol seçemedin, bu yüzden senin için {0} 'yi seçtim </value>
   </string>
   <string key = "Won">
-    <value> Kazandı </value>
+    <value> Galibiyet </value>
   </string>
   <string key = "Lost">
-    <value> Kaybetti </value>
+    <value> Mağlubiyet </value>
   </string>
   <string key = "IdleCount">
     <!-- 0 - oyuncunun adı -->
@@ -824,7 +824,7 @@
   <string key = "AboutHunter">
     <value>
       İntikam dolu mutlu bir tetikçi, kindar bir oyuncu. Avcı olarak kendini tutman lazım. Diğerleri seni ziyarete gelirse kendilerini ölü bulabilirler. Paranoyan devreye girer ve vurursun. Kurtlar sana saldırırsa birini de kendinle beraber götürme şansın var. Öbür türlü, ölürken birini vurma şansın var.
-      Not: Kurt saldırıları için şansın %30’dan başlıyor. Sadece bir Kurt varsa Avcı’nın Kurt’u öldürme şansı %30. Her bir ek Kurt için %20 eklenir. (2 Kurt = %50, 3 = %70 vs.) Öte yandan, birden fazla Kurt varsa birini öldürsen bile sen de öleceksin.
+      Not: Kurt saldırıları için şansın %30’dan başlıyor. Sadece bir Kurt varsa Avcı’nın Kurt’u öldürme şansı %50. Her bir ek Kurt için %25 eklenir. (2 Kurt = %75, 3 = %95 vs.) Öte yandan, birden fazla Kurt varsa birini öldürsen bile sen de öleceksin.
       Vampirler seni dönüştürmeye çalışırsa %50 kaybetme şansları var. Kaybederlerse %50 şansla onlardan birini öldüreceksin!
     </value>
   </string>
@@ -1932,7 +1932,7 @@
   </string>
 
   <string key = "SKStabbedYou">
-    <value> Ohhh Olamazzzz Hayırrr! Seri Katil seni kesip biçti... </value>
+    <value> Gece vakti seni omzundan bir kadının çektiğini fark ettin. Adamım boşa ümitlenme yancı değil o... En azından ateşli bir seri katil tarafından katledildin. </value>
   </string>
   <string key = "PyroBurnedYou">
     <value> YANGINNN! Alevler içinde uyanıyorsun ama artık çok geç. Öldün. </value>
@@ -2606,8 +2606,8 @@
 
   <string key = "LoverDiedbeauty">
     <value>
-      İlginç... Afet sevgilisine pek de düşkün değildi ve aşk onu ölümden kurtardı. 😱🤭😲
-    </value>
+		İlginç... Afet sevgilisine pek de düşkün değildi ve aşk onu ölümden kurtardı. 😱🫣🤭🫢🫠
+	</value>
   </string>
   <string key = "AboutBeauty">
     <value> Sen Afetsin, köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana, hatta kurtlar bile sana aşık olacak. Aşıkların kazanırsa sende kazanırsın. Seni ziyaret edenler linç edilerek ölürse hayatta kalabilirsin. Son ziyaretçin kazanırsa rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, seni öldürebilir ve sana aşık olmayacak. </value>
@@ -2718,11 +2718,11 @@
   </string>
   <string key = "wkilledxcn">
     <!-- 0 - cn adı -->
-    <value> Ne kadar şanssızsın, {0} artık ormanda koşmaman gerektiğine karar verdi ve seni avladı. Öldün... </value>
+    <value> Gece vakti sürünle avlanmaya giderken aniden karşına bir silüet dikildi. Aniden keskin bir kılıç çekti ve seni doğradı. Kelle Avcısı {0} seni avladı ve sürünün geri kalanı için yine gelecek! </value>
   </string>
   <string key = "vkilledxcn">
     <!-- 0 - cn adı -->
-    <value> Opsss Olamazzz! Kelle Avcısı'nın seni bulacağını kim söyleyebilirdi ki, {0} seni kan içmeyi bırakman gerektiği konusunda harika bir fikir verdi. </value>
+    <value> Kana olan susuzluğun seni o kadar kör etti ki, masum bir köylünün kanıyla beslenirken Kelle Avcısı {0} ahşap kazığı kalbine doğru sapladı. Cesedin hızlıca kurudu ve acı içerisinde öldün. </value>
   </string>
 
 
@@ -3175,7 +3175,7 @@
     </value>
   </string>
   <string key = "rules">
-    <value> Yeni başlayanlar için kılavuz: \n https://narradorbot.com/guia-para-novatos/ \n\nGenel bot kuralları (dereceler için uyulması zorunludur): \n https://narradorbot.com/reglas-rankeds \n\nDereceli olarak oynayabilmek için bir grubun uyması gereken kurallar ve koşullar: \n https://narradorbot.com/narrador/grouplist </value>
+    <value> Yeni başlayanlar için kılavuz: \n https://narradorbot.com/guia-para-novatos/ \n\nGenel bot kuralları (dereceler için uyulması zorunludur): \n https://narradorbot.com/reglas-rankeds \n\nDereceli olarak oynayabilmek için bir grubun uyması gereken kurallar ve koşullar: \n https://narradorbot.com/narrador/grouplist \n\nHerhangi bir soru, öneri, çeviri hatası veya hata bildirmek için @Halfcelse ile iletişime geçin.</value>
   </string>
   <string key = "groupinfo">
     <value> Lütfen komuttan sonra grup kimliğini kullanarak tekrar deneyin. </value>
@@ -3293,7 +3293,7 @@
     <value> Zombi köyünü temizlemek için {0} sadece {1} 'in kafasını kesti. </value>
   </string>
   <string key = "vampKillszEnd">
-    <value> {0} kanı tercih etti, ancak {1} kanı çürüttüğünü görünce, zombinin kafasını koparmasıyla işlemi bitirdi. </value>
+    <value> {0} kanı tercih etti. Ancak {1} zombiydi ve kanı çürüktü. {0} onun kafasını koparmayı tercih etti. </value>
   </string>
   <string key = "zeatguard">
     <value> Lezzetli bir beyin yemeye giderken, önce bir başkası çıktı. Bir muhafızı zombiye çevirdin. </value>
@@ -4379,13 +4379,13 @@
 	<!-- noviembre -->
 
 	<string key="pointsum">
-		<value>\n\nOyun puanlarının özeti:\n</value>
+		<value>\n\n Oyun puanlarının özeti:\n</value>
 	</string>
 	<string key="pointbonus">
-		<value> İyi performansın için kazandığın puan.\n-</value>
+		<value> İyi performansın için kazandığın puan.\n</value>
 	</string>
 	<string key="pointbadbonus">
-		<value> Gösterdiğin kötü performans için aldığın ceza puanı.\n</value>
+		<value> Gösterdiğin kötü performans için aldığın ceza puanı.\n -</value>
 	</string>
 	<string key="pointsrole">
 		<value> Rolüne bağlı olarak Kazandığın/Kaybettiğin için elde ettiğin puan.\n</value>
@@ -4394,12 +4394,179 @@
 		<value> Büyük oyunda (30+ oyunculu oyunlar) yer aldığın için kazandığın ekstra puan.\n</value>
 	</string>
 	<string key="psumendinf">
-		<value>\nKazandığın için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır:\n 🌑x6 🌘x5 🌗x4 🌖x3 🌕x2 🔅x1'5 🔆x0'8 🥉x0'6 🥈x0'5 🥇x0'4 💎x0'2 💎👉🏆x0`17 🏆x0'1</value>
+		<value>\n Kazandığın için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır:\n 🌑x6 🌘x5 🌗x4 🌖x3 🌕x2 🔅x1'5 🔆x0'8 🥉x0'6 🥈x0'5 🥇x0'4 💎x0'2 💎👉🏆x0`17 🏆x0'1</value>
 	</string>
 	<string key="psumendinfb">
-		<value>\nKazandığın için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır:\n 🌑x12 🌘x10 🌗x8 🌖x6 🌕x4 🔅x3 🔆x1'6 🥉x1'2 🥈x1 🥇x0'8 💎x0'6 💎👉🏆x0`51 🏆x0'3</value>
+		<value>\n Kazandığın için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır:\n 🌑x12 🌘x10 🌗x8 🌖x6 🌕x4 🔅x3 🔆x1'6 🥉x1'2 🥈x1 🥇x0'8 💎x0'6 💎👉🏆x0`51 🏆x0'3</value>
 	</string>
 	<string key="pointlost">
-		<value> Kaybettiğin için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır.\nCezalar:\n 🌑/🌘/🌗/🌖/🌕/🔅 0 🔆-1 🥉-2 🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6</value>
+		<value> Kaybettiğin için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır.\n Cezalar: \n 🌑/🌘/🌗/🌖/🌕/🔅 0 🔆-1 🥉-2 🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6</value>
+	</string>
+
+    <!-- susurrador -->
+
+    <string key="susurrador">
+		<value>Fısıltı 🤫</value>
+	</string>
+    <string key="RoleInfosusurrador">
+		<value>Sen fısıldayan birisin 🤫. Sessizlik senin en büyük silahın. Beyin ve strateji yoksunu olan zombilere önderlik etmek için varsın yani sen onlar için Alfasın! Her gece bir oyuncuyu zombi sürüsüne dahil edebilir ve bütün sürünün linçlerine hakim olabilirsin. Senden önce bir zombi oy kullanırsa hiçbir zombinin oyu üzerinde hükmün olmayacak bu yüzden hızlı ol! \n\nTakım: Zombiler \n\nDönüşümler: \n Vampirler: \n-Ziyaret edersen veya seni ziyaret ederlerse, seni zombi sanacaklar ve kafanı koparıcaklar. \n Kurtlar: \n-Ziyaret edersen evde kimseyi bulamayacaksın. \n-Seni ziyaret ederlerse zombi sanacaklar ve hayatta kalacaksın.</value>
+	</string>
+	<string key="Aboutsusurrador">
+		<value>Fısıltı 🤫. Köyün dehşeti ve zalimliği yüzünden çeşitli işkencelere maruz kaldı. Hatta aptal zombi enfeksiyonuna bulunması imkansız bir tedavi için onu kobay bile yaptılar! Ancak bilmedikleri şey, zombi ısırıklarından sağ kurtulduğu için evrim geçirmiş olması. Zombiler her ne kadar et ve beyine aç olsalarda ondan çekiniyorlar. Onlar için farklı birisi ve onu Alfaları olarak görüyorlar. Cildindeki çürükler ne kadar ileri düzey olsada bir zombi gibi hareket etmeyecek aksine bütün zombilerin kontrolüne hakim olabilecek. Her gece fısıltıları ile sürüye yeni bir zombi ekleyerek köylülerden intikamını doyasıya alabilecek ve eğer zombilerden önce oy kullanabilirse, zombilerin tüm oyunu yönetebilecek. Fısıltı yeteneği ile bir çok gece oyuncusunu yanıltabilir, hatta kurtları, bazen kelle avcısını ve seri katili bile!</value>
+	</string>
+    <string key="doptranssus">
+		<value> Zombi sürüsünün lideri fısıltı katledildi. Görsel ikizi olarak bu işi devralma sırası sende ve artık fısıltı sensin!</value>
+	</string>
+	<string key="nekrotranssus">
+		<value> Fısıltının bedeninde yeniden canlanmayı seçtin ve zombi sürüsünün yeni lideri sensin.</value>
+	</string>
+    <string key="susseewolf">
+		<value> Bu gece zombilerine liderlik ederken devasa ve korkutucu ucube kurdunun üzerine doğru yaklaştığını fark ediyorsun. {0} seni fark etmesin diye derinin kamuflajını kullanarak zombilerin arasına giriyorsun ve onu başarıyla yanıltıyorsun.</value>
+	</string>
+    <string key="HunterFindsus">
+		<value> Sinsice evine doğru yaklaşan bir silüet fark ettin. Uzzaktan bakarak normal biri gibiydi ancak derisinin rengi soluk ve biraz çürüktü. Her ne olursa olsun {0} sana yaklaşmakla bir hata etti ve onu alnının çatından vurdun.</value>
+	</string>
+    <string key="cnxsus">
+		<value> Bu gece kılıcınla karanlık bir yaratığın daha hayatına son verecektin. {0}'in evine gittiğinde onun bir anlığına zombi olduğunu düşündün ve kolayca alt edebileceğin için rahattın. Ancak bu da ne???!!! {0} senden kaçıyor ve karşılık veriyordu! Bir anlığına affladın ve kılıcını almaya gittin ancak bunun için çok geçti. Ulu lider Kelle Avcısı fısıltının zombi kölelerinden biri oldu! Bu kadar kolay mıydı be...</value>
+	</string>
+    <string key="cnxsus2">
+		<value> Zombi sürünle hareket ederken bir koku fark ettin. Bu senin çürük derili zombi süründekilerinden farklı, daha taze ve güçlü bir kokuydu. Belli ki Kelle Avcısı {0} sana saldırmaya çalışıyor! Sürünün içinde dolanarak ve derin sayesinde kamuflaj olarak onun kafasını karıştırmaya çalışıyorsun. En sonunda hiç beklemediği bir anda onu etkin altına alıp, sürüne dahil ediyorsun. Çantada keklik! Ez Pez ÇereZ PatateZ DomateZ MayoneZ ÖlmeZ BölünmeZ... </value>
+	</string>
+    <string key="HarlotVisitsus">
+		<value> Bu gece müşterinin değişik türde bir maskesi vardı. Fantezi için de takıyor olabilirdi bu yüzden pek de umursamadın. Doruk noktasına ulaşmak üzereyken derisinde bir soğukluk ve katılık hissettin ancak herşey için geçti. Fısıltı o pozisyona rağmen seni etkisi altına aldı ve zombi sürüsüne dahil etti. Artık para için değil, mecburiyetten kölelik yapıyorsun.</value>
+	</string>
+    <string key="harlotinsus">
+		<value> Yancı bu gece senin gönlünü hoş tutmayı tercih etti. Bence onu tatmin etmekle yetinmeyip, kendi sürüne de dahil etmelisin ve öyle de oldu.</value>
+	</string>
+    <string key="polixsus">
+		<value> Bu gece {0} seni sorgulamak istedi. Aslına bakarsak bunun için pek vaktin yok çünkü sürüne göz kulak olman gerek.{0}!i de kendi sürüne dahil ederek sorunları çözmüş oldun. Win win</value>
+	</string>
+    <string key="polixsus2">
+		<value> {0}'i sorgulamak için sorgu odasına gittin. Moda girip tam da onun ağzından bütün lafları alacağını düşünürken derisindeki renginin farklı olduğunu gördün. Bir anlık gafletle yakından bakmak için yaklaştın ancak o fısıltı idi ve seni etkisi altına aldı. Artık sürüden birisin.</value>
+	</string>
+    <string key="chemxsus">
+		<value> Bugün {0} ile ölümüne bir bahse girmeye karar verdin. Ancak durumlar tahmin ettiğin gibi gelişmedi... Fısıltı seni etki altına aldı ve artık onun sürüsündesin. Çılgın kumarbazlık günlerin yerini beyin yeme arzusuna bıraktı.</value>
+	</string>
+    <string key="chemxsus2">
+		<value> Bu gece evinde aniden {0} belirdi. Seninle kumar oynamak istedi ancak sen ona farklı bir bahis sundun. Beynin yada ölümün! Onu etki altına aldın ve artık sürüden biri haline geldi.</value>
+	</string>
+    <string key="guardinsus">
+		<value> Hedefini olası gecenin yaratıklarından korumayı umuyordun. Ancak kaçırdığın nokta hedefinin fısıltı olduğu idi. Sen orada cenk ederkenfısıltı seni kendi sürüsüne dahil etti ve zombiye dönüştün.</value>
+	</string>
+    <string key="bomberodinsus">
+		<value> Kahramanlık içgüdülerin ile köylülerin hayatını kurtarmakla meşgul iken, hedefin fısıltıydı ve senden faydalınp seni sürüsüne dahil etti. Artık zombi sürüsünün bir parçasısın.</value>
+	</string>
+	<string key="herbxsus">
+		<value> Bitkisel karışımların ile sinsice {0}'in evine gidip içlisine zehir katmaya çalıştın. Ama pusuya düşen sen oldun. Fısıltıyı ziyaret ettin ve zehri veremeden seni etkisi altına. Artık zombi sürüsüne aitsin ama başarısızlığını kafana takmana gerek yok çünkü kullanabileceğin düzgün bir beynin artık yok :d Şifali bitkilerin bile seni tedavi edemeyecek</value>
+	</string>
+	<string key="herbxsus2">
+		<value> Evine gizlice birilerinin sızdığını fark ettin. Otacı {0} içkilerinden birine zehir katmıştı. O zehir seni etkilemeyeceği için onu doğrudan kapana kıstırdın. Ona bir güzellik yapıp zombi sürüne dahil ettin. Bitki uzmanı artık en basit bir bitkiden bile daha aptal.</value>
+	</string>
+	<string key="vkillsuspublic">
+		<value> Köylüler sabah toplandığında {0}'in cansız bedenini bulurlar. Daha dün gece ölmüş birinr göre cesedi fazla çürüktü ama bir zombi kadar da çürük değildi... Belli ki vampirler dün gece fısıltının kafasını uçurmuş.</value>
+	</string>
+	<string key="NHunterKilledsus">
+		<value> Gecenin ortasında tuhaf sesler duyuldu. Köylüler her ne kadar ürperse de eninde sonunda gündüz vakti dışarı çıkmaya cesaret edebildiler. Kafası gövdesinden ayrı, elleri doğranmış şekilde {0}'in cansız bedenini bulurlar. Herkes cesedin hızla çürüdüğünü sanmıştı ancak o fısıltıydı ve Kelle Avcısı tarafından haşat edildi.</value>
+	</string>
+	<string key="SerialKillerKilledsus">
+		<value> Köylüler sabah vakti uyandıklarında elektrik kesintisinin kaynağını bulmaya gittiler. {0}'in cesedi trafonun içindeydi ve tüm ahali dehşete düştü. Kopan kafasını bulduklarında bir yanakta 'S' bir diğerinde ise 'K' harfi vardı. Görünüşe göre psikopat kadın katilimiz meşhur fısıltı üzerinde bir eser yaratmış ve güzel bir hatıra imzası bırakmış.</value>
+	</string>
+	<string key="vampirKilledsus">
+		<value> Görünüşe göre {0}, kurbanını fazla hafife almış. Bu gece bir vampirle karşılacağını hiç düşünmemişti. Ne yazık ki vampirler {0}'i görür görmez kafasını uçururlar.</value>
+	</string>
+	<string key="NHunterKilledsusxvisit">
+		<!-- 0 - target's name -->
+		<value> Bu gece {0} koleksiyonu için Kelle Avcısını seçti. Ancak işler pek de beklediği gibi olmadı ve bu gece onun için şanssızdı...</value>
+	</string>
+	<string key="SerialKillerKilledz">
+		<!-- 0 - target's name -->
+		<value> Köylüler sabah vakit çok ağır ve kötü bir kokuya uyandı. Meydanda sadece kafası kopuk {0}'i buldular. Görünüşe göre Seri Katil bu çürük zombi bedeninden o kadar tiksinmiş ki sadece kafasını koparmakla yetinmiş.</value>
+	</string>
+	<string key="vampirKilledz">
+		<!-- 0 - target's name -->
+		<value> {0} dün gece bir vampire saldırmaya çalıştı. Ancak kana susamış yaratıklar bu zombi tehtidini anında ortadan kaldırdı. Kanı da vücudu gibi çürüktü ve kafası kopuk öylece yerdeydi.</value>
+	</string>
+	<string key="susKillsHunterEnd">
+		<!-- 0 - cazador's name -->
+		<!-- 1 - susurrador's name -->
+		<value> Köyün meydanında yalnızca iki kişi hayatta kaldı. {0} karşısındaki tehlikenin farkındaydı ve tüfeği ile hiç tereddüt etmeden {1}'in üzerine iki el ateş etti. {0}, {1}'in cesedinin üzerine doğru yürüyor ve {1}'in birşey mırıldandığını fark ediyor. Ne olduğunu anlamak için daha yakına gidiyor ve şu sözleri duyuyor; "Kafama nişan almalıydın". Bu sözler sonrasında {1} {0}'i etki altına lıyor ve onu da zombi sürüsüne ekliyor.</value>
+	</string>
+	<string key="HunterKillssusEnd">
+		<!-- 0 - cazador's name -->
+		<!-- 1 - susurrador's name -->
+		<value> Köyde yalnızca {0}'in hayatta kaldığını gören {1}, basit bir av olacağını düşünerek onu zombiye dönüştürmeye çalışır. Ama ava giderken avlandı ve kaşlarının ortasına Avcı {0}'in mermilerini yedi.</value>
+	</string>
+	<string key="HunterKillszEnd">
+		<!-- 0 - cazador's name -->
+		<!-- 1 - zombie's name -->
+		<value> Kasabanın meydanında yalnız kalan {0}, tüm köylü arkadaşlarının ölümünden dolayı çökmüş durumda. Uzakta ayakta duran birini görür ve yaşayan bir köylü zanneder. Ancak ağır yürüyüşü, homurdanışı ve çürük bedeninden dolayı {1}'in zombi olduğunu anlar. Kayıpların verdiği öfke ile tüfeğini alır ve tereddütsüz defalarca kafasına ateş ederek {1}'i öldürür.</value>
+	</string>
+	<string key = "bestKillszEnd">
+		<!-- 0 - bestia's name -->
+		<!-- 1 - zombie's name -->
+		<value> Onca kemik ve vücut parçaları arasında yalnızca {1}'in çürük bedeni duruyordu. {0} için bu çürük zombi bedeni değersizdi bu yüzden kafasını uçurmakla yetindi ve kurt sürüsü için mutlak galibiyeti getirdi!</value>
+	</string>
+	<string key = "susend">
+		<value> Köy meydanında hiç kimse kalmamıştı. Fısıltı {0} sürüsüne dahil etmek istediği bir canlı beden arayışı için çırpınıyordu. Ancak çabaları boşunaydı ve önderlik edebileceği tek bir zombi bile yoktu. Yalnızlık kabusunda kalmaktansa intihar etmeyi tercih etti. </value>
+	</string>
+	<string key = "Asksuskill">
+		<value> Bu gece kimi zombi sürüne dahil etmek istiyorsun?</value>
+	</string>
+	<string key = "suslider">
+		<value> Senin aksine, karşında düşünebilen, konuşabilen ve hatta zekasını kullanabilen bir beden var. Vücudu senin gibi çürük ve o senin Fısıltı liderin.\n\n {0}'DEN ÖNCE OY KULLANMA!\n Eğer ondan önce davranırsan sürüdeki hiç kimseyi kontrol edemeyecek ve oylar rastgele gidecek.</value>
+	</string>
+	<string key = "guartransxsus">
+		<value> Etrafı kolaçan ederken karşına bir zombi çıkıyor. Kolayca atlatacağını sandın ancak o sıradan bir zombi değil, Fısıltı idi. Seni zombi sürüsüne dahil etti.</value>
+	</string>
+	<string key = "transguard">
+		<value> Hedefini sürüye eklemek isterken başka birilerini fark ettin. Belii ki iyi korunuyor. Hedefine ulaşamasan da onun etrafını saran koruyuculardan birini kendi sürüne dahil etmek için mükemmel bir zamanlama olduğunu düşündün.</value>
+	</string>
+	<string key = "targettransxsus">
+		<value> Bu gece Fısıltı zombi ordusu için yeni bir üye olması gerektiğine karar verdi.</value>
+	</string>
+	<string key = "sustranstarget">
+		<value> Ordun için yeni bir zombi var.</value>
+	</string>
+	<string key = "marionetBlockedsus">
+		<value> İlginç... Sürün için bir zombi daha olacağını düşünmüştün ancak hedefin hâlâ sağlıklı bir bünyeye sahip.</value>
+	</string>
+	<string key = "susskilled">
+		<value> Seri Katil çürük zombilerin çoğalmasından pek hoşnutsuz. Bu yüzden senin kelleni uçurdu.</value>
+	</string>
+	<string key = "skxsus">
+		<value> Kasabının her bir noktasında keşfettiğin zombiler iyice canını sıkmaya başladı. Bu şekilde kordine olmaları alışagelmişin dışında olduğunu fark ettin ve sürünün liderine suikast uygulamaya karar verdin. Her ne kadar çantada keklik bir iş olduğunu düşünsende Fısıltı sürünün içine karışaarak seni atlattı ve etki altına aldı. Açıkçası bunu ben bile beklemiyordum :d </value>
+	</string>
+	<string key = "skinsus">
+		<value> Sürüne önderlik ederken arkandan gelen topuklu ayakkabı seslerini duyuyorsun. Biliyorsun ki bu köyde senin inine kadar yaklaşabilecek tek bir kadın var ki o da Seri Katil! Sürünün başıboş kalması için hiç de uygun bir zaman değil ve aradan sıvışmaya çalışıyorsun. Seri katil zombilerin arasından geçmekle dikkati dağıldığı sırada arkadan ona salddırıyorsun ve etki altına alarak onu zombi sürüne dahil ediyorsun! BÜYÜK RİSK BÜYÜK KAZANÇ!!!</value>
+	</string>
+	<string key = "susxvamp">
+		<value> Bir vampirle rastlaştın. Zombi olmadığının farkındalar ama derinin hafiften çürümüş ve tuhaf olduğunun da farkındalar. Ne olur ne olmaz diye kafanı uçurdular 🤷</value>
+	</string>
+	<string key = "susxsk">
+		<value> Sürün için yeni zombiler ararken arkandan bir bıçak darbesi aldın. Seri katil tarafından katledildin.</value>
+	</string>
+	<string key = "susxsk2">
+		<value> Sürün için yeni bir zombi edinmeyi düşünürken bıçak darbesi ile yere yığıldın. Seri katile yakalandın.</value>
+	</string>
+	<string key = "sustranssk">
+		<value> Evinin yakınlarında bir zombi belirdi. Bıçağınla kolaylıkla savuşturacağını düşündün ancak o Fısıltıydı. Her ne kadar ona saldırmaya çalışsanda yada etkisine karşı dirensende, artık onun sürüsünne dahil oldun. Sebib gibi bir kadına yapılacak en çirkin şey!</value>
+	</string>
+	<string key = "sustranssk2">
+		<value> Kurbanın ile karşı karşıyasın ancak hiç de kendisini tehlike altınfaymış gibi hissetmiyor. Hatta senin çürük derin bile onu etkilemiyor. Ancak fark ediyorsun ki bu güzel suratın arkasında keskin bir bıçak duruyor. Azılı bir katil olsa bile yine de sana karşı bir üstünlüğü yok ve onu sürüne dahil ediyorsun.</value>
+	</string>
+	<string key = "susdeadxcn">
+		<value> Tuhaf... Kapının evine yolunu şaşırmış bir zombi. Ortadan kaldırma vakti geldi.</value>
+	</string>
+	<string key = "susdeadxcn2">
+		<value> Kafayı bulmuş gibisin yada cüdden bütün dünya etrafında dönüyor sandın. İşin aslı şu ki kafan cidden dönüyor ama Kelle Avcısı onu gövdenden ayırdığı için dönüp duruyor...</value>
+	</string>
+	<string key = "zeatfire">
+		<value> {0}'i basit bir köpek yavrusu sandın. Ama seni mangalda cız-bız edebilecek cehennem kurduydu.</value>
+	</string>
+	<string key = "fwKilledzvisit">
+		<value> Zombilerin zekadan yoksun olduğu kanıtlandı. {0} bugün cehennem kurdundan beslenmeye çalıştı. Onun yerşne ızgara oldu...</value>
+	</string>
+	<string key = "fwKilledsusvisit">
+		<value> Hünerlerine her ne kadar güvensede,Fısıltı {0}'in cehennem kurdu karşısında hiç sanşı yoktu.</value>
 	</string>
 </strings>
