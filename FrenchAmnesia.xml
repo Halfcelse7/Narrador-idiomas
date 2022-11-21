@@ -2,7 +2,7 @@
 <!-- Version 1.0 May 21st -->
 <!-- Translator 1 : Flora @florareinhold ; Translator 2 : David @postich ; Translator 3 : Clive @CliveDove1  -->
 <strings>
-  <language name="Français" base="Français" variant="Amnesia Mode"/>
+  <language name="Amnesia Mode" base="Français" variant="Amnesia Mode"/>
   <string key="NotInGame">
     <value> Avez-vous oublié ? Vous n'êtes actuellement pas dans une partie !</value>
   </string>
