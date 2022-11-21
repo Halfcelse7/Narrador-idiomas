@@ -3173,9 +3173,6 @@
 	<string key = "NHKillszEnd">
 		<value>{0} just cut off {1} 's head to clear the village of zombies. </value>
 	</string>
-	<string key = "vampKillszEnd">
-		<value>{0} preferred blood, but seeing that {1} has it rotten, he ends up ripping off his head. </value>
-	</string>
 	<string key = "zeatguard">
 		<value>While you were setting out to eat a delicious brain, another appeared first. You turned a guard into a zombie. </value>
 	</string>
@@ -4241,4 +4238,173 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 		<value> penalty points for losing (depends on your rank).\n\nPenalties:\n🌑/🌘/🌗/🌖/🌕/🔅-0 🔆-1 🥉-2  \n🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6
 		</value>
 	</string>
+
+	<!-- susurrador -->
+
+	  <string key="susurrador">
+		    <value>the Whisperer 🤫</value>
+		  </string>
+		  <string key="RoleInfosusurrador">
+			    <value>You are the Whisperer 🤫! With so much torment for the horrors of the village, one day you discovered that disguised in the skin of zombies, these not only did not attack you, but that you were able to guide them. Every night you try to turn someone into a zombie to increase the number of zombies. In each lynching you guide the zombies to their choice, even if they vote for someone else, your vote is what counts, vote fast because if a zombie votes before you, you won't be able to lynch. \n\nTeam: Zombies \n\n Conversion: \n Vampires: \n-If you visit them or they visit you: You are decapitan by confusing with a zombie. \n Wolves: \n-If you visit: You can't find anyone since you're looking for people.\n-If they visit you: They mistake you for a zombie and you survive.</value>
+			  </string>
+			  <string key="aboutsusurrador">
+				    <value>The Whisperer 🤫 : With so much torment for the horrors of the village, one day they discovered that disguised in zombie skins, not only did they not attack the Whisperer, but they were able to guide them. Every night they tries to turn someone into a zombie to increase the number of zombies. In each lynch, guide the zombies towards their votes, even if they vote for another person, the vote of the Whisperer is the one that counts, must vote quickly because if a zombie votes before them, the Whisperer will not be able to lynch.  As they're camouflaged they're able to mislead the wolves and sometimes even the Night Hunter and the Serial Killer.  \n\nTeam: Zombies \n\nConversions: \n Vampires: \n-If you visit or are visited: You get beheaded for being mistaken for a zombie.  \n Wolves: \n-If you visit: You can't find anyone since you're looking for people.\n-If they visit you: They mistake you for a zombie and you survive.</value>
+				  </string>
+				  <string key="doptranssus">
+					    <value>The good news is that the Whisperer is dead, the not so good news is that it was your choice to copy the Whisperer.</value>
+					  </string>
+					  <string key="necrotranssus">
+						    <value>You have chosen to become the new leader of the Zombie team, using the body of the Whisperer.</value>
+						  </string>
+						  <string key="susseewolf">
+							    <value>While leading your team tonight you notice something approaching, it is {0} in the form of a beast, thanks to your zombie skins you mislead them making them think you are one of the zombies.</value>
+							  </string>
+							  <string key="HunterFindsus">
+								    <value>It wasn't exactly what you were looking for, but {0} was a zombie, a little less scum in the village, the weird thing is that it doesn't seem to be that rotten.</value>
+								  </string>
+								  <string key="cnxsus">
+									    <value>Tonight you are going to check if {0} is a creature of the night or not, you are late, it is already a Zombie, you approach to deal the final blow to their head but then you noticed something... YOU CONFUSED!, and not only that, IT WAS A COUNTERATTACK! The Night Hunter tonight has become the Whisperer's target.</value>
+									  </string>
+									  <string key="cnxsus2">
+										    <value>While walking with your beloved team you see {0} approaching you, you realize their intentions to kill you, they are mistaking you for a zombie, you don't miss this great opportunity and you counterattack by surprise when they try to get you to kill.</value>
+										  </string>
+										  <string key="HarlotVisitsus">
+											    <value>Tonight your client has a very peculiar mask, you don't care and think they're a degenerate or something, the bad news isn't that they didn't pay you, but they didn't decide to end your life to give you another new one, the Whisperer has added you to their Zombie collection. </value>
+											  </string>
+											  <string key="harlotinsus">
+												    <value>The Harlot has decided to serve you tonight, since they've seen your skin, you'd better see to it that they stay forever in your zombie team.</value>
+												  </string>
+												  <string key="polixsus">
+													    <value>{0} wanted to interrogate you tonight, you don't have time to take care of them and hide your zombies, you better add them to your zombies team.</value>
+													  </string>
+													  <string key="polixsus2">
+														    <value>When you are about to start the interrogation of {0} you notice a rotten smell, when you roll your eyes to see what it is about... forget the interrogations, now you just want brains.</value>
+														</string>
+														  <string key="chemxsus">
+															<value>Today it's time to bet your life with {0}, you would never imagine it would be your last bet, the Whisperer preferred to bet on their hunger for brains.</value>
+															  </string>
+															  <string key="chemxsus2">
+																    <value>{0} shows up at your house just before you put on the mask, they expects you to make a bet with them to see who makes it out alive, you decide it's better to be another Zombie on your team.</value>
+																  </string>
+																  <string key="guardinsus">
+																	    <value>Who would have told you that tonight the one you were protecting was the Whisperer, at a time when you turned your back on them to check the ground, his time came to stab you and let you turn into a zombie. </value>
+																	  </string>
+																	  <string key="bomberodinsus">
+																		    <value>While you were busy protecting yourself from wolves, the Whisperer was busy adding you to the zombie team, you should better protect yourself from them. </value>
+																		  </string>
+																		  <string key="herbxsus">
+																			    <value>You were going to poison {0} who smells bad, you thought, but their smell was for something more sinister, it was the Whisperer, now your herbs have more life than you. </value>
+																			  </string>
+																			  <string key="herbxsus2">
+																				    <value>{0} wanted to pay you a visit, they thought you weren't going to notice, but you saw them put something strange in your drink. It really doesn't matter, you were going to add them to your little group of zombies no matter what they did. </value>
+																				  </string>
+																				  <string key="vkillsuspublic">
+																					    <value>{0}'s body is found headless in an alley, surrounded by some rare skin. Looks like the Whisperer was mistaken for a zombie. </value>
+																					  </string>
+																					  <string key="NHunterKilledsus">
+																						    <value>{0} appears decapitated on one of the streets of the village, the Night Hunter thought they were a zombie and so they did not hesitate to finish them off by cutting off their head, they just disguised it. </value>
+																						  </string>
+																						  <string key="SerialKillerKilledsus">
+																							    <value>The Whisperer hasn't had much luck with his victim tonight, the Serial Killer would rather keep killing than eating brains, {0} was killed in cold blood! </value>
+																							  </string>
+																							  <string key="vampirKilledsus">
+																								    <value>It seems that {0} underestimated their victim, they never imagined meeting a vampire and how they hate zombies, when they got mistaken for one they left them headless. </value>
+																								  </string>
+																								  <string key="NHunterKilledsusxvisit">
+																									    <!-- 0 - target's name -->
+																									    <value>{0} wanted to try their luck to see if they could add the Night Hunter to their collection, but luck was not on their side. </value>
+																									  </string>
+																									  <string key="SerialKillerKilledz">
+																										    <!-- 0 - target's name -->
+																										    <value>Some village saw that the body of {0} was hanging on a post with no head, but there was a very peculiar letter with his blood that said "Serial Killer", now this maniac signs...</value>
+																										  </string>
+																										  <string key="vampirKilledz">
+																											    <!-- 0 - target's name -->
+																											    <value>{0} tried to attack a Vampire, they understood what it was about, there was no choice but to go for the head and run out of blood for dinner, {0} was a Zombie. </value>
+																											  </string>
+																											  <string key="susKillsHunterEnd">
+																												    <value>{1} knows that only {0} is left in the town, so they takes advantage while {0} is sharpening the tips of his arrows to end his life, {0} ended up being one more zombie in the Whisperer's collection.</value>
+																												  </string>
+																												  <string key="HunterKillssusEnd">
+																													    <value>
+																														      Knowing that there was only {0} left in the village, {1} tries to kill them by surprise, but {0} already smelled their skin several meters away and manages to make {1} wince. The villagers have won!
+																														  
+																													</value>
+																													  </string>
+																													  <string key="HunterKillszEnd">
+																														    <value>
+																															      As there are only {0} left in the town, {1} tries to eat their brain, but {0} can already hear their growls from across the street and as soon as they approaches, the Hunter drives the ax into their head. The villagers have won!
+																														</value>
+																														  </string>
+																														  <string key="bestKillszEnd">
+																															    <value>{0} ends up alone with {1} in the village, it is clear that there is nothing to do. The Wolfpack has won!</value>
+																															  </string>
+																															<string key="susend">
+																																    <value>{0} was left alone in the village, seeing that there are no zombies to entertain, they falls into such a depression that it drives them to commit suicide...</value>
+																																  </string>
+																																  <string key="Asksuskill">
+																																	    <value>Who do you want to add to your zombie collection tonight?</value>
+																																	  </string>
+																																	  <string key="suslider">
+																																		    <value>There is a zombie that seems ready, they will take care of the lynch to see how this ends.\n\nDO NOT LYNCH BEFORE {0} \nYou must wait for their lynch first or they will not be able to guide the zombies.</value>
+																																		  </string>
+																																		  <string key="guartransxsus">
+																																			    <value>While watching around you come across a zombie, when you are going to get rid of them, they suddenly pulls out a knife and stabs you in the chest.</value>
+																																			  </string>
+																																			  <string key="transguard">
+																																				    <value>When you go to your victim's house you find that there is someone protecting them, what better time to add someone to your collection by doing the trick of the fake zombie.</value>
+																																				  </string>
+																																				  <string key="targettransxsus">
+																																					    <value>Tonight the Whisperer decided that you will be one more zombie in their collection.</value>
+																																					  </string>
+																																					  <string key="sustranstarget">
+																																						    <value>You got a new zombie for your collection.</value>
+																																						  </string>
+																																						  <string key="marionetBlockedsus">
+																																							    <value>How strange, you thought you added one more zombie to your collection, but they never turned, it seemed like a rag person. </value>
+																																							  </string>
+																																							  <string key="susskilled">
+																																								    <value>See where, the Serial Killer didn't want you to keep increasing your collection and paid you a surprise visit.</value>
+																																								  </string>
+																																								  <string key="skxsus">
+																																									    <value>Too bad, it was a zombie, you're going to stick the knife in their back but surprisingly they dodge and stick a shard of glass in your neck. It was the Whisperer, now you're just another zombie in their collection.</value>
+																																									  </string>
+																																									  <string key="skinsus">
+																																										    <value>You hear a strange noise, suddenly you hear:\n\n"Too bad, it's just a zombie."\n\nIT'S THE SERIAL KILLER!, you stay calm, as soon as he approaches your back you turn around and nail a piece of glass that you had on hand. Who knew you'd add the Serial Killer to your collection, lucky you.</value>
+																																										  </string>
+																																										  <string key="susxvamp">
+																																											    <value>Incredibly, you met a Vampire, apparently they don't support zombies, they confuse you with one and rip off your head.</value>
+																																											  </string>
+																																											  <string key="susxsk">
+																																												    <value>¡WHICH?! The Serial Killer approached me running with a knife, from that I am neither saved nor disguised as a zombie!</value>
+																																												  </string>
+																																												  <string key="susxsk2">
+																																													    <value>You see a zombie near your house, oddly enough you see them holding a machete, since when do they do that? Let's finish them off before he gets any smarter.</value>
+																																													  </string>
+																																													  <string key="sustranssk">
+																																														    <value>There is a zombie near your house, you will end their painful existence, but take a machete, a zombie with a machete? With your little knife you can't do anything against a machete and they already have you within their reach, that smarter zombie, you think, as they cut until bored.</value>
+																																														  </string>
+																																														  <string key="sustranssk2">
+																																															    <value>When you see your victim staying at home, it seems that they are not afraid or the same as you have seen with your zombie skin, they goes in their direction with a knife, happily you decided to leave home with a face, from this these crazy are not saved.</value>
+																																															  </string>
+																																															  <string key="susdeadxcn">
+																																																    <value>How strange, there's a zombie near my house, they doesn't know where they are, it's time to chop off heads.</value>
+																																																  </string>
+																																																  <string key="susdeadxcn2">
+																																																	    <value>It didn't feel like home, until you saw everything spinning around you, it really wasn't that everything was spinning, but that your head was rolling after being cut off by the Night Hunter.</value>
+																																																	  </string>
+																																																	<string key="zeatfire">
+																																																		    <value>You thought {0} was just a dog, but you were wrong, they turned you into a barbecue.</value>
+																																																		  </string>
+																																																		  <string key="fwKilledzvisit">
+																																																			    <value>Zombies are known to lack intelligence, {0} turned into a walking bonfire, because of the power of the Fire Wolf.</value>
+																																																			  </string>
+																																																			<string key="fwKilledsusvisit">
+																																																				    <value>{0} became a mountain of ashes, that's what happens to them for looking around among the things of the Fire Wolf.</value>
+																																																				  </string>
+
+
+																																																				        <string key="vampKillszEnd">
+																																																					                <value>{0} prefers blood, but seeing that {1} is a zombie, they ends up with it ripping their head off.</value>
+																																																					        </string>
 	</strings>
