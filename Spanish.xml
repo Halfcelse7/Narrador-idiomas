@@ -533,10 +533,6 @@
     <!-- 2 - target's role -->
     <value>Mientras la bala perfora a {0}, cae al suelo, pero no sin antes agarrar su pistola, y dispara a {1}, que se lleva una bala entre los ojos. {2}</value>
   </string>
-  <string key="HunterShotWolfMulti">
-    <!-- 0 - target's name -->
-    <value>Los hombres lobo intentaron atacar al cazador anoche, ¡pero el cazador pudo alcanzar con su rifle a uno mientras moría! {0} ha muerto y era un hombre lobo.</value>
-  </string>
   <string key="HunterShotWolf">
     <!-- 0 - target's name -->
     <value>{0} intentó atacar al cazador anoche, ¡pero el cazador pudo alcanzarlo con su rifle! {0} era un hombre lobo.</value>
@@ -4153,7 +4149,7 @@
     <value>Esta noche vas a comprobar si {0} no es una criatura de la noche, has llegado tarde, ya es todo un zombi, te aproximas para asestarle el golpe final en su cabeza cuando !TE HA ESQUIVADO!, y no solo eso, ¡ERA UN CONTRATAQUE!, el cazador esta noche se volvió la presa del susurrador. </value>
   </string>
   <string key = "cnxsus2">
-    <value>mientras paseas con tu querida horda ves a {0} acercarse a ti, notas sus intenciones de matarte, te está confundiendo con un zombi, no dejas escapar esta gran oportunidad y le contraatacas por sorpresa cuando intenta acabar contigo.</value>
+    <value>Mientras paseas con tu querida horda ves a {0} acercarse a ti, notas sus intenciones de matarte, te está confundiendo con un zombi, no dejas escapar esta gran oportunidad y le contraatacas por sorpresa cuando intenta acabar contigo.</value>
   </string>
   <string key = "HarlotVisitsus">
     <value>Esta noche tu cliente tiene una careta muy peculiar, no le das importancia y crees que es un degenerado o algo por el estilo, la mala noticia no es que no te haya pagado, si no que decidió acabar con tu vida para darle otra nueva, el susurrador te añadió a su colección de zombis. </value>
@@ -4292,5 +4288,9 @@
 
 	<string key = "vampKillszEnd">
 		<value>{0} prefería sangre, pero al ver que {1} es un zombi, acaba con él arrancándole la cabeza.</value>
+	</string>
+	<string key="HunterShotWolfMulti">
+		<!-- 0 - target's name -->
+		<value>Los hombres lobo intentaron atacar al cazador anoche, ¡pero el cazador pudo alcanzar con su rifle a tiempo! {0} ha muerto y era un hombre lobo.</value>
 	</string>
 </strings>
