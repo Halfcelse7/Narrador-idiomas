@@ -4293,4 +4293,16 @@
 		<!-- 0 - target's name -->
 		<value>Los hombres lobo intentaron atacar al cazador anoche, ¡pero el cazador pudo alcanzar con su rifle a tiempo! {0} ha muerto y era un hombre lobo.</value>
 	</string>
+
+	<!-- desviador -->
+	
+	<string key="desviador">
+		<value>el desviador 🔀</value>
+	</string>
+	<string key="RoleInfodesviador">
+		<value>Eres el Desviador 🔀 : Una fuerza sobrenatural te protege por las noches, puedes desviar las acciones de todos los roles nocturnos excepto cupido, pero hay una pega, esas acciones siempre se desvían a otra persona.\nRol ideado por @lukinoteg\n\nTeam: Aldea \n\nConversiones: Inmune a cualquier team enemigo. </value>
+	</string>
+	<string key="aboutdesviador">
+		<value>El Desviador 🔀 : Una fuerza sobrenatural lo protege por las noches, puede desviar las acciones de todos los roles nocturnos excepto cupido, pero hay una pega, esas acciones siempre se desvían a otra persona.\nRol ideado por @lukinoteg\n\nTeam: Aldea \n\nConversiones: Inmune a cualquier team enemigo. </value>
+	</string>
 </strings>
