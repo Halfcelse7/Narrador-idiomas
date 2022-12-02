@@ -60,7 +60,7 @@
   </string>
   <string key = "Flee">
     <!-- 0 - Oyuncu adı -->
-    <value> {0} terörist oldu ve ardına bakmadan kaçtı! :D </value>
+    <value> {0} aniden oyundan çıktı.\n\n /nextgame@Narrador2bot</value>
   </string>
   <string key = "PlayerRoleWas">
     <!-- 0 - Oyuncu adı -->
@@ -179,7 +179,7 @@
   <string key = "LynchKill">
     <!-- 0 - oyuncu adı -->
     <!-- 1 - oyuncu rolü -->
-    <value> Oy kullanma süresi doldu ve sandıklar kapatıldı. Oylarını şüphe hırs içinde kullanan köylüler oy çoğunluğu ile idam sehpasına çıkartmak için {0}'i seçti. {0} öldü. {1}. </value>
+    <value> Oy kullanma süresi doldu ve sandıklar kapatıldı. Oylarını şüphe hırs içinde kullanan köylüler oy çoğunluğu ile idam sehpasına çıkartmak için {0}'i seçti. {0} öldü. ve {1} idi. </value>
   </string>
   <string key = "LynchTie">
     <value> Linç için tam bir karara varılamadı. Herkes korku ve endişe içinde evinlerine geri dönüyor...</value>
@@ -335,18 +335,18 @@
   <string key = "CultHunterKilledCultVisit">
     <!-- 0 - En Genç Tarikatçının adı -->
     <!-- 1 - Kalan kültist sayısı -->
-    <value> {0} dün gece evine geldi seni dönüştürecekti... Sen de kılıcını onun göğsüne gömdün. Bir vampir öldü ... {1} vampir kaldı! </value>
+    <value> {0} dün gece evine geldi seni dönüştürecekti... Sen de kılıcını onun göğsüne gömdün. Bir Ubır öldü ... {1} Ubır kaldı! </value>
   </string>
   <string key = "CultConvertYou">
-    <value> Vampir seni kendi mezhebine dönüştürdü! Artık bir vampirsin. Her gece bir başkasını çevirme şansın olacak. </value>
+    <value> Ubır seni kendi mezhebine dönüştürdü! Artık bir Ubırsın. Her gece bir başkasını çevirme şansın olacak. </value>
   </string>
   <string key = "CultTeam">
     <!-- 0 - Kültist sayısı -->
-    <value>Vampirler : {0} </value>
+    <value>Ubırlar : {0} </value>
   </string>
   <string key = "CultJoin">
     <!-- 0 - yeni tarikatçının adı -->
-    <value> {0} vampirlere katıldı! </value>
+    <value> {0} Ubırlara katıldı! </value>
   </string>
   <string key = "CultVisitEmpty">
     <!-- 0 - En yeni tarikatçının adı -->
@@ -354,7 +354,7 @@
     <value> {0}, kirli işlerinizi yapmak ve {1}'i dönüştürmek için gönderildi, ancak evde kimse yoktu! </value>
   </string>
   <string key = "CultWins">
-    <value> Vampirlere yönelik tüm tehditler kaldırıldı ve geriye kalan tüm köylüler vampirlere dönüştürüldü. Vampirler kazandı! </value>
+    <value> Ubırlara yönelik tüm tehditler kaldırıldı ve geriye kalan tüm köylüler Ubırlara dönüştürüldü. Ubırlar kazandı! </value>
   </string>
   <string key = "HunterVisitDead">
     <!-- 0 - hedef adı -->
@@ -366,7 +366,7 @@
   </string>
   <string key = "HunterFailedToFind">
     <!-- 0 - hedef adı -->
-    <value> {0} adlı kişinin evine gidiyorsun, ancak gizemli sunaklar, vampirlere has eşyalar yok. O bir vampir değil, bu yüzden eve dönüyorsun. </value>
+    <value> {0} adlı kişinin evine gidiyorsun, ancak gizemli sunaklar, Ubırlara has eşyalar yok. O bir Ubır değil, bu yüzden eve dönüyorsun. </value>
   </string>
   <string key = "WildChildToWolves">
     <!-- 0 - Werechild'in adı -->
@@ -476,7 +476,7 @@
   </string>
   <string key = "HarlotDiscoverCult">
     <!-- 0 - hedefin adı -->
-    <value> Dün gece iyi vakit geçirmek için gizlice {0}'in evine gittin ama gittiğinde garip bir şey fark ettin. O bir yabancı, ayrıca hasta gibi soluk görünüyordu, keskin dişleri vardı ... [{0} Bir vampir]. </value>
+    <value> Dün gece iyi vakit geçirmek için gizlice {0}'in evine gittin ama gittiğinde garip bir şey fark ettin. O bir yabancı, ayrıca hasta gibi soluk görünüyordu, keskin dişleri vardı ... [{0} Bir Ubır]. </value>
   </string>
   <!-- yeni dize 13 Mayıs 2016 -->
   <string key = "Was">
@@ -567,8 +567,8 @@
   </string>
   <!-- yeni dizeler 10 Haziran 2016 -->
   <string key ="CupidChosen">
-    <value> Seni aşk çarpmış {0}'in anısı asla kalbinden kaybolmayacak. İkinizden biri ölürse diğeri de kederinden ölür. Hayatta kalan son 2 kişi olursanız sadece siz kazanırsınız. Biriniz kazanırsa diğeriniz de kazanacak. Ait olduğunuz takımlar farklı ise yalnızca birinizin kazanması yeterli olacaktır. Bu büyük aşkın mimarı Eros ise {1}. Sizin çift olarak kazandığınız oyunlarda o da kazanacak. Aşıklar olarak köy dışında farklı takımlarda iseniz (Kurt + vampir/ Kurt + Zombi vs.) ve Eros hayatta kalarak yada ölerek köy takımından kazanırsa kaybedersiniz. Unutmayın, Erosla beraber ölmeyeceksiniz. Zafere giden yolda hem Erosa ihtiyacınız olacak hem de zamanı geldiğinde onu ortadan kaldırmak zorunda kalacaksınız. Oyunun sonunda sadece üçünüz hayatta kalırsa Eros {1}'i öldürmekten çekinmeyin. Bu noktada o da sizinle beraber kazanacaktır. Üçlü olsun güçlü olsun! </value>
-    <value> Aşk tanrısı Eros'un okları sana çarptı! {0}'i deli gibi seviyorsun! O ölürse sen de öleceksin. Eğer yaşıyorsanız ve biriniz kazanırsa, ikiniz de kazanırsınız! Bu büyük aşkın mimarı Eros ise {1}. Sizin çift olarak kazandığınız oyunlarda o da kazanacak. Aşıklar olarak köy dışında farklı takımlarda iseniz (Kurt + vampir/ Kurt + Zombi vs.) ve köy takımı kazanırsa kaybedersiniz. Unutmayın, Erosla beraber ölmeyeceksiniz. Zafere giden yolda hem Erosa ihtiyacınız olacak hem de zamanı geldiğinde onu ortadan kaldırmak zorunda kalacaksınız. Oyunun sonunda sadece üçünüz hayatta kalırsa Eros {1}'i öldürmekten çekinmeyin. Bu noktada o da sizinle beraber kazanacaktır. Üçlü olsun güçlü olsun! </value>
+    <value> Seni aşk çarpmış {0}'in anısı asla kalbinden kaybolmayacak. İkinizden biri ölürse diğeri de kederinden ölür. Hayatta kalan son 2 kişi olursanız sadece siz kazanırsınız. Biriniz kazanırsa diğeriniz de kazanacak. Ait olduğunuz takımlar farklı ise yalnızca birinizin kazanması yeterli olacaktır. Bu büyük aşkın mimarı Eros ise {1}. Sizin çift olarak kazandığınız oyunlarda o da kazanacak. Aşıklar olarak köy dışında farklı takımlarda iseniz (Kurt + Ubır/ Kurt + Zombi vs.) ve Eros hayatta kalarak yada ölerek köy takımından kazanırsa kaybedersiniz. Unutmayın, Erosla beraber ölmeyeceksiniz. Zafere giden yolda hem Erosa ihtiyacınız olacak hem de zamanı geldiğinde onu ortadan kaldırmak zorunda kalacaksınız. Oyunun sonunda sadece üçünüz hayatta kalırsa Eros {1}'i öldürmekten çekinmeyin. Bu noktada o da sizinle beraber kazanacaktır. Üçlü olsun güçlü olsun! </value>
+    <value> Aşk tanrısı Eros'un okları sana çarptı! {0}'i deli gibi seviyorsun! O ölürse sen de öleceksin. Eğer yaşıyorsanız ve biriniz kazanırsa, ikiniz de kazanırsınız! Bu büyük aşkın mimarı Eros ise {1}. Sizin çift olarak kazandığınız oyunlarda o da kazanacak. Aşıklar olarak köy dışında farklı takımlarda iseniz (Kurt + Ubır/ Kurt + Zombi vs.) ve köy takımı kazanırsa kaybedersiniz. Unutmayın, Erosla beraber ölmeyeceksiniz. Zafere giden yolda hem Erosa ihtiyacınız olacak hem de zamanı geldiğinde onu ortadan kaldırmak zorunda kalacaksınız. Oyunun sonunda sadece üçünüz hayatta kalırsa Eros {1}'i öldürmekten çekinmeyin. Bu noktada o da sizinle beraber kazanacaktır. Üçlü olsun güçlü olsun! </value>
   </string>
   <string key = "HunterLynchedChoice">
     <value> Köylüler seni asmaya karar verdi! Bu senin son şansın, gider ayak kimi yanında götüreceğini iyi seç! </value>
@@ -759,36 +759,36 @@
   </string>
   <!-- Yeni dizeler 7 Temmuz -->
   <string key = "AboutVG">
-    <value> Rolün sıradan Köylü: Hayatta kalmaya çalış. Her gün kurt adamı linç etmek için bir şansın olacak. </value>
+    <value> Sıradan Köylü 👱: \nHayatta kalmaya çalış. Her gün kurt adamı linç etmek için bir şansın olacak. </value>
   </string>
   <string key = "AboutSeer">
-    <value> Sen Gözcü'sün. Bu rolde her gece birini seçebilirsin ve onun rolü sana açıklanır. Rolünü akıllıca oyna. Eğer Gözcü olduğun belli olursa Kurtlar seni yemeye çalışır!</value>
+    <value> Gözcü 👳: \nBu rolde her gece birini seçebilirsin ve onun rolü sana açıklanır. Rolünü akıllıca oyna. Eğer Gözcü olduğun belli olursa Kurtlar seni yemeye çalışır!</value>
   </string>
   <string key = "AboutWw">
-    <value> Eğlence başlasın! Hergün, oyuncu arkadaşlarını aldatmaya çalışacaksın. Ancak, her gece, bir oyuncuyu öldürmek için seçeceksin! Not:Sarhoşa saldırırsan, sen kendin sarhoş olursun ve içki sersemliğiyle gelecek gece saldıramazsın! Eğer lanetliye saldırırsan, o da senin gibi kurt olur! Yalan parayla değil devam!</value>
+    <value> Kurt Adam 🐺: \nEğlence başlasın! Hergün, oyuncu arkadaşlarını aldatmaya çalışacaksın. Ancak, her gece, bir oyuncuyu öldürmek için seçeceksin! Not:Sarhoşa saldırırsan, sen kendin sarhoş olursun ve içki sersemliğiyle gelecek gece saldıramazsın! Eğer lanetliye saldırırsan, o da senin gibi kurt olur! Yalan parayla değil devam!</value>
   </string>
   <string key = "AboutHarlot">
-    <value> Bir yancı olarak, her gece başka bir oyuncuyu "ziyaret etme" fırsatına sahip olacaksın. Eğer ziyaret ettiğin kişi kurt değilse sana da kurt olmadığı söylenecek (Bunu hayatta olman ile anlayacaksın tabi!). Kurtu ziyaret edersen, öldürüleceksin. Kurtların öldürmek için seçtiği oyuncuyu ziyaret edersen, sen de öldürüleceksin. Ancak eğer bir oyuncuyu ziyaret ediyorsan ve kurtlar seni öldürmeyi seçerse sen hayatta kalırsın. (Evde değildin çünkü) </value>
+    <value> Yancı 💋: \nBir yancı olarak, her gece başka bir oyuncuyu "ziyaret etme" fırsatına sahip olacaksın. Eğer ziyaret ettiğin kişi kurt değilse sana da kurt olmadığı söylenecek (Bunu hayatta olman ile anlayacaksın tabi!). Kurtu ziyaret edersen, öldürüleceksin. Kurtların öldürmek için seçtiği oyuncuyu ziyaret edersen, sen de öldürüleceksin. Ancak eğer bir oyuncuyu ziyaret ediyorsan ve kurtlar seni öldürmeyi seçerse sen hayatta kalırsın. (Evde değildin çünkü) </value>
   </string>
   <string key = "AboutDrunk">
-    <value> Seni sarhoşşşşş brupppp! Sarhoş olarak, Sen sadece bir köylüsün. ANCAK! Kurtlar seni öldürürse, senin yüksek alkol içerikli kanını delicesine içtikleri için sonraki gece etkisiz hale gelecekler.</value>
+    <value> Sarhoş 🍻: \nSeni sarhoşşşşş brupppp! Sarhoş olarak, Sen sadece bir köylüsün. ANCAK! Kurtlar seni öldürürse, senin yüksek alkol içerikli kanını delicesine içtikleri için sonraki gece etkisiz hale gelecekler.</value>
   </string>
 
 
   <string key = "AboutGA">
-    <value> Sen koruyucu meleksin! Her gece korumak için bir oyuncu seçeceksin. Bir kurt adamı korumayı seçersen dikkatli ol %50 ölme şansınız var. </value>
+    <value> Koruyucu Melek 👼: \nHer gece korumak için bir oyuncu seçeceksin. Bir kurt adamı korumayı seçersen dikkatli ol %50 ölme şansın var. </value>
   </string>
   <string key = "AboutDetective">
-    <value>Dedektif olarak gündüz vakti herhangi bir oyuncuyu araştırma şansın olacak. Ancak bunu dikkatlice kullan, %40 ihtimalle kurt adamlar seni bulabilir!</value>
+    <value> Dedektif 🕵: \nGündüz vakti herhangi bir oyuncuyu araştırma şansın olacak. Ancak bunu dikkatlice kullan, %40 ihtimalle kurt adamlar seni bulabilir!</value>
   </string>
   <string key = "AboutGunner">
-    <value> Biraz mutluyuz değil mi? Silahşör olarak, oyunun başında sana 2 tane altın mermi verilir. Her gün, Başka bir oyuncuya ateş etme şansın olacak. Bunu yaptığında herkes senin silahşör olduğunu herkes bilecek! Oyunda Demirci ve Muhtar ortaya çıkarsa, ekstra bir mermi kazanacaksın. Kötü rolleri her vurduğunda ekstra bir mermin olacak ancak masumları vurursan Muhtar seni cezalandırmak için mermilerinden birini elinden alacak. </value>
+    <value> Silahşör 🔫: \nBiraz mutluyuz değil mi? Silahşör olarak, oyunun başında sana 2 tane altın mermi verilir. Her gün, Başka bir oyuncuya ateş etme şansın olacak. Bunu yaptığında herkes senin silahşör olduğunu herkes bilecek! Oyunda Demirci ve Muhtar ortaya çıkarsa, ekstra bir mermi kazanacaksın. Kötü rolleri her vurduğunda ekstra bir mermin olacak ancak masumları vurursan Muhtar seni cezalandırmak için mermilerinden birini elinden alacak. </value>
   </string>
   <string key = "AboutTanner">
-    <value> iblisin amacı basitçe linç edilmek. İblis linç edilirse oyunu kazanır. Diğer herkes kaybeder. </value>
+    <value> İblis 👺: \nİblisin amacı basitçe linç edilmek. İblis linç edilirse oyunu kazanır. Diğer herkes kaybeder. </value>
   </string>
   <string key = "AboutFool">
-    <value> Çomar’a gözcü olduğu söylenir... Gece birisini görmek için seçtiğinde, ona rastgele bir rol söylenir. Bu rol oyunda var olan rollerden biridir.</value>
+    <value> Çomar 🃏: \nÇomar’a gözcü olduğu söylenir... Gece birisini görmek için seçtiğinde, ona rastgele bir rol söylenir. Bu rol oyunda var olan rollerden biridir.</value>
   </string>
   <string key = "AboutCult">
     <value> Tarikat Üyesi olarak senin görevin oyundaki diğer tüm oyuncaları (Kurtlar hariç) tarikat Üyesi yapmak. Eğer oyunun sonunda yaşayan tüm oyuncular tarikat Üyesi olursa tarikat kazanır. </value>
@@ -797,39 +797,39 @@
     <value> Senin işin tarikatı bitirmek. Bir tarikatçı size saldırırsa ölür. Her gece hangi oyuncunun "avlanacağını" seçeceksin tarikatçı ise ölecek. \nOnun yardımcıları: Gözcü, Dedektif, Koruyucu Melek, Yancı ve Otacı. </value>
   </string>
   <string key = "AboutWC">
-    <value> Oyunun başında kendine rol model birini seçeceksin. Eğer o ölürse, kurt adam olacaksın. </value>
+    <value> Yabani Çocuk 👶: \nOyunun başında kendine rol model birini seçeceksin. Eğer o ölürse, kurt adam olacaksın. </value>
   </string>
   <string key = "AboutAppS">
-    <value> Şu anda normal bir köylüsün ama Gözcü ölürse, sen yeni Gözcü olacaksın. </value>
+    <value> Kalfa 🙇: \nŞu anda normal bir köylüsün ama Gözcü ölürse, sen yeni Gözcü olacaksın. </value>
   </string>
   <string key = "AboutBH">
-    <value> Sana gerçek Gözcü’nün kim olduğu söylenecek. (Gerçek Gözcü, Çomar değil.) </value>
+    <value> Seyirci 👁: \nSana gerçek Gözcü’nün kim olduğu söylenecek. (Gerçek Gözcü, Çomar değil.) </value>
   </string>
   <string key = "AboutMason">
-    <value> Mason’un işi basit. Otomatik olarak diğer Mason’ların kim olduğunu bilecek. Bunun dışında basit köylü.</value>
+    <value> Mason 👷: \nMason’un işi basit. Otomatik olarak diğer Mason’ların kim olduğunu bilecek. Bunun dışında basit köylü.</value>
   </string>
   <string key = "AboutDG">
     <value>
-      Ataların başkalarının kılığına girebiliyordu... Fakat sen onların tüm gücüne sahip değilsin. Oyunun başında bir oyuncu seç ve o ölürse onun rolüne geçeceksin. Unutma! Çift Giden olarak kazanamazsın. Rol modelin öldüğü vakit onun takımıyla da oyunu kazanmak zorundasın. Rolüne kavuştuktan sonra herşeyin daha güzel olabileceğini düşünmüş olabilirsin ama şimid herşey daha da zorlaşacak.
-      Not: Eğer oyuncu vampir olursa sen onun gerçek rolünü alacaksın. Eğer Yabani Çocuk ise ve rol modeli ölürse Kurt olursun. Yoksa onun rol modelini alırsın.
-      Vampir Çiftgiden’i dönüştüremez. (ama Çiftgiden rolleri değiştirirse yapabilir.) Oyunun sonunda Çiftgiden aynıysa eğer o zaman kaybeder.(Aşık hariç)
-    </value>
+		Çiftgiden 🎭: \nAtaların başkalarının kılığına girebiliyordu... Fakat sen onların tüm gücüne sahip değilsin. Oyunun başında bir oyuncu seç ve o ölürse onun rolüne geçeceksin. Unutma! Çift Giden olarak kazanamazsın. Rol modelin öldüğü vakit onun takımıyla da oyunu kazanmak zorundasın. Rolüne kavuştuktan sonra herşeyin daha güzel olabileceğini düşünmüş olabilirsin ama şimid herşey daha da zorlaşacak.
+		Not: Eğer oyuncu Ubır olursa sen onun gerçek rolünü alacaksın. Eğer Yabani Çocuk ise ve rol modeli ölürse Kurt olursun. Yoksa onun rol modelini alırsın.
+		Ubır Çiftgiden’i dönüştüremez. (ama Çiftgiden rolleri değiştirirse yapabilir.) Oyunun sonunda Çiftgiden aynıysa eğer o zaman kaybeder.(Aşık hariç)
+	</value>
   </string>
   <string key = "AboutCupid">
     <value>
-      Havada aşk kokusu var! Eros olarak oyunun başında iki kişi seç (kendin ve Kelle Avcısı hariç). Bu iki kişiden biri ölürse diğeri de aşk acısından ölecek. :(
-      Not: Seçtiğin iki oyuncu kendi aralarında bağımsız bir takım olacak ve sen de onlara dahil olacaksın! Bu ilişkiyi üst seviyeye taşımak için onların 3. Ortağı olacaksın ve her zamankinden daha güçlü bir seviyedesiniz. Bir noktaya kadar onları desteklemeli ancak eninde sonunda ölmen gerekiyor. Eros olarak köylü takımındasın ve eğer aşıklar köy dışında farklı takımlarda ise (Kurt + Vampir/ Vampir + Zombi) ve köy takımı kazanırsa aşıklar kaybeder ama Eros kazanır. Senden önce aşıklar ölür ise Eros olarak yalnızca köylü takımına ait biri olacaksın. Aşıklar hayatta kalır ve kazanırlarsa sen de öldüğün için onlarla beraber kazanacaksın. Bu aşkın mimarı olarak çok fazla fedakarlık yapman gerekecek. Önce onları zafere giden yola getirmeli, ardından kendi ölümüne razı gelmelisin.
-    </value>
+		Eros 🏹: \nHavada aşk kokusu var! Eros olarak oyunun başında iki kişi seç (kendin ve Kelle Avcısı hariç). Bu iki kişiden biri ölürse diğeri de aşk acısından ölecek. :(
+		Not: Seçtiğin iki oyuncu kendi aralarında bağımsız bir takım olacak ve sen de onlara dahil olacaksın! Bu ilişkiyi üst seviyeye taşımak için onların 3. Ortağı olacaksın ve her zamankinden daha güçlü bir seviyedesiniz. Bir noktaya kadar onları desteklemeli ancak eninde sonunda ölmen gerekiyor. Eros olarak köylü takımındasın ve eğer aşıklar köy dışında farklı takımlarda ise (Kurt + Ubır/ Ubır + Zombi) ve köy takımı kazanırsa aşıklar kaybeder ama Eros kazanır. Senden önce aşıklar ölür ise Eros olarak yalnızca köylü takımına ait biri olacaksın. Aşıklar hayatta kalır ve kazanırlarsa sen de öldüğün için onlarla beraber kazanacaksın. Bu aşkın mimarı olarak çok fazla fedakarlık yapman gerekecek. Önce onları zafere giden yola getirmeli, ardından kendi ölümüne razı gelmelisin.
+	</value>
   </string>
   <string key = "AboutHunter">
     <value>
-      İntikam dolu mutlu bir tetikçi, kindar bir oyuncu. Avcı olarak kendini tutman lazım. Diğerleri seni ziyarete gelirse kendilerini ölü bulabilirler. Paranoyan devreye girer ve vurursun. Kurtlar sana saldırırsa birini de kendinle beraber götürme şansın var. Öbür türlü, ölürken birini vurma şansın var.
-      Not: Kurt saldırıları için şansın %30’dan başlıyor. Sadece bir Kurt varsa Avcı’nın Kurt’u öldürme şansı %50. Her bir ek Kurt için %25 eklenir. (2 Kurt = %75, 3 = %95 vs.) Öte yandan, birden fazla Kurt varsa birini öldürsen bile sen de öleceksin.
-      Vampirler seni dönüştürmeye çalışırsa %50 kaybetme şansları var. Kaybederlerse %50 şansla onlardan birini öldüreceksin!
-    </value>
+		Avcı 🎯: \nİntikam dolu mutlu bir tetikçi, kindar bir oyuncu. Avcı olarak kendini tutman lazım. Diğerleri seni ziyarete gelirse kendilerini ölü bulabilirler. Paranoyan devreye girer ve vurursun. Kurtlar sana saldırırsa birini de kendinle beraber götürme şansın var. Öbür türlü, ölürken birini vurma şansın var.
+		Not: Kurt saldırıları için şansın %30’dan başlıyor. Sadece bir Kurt varsa Avcı’nın Kurt’u öldürme şansı %50. Her bir ek Kurt için %25 eklenir. (2 Kurt = %75, 3 = %95 vs.) Öte yandan, birden fazla Kurt varsa birini öldürsen bile sen de öleceksin.
+		Ubırlar seni dönüştürmeye çalışırsa %50 kaybetme şansları var. Kaybederlerse %50 şansla onlardan birini öldüreceksin!
+	</value>
   </string>
   <string key = "AboutSK">
-    <value> Akıl hastanesi zaten sıkıcı bir yerdi. Şaka şaka. Şu anda özgürsün ama her zamanki işine dönmen lazım öldürmek! Seri Katil kendi takımında yalnız bir oyuncudur. Sadece son kalan oyuncu olursa oyunu kazanır (Aşık olma durumu hariç). Seri Katil olarak herhangi birini öldürebilirsin Kurtlar, avcılar, silahşör, koruyucu melekler her neyse. Kurtlar sana saldırırsa rastgele bir tanesini öldürürsün ve yaşamaya devam edersin. </value>
+    <value> Seri Katil 🔪: \nAkıl hastanesi zaten sıkıcı bir yerdi. Şaka şaka. Şu anda özgürsün ama her zamanki işine dönmen lazım öldürmek! Seri Katil kendi takımında yalnız bir oyuncudur. Sadece son kalan oyuncu olursa oyunu kazanır (Aşık olma durumu hariç). Seri Katil olarak herhangi birini öldürebilirsin Kurtlar, avcılar, silahşör, koruyucu melekler her neyse. Kurtlar sana saldırırsa rastgele bir tanesini öldürürsün ve yaşamaya devam edersin. </value>
   </string>
   <string key = "AboutPara">
     <value> Paranoyak insanlara havlamayı seven serseri bir yazılımcı. Belki de Kurt Adamlar’la çok fazla dalaştı. Kurt Adamlar’la dalaşmak kötü bir fikirdi. </value>
@@ -1091,25 +1091,25 @@
     <value> Gece karanlığı çökünce garip bir karıncalanma hissedersin ve vücudun dönüşmeye başladıkça sızlar… Şimdi bir Kurt Adam’sın! </value>
   </string>
   <string key = "AboutMayor">
-    <value> Muhtar sıradan bir köylüdür. Ta ki kendini açığa çıkarana kadar. Ondan sonra linç ederken oyun 2 oy sayılır. (Yani oyun herkesinkinden 2 kat güçlü olur.) Gücünü Köy Takımı için akıllıca kullan! </value>
+    <value> Muhtar 🎖: \nMuhtar sıradan bir köylüdür. Ta ki kendini açığa çıkarana kadar. Ondan sonra linç ederken oyun 2 oy sayılır. (Yani oyun herkesinkinden 2 kat güçlü olur.) Gücünü Köy Takımı için akıllıca kullan! </value>
   </string>
   <string key = "AboutPrince">
-    <value> Prenses, Köy Takımı stratejisinde anahtar bir rol oynar. Prenses linç edildiği zaman, rolü ortaya çıkar. Ve yaşamaya devam eder. Ama bu birkez olur ve rolleri açığa çıkar. Köylüler linç etmeye devam ederlerse ölür. </value>
+    <value> Prenses 👸: \nKöy Takımı stratejisinde anahtar bir rol oynar. Prenses linç edildiği zaman, rolü ortaya çıkar. Ve yaşamaya devam eder. Ama bu birkez olur ve rolleri açığa çıkar. Köylüler linç etmeye devam ederlerse ölür. </value>
   </string>
   <string key = "AboutSorcerer">
-    <value> Eski ihtiyar Gözcüyü hatırlıyor musun? İyi, şimdi Kurt Takımı’nda olma zamanı. Falcı kurtların gözcüsüdür. Kurtlarla beraber kazanırlar. Gözcüden çok daha iyisin çünkü taklitçi, kurdumsu ve Lycan senin kafanı karıştıramaz. Kristal küren her türden rolü algılayabilir. Tüm kurtlar öldüğü vakit emeklerini boşa gitmemesi uğruna sen de bir kurt adama dönüşeceksin! Daha önceden görüş güçlerinle ettiğin bilgiler sayesinde şimdi bir yırtıcısın! Gerisini köylüler düşünsün... </value>
+    <value> Falcı 🔮: \nEski ihtiyar Gözcüyü hatırlıyor musun? İyi, şimdi Kurt Takımı’nda olma zamanı. Falcı kurtların gözcüsüdür. Kurtlarla beraber kazanırlar. Gözcüden çok daha iyisin çünkü taklitçi, kurdumsu ve Lycan senin kafanı karıştıramaz. Kristal küren her türden rolü algılayabilir. Tüm kurtlar öldüğü vakit emeklerini boşa gitmemesi uğruna sen de bir kurt adama dönüşeceksin! Daha önceden görüş güçlerinle ettiğin bilgiler sayesinde şimdi bir yırtıcısın! Gerisini köylüler düşünsün... </value>
   </string>
   <string key = "AboutClumsy">
-    <value> Beceriksiz’sin. Keşke kahvaltıda o kadar alkol almasaydın. Lanet olası, önünü bile göremiyorsun! Bir de istediğin adama oy verebileceğini mi sanıyorsun? (Verdiğin oyda tuturma ihtimalin %50.)</value>
+    <value> Beceriksiz 🤕: \nKeşke kahvaltıda o kadar alkol almasaydın. Lanet olası, önünü bile göremiyorsun! Bir de istediğin adama oy verebileceğini mi sanıyorsun? (Verdiğin oyda tuturma ihtimalin %50.)</value>
   </string>
   <string key = "AboutBlacksmith">
-    <value> Demircisin. Biraz gümüş tozun kalmış olmalı. Kim bilir? Belki kurt saldırısını engelleyebilir bu gece. 🤔 </value>
+    <value> Demirci ⚒: \nBiraz gümüş tozun kalmış olmalı. Kim bilir? Belki kurt saldırısını engelleyebilir bu gece. 🤔 </value>
   </string>
   <string key = "AboutAlphaWolf">
-    <value> Sen Alfa Kurt’sun, lanetin kaynağı, pisliğin tekisin. Sen hayattayken kurt takımının yediği birinin kurtadama dönüşme ihtimali %25.. </value>
+    <value> Alfa Kurt ⚡️:  \nLanetin kaynağı, pisliğin tekisin. Sen hayattayken kurt takımının yediği birinin kurtadama dönüşme ihtimali %25.. </value>
   </string>
   <string key = "AboutWolfCub">
-    <value> Ayyyyy , ne tatlış bir minik kuçu kuçu! Gıdı, gıdı. Dediğim gibi, sen Yavru Kurt’sun. Biri seni öldürürse, kuçu kuçulara 2 kurban vereceksin. Ölmek için çok tatlısın. Daha fazla seni gıdıklayamayacağım. :( </value>
+    <value> Yavru Kurt 🐶: \nAyyyyy , ne tatlış bir minik kuçu kuçu! Gıdı, gıdı. Dediğim gibi, sen Yavru Kurt’sun. Biri seni öldürürse, kuçu kuçulara 2 kurban vereceksin. Ölmek için çok tatlısın. Daha fazla seni gıdıklayamayacağım. :( </value>
   </string>
 
   <!-- yeni dizeler 06 kas -->
@@ -1137,7 +1137,7 @@
     <value> SK Takımı </value>
   </string>
   <string key = "CultTeam">
-    <value> Vampir Takımı </value>
+    <value> Ubır Takımı </value>
   </string>
   <string key = "TannerTeam">
     <value> İblis Takımı </value>
@@ -1157,7 +1157,7 @@
     <value> SK Takımı </value>
   </string>
   <string key = "CultTeamEnd">
-    <value> Vampir Takımı </value>
+    <value> Ubır Takımı </value>
   </string>
   <string key = "TannerTeamEnd">
     <value> İblis Takımı </value>
@@ -1430,32 +1430,32 @@
     <value> Kurdumsu 👱🌚 </value>
   </string>
   <string key = "AboutWolfMan">
-    <value> Sen köylü gibi bir şeysin, zamanının çoğunu gerçek kurtların olduğu ormanda geçirdiğin için, Gözcünün kafası karışacak ve senin bir kurt adam olduğunu düşünecek! Oh hayır... </value>
+    <value> Kurdumsu 👱🌚: \nSen köylü gibi bir şeysin, zamanının çoğunu gerçek kurtların olduğu ormanda geçirdiğin için, Gözcünün kafası karışacak ve senin bir kurt adam olduğunu düşünecek! Oh hayır... </value>
   </string>
 
   <string key = "Lycan">
     <value> Lycan 🐺🌝 </value>
   </string>
   <string key = "AboutLycan">
-    <value> Lycan bir kurttur, ancak gözcüye bir köylü olarak görünecektir. :) </value>
+    <value> Lycan 🐺🌝: \nLycan bir kurttur, ancak gözcüye bir köylü olarak görünecektir. :) </value>
   </string>
 
   <string key = "Oracle">
     <value> Kâhin 🌀 </value>
   </string>
   <string key = "AboutOracle">
-    <value> Sen Kâhin'sin. Her gece birine bakmayı seçebilirsin, ama sadece o kişinin ne olmadığını görebileceksin. Oyunda hala hayatta olan bir başkasının rolü sana gösterilecek, bu yüzden hangi rolün söylendiğine dikkat edin, bu demek oluyor ki o rol hâlâ hayatta :) </value>
+    <value> Kâhin 🌀: \nHer gece birine bakmayı seçebilirsin, ama sadece o kişinin ne olmadığını görebileceksin. Oyunda hala hayatta olan bir başkasının rolü sana gösterilecek, bu yüzden hangi rolün söylendiğine dikkat edin, bu demek oluyor ki o rol hâlâ hayatta :) </value>
   </string>
 
   <string key = "Sandman">
     <value> Uyutucu 💤 </value>
   </string>
   <string key = "AboutSandman">
-    <value> Uyutucu, oyun başında bir kez, tüm oyuncuları o kadar derin bir uykuya sokabilir ki kimse gece yeteneklerini kullanamaz. </value>
+    <value> Uyutucu 💤: \nOyun başında bir kez, tüm oyuncuları o kadar derin bir uykuya sokabilir ki kimse gece yeteneklerini kullanamaz. </value>
   </string>
 
   <string key = "AboutPacifist">
-    <value> Sen Barışcılsın ☮️. Bir günlüğüne mahsus köydeki herkesi linç olmaması için ikna edebilirsin. Sadece bir kere yapılabilir. </value>
+    <value> Barışcıl ☮️: \nBir günlüğüne mahsus köydeki herkesi linç olmaması için ikna edebilirsin. Sadece bir kere yapılabilir. </value>
   </string>
 
   <string key = "Pacifist">
@@ -1515,7 +1515,7 @@
     <value> Beyaz Kurt 🐺❄️ </value>
   </string>
   <string key = "AboutSnowWolf">
-    <value> Beyaz kurt, karlı dağların kurdudur. Böylelikle buz ve karı kontrol etme sanatında ustalaşmıştır. Uzun süre yalnız yaşadığı için beyaz kurt ayrı ayrı saldırmayı tercih ediyor. Birini sürü ile beraber yemek yerine, gece boyunca donması için başka bir kurbanı seçebilir; bu şekilde kurbanlarının gece aksiyonları uygulamasını imkansız hale getirir. Ancak kurbanı gücünün kalıntılarına sahip olacak ve iki gece arka arkaya dondurulamayacak. </value>
+    <value> Beyaz kurt 🐺❄️. \nKarlı dağların kurdudur. Böylelikle buz ve karı kontrol etme sanatında ustalaşmıştır. Uzun süre yalnız yaşadığı için beyaz kurt ayrı ayrı saldırmayı tercih ediyor. Birini sürü ile beraber yemek yerine, gece boyunca donması için başka bir kurbanı seçebilir; bu şekilde kurbanlarının gece aksiyonları uygulamasını imkansız hale getirir. Ancak kurbanı gücünün kalıntılarına sahip olacak ve iki gece arka arkaya dondurulamayacak. </value>
   </string>
   <string key = "AskFreeze">
     <value> Bu gece kimi dondurmak istersin? </value>
@@ -1554,7 +1554,7 @@
     <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Kapının önünde sessizce bu garip esaret biçimine küfrediyorsun. </value>
   </string>
   <string key = "Kültist Dondurulmuş">
-    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Vampir arkadaşların, içinde bulunduğun durumu gördüklerinde sana gülüyorlar. </value>
+    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Ubır arkadaşların, içinde bulunduğun durumu gördüklerinde sana gülüyorlar. </value>
   </string>
   <string key = "CHFrozen">
     <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Kalçan saatlerce bu pozisyonda kaldıktan sonra yorulmaya başlar. </value>
@@ -1634,7 +1634,7 @@
   </string>
   <string key = "CultTargetSheriffed">
     <!-- 0 - hedefin adı -->
-    <value> En yeni vampir üyesi {0} 'i evinde kendisine çevirmeye gitti, ancak Şerifi izlerken buldu, bu yüzden başarısız bir şekilde geri döndü. </value>
+    <value> En yeni Ubır üyesi {0} 'i evinde kendisine çevirmeye gitti, ancak Şerifi izlerken buldu, bu yüzden başarısız bir şekilde geri döndü. </value>
   </string>
 
   <string key = "Ateist">
@@ -1648,14 +1648,14 @@
     <value> Survivor ⛺️ </value>
   </string>
   <string key = "AboutSurvivor">
-    <value> Survivor İblis gibi serbest takılır. Ama amacı iblisin tam tersi, ne olursa olsun hayatta kalmalı ve sonuna kadar hayatta kalmak için istediği tarafla ittifak kurabilir... </value>
+    <value> Survivor ⛺️: \nİblis gibi serbest takılır. Ama amacı iblisin tam tersi, ne olursa olsun hayatta kalmalı ve sonuna kadar hayatta kalmak için istediği tarafla ittifak kurabilir... </value>
   </string>
 
   <string key = "Sheriff">
     <value> Şerif 🤠 </value>
   </string>
   <string key = "AboutSheriff">
-    <value> Şerifin rolü çok önemlidir. Aynı zamanda araştırmacı ve koruyucu bir roldür. Her gece, bir oyuncunun evinden ayrılıp yada evde kaldığını anlayabilirsin. Elbette yakında eve döner, böylece devriyeye çıksa bile vampirler onu dönüştürebilir. </value>
+    <value> Şerif 🤠: \nKöyde önemli bir pozisyona sahiptir. Aynı zamanda araştırmacı ve koruyucu bir roldür. Her gece, bir oyuncunun evinden ayrılıp yada evde kaldığını anlayabilirsin. Elbette yakında eve döner, böylece devriyeye çıksa bile Ubırlar onu dönüştürebilir. </value>
   </string>
 
   <string key = "Police">
@@ -1665,14 +1665,14 @@
     <value> Cehennem Kurdu 🐺🔥 </value>
   </string>
   <string key = "AboutFireWolf">
-    <value> Cehennem kurdu yemek yerken tek başına gider ama kurt sürüsüne aittir. Her gece bir oyuncuyu yakabilirsin. Beyaz kurt gibisin ama fark şu ki, sonunda kurbanlarını kömürleştiriyorsun. </value>
+    <value> Cehennem Kurdu 🐺🔥: \nCehennem kurdu yemek yerken tek başına gider ama kurt sürüsüne aittir. Her gece bir oyuncuyu yakabilirsin. Beyaz kurt gibisin ama fark şu ki, sonunda kurbanlarını kömürleştiriyorsun. </value>
   </string>
 
   <string key = "HungryWolf">
     <value> Aç Kurt 🐺🍽 </value>
   </string>
   <string key = "AboutHungryWolf">
-    <value> Aç Kurt çok güçlü bir kurttur. Yaşadığı sürece, kurbanları tanınmaz halde bırakma şansı %40'tır. Bu nedenle köylüler öldükten sonra rollerini göremeyecekler . </value>
+    <value> Aç Kurt 🐺🍽: \nOldukça güçlü bir kurttur. Yaşadığı sürece, kurbanları tanınmaz halde bırakma şansı %40'tır. Bu nedenle köylüler öldükten sonra rollerini göremeyecekler . </value>
   </string>
 
   <string key = "AskDouse">
@@ -1721,14 +1721,14 @@
     <value> Taklitçi ❌ </value>
   </string>
   <string key = "AboutImposter">
-    <value> Taklitçi tıpkı Falcı gibi kurtların müttefikidir. Gecenin başında seçtiği bir oyuncuyu taklit edebilir. Öldüğü zaman taklit ettiği rol olarak gözükür, hatta dedektif ve gözcü de onu taklit ettiği rol olarak görür. Bu yüzden köylülerin kafasını oldukça karıştırmış olacak. Bir Kurdu taklit edersen ona mesaj atmaktan sakın çekinme! Tüm kurtlar öldüğünde emeklerinin boşa gitmemesi için bir kurt adama dönüşeceksin! Müttefik gibi müttefik... </value>
+    <value> Taklitçi ❌: \nTıpkı Falcı gibi kurtların müttefikidir. Gecenin başında seçtiği bir oyuncuyu taklit edebilir. Öldüğü zaman taklit ettiği rol olarak gözükür, hatta dedektif ve gözcü de onu taklit ettiği rol olarak görür. Bu yüzden köylülerin kafasını oldukça karıştırmış olacak. Bir Kurdu taklit edersen ona mesaj atmaktan sakın çekinme! Tüm kurtlar öldüğünde emeklerinin boşa gitmemesi için bir kurt adama dönüşeceksin! Müttefik gibi müttefik... </value>
   </string>
 
   <string key = "Baker">
     <value> Fırıncı 🍞 </value>
   </string>
   <string key = "AboutBaker">
-    <value> Fırıncı, köyden bir roldür. Ölürse köylülerde öyle bir üzüntü yaratacak ki bir gün linç edilmeyecekler. Bu nedenle, kurtlar seni öldürmek isteyeceği için saklanman önemlidir. Dikkatli ol, AFK'dan ölmemek de önemlidir, bu yüzden intihar etmek bir seçenek değildir. </value>
+    <value> Fırıncı 🍞: \nKöyden bir roldür. Ölürse köylülerde öyle bir üzüntü yaratacak ki bir gün linç edilmeyecekler. Bu nedenle, kurtlar seni öldürmek isteyeceği için saklanman önemlidir. Dikkatli ol, AFK'dan ölmemek de önemlidir, bu yüzden intihar etmek bir seçenek değildir. </value>
   </string>
 
   <string key = "AskImposter">
@@ -1775,14 +1775,14 @@
     <value> Şifacı 🌟 </value>
   </string>
   <string key = "AboutHealer">
-    <value> Şifacı mistik güçlere sahip eşsiz bir köy rolüdür. 2. Geceden itibaren köyden ölen herhangi bir rolü hayata geri dödürebilir. Gecenin yaratıklarından veya solo rollerden herhangi birini diriltemezsin. Tanınmaz haldeki bir oyuncuyu diriltemezsen bil ki o kötü roldür.</value>
+    <value> Şifacı 🌟: \nMistik güçlere sahip eşsiz bir köy rolüdür. 2. Geceden itibaren köyden ölen herhangi bir rolü hayata geri dödürebilir. Gecenin yaratıklarından veya solo rollerden herhangi birini diriltemezsin. Tanınmaz haldeki bir oyuncuyu diriltemezsen bil ki o kötü roldür.</value>
   </string>
 
   <string key = "RabidWolf">
     <value> Kuduz Kurt 🐺🤢 </value>
   </string>
   <string key = "AboutRabidWolf">
-    <value> Kuduz Kurt yeryüzünde Alfa Kurt tarafından enfeksiyon kapmış ilk kurttur. Sürü ve Alfa için çok değerlidir. Herhangi bir yolla kuduz kurt öldüğü zaman (AFK hariç) Alfa kurt bir sonraki saldırısında 100% enfeksiyon şansına sahip olacaktır. Bu döngü her bir kuduz öldüğünde sonsuza dek devam eder. Ancak Alfa kurt öldürüldüğü zaman Kuduz kurt işlevini yitirecektir. </value>
+    <value> Kuduz Kurt 🐺🤢: \nYeryüzünde Alfa Kurt tarafından enfeksiyon kapmış ilk kurttur. Sürü ve Alfa için çok değerlidir. Herhangi bir yolla kuduz kurt öldüğü zaman (AFK hariç) Alfa kurt bir sonraki saldırısında 100% enfeksiyon şansına sahip olacaktır. Bu döngü her bir kuduz öldüğünde sonsuza dek devam eder. Ancak Alfa kurt öldürüldüğü zaman Kuduz kurt işlevini yitirecektir. </value>
   </string>
 
   <string key = "DGTransformToRabidWolf">
@@ -1800,7 +1800,7 @@
     <value> Uyurgezer 😴 </value>
   </string>
   <string key = "AboutSleepwalker">
-    <value> Uyurgezer sadece başka sıradan bir köylüdür. Aradaki fark, her gece bilinçsiz şekilde evi terk etme şansı %80 ve o gece saldırganlara karşı bağışıklılığı olacaktır. Ancak uyurgezer bile kendisinin ne olduğunu bilmiyor ve sadece normal bir köylü olduğunu düşünecek. </value>
+    <value> Uyurgezer 😴: \nSadece başka sıradan bir köylüdür. Aradaki fark, her gece bilinçsiz şekilde evi terk etme şansı %80 ve o gece saldırganlara karşı bağışıklılığı olacaktır. Ancak uyurgezer bile kendisinin ne olduğunu bilmiyor ve sadece normal bir köylü olduğunu düşünecek. </value>
   </string>
 
   <string key = "MinutesLeftToJoin">
@@ -1812,7 +1812,7 @@
     <value> Otacı 🍃 </value>
   </string>
   <string key = "AboutHerbalist">
-    <value> Otacı, şifalı bitkilerde uzman olan bir köylüdür. Köydeki kurt adamların ortaya çıkması nedeniyle, her gece zehirlemek için başka bir oyuncuyu ziyaret edecek. Hedef, zehirlendiklerini bilecek ve ertesi gece ölecek. Bir panzehir var, ancak kararından pişman olursa ertesi gece ona verebilecek olan otacının sadece kendisi tarafından biliniyor. </value>
+    <value> Otacı 🍃: \nŞifalı bitkilerde uzman olan bir köylüdür. Köydeki kurt adamların ortaya çıkması nedeniyle, her gece zehirlemek için başka bir oyuncuyu ziyaret edecek. Hedef, zehirlendiklerini bilecek ve ertesi gece ölecek. Bir panzehir var, ancak kararından pişman olursa ertesi gece ona verebilecek olan otacının sadece kendisi tarafından biliniyor. </value>
   </string>
   <string key = "HerbalistPoisonedYou">
     <value> Kahvaltını bitiriri bitirmez midende bir hazımsızlık hissetmeye başladın... Görünüşe göre zehirlenmişsin! Panzehir almazsan sonraki gece öleceksin. </value>
@@ -1848,7 +1848,7 @@
     <value> Ninja 🥷 </value>
   </string>
   <string key = "AboutNinja">
-    <value> Ninja 🥷, köyün bir rolüdür. Her gece uyanık kalmaya veya uyumaya karar verebilirsin. Uyanık kalmaya karar verirsen, tetikte olacaksın ve seni ziyaret eden ilk saldırgandan saklanacaksın. Ancak, seni ziyaret etmezlerse, ertesi gece dinlenmelisin. Ek olarak, sen saklanırken seri katil tarafından bulunma şansın %50'dir. </value>
+    <value> Ninja 🥷: \nKöyün bir rolüdür. Her gece uyanık kalmaya veya uyumaya karar verebilirsin. Uyanık kalmaya karar verirsen, tetikte olacaksın ve seni ziyaret eden ilk saldırgandan saklanacaksın. Ancak, seni ziyaret etmezlerse, ertesi gece dinlenmelisin. Ek olarak, sen saklanırken seri katil tarafından bulunma şansın %50'dir. </value>
   </string>
   <string key = "NinjaHidden">
     <value> Hazır pusudayken birinin yaklaştığını fark edersin. O ayrılana kadar sessizlikle varlığını hissetirmedin. (Birisi seni ziyaret etti) </value>
@@ -1942,7 +1942,7 @@
     <value> Koklayıcı Kurt 🐾 </value>
   </string>
   <string key = "AboutSnooper">
-    <value> Koklayıcı kurt, beyaz kurt gibi bir destek kurdudur. Her gece, bir oyuncunun gece uyanık olup olmadığını (gece aksiyonunun olup olmadığını) anlamak için gözetleyebilirsin. Ayrıca, güçlü kokusu nedeniyle hedefinin sarhoş mu, fırıncı mı yoksa otacı mı olduğunu belirleyebilirsin. Kurtların geri kalanı ölürse normal bir kurda dönüşürsün. Ayrıca, alfa kurt dedektifi enfekte ederse, dedektif koklayıcı kurda dönüşecektir. </value>
+    <value> Koklayıcı kurt 🐾: \nBeyaz kurt gibi bir destek kurdudur. Her gece, bir oyuncunun gece uyanık olup olmadığını (gece aksiyonunun olup olmadığını) anlamak için gözetleyebilirsin. Ayrıca, güçlü kokusu nedeniyle hedefinin sarhoş mu, fırıncı mı yoksa otacı mı olduğunu belirleyebilirsin. Kurtların geri kalanı ölürse normal bir kurda dönüşürsün. Ayrıca, alfa kurt dedektifi enfekte ederse, dedektif koklayıcı kurda dönüşecektir. </value>
   </string>
   <string key = "AskSnoop">
     <value> Kimi koklamak istiyorsun? </value>
@@ -2023,21 +2023,21 @@
     <value> Hızlı Kurt 🐺💨 </value>
   </string>
   <string key = "AboutSpeedWolf">
-    <value> Hızlı Kurt sürünün en hızlısıdır ve o gün linç edilmekten kaçmak için bir kez kaçabilir. Ancak böyle yaparak herkes hızlı kurt olduğunu bilecek ve ertesi gün linç edecekler. Doğru anı bekle! </value>
+    <value> Hızlı Kurt 🐺💨: \nSürünün en hızlısıdır ve o gün linç edilmekten kaçmak için bir kez kaçabilir. Ancak böyle yaparak herkes hızlı kurt olduğunu bilecek ve ertesi gün linç edecekler. Doğru anı bekle! </value>
   </string>
 
   <string key = "Lookout">
     <value> Nöbetçi 🔭 </value>
   </string>
   <string key = "AboutLookout">
-    <value> Nöbetçi, her gece birinin evine bakabilen çok meraklı bir köylüdür. O gece evini gözlediğin kişinin ziyaretçileri varsa hepsinin isimlerini bileceksin. Ancak, hedefine saldırılırsa, yalnızca kurtlardan birinin adını görebilirsin. </value>
+    <value> Nöbetçi 🔭: \nHer gece birinin evine bakabilen çok meraklı bir köylüdür. O gece evini gözlediğin kişinin ziyaretçileri varsa hepsinin isimlerini bileceksin. Ancak, hedefine saldırılırsa, yalnızca kurtlardan birinin adını görebilirsin. </value>
   </string>
 
   <string key = "Guard">
     <value> Muhafız 🛡 </value>
   </string>
   <string key = "AboutGuard">
-    <value> Muhafız, köylü gibi tekrar eden bir roldür. Her gece bir oyuncuyu savunabilir ve saldırıya uğrarsa onu kurtarmak için %20 şansı vardır. Birden fazla koruma aynı kişiyi savunursa, olasılıkları artar ve 5 muhafız ile mükemmel bir kombinasyon oluşturarak kusursuz bir savunma oluşturulur. Ayrıca, oyunda muhafız varsa, minimum 2 kişi olacaklardır. </value>
+    <value> Muhafız 🛡: \nKöylü gibi tekrar eden bir roldür. Her gece bir oyuncuyu savunabilir ve saldırıya uğrarsa onu kurtarmak için %20 şansı vardır. Birden fazla koruma aynı kişiyi savunursa, olasılıkları artar ve 5 muhafız ile mükemmel bir kombinasyon oluşturarak kusursuz bir savunma oluşturulur. Ayrıca, oyunda muhafız varsa, minimum 2 kişi olacaklardır. </value>
   </string>
 
   <string key = "SpeedWolfRunning">
@@ -2151,7 +2151,7 @@
     <value> Kâbus Kurdu 🐺🌕 </value>
   </string>
   <string key = "AboutHowlingWolf">
-    <value> Kâbus kurdu, sürüdeki ürpertici kurtlardan biridir. Sürüdeki yırtıcı kurtlardan biri olması yanı sıra, her dolunay vakti köyün yüksek dağlarında ulumaya başlar. Bu sayede köydeki bütün herkesin kâbuslarına girer ve onları korkutarak gece aksiyonlarını engeller. Kelle Avcısı, Seri Katil, İllüzyonist, kısacası kurt sürüsündekiler hariç herkes Kâbus kurdu yaşadığı müddetçe dolunay zamanlarında gece aksiyonlarını gerçekleştiremeyecek. </value>
+    <value> Kâbus kurdu 🐺🌕: \nSürüdeki ürpertici kurtlardan biridir. Sürüdeki yırtıcı kurtlardan biri olması yanı sıra, her dolunay vakti köyün yüksek dağlarında ulumaya başlar. Bu sayede köydeki bütün herkesin kâbuslarına girer ve onları korkutarak gece aksiyonlarını engeller. Kelle Avcısı, Seri Katil, İllüzyonist, kısacası kurt sürüsündekiler hariç herkes Kâbus kurdu yaşadığı müddetçe dolunay zamanlarında gece aksiyonlarını gerçekleştiremeyecek. </value>
   </string>
 
   <string key = "AskSave">
@@ -2176,13 +2176,13 @@
     <value> İtfaiyeci 👨‍🚒 </value>
   </string>
   <string key = "AboutFirefighter">
-    <value> İtfaiyeci koruyucu bir roldür. Her gece bir oyuncuyu (kendisi dahil) seri katil dışında herhangi bir tehlikeden kurtarabilir. Bununla birlikte, yanlışlıkla saldırıya uğramayan birini ziyaret edersen, bir sonraki gece tekrar onu rahatsız edemezsin. \n\nEn yüksek rütbeye ulaşan ilk oyuncu olan Chris tarafından tasarlanan roldür. </value>
+    <value> İtfaiyeci 👨‍🚒: \nKoruyucu bir roldür. Her gece bir oyuncuyu (kendisi dahil) seri katil dışında herhangi bir tehlikeden kurtarabilir. Bununla birlikte, yanlışlıkla saldırıya uğramayan birini ziyaret edersen, bir sonraki gece tekrar onu rahatsız edemezsin. \n\nEn yüksek rütbeye ulaşan ilk oyuncu olan Chris tarafından tasarlanan roldür. </value>
   </string>
   <string key = "Ghost">
     <value> Hayalet 👻 </value>
   </string>
   <string key = "AboutGhost">
-    <value> Hayalet, ölümden sonra bile linç etmeye devam etme gücüne sahip köyün bir rolüdür. Aksi takdirde, normal bir köylü gibidir. </value>
+    <value> Hayalet 👻: \nÖlümden sonra bile linç etmeye devam etme gücüne sahip köyün bir rolüdür. Aksi takdirde, normal bir köylü gibidir. </value>
   </string>
   <string key = "harlotvisitwise">
     <value> Yaşlı Bilgeyi ziyaret etme hatasını yaptın. Ne yazık ki, ne kadar akıllı olursa olsun o da biraz tatmin duygusu yaşamak istiyordu, o kadar çok eğlendin ki ona kalp krizi geçirttin ve öldü. </value>
@@ -2213,7 +2213,7 @@
     <value> Kuşlar sana, köyde {0} rolünün olmadığını söylüyor. </value>
   </string>
   <string key = "AboutAugur">
-    <value> Sen Müneccimsin 🦅. Kartal gibi gözlerin var. Her gece hangi rolün oyunda mevcut olmadığını anlayabilirsin. Ayrıca aynı rolün iki kez olmadığı söylenmeyecek. </value>
+    <value> Müneccim 🦅: \nKartal gibi gözlerin var. Her gece hangi rolün oyunda mevcut olmadığını anlayabilirsin. Ayrıca aynı rolün iki kez olmadığı söylenmeyecek. </value>
   </string>
   <string key = "AugurSeesNothing">
     <value> Bugün gökyüzünde kesinlikle kuş yok.  Bu muhtemelen köyde olmayan tüm rolleri gördüğün anlamına geliyor... </value>
@@ -2233,7 +2233,7 @@
     <value> Baş Belası 🤯 </value>
   </string>
   <string key = "AboutTroublemaker">
-    <value> Baş belası, köyden gelen belalı gençtir. Çığlık atmaya başladığında tüm köy kontrolü kaybeder. Çok sinirlenen köylüler o gün 2 kez linç edecekler! </value>
+    <value> Baş Belası 🤯: \nKöyden gelen belalı bir gençtir. Çığlık atmaya başladığında tüm köy kontrolü kaybeder. Çok sinirlenen köylüler o gün 2 kez linç edecekler! </value>
   </string>
   <string key = "AskTroublemaker">
     <value> Bugün bela çıkarmak ister misiniz? </value>
@@ -2291,7 +2291,7 @@
   <!-- SEPULTURERO -->
 
   <string key = "AboutGraveDigger">
-    <value> Sen Mezarcısın ☠️. Sen ölenler için mezar kazıyorsun (evet, kurtadamlar bile cenazeyi hakediyor). Kurtadamlar ve vampirler bütün gece dışarıda oldukları için mezar kazarken şans eseri onları öldürülebilirsin. Ancak seni ziyaret ettiklerinde evde kimseyi bulamazlar. Eğer kimse ölmemişse doğal olarak mezar kazamayacağın için evde olacaksın bu sefer kurtlara ve seri katillere karşı hazırlı olsan iyi edersin çünkü tırpanla gelir en dürüst melek..</value>
+    <value> Mezarcı ☠️: Sen ölenler için mezar kazıyorsun (evet, kurtadamlar bile cenazeyi hakediyor). Kurtadamlar ve Ubırlar bütün gece dışarıda oldukları için mezar kazarken şans eseri onları öldürülebilirsin. Ancak seni ziyaret ettiklerinde evde kimseyi bulamazlar. Eğer kimse ölmemişse doğal olarak mezar kazamayacağın için evde olacaksın bu sefer kurtlara ve seri katillere karşı hazırlı olsan iyi edersin çünkü tırpanla gelir en dürüst melek..</value>
   </string>
   <string key = "RoleInfoGraveDigger">
     <value> Sen Mezarcısın ☠️. Köylülerin cesetlerini atmak senin sorumluluğundadır. Dün gece öldürülen herkes için bir mezar kazarsın. Her halükarda, genellikle mezarı bitiremeyecek kadar yorgunsun, bu yüzden bazı mezarlar açıkta bırakılır. Bazı ziyaretçiler onların içine düşebilir ve ölebilir. Ama geceleri dışarıda olduğun için, kurtlar ve katil seni yolda bulup öldürebilir ve ne kadar çok mezar kazman gerekiyorsa, bunun gerçekleşmesi o kadar olasıdır. </value>
@@ -2438,7 +2438,7 @@
     <value> Kimyager 👨‍🔬 </value>
   </string>
   <string key = "AboutChemist">
-    <value> Kimyager, iksir yapmayı seven ve bunu köylülere içirmeyi seven dengesiz bir kişidir. İksirlerinden ikisini karıştıracak ve diğerlerine birini tatmaya zorlayacak. Bir iksir basit rose şarabıdır, diğeri ise anında hayatına son verecek zehirli bir iksir. Bol şans! </value>
+    <value> Kimyager 👨‍🔬: \nİksir yapmayı seven ve bunu köylülere içirmeyi seven dengesiz bir kişidir. İksirlerinden ikisini karıştıracak ve diğerlerine birini tatmaya zorlayacak. Bir iksir basit rose şarabıdır, diğeri ise anında hayatına son verecek zehirli bir iksir. Bol şans! </value>
   </string>
   <string key = "ChemistBrewing">
     <value> Diğer köylüler yatağa girerken, bir sonraki gece için iksirlerini hazırlamak için laboratuvarında uyanıksın. Kurtlar tarafından yakalanmadığından emin ol. </value>
@@ -2489,14 +2489,14 @@
   </string>
 
   <string key = "AboutWiseElder">
-    <value> Yaşlı Bilge, kurt adam saldırısından yalnızca bir kez sağ çıkabilecektir bir dahaki sefere kurtlar yemek isterse onu kolaylıkla öldürebilecek. Silahşör, avcı veya kimyager tarafından öldürülürse, güçlerini kaybedecekler ve köylü olarak hayatlarına devam ederler. Yancı onu ziyaret ederse, ölme şansı %50 dir. </value>
+    <value> Yaşlı Bilge 📚: \nKurt adam saldırısından yalnızca bir kez sağ çıkabilecektir bir dahaki sefere kurtlar yemek isterse onu kolaylıkla öldürebilecek. Silahşör, avcı veya kimyager tarafından öldürülürse, güçlerini kaybedecekler ve köylü olarak hayatlarına devam ederler. Yancı onu ziyaret ederse, ölme şansı %50 dir. </value>
   </string>
   <string key = "Policeculpable">
     <!-- 0 - hedefin adı -->
     <value> {0}'i uzun bir süre sorguladıktan sonra, onun zindanda olması gerektiğinden artık eminsin! </value>
   </string>
   <string key = "AboutPolice">
-    <value> Jandarma, köylü ya da Mason gibidir: birkaç tane olabilir. Her gece bir oyuncuyu sorgulayabilirsiniz. Sorgulama sonucunda 3 olasılık vardır; ya sorguladığın kişinin suçlu olduğuna kanaat getireceksin, ya masum olduğuna kesninlikle inanacaksın ya da sorgulama sonucunda hiçbir şey elde edemeyeceksin (suçlu veya masum olduğunu bilemeyeceksin). </value>
+    <value> Jandarma 🪖: \nKöylü ya da Mason gibidir, birkaç tane olabilir. Her gece bir oyuncuyu sorgulayabilirsiniz. Sorgulama sonucunda 3 olasılık vardır; ya sorguladığın kişinin suçlu olduğuna kanaat getireceksin, ya masum olduğuna kesninlikle inanacaksın ya da sorgulama sonucunda hiçbir şey elde edemeyeceksin (suçlu veya masum olduğunu bilemeyeceksin). </value>
   </string>
   <string key = "RoleInfoTraitor2">
     <value> Hain! Şimdilik bir köylüsün, ancak köyde işlerin bu şekilde yürümesinden sıkıldığın için, kurt adamların geri kalanı öldüğünde onlardan biri olacaksın. </value>
@@ -2508,10 +2508,10 @@
     <value> Tüm kurt adamların öldüğünü görmek, hayvanlardan hoşlandığın için çok üzülmene neden oldu, bu yok oluşun devam ettiğini görünce onlardan birinin kanıyla kurt adam olmak için bir sihir yapmaya karar verdin. Köydeki en büyük hainsin. </value>
   </string>
   <string key = "AboutTraitor">
-    <value> Sen pis bir hainsin. Gözcü seni bir köylü ya da kurt olarak görebilir. Nüfusun üçte ikisi ölünceye veya tüm kurtlar ölene kadar kimseye ihanet etmek istemeyeceksin. </value>
+    <value> Hain 🖕: \nSen pis bir hainsin. Gözcü seni bir köylü ya da kurt olarak görebilir. Nüfusun üçte ikisi ölünceye veya tüm kurtlar ölene kadar kimseye ihanet etmek istemeyeceksin. </value>
   </string>
   <string key = "AboutCursed">
-    <value> Lanetli gibi, bir zamanlar bir çingene sana ömür boyu lanet etmesine rağmen onu tamamen görmezden gelen basit bir köylüsün. Kurt adamlar seni ısırırsa, sen de kurt adam olacaksın! Çingene'nin sana lanet okuduğu gün olmaz olsun, şimdi her gece sevgili köylülerini kendi isteğin dışında avlamalısın. </value>
+    <value> Lanetli 😾: \nBir zamanlar bir çingene sana ömür boyu lanet etmesine rağmen onu tamamen görmezden gelen basit bir köylüsün. Kurt adamlar seni ısırırsa, sen de kurt adam olacaksın! Çingene'nin sana lanet okuduğu gün olmaz olsun, şimdi her gece sevgili köylülerini kendi isteğin dışında avlamalısın. </value>
   </string>
   <string key = "skytoplayerNotHome">
     <!-- 0 - oyuncu adı -->
@@ -2577,10 +2577,10 @@
   </string>
   <string key = "AboutNecro">
     <value>
-      Ölüm bir son değil, başlangıçtır! Reenkarnist, öldürülen birinin rolünü seçme yeteneğine sahiptir. Geceleri Reenkarnist, oyunun geri kalanı için ölü bir adamın rolü olmayı seçebilir. Reenkarnist kalmayı seçerek bir oyunu kazanamaz. Reenkarnist ve Çiftgiden aynı oyunda görünmeyecek.
-      Not: Reenkarnist rolüne sahip bir oyuncu bir vampirin rolünü seçerse, orijinal rolünü alır ancak saf vampir olan bir oyuncuyu seçerse de vampir olur. Diğerleri için normal kurallar geçerlidir. Eğer o yabani çocuksa ve rol modeli ölmüşse, bir kurt adam olacak. Aksi takdirde, onların rol modelini devralacak.
-      Vampir Reenkarnisti dönüştüremez (ancak rolleri değiştirdikten sonra yapabilir). Dikkat: Reenkarnist, rollerini değiştirmediyse kazanamaz. Oyunun sonunda, Reenkarnist hâlâ ölü bir adamın rolünü kopyalamazsa, kaybeder (istisna: aşıklar).
-    </value>
+		Reenkarnist ⚰️: \nÖlüm bir son değil, başlangıçtır! Reenkarnist, öldürülen birinin rolünü seçme yeteneğine sahiptir. Geceleri Reenkarnist, oyunun geri kalanı için ölü bir adamın rolü olmayı seçebilir. Reenkarnist kalmayı seçerek bir oyunu kazanamaz. Reenkarnist ve Çiftgiden aynı oyunda görünmeyecek.
+		Not: Reenkarnist rolüne sahip bir oyuncu bir Ubırın rolünü seçerse, orijinal rolünü alır ancak saf Ubır olan bir oyuncuyu seçerse de Ubır olur. Diğerleri için normal kurallar geçerlidir. Eğer o yabani çocuksa ve rol modeli ölmüşse, bir kurt adam olacak. Aksi takdirde, onların rol modelini devralacak.
+		Ubır Reenkarnisti dönüştüremez (ancak rolleri değiştirdikten sonra yapabilir). Dikkat: Reenkarnist, rollerini değiştirmediyse kazanamaz. Oyunun sonunda, Reenkarnist hâlâ ölü bir adamın rolünü kopyalamazsa, kaybeder (istisna: aşıklar).
+	</value>
   </string>
   <string key = "necroToFireWolf">
     <value> Reenkarnist, {0}, yeni cehennem kurdu oldu! </value>
@@ -2590,7 +2590,7 @@
   </string>
 
   <string key = "EmojisCustom">
-    <value> Belirli roller: Rol emojilerini, /rolelist ile görebilirsiniz \n❓ - Rastgele rol \n✅ - Rastgele köy rolü (hain , lanetli, yabani çocuk yok) \n❎ - Rastgele köy rolü (hain , lanetli, yabani çocuk var) \n⚠️ - Rastgele Kurt, SK veya Kuklacı \n⚠️👤 - Rastgele Kurt, SK, Kuklacı veya Vampir \n🆘 - Rastgele Kurt \n🚫 - Rastgele Kurt Takımı \n✳️ - Survivor, Çiftgiden , Reenkarnist veya İblis \n120 - Eros, yabani çocuk, çiftgiden, reenkarnist veya taklitçi \n🔪🔥 - SK veya kuklacı </value>
+    <value> Belirli roller: Rol emojilerini, /rolelist ile görebilirsiniz \n❓ - Rastgele rol \n✅ - Rastgele köy rolü (hain , lanetli, yabani çocuk yok) \n❎ - Rastgele köy rolü (hain , lanetli, yabani çocuk var) \n⚠️ - Rastgele Kurt, SK veya Kuklacı \n⚠️👤 - Rastgele Kurt, SK, Kuklacı veya Ubır \n🆘 - Rastgele Kurt \n🚫 - Rastgele Kurt Takımı \n✳️ - Survivor, Çiftgiden , Reenkarnist veya İblis \n120 - Eros, yabani çocuk, çiftgiden, reenkarnist veya taklitçi \n🔪🔥 - SK veya kuklacı </value>
   </string>
 
   <string key = "NewnecroRoleModel">
@@ -2610,7 +2610,7 @@
 	</value>
   </string>
   <string key = "AboutBeauty">
-    <value> Sen Afetsin, köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana, hatta kurtlar bile sana aşık olacak. Aşıkların kazanırsa sende kazanırsın. Seni ziyaret edenler linç edilerek ölürse hayatta kalabilirsin. Son ziyaretçin kazanırsa rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, seni öldürebilir ve sana aşık olmayacak. </value>
+    <value> Afet 💅: \nKöydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana, hatta kurtlar bile sana aşık olacak. Aşıkların kazanırsa sende kazanırsın. Seni ziyaret edenler linç edilerek ölürse hayatta kalabilirsin. Son ziyaretçin kazanırsa rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, seni öldürebilir ve sana aşık olmayacak. </value>
   </string>
 
   <string key = "StartingGameWait">
@@ -2647,7 +2647,7 @@
     <value> Gece eylemi var, hedefinin kim olacağını seçin. </value>
   </string>
   <string key = "AboutTiti">
-    <value> Sen Kukla Ustasısın. Başkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişinin eğer ki gece aksiyonu varsa onu istediğin gibi yönlendirebileceksin. Öte yandan aksiyonu olmayan oyuncuların ise intihar etmesini sağlayabilirsin. </value>
+    <value> Kukla Ustası 🕴: \nBaşkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişinin eğer ki gece aksiyonu varsa onu istediğin gibi yönlendirebileceksin. Öte yandan aksiyonu olmayan oyuncuların ise intihar etmesini sağlayabilirsin. </value>
   </string>
   <string key = "Titi">
     <value> Kukla Ustası 🕴 </value>
@@ -2700,7 +2700,7 @@
     <value> Kelle Avcısı 🌙 </value>
   </string>
   <string key = "Aboutcazadornoche">
-    <value> O eski yobaz avcısı olan çelimsiz Tarikatçı Avcısını hatırlıyor musun? Her ne kadar sığ bir topluluğun sonunu getirse de gecenin yeni yaratıklarına karşı aşırı zayıf ve o artık tarih oldu! Kelle Avcısı önüne gelen herhangi bir kurdu, vampiri ve zombiyi avlamaktan asla çekinmez. Her gece bir oyuncuyu seçer ve eğer bu kişi Gecenin karanlık yaratıklarından biri ise ölecektir. Kurtlar, vampirler ve zombiler Kelle Avcısına saldırmaya çalışırla alt etmek hiç de kolay olmayacak! Ancak köylülerin yarısı öldüğü zaman bir şansları olabilir. Kelle Avcısı, İllüzyonisti ve Kukla Ustasını avlayamaz. Eğer Kont ile karşı karşıya gelirlerse o savaştan yalnızca biri sağ çıkacak ve ikisinin de şansı yarı yarıya (50%-50%). Ucube Kurda karşı dikkatli olmalı çünkü onu avlamaya çalışırsa yaralanacak ve ertesi gece avlanmaya çıkamaz. Bu köye önderlik edebilecek tek kişi Kelle Avcısıdır ve oyunda yalnızca bir tane olabilir. Reenkarnist Kelle Avcısının yerine geçer ve Şifacı ölü Kelle avcısını diriltmeye çalışırsa başarısız olacaktır. \nYardımcıları: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı. </value>
+    <value> Kelle Avcısı 🌙: \nO eski yobaz avcısı olan çelimsiz Tarikatçı Avcısını hatırlıyor musun? Her ne kadar sığ bir topluluğun sonunu getirse de gecenin yeni yaratıklarına karşı aşırı zayıf ve o artık tarih oldu! Kelle Avcısı önüne gelen herhangi bir kurdu, Ubırı ve zombiyi avlamaktan asla çekinmez. Her gece bir oyuncuyu seçer ve eğer bu kişi Gecenin karanlık yaratıklarından biri ise ölecektir. Kurtlar, Ubırlar ve zombiler Kelle Avcısına saldırmaya çalışırla alt etmek hiç de kolay olmayacak! Ancak köylülerin yarısı öldüğü zaman bir şansları olabilir. Kelle Avcısı, İllüzyonisti ve Kukla Ustasını avlayamaz. Eğer Kont ile karşı karşıya gelirlerse o savaştan yalnızca biri sağ çıkacak ve ikisinin de şansı yarı yarıya (50%-50%). Ucube Kurda karşı dikkatli olmalı çünkü onu avlamaya çalışırsa yaralanacak ve ertesi gece avlanmaya çıkamaz. Bu köye önderlik edebilecek tek kişi Kelle Avcısıdır ve oyunda yalnızca bir tane olabilir. Reenkarnist Kelle Avcısının yerine geçer ve Şifacı ölü Kelle avcısını diriltmeye çalışırsa başarısız olacaktır. \nYardımcıları: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı. </value>
   </string>
   <string key = "cazanFailedToFind">
     <!-- 0 - hedef adı -->
@@ -2726,7 +2726,7 @@
   </string>
 
 
-  <!-- VAMPIRLAR -->
+  <!-- UBIRLAR -->
 
   <string key = "vampirVotedbyte">
     <!-- 0 - Seçmenin adı -->
@@ -2740,45 +2740,45 @@
     </value>
   </string>
   <string key = "DGTovamp">
-    <!-- 0 - yeni vampirin adı -->
-    <value> Çiftgiden {0}, tıpkı senin gibi bir vampire dönüştü! </value>
+    <!-- 0 - yeni Ubırın adı -->
+    <value> Çiftgiden {0}, tıpkı senin gibi bir Ubıra dönüştü! </value>
   </string>
   <string key = "DGTransformTovamp">
     <!-- 0 - rolün adı -->
     <!-- 1 - takım arkadaşlarının adı -->
-    <value> {0} öldü ve sen vampir oldun. Takım arkadaşların (varsa): {1} </value>
+    <value> {0} öldü ve sen Ubır oldun. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "necroTovamp">
-    <!-- 0 - yeni vampirin adı -->
-    <value> Reenkarnist {0}, tıpkı senin gibi bir vampire dönüştü! </value>
+    <!-- 0 - yeni Ubırın adı -->
+    <value> Reenkarnist {0}, tıpkı senin gibi bir Ubıra dönüştü! </value>
   </string>
   <string key = "necroTransformTovamp">
     <!-- 0 - rolün adı -->
     <!-- 1 - takım arkadaşlarının adı -->
-    <value> {0} vampir olmayı seçtin. Takım arkadaşların (varsa): {1} </value>
+    <value> {0} Ubır olmayı seçtin. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "vampConvertYou">
-    <value> Bir vampir seni ısırdı! Artık onlardan birisin. Her gece başka birini ısırıp kanını emebilme şansın olacak. </value>
+    <value> Bir Ubır seni ısırdı! Artık onlardan birisin. Her gece başka birini ısırıp kanını emebilme şansın olacak. </value>
   </string>
   <string key = "vampirTeam">
-    <!-- 0 - Vampir sayısı -->
-    <value>\nVampirler: {0} </value>
+    <!-- 0 - Ubır sayısı -->
+    <value>\nUbırlar: {0} </value>
   </string>
   <string key = "vampirTeam2">
-    <!-- 0 - Vampir sayısı -->
-    <value>\nVampirler:  </value>
+    <!-- 0 - Ubır sayısı -->
+    <value>\nUbırlar:  </value>
   </string>
   <string key = "vampJoin">
-    <!-- 0 - yeni vampirin adı -->
-    <value> {0} vampirler grubuna katıldı! </value>
+    <!-- 0 - yeni Ubırin adı -->
+    <value> {0} Ubırlar grubuna katıldı! </value>
   </string>
   <string key = "vampVisitEmpty">
-    <!-- 0 - En yeni vampir adı -->
+    <!-- 0 - En yeni Ubır adı -->
     <!-- 1 - hedef adı -->
     <value> {0}, {1} 'in kanını emmesi için gönderildi ... ama evde kimse yoktu! </value>
   </string>
   <string key = "vampirwins">
-    <value> Tüm köylülerin kanları emildi ve ayakta kalanlar vampirlere dönüştü. Vampirler kazandı! Umarım bir sonraki köyde şansları artar. </value>
+    <value> Tüm köylülerin kanları emildi ve ayakta kalanlar Ubırlara dönüştü. Ubırlar kazandı! Umarım bir sonraki köyde şansları artar. </value>
   </string>
   <string key = "vampUnableToConvert">
     <!-- 0 - en yeni -->
@@ -2789,94 +2789,94 @@
     <value> Gölgelerin arasından üzerine sıçrayan bir şey fark ettin, ancak dikkatliydin ve ne olduğunu tam olarak ayırt edemediğin halde gecenin o yaratığını korkutup kaçırabildin. </value>
   </string>
   <string key = "vampConvertHunter">
-    <!-- 0 - En genç vampirin adı -->
+    <!-- 0 - En genç Ubırın adı -->
     <!-- 1 - hedefin adı -->
-    <value> Vampirler {0}'i , {1}'in kanını emmeye gönderirler, ancak bunun yerine bir silah sesi duyulur ve {0}'in vücudu pencereden dışarı uçar! {0} mermilerin kendisine bir etkisi olmadığı için ölmemiş, hatta kaçmış olsa bile, kan kaybından dolayı güçsüz kaldığı için avcı için maalesef kolay bir av oldu ve köşeye sıkıştırılıncaya kadar ormanda kovalandı, Avcı burnunun önünde hangi yaratığın olduğunu anlamadığı için sadece kafasını kesti, bu şekilde bir vampir hiç beklemediği şekilde öldü. </value>
+    <value> Ubırlar {0}'i , {1}'in kanını emmeye gönderirler, ancak bunun yerine bir silah sesi duyulur ve {0}'in vücudu pencereden dışarı uçar! {0} mermilerin kendisine bir etkisi olmadığı için ölmemiş, hatta kaçmış olsa bile, kan kaybından dolayı güçsüz kaldığı için avcı için maalesef kolay bir av oldu ve köşeye sıkıştırılıncaya kadar ormanda kovalandı, Avcı burnunun önünde hangi yaratığın olduğunu anlamadığı için sadece kafasını kesti, bu şekilde bir Ubır hiç beklemediği şekilde öldü. </value>
   </string>
   <string key = "vampConvertSerialKiller">
-    <!-- 0 - En genç vampirin adı -->
+    <!-- 0 - En genç Ubırın adı -->
     <!-- 1 - hedefin adı -->
-    <value> Vampirler {0}'i , {1} adlı oyuncuyu çevirmek için gönderiyorlar , ancak bunun yerine {0}'in vücudu, göğsüne bir beyzbol sopası ile vurularak pencereden uçuyor ?! PSİKOPATÇA BİR ÖLÜM! {0} öldü. </value>
-    <value> {0} gizlice {1} 'in evine girer, kapıyı açar ve bıçaklı bir deli tarafından karşılanır !! {1}'in seri katil olduğunu keşfettikten sonra, {0} kendi kalbini yediği süreçte, Seri Katil sadece vampirin dayanıklılığını görmek için sıkılana kadar onu test eder. {0} öldü. </value>
+    <value> Ubırlar {0}'i , {1} adlı oyuncuyu çevirmek için gönderiyorlar , ancak bunun yerine {0}'in vücudu, göğsüne bir beyzbol sopası ile vurularak pencereden uçuyor ?! PSİKOPATÇA BİR ÖLÜM! {0} öldü. </value>
+    <value> {0} gizlice {1} 'in evine girer, kapıyı açar ve bıçaklı bir deli tarafından karşılanır !! {1}'in seri katil olduğunu keşfettikten sonra, {0} kendi kalbini yediği süreçte, Seri Katil sadece Ubırin dayanıklılığını görmek için sıkılana kadar onu test eder. {0} öldü. </value>
   </string>
   <string key = "vampirkillwolf">
     <!-- 0 - kurdun adı -->
-    <!-- 1 - vampir yeni'nin adı -->
-    <value> Vampirler {1}'i göndererek {0}'in kanını emmeye çalışıyor, SÜRRRPPPRİİİZ! Hayatını sonlandırmaktan çekinmeyeceğin kayıp bir kurt bulursun. </value>
+    <!-- 1 - Ubır yeni'nin adı -->
+    <value> Ubırlar {1}'i göndererek {0}'in kanını emmeye çalışıyor, SÜRRRPPPRİİİZ! Hayatını sonlandırmaktan çekinmeyeceğin kayıp bir kurt bulursun. </value>
   </string>
   <string key = "vamptropiezoWolf">
-    <value> Vampirler {1}'i {0}'in kanını emmesi için gönderirler, ancak bunun yerine {1}'in başsız bedenini bulursun. Kurtlar bu sefer şanslıydı ve bu zavallı vampiri bitirmeyi başardılar. </value>
+    <value> Ubırlar {1}'i {0}'in kanını emmesi için gönderirler, ancak bunun yerine {1}'in başsız bedenini bulursun. Kurtlar bu sefer şanslıydı ve bu zavallı Ubırı bitirmeyi başardılar. </value>
   </string>
   <string key = "vampirbiteyou">
-    <value> OLAMAZZZZ !! Kim vampirlerin kanını çok sevdiğini söyledi? Seni kuru ve cansız (ölü!) bıraktılar. </value>
+    <value> OLAMAZZZZ !! Kim Ubırların kanını çok sevdiğini söyledi? Seni kuru ve cansız (ölü!) bıraktılar. </value>
   </string>
-  <!-- {0}: düşen vampir, {1}: mezar kazıcı -->
+  <!-- {0}: düşen Ubır, {1}: mezar kazıcı -->
   <string key = "vampConvertGraveDigger">
-    <value> {1} adlı kişinin evine giderken, {0} bulunması ihtimaline karşı mezarlıktan geçmenin iyi bir fikir olacağına karar verdi. {0} Mezarlıkta öyle sakince yürüyor ki, aniden takılıp bir deliğe düştü. Tek duydukları bir mezara düştükten sonra ağlaması, geri kalan vampirler onun nereye gittiğini bilmiyor. </value>
+    <value> {1} adlı kişinin evine giderken, {0} bulunması ihtimaline karşı mezarlıktan geçmenin iyi bir fikir olacağına karar verdi. {0} Mezarlıkta öyle sakince yürüyor ki, aniden takılıp bir deliğe düştü. Tek duydukları bir mezara düştükten sonra ağlaması, geri kalan Ubırlar onun nereye gittiğini bilmiyor. </value>
   </string>
   <string key = "vampTargetDead">
-    <!-- 0 - En genç vampir adı -->
-    <value> Vampirlerin en yeni üyesi şansını {0} ile denemek istedi, ancak bunun yerine darma duman ve her yerde kan izleri olan bir ev buldu. </value>
+    <!-- 0 - En genç Ubır adı -->
+    <value> Ubırların en yeni üyesi şansını {0} ile denemek istedi, ancak bunun yerine darma duman ve her yerde kan izleri olan bir ev buldu. </value>
   </string>
   <string key = "cazanKilledvampVisit">
-    <!-- 0 - vampir adı -->
-    <!-- 1 - Soldaki vampir sayısı -->
-    <value> {0} bu gece seninle atıştırmalık yemeye geldi ... ama sen onun göğsüne kazığı sapladın. Bir vampir öldü ... </value>
+    <!-- 0 - Ubır adı -->
+    <!-- 1 - Soldaki Ubır sayısı -->
+    <value> {0} bu gece seninle atıştırmalık yemeye geldi ... ama sen onun göğsüne kazığı sapladın. Bir Ubır öldü ... </value>
   </string>
-  <!-- {0}: ölen vampir -->
+  <!-- {0}: ölen Ubır -->
   <string key = "vampirFellPublic">
     <value> Ne kadar şanslı, {0} mezarlığı yarıp geçmeye karar verdi, bir mezara düştü ve oradan hiç çıkmadı, mezarcı istediği zaman işini iyi yapıyor ve dahası, mezarlarının içinde karanlık bir yaratık bulunuyor. </value>
   </string>
   <string key = "NHKillsvampEnd">
     <!-- {0} = son kültçünün adı, {1} = CH'nin adı -->
-    <value> {1} ve {0} kasaba meydanında. Ancak, {1} bugün ders vermek istiyor ve {0} dişlerini çıkarmadan önce onun üzerine atlıyor ve onu öldürüyor. {0} ayakta kalan son vampirdi. </value>
+    <value> {1} ve {0} kasaba meydanında. Ancak, {1} bugün ders vermek istiyor ve {0} dişlerini çıkarmadan önce onun üzerine atlıyor ve onu öldürüyor. {0} ayakta kalan son Ubırdı. </value>
   </string>
   <string key = "vampKillswwEnd">
-    <!-- {0} = son vampirin adı, {1} = WW'nin adı -->
+    <!-- {0} = son Ubırın adı, {1} = WW'nin adı -->
     <value> {1} ve {0} kasaba meydanında. Ancak, {0} {1}'in pençeleri ile kendisine saldırmadan önce hemen onun üzerine atlıyor ve onu öldürüyor. {1} ayakta kalan son kurttu. </value>
   </string>
   <string key = "wwKillsvampEnd">
-    <!-- {0} = son vampirin adı, {1} = WW'nin adı -->
-    <value> {1} ve {0} kasaba meydanında. Ancak, {1} {0}'in dişlerini çıkarmadan önce hemen onun üzerine atlıyor ve kalbini sökerek onu öldürüyor. {0} ayakta kalan son vampirdi. </value>
+    <!-- {0} = son Ubırın adı, {1} = WW'nin adı -->
+    <value> {1} ve {0} kasaba meydanında. Ancak, {1} {0}'in dişlerini çıkarmadan önce hemen onun üzerine atlıyor ve kalbini sökerek onu öldürüyor. {0} ayakta kalan son Ubırdı. </value>
   </string>
   <string key = "Askbitevamp">
     <value> Bu gece kimi ısırmak istiyorsun? </value>
   </string>
   <string key = "Aboutvampir">
-    <value> Sen vampirsin. Her gece kanını emecek bir av seçebileceksin. (başka bir oyuncuyu ziyaret ettiğinde %50 öldürme şansın olacaktır, hedefin ölmezse dönüşecek her rol için farklı bir yüzde vardır ve dönüşmeyi başaramayanlar ölür). Kurtadamların ve vampirlerin zamanın başından beri düşman olduğu biliniyor, Biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin, diğer yandan seni ziyaret ederlerse birden fazla olmaları gerekecek. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen ve korkunç bir şekilde ölürsün. </value>
+    <value> Ubır 🧛: \nHer gece kanını emecek bir av seçebileceksin. (başka bir oyuncuyu ziyaret ettiğinde %50 öldürme şansın olacaktır, hedefin ölmezse dönüşecek her rol için farklı bir yüzde vardır ve dönüşmeyi başaramayanlar ölür). Kurtadamların ve Ubırların zamanın başından beri düşman olduğu biliniyor, Biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin, diğer yandan seni ziyaret ederlerse birden fazla olmaları gerekecek. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen ve korkunç bir şekilde ölürsün. </value>
   </string>
   <string key = "vampir">
-    <value> Vampir 🧛 </value>
+    <value> Ubır 🧛 </value>
   </string>
   <string key = "vampirKilled">
     <value> Bugün güzel bir sabah, köylüler işlerini yapmak için evlerinden çıktıklarında garip bir görüntü buluyorlar, {0} seri katilin ellerinde en acımasız şekilde öldü, bu çılgının güneş kremi olmadan nasıl yandığını görmek çok eğlenceliydi, çünkü evlerinin kapısına çivilenmişti, köylüler sadece {0}'in yanmış kemiklerini sayabiliyorlardı. </value>
   </string>
   <string key = "NHunterKilledvampir">
     <!-- 0 - kurban adı -->
-    <value> {0}'in evinden büyük bir koku geliyor. Köylüler onu teftiş etti. Onu göğsünden bir kazıkla duvara saplanmış buldular. Kelle avcısı tarafından bir vampir öldürüldü! </value>
+    <value> {0}'in evinden büyük bir koku geliyor. Köylüler onu teftiş etti. Onu göğsünden bir kazıkla duvara saplanmış buldular. Kelle avcısı tarafından bir Ubır öldürüldü! </value>
   </string>
-  <string key = "HunterKilledVampir">
+  <string key = "HunterKilledvampir">
     <!-- 0 - hedefin adı -->
     <!-- 1 - rol -->
     <value> Kasaba avcısının evinin yanındaki ara sokakta, {0} adlı kişinin cesedini buldular, üzerinde kurşun izleri vardı ama asıl ölüm nedeni kalbini delen bir sopaydı. Avcıya gizlice yaklaşmaya çalışılmış gibi görünüyor! </value>
   </string>
   <string key = "vampConvertWolfPublic">
     <!-- vamp, kurtları dönüştürürken, yalnızca kurtlar evde kaldıysa kullanılır -->
-    <value> Kurt adamlar evde kalmaya karar vermiş gibi görünse de, bir vampir onlara meydan okumaya karar verdi, kurt adamların direnmesi çok zordu. {0}'in kafası lezzetli bir akşam yemeğine döndü! </value>
-    <value> Vampirler dün gece beklenmedik bir sorunla karşılaştı. En yeni üyesi {0}, kurtadamların evde kalmaya karar verdikleri gece bir kurt adamı ziyaret etme talihsizliğini yaşadı. Ne yazık ki genç vampir {0} öldü. </value>
+    <value> Kurt adamlar evde kalmaya karar vermiş gibi görünse de, bir Ubır onlara meydan okumaya karar verdi, kurt adamların direnmesi çok zordu. {0}'in kafası lezzetli bir akşam yemeğine döndü! </value>
+    <value> Ubırlar dün gece beklenmedik bir sorunla karşılaştı. En yeni üyesi {0}, kurtadamların evde kalmaya karar verdikleri gece bir kurt adamı ziyaret etme talihsizliğini yaşadı. Ne yazık ki genç Ubır {0} öldü. </value>
   </string>
   <string key = "vampConvertKillerPublic">
     <!-- vamp, SK'yi dönüştürürken kullanılır -->
-    <value> Vampirler yeni bir kana susamış üyeye sahip olacaklarını düşündüler ama hiçbir şey gerçeklerden daha acı olamaz! Bir vampir olan {0} parçalandı ve kalıntıları kasabanın dört bir yanına dağıldı. </value>
-    <value> Dün gece bir vampir, kasabanın en çılgın köylüsünü dönüştürmeye çalıştı. En son üyesi olan {0}, seri katili dönüştürmeye çalıştı ve kasaba meydanında yüreğini çivilenmiş bir şekilde bırakarak yeni bir sanat eseri yaptı. </value>
+    <value> Ubırlar yeni bir kana susamış üyeye sahip olacaklarını düşündüler ama hiçbir şey gerçeklerden daha acı olamaz! Bir Ubır olan {0} parçalandı ve kalıntıları kasabanın dört bir yanına dağıldı. </value>
+    <value> Dün gece bir Ubır, kasabanın en çılgın köylüsünü dönüştürmeye çalıştı. En son üyesi olan {0}, seri katili dönüştürmeye çalıştı ve kasaba meydanında yüreğini çivilenmiş bir şekilde bırakarak yeni bir sanat eseri yaptı. </value>
   </string>
   <string key = "GuardBlockedv">
     <!-- 0 - hedefin adı -->
-    <value> Vampirler kanıyla ziyafet çekmek için {0} 'in evine gider, ancak dişlerine kadar silahlanmış kör edici kanatlı bir figürle karşılaşırlar. Koruyucu melek girmeni engeller ve saklandığın yere eli boş geri dönersin. </value>
+    <value> Ubırlar kanıyla ziyafet çekmek için {0} 'in evine gider, ancak dişlerine kadar silahlanmış kör edici kanatlı bir figürle karşılaşırlar. Koruyucu melek girmeni engeller ve saklandığın yere eli boş geri dönersin. </value>
   </string>
   <string key = "HarlotFuckv">
     <!-- 0 - oyuncu adı -->
-    <value> Biraz sohbet için {0}'in evine girdin, ama görünüşe göre bir vampire rastladın. Sen öldün. </value>
+    <value> Biraz sohbet için {0}'in evine girdin, ama görünüşe göre bir Ubıra rastladın. Sen öldün. </value>
   </string>
   <string key = "DefaultKillv">
     <!-- 0 - hedefin adı -->
@@ -2884,22 +2884,22 @@
     <value> Geceleri {0}'in çığlık attığı duyuldu, ama köylüler bu durumu umursamadılar. Köylüler sabah buluştu ve onu, bir damla kanı kalmamış halde yerde buldular. Merakla baktılar, boynunda iki kırmızı nokta izi vardı ... VAMPİRLER! {0} {1} idi. </value>
   </string>
   <string key = "cazadornocheKillv">
-    <value> Vampirler ne kadar şanslıydılar, {0} tarafından oyuna gelmediler ve onun kaçışı yoktu, köy ulu liderini kaybetti. </value>
+    <value> Ubırlar ne kadar şanslıydılar, {0} tarafından oyuna gelmediler ve onun kaçışı yoktu, köy ulu liderini kaybetti. </value>
   </string>
   <string key = "TraitorKillv">
-    <value> HAHAHAHAHA vampirler {0}'i kendi mezheplerine dahil etmek istediler ama kişiliğini daha derinlemesine araştırdıklarında ve güçleriyle zihnini okuduklarında, sonunda ırka ihanet edeceğini gördüler. </value>
+    <value> HAHAHAHAHA Ubırlar {0}'i kendi mezheplerine dahil etmek istediler ama kişiliğini daha derinlemesine araştırdıklarında ve güçleriyle zihnini okuduklarında, sonunda ırka ihanet edeceğini gördüler. </value>
   </string>
   <string key = "CursedKillv">
-    <value> OOOO ÇOK KRİTİTK !! Görünüşe göre zavallı {0} bir lanetin etkisi altındayken bir vampir tarafından ısırılmıştı, bu karışım çok iyi etkilere sahip değildi ve {0} mutasyona uğrayarak korkunç bir şekilde öldü, vücudu cüce kanatlara sahipti ve saçları doluydu, belli ki başarısız bir mutasyondu. </value>
+    <value> OOOO ÇOK KRİTİTK !! Görünüşe göre zavallı {0} bir lanetin etkisi altındayken bir Ubır tarafından ısırılmıştı, bu karışım çok iyi etkilere sahip değildi ve {0} mutasyona uğrayarak korkunç bir şekilde öldü, vücudu cüce kanatlara sahipti ve saçları doluydu, belli ki başarısız bir mutasyondu. </value>
   </string>
   <string key = "LycanKillv">
-    <value> Sevgili {0}, ne kadar insan gibi görünürsen görün, vampirler kurt kokusunu algıladılar ve kayıplarını azaltmak için bir an bile tereddüt etmediler. </value>
+    <value> Sevgili {0}, ne kadar insan gibi görünürsen görün, Ubırlar kurt kokusunu algıladılar ve kayıplarını azaltmak için bir an bile tereddüt etmediler. </value>
   </string>
   <string key = "SorcererKillv">
-    <value> Vampirler kümeleniyor, {0} hayatının onlar tarafından sonlandırılacağını göremedi, bu kurtlar için büyük bir kayıp. </value>
+    <value> Ubırlar kümeleniyor, {0} hayatının onlar tarafından sonlandırılacağını göremedi, bu kurtlar için büyük bir kayıp. </value>
   </string>
   <string key = "vKillw">
-    <value> Bu gece kasabada bazı tuhaf sesler ve kargaşa vardı, vampirler avlanıyorlardı ancak hedefleri köylüler değildi. Kurtlar sürüsünden bir üye eksildi. {0} {1} idi. </value>
+    <value> Bu gece kasabada bazı tuhaf sesler ve kargaşa vardı, Ubırlar avlanıyorlardı ancak hedefleri köylüler değildi. Kurtlar sürüsünden bir üye eksildi. {0} {1} idi. </value>
   </string>
   <string key = "HunterFindvampir">
     <!-- 0 - hedef adı -->
@@ -2911,24 +2911,24 @@
     <value> Geceleri ne tuhaf çığlıklar duyulabiliyordu, sanki bir köpeğe işkence ediliyordu. Komşular nereden geldiğini görmek istediğinde, {0}'in derisi yüzülmüş ve Avcı'nın evinin girişinde bacaklarından asılı halde buldular. {0} {1} idi. </value>
   </string>
   <string key = "vampirEaten">
-    <value> Köy, {0}'in ortalıkta olmadığını fark etmeye başlar, nerede olup olmadığını kontrol etmesi için birini gönderirler. Evde bulunanlar pek umut verici değil. {0} sakatlandı ve tesadüfen kalbinden yoksun kaldı. Cansız bedeninde ısırık izleri vardı, görünüşe göre kurtlar ve vampirlerle savaşıyoruz. </value>
-    <value> {0} 'in evinden o kadar çok gürültü duyulunca ne olduğunu öğrenmek için komşular, gürültü durduğunda eve bakmaya geldi, {0}'i göğsünde bir delikle yerde buldular. Kurtlar onu yemiş ve vampirler dehşete düşmüştü, arka planda inlemeleri dinlerken yakalanmadan kaçmışlar gibi gözüküyor. Kurtlar sadece kalbini yemiş! </value>
+    <value> Köy, {0}'in ortalıkta olmadığını fark etmeye başlar, nerede olup olmadığını kontrol etmesi için birini gönderirler. Evde bulunanlar pek umut verici değil. {0} sakatlandı ve tesadüfen kalbinden yoksun kaldı. Cansız bedeninde ısırık izleri vardı, görünüşe göre kurtlar ve Ubırlarla savaşıyoruz. </value>
+    <value> {0} 'in evinden o kadar çok gürültü duyulunca ne olduğunu öğrenmek için komşular, gürültü durduğunda eve bakmaya geldi, {0}'i göğsünde bir delikle yerde buldular. Kurtlar onu yemiş ve Ubırlar dehşete düşmüştü, arka planda inlemeleri dinlerken yakalanmadan kaçmışlar gibi gözüküyor. Kurtlar sadece kalbini yemiş! </value>
   </string>
   <string key = "HarlotDiscovervampir">
     <!-- 0 - hedefin adı -->
-    <value> Dün gece iyi vakit geçirmek için {0} adlı kişinin evine gittin, ancak ayrıldığında tuhaf bir şey fark ettin, tuhaf bir kan kokusu mutfaktan gelmiyordu tüm pencerelerdeki perdeler kapalıydı ve en kötüsü tüm mobilya ve resimlerin yüzlerce yıllık olmasıydı ... [{0} Bir Vampir]. </value>
+    <value> Dün gece iyi vakit geçirmek için {0} adlı kişinin evine gittin, ancak ayrıldığında tuhaf bir şey fark ettin, tuhaf bir kan kokusu mutfaktan gelmiyordu tüm pencerelerdeki perdeler kapalıydı ve en kötüsü tüm mobilya ve resimlerin yüzlerce yıllık olmasıydı ... [{0} Bir Ubır]. </value>
   </string>
   <string key = "vampConvertcn">
-    <!-- 0 - En genç vampirin adı -->
+    <!-- 0 - En genç Ubırın adı -->
     <!-- 1 - hedefin adı -->
-    <value> Vampirler {0}'i biraz taze kan getirmeye gönderdiler, gördüğü en karanlık eve gitmeye karar verdi, kendi adına ölümcül bir hata! Kelle Avcısı onu gördüğünde başka hiçbir şeyin önemi yoktu. Evinde {0}, kalbinde bir kazıkla öldü. </value>
+    <value> Ubırlar {0}'i biraz taze kan getirmeye gönderdiler, gördüğü en karanlık eve gitmeye karar verdi, kendi adına ölümcül bir hata! Kelle Avcısı onu gördüğünde başka hiçbir şeyin önemi yoktu. Evinde {0}, kalbinde bir kazıkla öldü. </value>
     <value> {0} bilmeden yanlış bir eve gizlice girer ve kendini tuhaf hissetmeye başlar, o evde çok kan kokusu vardır, {0} çok geç olduğunu anladığında, bir gölge belirir ve arkasından evinin dekoratif mızrağı kendi kalbine saplanır. {0} Kelle Avcısı'nın ellerinde öldü. </value>
   </string>
   <string key = "vampAttempt2">
     <value> Gölgelerden üzerine bir şey atladığını fark ettin, ancak dikkatliydin ve saldırıya karşı koyabildin. Neredeyse iskelet gibi, Solgun, ağzı kırmızı lekeli ve özellikle uzun dişleri olan bir adam bulmadan önce karar verdin, onu garip şeylerden oluşan cesetler koleksiyonuna ekle! </value>
   </string>
   <string key = "vampAttempt3">
-    <value> Gölgelerden üzerine bir şey atladığını fark ettin, ama dikkatliydin ve seni besleyecek neredeyse az etli bir adam bulmadan önce saldırıya karşı koyabildin. Solgun, onun insan kanı koktuğunu biliyorsun ve özellikle uzun dişler, onun bir vampir olduğunun farkındasın ve sürünün iyiliği için onu öldürmekten çekinmiyorsun. </value>
+    <value> Gölgelerden üzerine bir şey atladığını fark ettin, ama dikkatliydin ve seni besleyecek neredeyse az etli bir adam bulmadan önce saldırıya karşı koyabildin. Solgun, onun insan kanı koktuğunu biliyorsun ve özellikle uzun dişler, onun bir Ubır olduğunun farkındasın ve sürünün iyiliği için onu öldürmekten çekinmiyorsun. </value>
   </string>
 
   <!-- 2021 -->
@@ -2939,7 +2939,7 @@
     <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Kapının önünde tamamen kül olmuş şekilde ölürsün. </value>
   </string>
   <string key = "Cultistburned">
-    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Vampir arkadaşların, içinde bulunduğun durumu gördüklerinde sonunda gülüyor ve bir mumla dua ediyorlar. </value>
+    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Ubır arkadaşların, içinde bulunduğun durumu gördüklerinde sonunda gülüyor ve bir mumla dua ediyorlar. </value>
   </string>
   <string key = "CHburned">
     <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Senin için avlanma bitti, ızgarada cız bız oldun. </value>
@@ -3015,7 +3015,7 @@
     <value> {0} görünüşe göre avını hafife almış, fakat bu küçük kurt evine geri dönememiş, görünüşe göre bir yılan tarafından ısırılmış halde ölmüş, ama yılanlar kan emmiyor, değil mi? </value>
   </string>
   <string key = "wolfdeadvisitvampir">
-    <value> {0}, {1}'i yutmaya çalıştı. Büyük hata, vampir olabileceği hakkında hiçbir fikri yoktu, {1} tereddüt etmeden kafasını uçurdu, kurtlar artık onun bir vampir olduğunu biliyor. </value>
+    <value> {0}, {1}'i yutmaya çalıştı. Büyük hata, Ubır olabileceği hakkında hiçbir fikri yoktu, {1} tereddüt etmeden kafasını uçurdu, kurtlar artık onun bir Ubır olduğunu biliyor. </value>
   </string>
 
 
@@ -3025,7 +3025,7 @@
     <value> Deli 🤪 </value>
   </string>
   <string key = "Aboutidiot">
-    <value> İnsanlar tarafından linç edilmedikçe özel bir güçten yoksundur. O ana kadar gerçekten bir aptalmış gibi biraz delice ve çılgınca hareketler yapacak. Herkes hatasını anlayacaktır. Devamında deli hâlâ yaşayabilir ve oyunu oynayabilir, ancak oylama hakkını kaybeder. Artık gözcülük taslamak yok, sadece tartışmalara katılmaya ve istediğin kadar konuşmaya devam edeceksin. Kasabanın delisi kurt adamlar tarafından yenilirse (bir linçte kimliğini ifşa etmeden önce veya sonra), silahşörün ya da avcının vurulmasıyla, kimyacının iksiriyle, sevgilisi ölürse vb. ölecek. Bir oyuncu deliyle aşıksa ve linç edilirse, oyundan gerçekten çıkarılmadığı için hiçbir şey olmaz ve bu nedenle sevgilisi intihar etmemelidir. </value>
+    <value> Deli 🤪: \nİnsanlar tarafından linç edilmedikçe özel bir güçten yoksundur. O ana kadar gerçekten bir aptalmış gibi biraz delice ve çılgınca hareketler yapacak. Herkes hatasını anlayacaktır. Devamında deli hâlâ yaşayabilir ve oyunu oynayabilir, ancak oylama hakkını kaybeder. Artık gözcülük taslamak yok, sadece tartışmalara katılmaya ve istediğin kadar konuşmaya devam edeceksin. Kasabanın delisi kurt adamlar tarafından yenilirse (bir linçte kimliğini ifşa etmeden önce veya sonra), silahşörün ya da avcının vurulmasıyla, kimyacının iksiriyle, sevgilisi ölürse vb. ölecek. Bir oyuncu deliyle aşıksa ve linç edilirse, oyundan gerçekten çıkarılmadığı için hiçbir şey olmaz ve bu nedenle sevgilisi intihar etmemelidir. </value>
   </string>
   <string key = "Lynchidiot">
     <value> Bekle, görünüşe göre bu deli, celladın baltasını yalamaya başladı, {0} onu sevdiğini ve aynı şekilde bir lolipop istediğini söylüyor, o kadar deli olmanın kötü olamayacağını anlıyorsun ve onu kendi haline bırakıyorsun. Evet, linç de gerçekleşmez. Bu yüzden onların oylarına önem vermeyin. {0} kendini kasabanın delisi olarak gösteriyor, ona fazla ilgi göstermeyin. </value>
@@ -3064,7 +3064,7 @@
     <value> İllüzyonist 🎼✨ </value>
   </string>
   <string key = "Aboutflautista">
-    <value> İllüzyonist yalnız bir roldür. Kurt, vampir veya köydeki başka herhangi bir rol olsun, nereden öğrendiğini bilmediği bir melodi ile her bir gece 2 oyuncuyu etkisi altına alabilir. Tüm canlı oyuncuları büyülersen kazanırsın. Kukla Ustası seni kontrol edemez, sen geceyi çatıda geçirirken kurtlar ve vampirler seni evde bulamazlar, ama seri katile dikkat et. </value>
+    <value> İllüzyonist 🎼✨: \nYalnız bir roldür. Kurt, Ubır veya köydeki başka herhangi bir rol olsun, nereden öğrendiğini bilmediği bir melodi ile her bir gece 2 oyuncuyu etkisi altına alabilir. Tüm canlı oyuncuları büyülersen kazanırsın. Kukla Ustası seni kontrol edemez, sen geceyi çatıda geçirirken kurtlar ve Ubırlar seni evde bulamazlar, ama seri katile dikkat et. </value>
   </string>
   <string key = "Askencant">
     <value> Melodinle ilk kimi büyülemek istiyorsun? </value>
@@ -3119,7 +3119,7 @@
   </string>
 
   <string key = "titivsvamp">
-    <value> Görünüşe göre vampirler kanını emmeye çalıştı, kuklalarından birinin seni koruduğunu gördüğünde {0} bir anlık tereddüt eder ve yavaşça başarısızlığı ile oradan uzaklaşır. </value>
+    <value> Görünüşe göre Ubırlar kanını emmeye çalıştı, kuklalarından birinin seni koruduğunu gördüğünde {0} bir anlık tereddüt eder ve yavaşça başarısızlığı ile oradan uzaklaşır. </value>
   </string>
   <string key = "titilinched">
     <value> Bekle .... AMA BU DA NE !! ?? BİR KUKLA !! Görünüşe göre kukla ustasını bulduk, ama dikkatli ol, belki {0}'in elinin altında daha fazla numara vardır. </value>
@@ -3194,7 +3194,7 @@
     <value> Zaman Yolcusu ⏳ </value>
   </string>
   <string key = "Abouttimetraveler">
-    <value> Zaman yolcusu, gelecekten gelen bir dahidir, köydeki katliam nedeniyle yalnız kaldığı bir gelecekten gelmektedir. Amacı geçmişi değiştirerek yaşananlardan kaçınmaktır. Bunun için en az 3 köylüyü zaman makinesini yeniden inşa etmesi için kendisine yardım etmesi için ikna etmesi gerekir. Çünkü ilk denemesinde sonbaharda bir uçurumun kenarında göründü ve makine düşerek yok oldu. Zaman yolcusu kötü rolleri ziyaret ederse, onlar yeniden inşa etme teklifinin kabul edecekler ama ona hiçbir konuda yardımcı olmayacaklar, hangisinin iyi ya da kötü olduğunu bilmeyeceğini ve sadece 3 iyi rolle zamanda geri dönebilir. TEHLİKE ALTINDA OLMADIĞI MÜDDETÇE KENDİSİNİ AÇIĞA ÇIKARAMAZ. Örnek olarak otacı tarafından zzehirlenirse, Kelle avcısı tarafından linç için hedef alınırsa, silahşör tarafından hedef alınırsa veya linçte üst üste fazla oy aldığı vakit vs. Zaman Yolcusu görüş sahibi bir rol değildir. Ziyaret ettiği oyuncuların iyi mi yoksa kötü mü olduklarını asla bilemez bu yüzden diğer oyuncuları kurtarmak için kendini ortaya çıkarmaması lazım. </value>
+    <value> Zaman yolcusu ⏳: \nGelecekten gelen bir dahidir, köydeki katliam nedeniyle yalnız kaldığı bir gelecekten gelmektedir. Amacı geçmişi değiştirerek yaşananlardan kaçınmaktır. Bunun için en az 3 köylüyü zaman makinesini yeniden inşa etmesi için kendisine yardım etmesi için ikna etmesi gerekir. Çünkü ilk denemesinde sonbaharda bir uçurumun kenarında göründü ve makine düşerek yok oldu. Zaman yolcusu kötü rolleri ziyaret ederse, onlar yeniden inşa etme teklifinin kabul edecekler ama ona hiçbir konuda yardımcı olmayacaklar, hangisinin iyi ya da kötü olduğunu bilmeyeceğini ve sadece 3 iyi rolle zamanda geri dönebilir. TEHLİKE ALTINDA OLMADIĞI MÜDDETÇE KENDİSİNİ AÇIĞA ÇIKARAMAZ. Örnek olarak otacı tarafından zzehirlenirse, Kelle avcısı tarafından linç için hedef alınırsa, silahşör tarafından hedef alınırsa veya linçte üst üste fazla oy aldığı vakit vs. Zaman Yolcusu görüş sahibi bir rol değildir. Ziyaret ettiği oyuncuların iyi mi yoksa kötü mü olduklarını asla bilemez bu yüzden diğer oyuncuları kurtarmak için kendini ortaya çıkarmaması lazım. </value>
   </string>
   <string key = "tttravelYou">
     <value> Evine çok garip bir karakter geldi, çok çılgınca bir fikir önerdi, kendisinin gelecekten geldiğini söylüyor. Belki bu onun çılgın konuşma tarzıydı ya da fikirleriydi ama teklifini kabul ettin ve ihtiyacı olan bir makineyi yapmasına yardım edeceksin. Bunu kimseyle tartışmamak en iyisidir. </value>
@@ -3239,7 +3239,7 @@
     <value> Kelle Avcısı, sen sürüyü büyütmeden önce seni buldu. </value>
   </string>
   <string key = "vampirbitez">
-    <value> Bir vampir acımasızca kafanı kopardı. </value>
+    <value> Bir Ubır acımasızca kafanı kopardı. </value>
   </string>
   <string key = "vampirkillz">
     <value> {1} kanı tattı ama {0}'in kanı çürüktü. O bir zombi olduğu için onun kafasını kopardı. </value>
@@ -3257,7 +3257,7 @@
     <value> Görünüşe göre yancı seninle eğlenmek istedi ve sonunda sürünün bir parçası oldu, çok fazla beyni yoktu ama buna değerdi. </value>
   </string>
   <string key = "Aboutzombi">
-    <value> Zombiler efsanevi yaratıklardır, seni ısırırlarsa onların sürüsüne dahil olursun. Bazı roller daha az şanslı olacak ve anında oyuna sessiz başlayacaklar. Ekip olsalar bile, her zombi ayrı ayrı hareket eder ve hem linçlerde hem de gece eylemlerinde seçimleri zeka ve mantıktan yoksun oldukları için rastgele olur. </value>
+    <value> Zombi 🧟: \nZombiler efsanevi yaratıklardır, seni ısırırlarsa onların sürüsüne dahil olursun. Bazı roller daha az şanslı olacak ve anında oyuna sessiz başlayacaklar. Ekip olsalar bile, her zombi ayrı ayrı hareket eder ve hem linçlerde hem de gece eylemlerinde seçimleri zeka ve mantıktan yoksun oldukları için rastgele olur. </value>
   </string>
   <string key = "zombiFellDigger">
     <value> Mezarcı, bir mezar çukurunun içinde bir zombi bulduğunda biraz şaşırdı, bundan yararlandı ve onu orada gömülü bıraktı. </value>
@@ -3305,7 +3305,7 @@
     <value> Zombiler tüm canlıları öldürdü, köyde sadece homurtular duyuluyor, şimdi bir köy yerine herkes bir zombi sürüsü. </value>
   </string>
   <string key = "zdeadvisitvampir">
-    <value> {0} vampir yemeye çalıştı ama {1} çok da rahatsız olmadan onun kafasını kopardı. </value>
+    <value> {0} Ubır yemeye çalıştı ama {1} çok da rahatsız olmadan onun kafasını kopardı. </value>
   </string>
   <string key = "marionetBlockedz">
     <value> Bugünün yemeklerinin tadı beyinden daha çok kumaş ve pamuk gibi, birisi seni yanıltmak için gürültülü bir yem koydu. </value>
@@ -3363,272 +3363,272 @@
 
   <string key = "RoleInfoDetective">
     <value>
-      Sen Dedektifsin. Gün boyunca, rollerini araştırmak için bir oyuncu seçebilirsin. Ancak, bunu yaparken rolünün kurtadamlara ifşa edilmesi için %40 şansın var. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölürsün, ölmezsen dönüşüm oranın %33'tür. \nZombiler: Enfekte olmak veya hayatta kalmak için %30 şansın var.
+      Sen Dedektifsin. Gün boyunca, rollerini araştırmak için bir oyuncu seçebilirsin. Ancak, bunu yaparken rolünün kurtadamlara ifşa edilmesi için %40 şansın var. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: %50 ölürsün, ölmezsen dönüşüm oranın %33'tür. \nZombiler: Enfekte olmak veya hayatta kalmak için %30 şansın var.
     </value>
   </string>
   <string key = "RoleInfoDrunk">
-    <value> Tebrikler! Kasaba Sarhoşusun! (Aslında herkes bunu biliyor ...). \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Her zaman dönüşür. </value>
+    <value> Tebrikler! Kasaba Sarhoşusun! (Aslında herkes bunu biliyor ...). \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: Her zaman dönüşür. </value>
   </string>
   <string key = "RoleInfoGuardianAngel">
-    <value> Sen Koruyucu Meleksin. Her gece korumak için bir oyuncu seçebilirsin. Bununla birlikte, bir seri katili seçersen %50 şansla ölme olasılığın vardır. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Bağışıklılığı var. \nZombiler: \nZiyaret Edilirse: Evde bulamazlar. </value>
+    <value> Sen Koruyucu Meleksin. Her gece korumak için bir oyuncu seçebilirsin. Bununla birlikte, bir seri katili seçersen %50 şansla ölme olasılığın vardır. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Bağışıklılığı var. \nZombiler: \nZiyaret Edilirse: Evde bulamazlar. </value>
   </string>
   <string key = "RoleInfoGunner">
-    <value> Sen Silahşörsün. İki mermin var. Gün boyunca başka bir oyuncuyu vurmayı seçebilirsin. Herkes namludan çıkan ateş seslerini duyacak ve silahşörlüğün senin tarafından yapıldığını bilecek. İyi bir rolü öldürürsen, Muhtar senden bir mermi alır, eğer kötü bir kişiyi öldürürsen sana başka bir mermi yapması için demirciyi gönderir. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: \nOnları vurursan: Sadece 1 mermin varsa, ıskalarsınız. Daha fazla varsa, onu kafasından vurmak için fazladan bir tane kullanacaksın. \nSeni ziyaret ederlerse: En az bir mermi kaldıysa, enfekte olma veya bir mermi harcayarak hayatta kalma şansın %30, aksi takdirde her zaman dönüştürülür. </value>
+    <value> Sen Silahşörsün. İki mermin var. Gün boyunca başka bir oyuncuyu vurmayı seçebilirsin. Herkes namludan çıkan ateş seslerini duyacak ve silahşörlüğün senin tarafından yapıldığını bilecek. İyi bir rolü öldürürsen, Muhtar senden bir mermi alır, eğer kötü bir kişiyi öldürürsen sana başka bir mermi yapması için demirciyi gönderir. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: \nOnları vurursan: Sadece 1 mermin varsa, ıskalarsınız. Daha fazla varsa, onu kafasından vurmak için fazladan bir tane kullanacaksın. \nSeni ziyaret ederlerse: En az bir mermi kaldıysa, enfekte olma veya bir mermi harcayarak hayatta kalma şansın %30, aksi takdirde her zaman dönüştürülür. </value>
   </string>
   <string key = "RoleInfoHarlot">
     <value>
-      Seni Yancı! Gece boyunca başka bir oyuncuyu ziyaret edebilirsin. O gece kötü bir rolü veya kurbanı ziyaret edersen, ölebilirsin. Öte yandan, o gece seni öldürmeye çalışırlarsa, seni evde bulamazlar ve hayatta kalırsın. Yaşlı Bilgeyi ziyaret ederken dikkatli ol. Ona baston vererek ve çok çene yaparak kalp krizi geçirterek onu öldürebilirsin (%50 şans). \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edilirse: %50 ölme şansı vardır, hayatta kalırsa %50 şans vampir olup olmadığını keşfeder. Evde kalırsa, onu dönüştürmek veya öldürmek için %50 şans. \nZombiler: \nZiyaret edersen: Her zaman ölür. \nSeni ziyaret ederlerse: Evde kalırsan, enfekte olma veya hayatta kalma şansın %50'dir.
+      Seni Yancı! Gece boyunca başka bir oyuncuyu ziyaret edebilirsin. O gece kötü bir rolü veya kurbanı ziyaret edersen, ölebilirsin. Öte yandan, o gece seni öldürmeye çalışırlarsa, seni evde bulamazlar ve hayatta kalırsın. Yaşlı Bilgeyi ziyaret ederken dikkatli ol. Ona baston vererek ve çok çene yaparak kalp krizi geçirterek onu öldürebilirsin (%50 şans). \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: \nZiyaret edilirse: %50 ölme şansı vardır, hayatta kalırsa %50 şans Ubır olup olmadığını keşfeder. Evde kalırsa, onu dönüştürmek veya öldürmek için %50 şans. \nZombiler: \nZiyaret edersen: Her zaman ölür. \nSeni ziyaret ederlerse: Evde kalırsan, enfekte olma veya hayatta kalma şansın %50'dir.
     </value>
   </string>
   <string key = "RoleInfoWolf">
     <value>
-      SEN KURT ADAMSIN !! (Aferin XD). Her gece birini yemeyi seçebilirsin. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampiri öldürmek için %50 şans var. \nZombiler: \nZiyaret edersen: Tatlarını sevmeyeceksin ve yemekten vazgeçeceksin . \nSeni ziyaret ederlerse: Daima hayatta kalırsın.
+      SEN KURT ADAMSIN !! (Aferin XD). Her gece birini yemeyi seçebilirsin. \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: Ubırı öldürmek için %50 şans var. \nZombiler: \nZiyaret edersen: Tatlarını sevmeyeceksin ve yemekten vazgeçeceksin . \nSeni ziyaret ederlerse: Daima hayatta kalırsın.
     </value>
   </string>
   <string key = "RoleInfoSeer">
     <value>
-      Sen Gözcüsün. Her gece bir oyuncunun rolünü algılamak için özel bir görüşe sahipsin. Fakat çomar olmadıkça, işte o zaman oyunu mahvedersin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var, ölmezse dönüşüm oranı %33'tür. \nZombiler: %30 enfeksiyona sahip, %25 hayatta kalma ve %45 dönüşüm.
+      Sen Gözcüsün. Her gece bir oyuncunun rolünü algılamak için özel bir görüşe sahipsin. Fakat çomar olmadıkça, işte o zaman oyunu mahvedersin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: %50 ölüm var, ölmezse dönüşüm oranı %33'tür. \nZombiler: %30 enfeksiyona sahip, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoVillager">
-    <value> Sen sıradan Köylüsün. Günlerini tarlaları işleyerek ve ekerek geçirmeye mahkumsun. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm. </value>
+    <value> Sen sıradan Köylüsün. Günlerini tarlaları işleyerek ve ekerek geçirmeye mahkumsun. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm. </value>
   </string>
   <string key = "RoleInfoTanner">
-    <value> Sen İblissin. Linç olmayı başarırsan, hemen kazanırsın! \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Enfekte olma veya hayatta kalma şansı %30'dur. </value>
+    <value> Sen İblissin. Linç olmayı başarırsan, hemen kazanırsın! \n\nTakım: Yok. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: Enfekte olma veya hayatta kalma şansı %30'dur. </value>
   </string>
   <string key = "RoleInfoWildChild">
-    <value> Sen Yabani Çocuksun! "Rol modelin" olacak bir oyuncu seç ve ölmemeye çalış. Köy takımında olacaksın ama adını açıklamamak daha iyi olacak. Eğer rol modelin ölürse kurt adam olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler : %30 enfeksiyona sahiptir, %25 hayatta kalma ve %45 dönüşüm. </value>
+    <value> Sen Yabani Çocuksun! "Rol modelin" olacak bir oyuncu seç ve ölmemeye çalış. Köy takımında olacaksın ama adını açıklamamak daha iyi olacak. Eğer rol modelin ölürse kurt adam olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler : %30 enfeksiyona sahiptir, %25 hayatta kalma ve %45 dönüşüm. </value>
   </string>
   <string key = "RoleInfoBeholder">
-    <value> Sen Seyircisin. Gerçek gözcünün kim olduğu sana söylenecek ve onunla aynı kişileri görebileceksin, bunlar sana aynı anda gösterilecek. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler : Her zaman dönüşür. \nZombiler: Enfeksiyon kapma veya hayatta kalma şansı %70. </value>
+    <value> Sen Seyircisin. Gerçek gözcünün kim olduğu sana söylenecek ve onunla aynı kişileri görebileceksin, bunlar sana aynı anda gösterilecek. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar : Her zaman dönüşür. \nZombiler: Enfeksiyon kapma veya hayatta kalma şansı %70. </value>
   </string>
   <string key = "RoleInfoApprenticeSeer">
     <value>
-      Sen Gözcü Çırağı'sın. Eğer Gözcü ölürse, onun yerine Gözcü olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüştüm.
+      Sen Gözcü Çırağı'sın. Eğer Gözcü ölürse, onun yerine Gözcü olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüştüm.
     </value>
   </string>
   <string key = "RoleInfoMason">
-    <value> Sen Masonsun. Başka mason varsa, onun kim olduğunu bileceksin; aksi takdirde, sadece basit köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm. </value>
+    <value> Sen Masonsun. Başka mason varsa, onun kim olduğunu bileceksin; aksi takdirde, sadece basit köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm. </value>
   </string>
   <string key = "RoleInfoCupid">
     <value>
-      Sen Eros'sun. Sadece iç çamaşırın, bir yay ve iki okla Dünya'ya gönderilen, sonsuza kadar birbirini sevecek iki oyuncu seçmelisin (kendin hariç). Biri ölürse, diğeri de kederinden ölecektir. Aşıklar ile beraber sen de onlarla takım halindesin. Onlar aşık olarak kazanırlarsa sen de kazanırsın ancak bunun için seni de öldürmeleri lazım. Aşıklar köy takımı harici bir takımda olsalar bile onlara galibiyet şansı verebilirsin. Onlarla özelden konuş ve stratejinize karar verin. \n\nTakım: Aşıklar yada Köy (aşılar ölür ise). \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm.
+      Sen Eros'sun. Sadece iç çamaşırın, bir yay ve iki okla Dünya'ya gönderilen, sonsuza kadar birbirini sevecek iki oyuncu seçmelisin (kendin hariç). Biri ölürse, diğeri de kederinden ölecektir. Aşıklar ile beraber sen de onlarla takım halindesin. Onlar aşık olarak kazanırlarsa sen de kazanırsın ancak bunun için seni de öldürmeleri lazım. Aşıklar köy takımı harici bir takımda olsalar bile onlara galibiyet şansı verebilirsin. Onlarla özelden konuş ve stratejinize karar verin. \n\nTakım: Aşıklar yada Köy (aşılar ölür ise). \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoDoppelganger">
-    <value> Sen Çiftgiden'sin. Efsaneye göre ataların şekil değiştiriciydi ve istedikleri herhangi bir şekli seçebilirlerdi. Onun bazı yeteneklerini miras aldın. Bir oyuncu seç; O öldüğünde, onun rolüne geçeceksin. \n\nTakım: Seçime bağlı, oyuncu öldüğünde bunu bileceksin. \n\nDönüşümler: \nVampirler: Rol alana kadar vampirlere karşı bağışıktır. \nZombiler: %50 enfekte veya hayatta kalabilir. </value>
+    <value> Sen Çiftgiden'sin. Efsaneye göre ataların şekil değiştiriciydi ve istedikleri herhangi bir şekli seçebilirlerdi. Onun bazı yeteneklerini miras aldın. Bir oyuncu seç; O öldüğünde, onun rolüne geçeceksin. \n\nTakım: Seçime bağlı, oyuncu öldüğünde bunu bileceksin. \n\nDönüşümler: \nUbırlar: Rol alana kadar Ubırlara karşı bağışıktır. \nZombiler: %50 enfekte veya hayatta kalabilir. </value>
   </string>
   <string key = "RoleInfoHunter">
     <value>
-      Sen Avcısın. İyi uyuyamıyorsun ve asla tüfeğin olmadan yatmamalısın. Eğer linç edilirsen, yanında kendinle birlikte öldürmek için birini seçebilirsin. Eğer kurtlar seni yemeye çalışırsa, onu öldürme şansın var. Ancak hedefini seçemezsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 dönüştürme şansı var %50 öldürme oranı var. \nZombiler: %70 zombiyi öldürme veya enfekte olma şansı var.
+      Sen Avcısın. İyi uyuyamıyorsun ve asla tüfeğin olmadan yatmamalısın. Eğer linç edilirsen, yanında kendinle birlikte öldürmek için birini seçebilirsin. Eğer kurtlar seni yemeye çalışırsa, onu öldürme şansın var. Ancak hedefini seçemezsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: %50 dönüştürme şansı var %50 öldürme oranı var. \nZombiler: %70 zombiyi öldürme veya enfekte olma şansı var.
     </value>
   </string>
   <string key = "RoleInfoSerialKiller">
     <value>
-      Sen Seri Katilsin. Yakın zamanda yerel tımarhaneden kaçtın. Amacın diğer herkesin ölmesi. Her gece koleksiyonuna bir karaciğer ekleyebilirsin. \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. Bunu dönüştürmek için %20 şansın var ama bir vampir her zaman ölür. \nZombiler: Her durumda zombi ölümü .
+      Sen Seri Katilsin. Yakın zamanda yerel tımarhaneden kaçtın. Amacın diğer herkesin ölmesi. Her gece koleksiyonuna bir karaciğer ekleyebilirsin. \n\nTakım: Yok. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. Bunu dönüştürmek için %20 şansın var ama bir Ubır her zaman ölür. \nZombiler: Her durumda zombi ölümü .
     </value>
   </string>
   <string key = "RoleInfoMayor">
     <value>
-      Sen Muhtarsın, rolünü halka açıkladıktan sonra linç söz konusu olduğunda 2 oy hakkın olacaktır. Köylülerin ekibindesin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
+      Sen Muhtarsın, rolünü halka açıkladıktan sonra linç söz konusu olduğunda 2 oy hakkın olacaktır. Köylülerin ekibindesin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoPrince">
     <value>
-      Sen Prensessin. Gününü köylülerle geçirmek için sıkıcı ve şımarık hayatını bıraktın (ne kadar içten!). Seni linç etmeye çalışırlarsa pişman olacaklar ve o gün kimse linç edilmeyecek. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 ölüm.
+      Sen Prensessin. Gününü köylülerle geçirmek için sıkıcı ve şımarık hayatını bıraktın (ne kadar içten!). Seni linç etmeye çalışırlarsa pişman olacaklar ve o gün kimse linç edilmeyecek. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 ölüm.
     </value>
   </string>
   <string key = "RoleInfoClumsyGuy">
     <value>
-      Sen Beceriksizsin. Oy vererek kendi isteğin dışında farklı birine oy verme şansın %50'dir. Yine de bir köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Her zaman dönüşür.
+      Sen Beceriksizsin. Oy vererek kendi isteğin dışında farklı birine oy verme şansın %50'dir. Yine de bir köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: Her zaman dönüşür.
     </value>
   </string>
   <string key = "RoleInfoSorcerer">
     <value>
-      Sen Falcısın. Köylüler yerine, gecenin yaratıklarıyla ittifak yapmayı tercih ediyorsun. Geceleri bir oyuncunun rolünü öğrenmek için güçlerini kullanacaksın. Sadece kurt adamlar kazanırsa kazanırsın. Kurt adamların sefil köylülerden kurtulmasına yardım etmenin tadını çıkar !! \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: %50 ölüm oranı var, eğer ölmezsen dönüşüm oranı %33. \nZombiler: Enfekte olma veya hayatta kalma şansı %40'tır.
+      Sen Falcısın. Köylüler yerine, gecenin yaratıklarıyla ittifak yapmayı tercih ediyorsun. Geceleri bir oyuncunun rolünü öğrenmek için güçlerini kullanacaksın. Sadece kurt adamlar kazanırsa kazanırsın. Kurt adamların sefil köylülerden kurtulmasına yardım etmenin tadını çıkar !! \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: %50 ölüm oranı var, eğer ölmezsen dönüşüm oranı %33. \nZombiler: Enfekte olma veya hayatta kalma şansı %40'tır.
     </value>
   </string>
   <string key = "RoleInfoBlacksmith">
     <value>
-      Sen Demircisin. Köyün metal işçisi. Kurt adamların bir gece saldırmasını engellemeye yetecek kadar az miktarda gümüş tozu var. Gün boyunca, onu kasabanın etrafına serpmek isteyip istemediğini seçebilirsin. Bunun dışında basit bir köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var, ölmezsen dönüşüm oranı %33. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
+      Sen Demircisin. Köyün metal işçisi. Kurt adamların bir gece saldırmasını engellemeye yetecek kadar az miktarda gümüş tozu var. Gün boyunca, onu kasabanın etrafına serpmek isteyip istemediğini seçebilirsin. Bunun dışında basit bir köylüsün. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: %50 ölüm var, ölmezsen dönüşüm oranı %33. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoAlphaWolf">
     <value>
-      Sen Alfa Kurtsun. :D Sen lanetin kaynağısın. Isırığın, köylüleri kurt adama dönüştüren hastalığın sebebidir. Her gece, saldırmak ve öldürmek için bir köylü seçebilirsin, ancak hayatta olduğun sürece, saldırdığın birini kurt adama dönüştürme olasılığın %25 . \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler : Vampiri öldürmek için %50 şansın var. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Her zaman hayatta kal.
+      Sen Alfa Kurtsun. :D Sen lanetin kaynağısın. Isırığın, köylüleri kurt adama dönüştüren hastalığın sebebidir. Her gece, saldırmak ve öldürmek için bir köylü seçebilirsin, ancak hayatta olduğun sürece, saldırdığın birini kurt adama dönüştürme olasılığın %25 . \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar : Ubırı öldürmek için %50 şansın var. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoWolfCub">
     <value>
-      Sen Yavru Kurtsun. Sürün seni seviyor !! Kurt adamların geri kalanı gibi, her gece bir köylüye saldırıp onu öldürmeyi seçeceksin. Eğer ölürsen, sürün öfkeye kapılır ve ertesi gece iki köylüye birden saldırır. Ne yazık ki, yine de ölmüş olacaksın. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampiri öldürme şansı %50'dir. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Daima hayatta kal.
+      Sen Yavru Kurtsun. Sürün seni seviyor !! Kurt adamların geri kalanı gibi, her gece bir köylüye saldırıp onu öldürmeyi seçeceksin. Eğer ölürsen, sürün öfkeye kapılır ve ertesi gece iki köylüye birden saldırır. Ne yazık ki, yine de ölmüş olacaksın. \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: Ubırı öldürme şansı %50'dir. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Daima hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoWolfMan">
-    <value> Sen Kurdumsu'sun. Bir köylü daha. Ancak ormanda kurtlarla çok zaman geçirdiğin için Gözcü seni bir Kurtadam olarak algılayacaktır. Oh hayır! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Enfekte olma veya hayatta kalma şansı %30'dur. </value>
+    <value> Sen Kurdumsu'sun. Bir köylü daha. Ancak ormanda kurtlarla çok zaman geçirdiğin için Gözcü seni bir Kurtadam olarak algılayacaktır. Oh hayır! \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: Enfekte olma veya hayatta kalma şansı %30'dur. </value>
   </string>
   <string key = "RoleInfoLycan">
-    <value> Sen Lycansın. Sen bir kurtsun, ama gözcünün kafası karışacak ve seni bir köylü olarak algılayacak, diğer roller seni sadece dolunayda algılayabilir. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: %50 şans var Vampiri öldür yoksa bir kurt ölür. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Her zaman hayatta kal. </value>
+    <value> Sen Lycansın. Sen bir kurtsun, ama gözcünün kafası karışacak ve seni bir köylü olarak algılayacak, diğer roller seni sadece dolunayda algılayabilir. \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: %50 şans var Ubırı öldür yoksa bir kurt ölür. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Her zaman hayatta kal. </value>
   </string>
   <string key = "RoleInfoOracle">
     <value>
-      Sen Kâhin'sin. Her gece baktığın kişinin ne olmadığını görmek için birini seçebilirsin. Hâlâ hayatta olan başka birinin rolünü göreceksin, bu yüzden role dikkat edin, onlardan biri hala var. :) \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon var, %25 hayatta kalma ve %45 dönüşüm.
+      Sen Kâhin'sin. Her gece baktığın kişinin ne olmadığını görmek için birini seçebilirsin. Hâlâ hayatta olan başka birinin rolünü göreceksin, bu yüzden role dikkat edin, onlardan biri hala var. :) \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: %30 enfeksiyon var, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoSandman">
-    <value> Sen Uyutucusun. Oyunda yalnızca bir kez herkesi sağlıklı bir şekilde uyutabilirsin. Böylece o gece kimse gece eylemlerini kullanamaz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölür, eğer ölmezsen %75 dönüşüm vardır. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm Var. </value>
+    <value> Sen Uyutucusun. Oyunda yalnızca bir kez herkesi sağlıklı bir şekilde uyutabilirsin. Böylece o gece kimse gece eylemlerini kullanamaz. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: %50 ölür, eğer ölmezsen %75 dönüşüm vardır. \nZombiler: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm Var. </value>
   </string>
   <string key = "RoleInfoPacifist">
     <value>
-      Sen Barışçılsın. Kimsenin linç edilmemesi için komşularını ikna etme gücüne sahipsin. Bunu yalnızca bir kez yapabilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölür, ölmezsen %75 dönüşüm var. \nZombiler: %70 Enfekte olma veya hayatta kalma.
+      Sen Barışçılsın. Kimsenin linç edilmemesi için komşularını ikna etme gücüne sahipsin. Bunu yalnızca bir kez yapabilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: %50 ölür, ölmezsen %75 dönüşüm var. \nZombiler: %70 Enfekte olma veya hayatta kalma.
     </value>
   </string>
   <string key = "RoleInfoSnowWolf">
     <value>
-      Sen Beyaz Kurtsun. Her gece, avlanmak için sürünü takip etmek yerine, herhangi bir köylüyü dondurmak için sinsice hareket edersin ve onların o gece aksiyonlarından alıkoyarsın. Ancak kurbanında gücünün artıkları olacak ve arka arkaya iki gece dondurulamayacak. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Vampiri dondurursun. \nSeni ziyaret ederlerse: Harekete geçmezsen ölürsün, yoksa evde bulamazlar. \nZombiler: \nZiyaret edersen: Zombiyi dondurursun. \nSenş ziyaret ederlerse: Her zaman hayatta kal.
+      Sen Beyaz Kurtsun. Her gece, avlanmak için sürünü takip etmek yerine, herhangi bir köylüyü dondurmak için sinsice hareket edersin ve onların o gece aksiyonlarından alıkoyarsın. Ancak kurbanında gücünün artıkları olacak ve arka arkaya iki gece dondurulamayacak. \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Ubırı dondurursun. \nSeni ziyaret ederlerse: Harekete geçmezsen ölürsün, yoksa evde bulamazlar. \nZombiler: \nZiyaret edersen: Zombiyi dondurursun. \nSenş ziyaret ederlerse: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoSurvivor">
-    <value> Sen Survivor'sın. Tek amacın hayatta kalmaktır, eğer tüm köy ölürse başka bir taraf seçebileceksin. \n\nEkip: Tarafsız \n\nDönüşümler: \nVampirler: %25 ölüm var, ölmezse %33 dönüşüm var. \nZombiler: Enfekte olmak veya hayatta kalmak için %20 şans. </value>
+    <value> Sen Survivor'sın. Tek amacın hayatta kalmaktır, eğer tüm köy ölürse başka bir taraf seçebileceksin. \n\nEkip: Tarafsız \n\nDönüşümler: \nUbırlar: %25 ölüm var, ölmezse %33 dönüşüm var. \nZombiler: Enfekte olmak veya hayatta kalmak için %20 şans. </value>
   </string>
   <string key = "RoleInfoSheriff">
     <value>
-      Sen Şerifsin. Her gece bir oyuncunun evinde devriye gezip oradan ayrılıp ayrılmadıklarını görebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nSeni ziyaret ederlerse: %50 ölüm oranı var, ölmezsen dönüşüm oranı %33'tür. \nZombiler: \nZiyaret edersen: Bir zombi keşfedersin. \nSeni ziyaret ederlerse: Enfekte olma veya hayatta kalma şansı %30'dur.
+      Sen Şerifsin. Her gece bir oyuncunun evinde devriye gezip oradan ayrılıp ayrılmadıklarını görebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: \nSeni ziyaret ederlerse: %50 ölüm oranı var, ölmezsen dönüşüm oranı %33'tür. \nZombiler: \nZiyaret edersen: Bir zombi keşfedersin. \nSeni ziyaret ederlerse: Enfekte olma veya hayatta kalma şansı %30'dur.
     </value>
   </string>
   <string key = "RoleInfoFireWolf">
-    <value> Sen Cehennem Kurdusun! Görünüşe göre sen bir kurt adamken kimyager seninle yolunu bulmuş, ateşe karşı dirençlisin ve gerekirse herkesi yakıp etrafındaki her şeyi ateşleyebiliyorsun. Her gece diri diri yakacak bir oyuncu seçin, çünkü adettendir sadece eti iyi pişmiş seviyorsun. Farklı avları öldürürken hedeflerini sürünle bağımsız olarak seçmeyi unutma. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Her durumda vampirleri yak. \nZombiler: Her durumda zombi ölümü </value>
+    <value> Sen Cehennem Kurdusun! Görünüşe göre sen bir kurt adamken kimyager seninle yolunu bulmuş, ateşe karşı dirençlisin ve gerekirse herkesi yakıp etrafındaki her şeyi ateşleyebiliyorsun. Her gece diri diri yakacak bir oyuncu seçin, çünkü adettendir sadece eti iyi pişmiş seviyorsun. Farklı avları öldürürken hedeflerini sürünle bağımsız olarak seçmeyi unutma. \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: Her durumda Ubırları yak. \nZombiler: Her durumda zombi ölümü </value>
   </string>
   <string key = "RoleInfoHungryWolf">
-    <value> Sen Aç Kurtsun. Sen sürünün en açısın. Hayatta olduğun sürece kurbanlarının rolünün köye ifşa edilmeme ihtimali %40'tır. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: %50 şansın var. Vampiri öldür ya da bir kurt ölür. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nZiyaret ederlerse: Her zaman hayatta kal. </value>
+    <value> Sen Aç Kurtsun. Sen sürünün en açısın. Hayatta olduğun sürece kurbanlarının rolünün köye ifşa edilmeme ihtimali %40'tır. \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: %50 şansın var. Ubırı öldür ya da bir kurt ölür. \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nZiyaret ederlerse: Her zaman hayatta kal. </value>
   </string>
   <string key = "RoleInfoImposter">
     <value>
-      Sen Taklitçisin. Sen kurtların yanındasın ama vejeteryansın, köylü eti sevmezsin. Becerilerin sayesinde, oyun boyunca bir oyuncunun rolünü taklit edebilirsin. Onun eylemlerini gerçekleştiremeyeceksin, ancak öldüğünde o rol olarak görüneceksin. Gözcü, çoğu zaman seni taklit edilen rol olarak görüyor. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: Enfekte olma veya dönüşüm olasılığı %40'tır.
+      Sen Taklitçisin. Sen kurtların yanındasın ama vejeteryansın, köylü eti sevmezsin. Becerilerin sayesinde, oyun boyunca bir oyuncunun rolünü taklit edebilirsin. Onun eylemlerini gerçekleştiremeyeceksin, ancak öldüğünde o rol olarak görüneceksin. Gözcü, çoğu zaman seni taklit edilen rol olarak görüyor. \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: Enfekte olma veya dönüşüm olasılığı %40'tır.
     </value>
   </string>
   <string key = "RoleInfoBaker">
     <value>
-      Sen Fırıncısın. Köydeki herkes tarafından onurlandırılan ve sevilen bir köylüsün. Her ne olursa olsun ölürsen, köy yas tutacak ve bir gün boyunca linç olmayacak. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşüm. \nZombiler: %40 enfekte olma ve hayatta kalma.
+      Sen Fırıncısın. Köydeki herkes tarafından onurlandırılan ve sevilen bir köylüsün. Her ne olursa olsun ölürsen, köy yas tutacak ve bir gün boyunca linç olmayacak. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşüm. \nZombiler: %40 enfekte olma ve hayatta kalma.
     </value>
   </string>
   <string key = "RoleInfoHealer">
     <value>
-      Sen Şifacısın. Mistik güçlerin sayesinde ölen bir köylüyü geri getirebilirsin. Ancak, bunu yalnızca bir kez yapabilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var, ölmezsen dönüşüm oranı %33. \nZombiler : Enfekte olma veya hayatta kalma %70 şams.
+      Sen Şifacısın. Mistik güçlerin sayesinde ölen bir köylüyü geri getirebilirsin. Ancak, bunu yalnızca bir kez yapabilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: %50 ölüm var, ölmezsen dönüşüm oranı %33. \nZombiler : Enfekte olma veya hayatta kalma %70 şams.
     </value>
   </string>
   <string key = "RoleInfoRabidWolf">
-    <value> Sen Kuduz Kurtsun. Alfa tarafından enfekte olan ilk kurttun. Onun için büyük öneme sahipsin ve ölürsen, senin için bir halef arayacak (kurtların bir sonraki kurbanı kuduz bir kurt olacak). \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler : Vampir öldürmek %50 \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Her zaman hayatta kal. </value>
+    <value> Sen Kuduz Kurtsun. Alfa tarafından enfekte olan ilk kurttun. Onun için büyük öneme sahipsin ve ölürsen, senin için bir halef arayacak (kurtların bir sonraki kurbanı kuduz bir kurt olacak). \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar : Ubır öldürmek %50 \nZombiler: \nZiyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Her zaman hayatta kal. </value>
   </string>
   <string key = "RoleInfoSleepwalker">
-    <value> Sen sıradan Köylüsün. Günlerinizi tarlaları işleyerek ve yenilerek geçirmeye mahkumsunuz. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalır ve %45 dönüştür. </value>
+    <value> Sen sıradan Köylüsün. Günlerinizi tarlaları işleyerek ve yenilerek geçirmeye mahkumsunuz. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalır ve %45 dönüştür. </value>
   </string>
   <string key = "RoleInfoHerbalist">
     <value>
-      Sen Otacı'sın. Kurt adamların tehdidi nedeniyle, her gece bir kişiyi zehirlemek için bilgini kullanmaya karar veriyorsun. Bu kişi zehirlendiğini bilecek ve ertesi gece ölecek. Panzehiri yalnızca sen biliyorsun ve onu bir sonraki gece ona verip kurtarmayacağına veya ölmesine izin verip vermeyeceğine karar verebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Zehirli vampir. \nSeni ziyaret ederlerse: %50 ölüm oranı vardır, ölmezsen dönüşüm oranı %33'tür. \nZombiler: \nZiyaret edersen: Her zaman zehirlenirler. \nSeni ziyaret ederlerse: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm Var.
+      Sen Otacı'sın. Kurt adamların tehdidi nedeniyle, her gece bir kişiyi zehirlemek için bilgini kullanmaya karar veriyorsun. Bu kişi zehirlendiğini bilecek ve ertesi gece ölecek. Panzehiri yalnızca sen biliyorsun ve onu bir sonraki gece ona verip kurtarmayacağına veya ölmesine izin verip vermeyeceğine karar verebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Zehirli Ubır. \nSeni ziyaret ederlerse: %50 ölüm oranı vardır, ölmezsen dönüşüm oranı %33'tür. \nZombiler: \nZiyaret edersen: Her zaman zehirlenirler. \nSeni ziyaret ederlerse: %30 Enfeksiyon, %25 Hayatta Kalma ve %45 Dönüşüm Var.
     </value>
   </string>
   <string key = "RoleInfoNinja">
-    <value> Sen Ninjasın. Her gece tetikte olmaya veya uyumaya karar verebilirsin. Tetikte olmaya karar verirsen seni ziyaret eden ilk saldırgandan saklanacaksın. Ancak, seni ziyaret etmezlerse, ertesi gece dinlenmelisin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Eğer saklanmazsa, onu dönüştürmek ya da öldürmek için %50 şans vardır . \nZombiler: Eğer saklanmazsa %30 enfeksiyon veya hayatta kalma şansına sahiptir.</value>
+    <value> Sen Ninjasın. Her gece tetikte olmaya veya uyumaya karar verebilirsin. Tetikte olmaya karar verirsen seni ziyaret eden ilk saldırgandan saklanacaksın. Ancak, seni ziyaret etmezlerse, ertesi gece dinlenmelisin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Eğer saklanmazsa, onu dönüştürmek ya da öldürmek için %50 şans vardır . \nZombiler: Eğer saklanmazsa %30 enfeksiyon veya hayatta kalma şansına sahiptir.</value>
   </string>
   <string key = "RoleInfoSnooper">
     <value>
-      Sen Koklayıcı Kurtsun. Her gece, bir oyuncunun gece aksiyonu olup olmadığını anlamak için gözetleyebilirsin. Ayrıca, güçlü kokuları nedeniyle sarhoşu, fırıncıyı veya otacıyı ayırt edebileceksin. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Yalnızca geceleri algılar. \nSeni ziyaret ederlerse: Harekete geçmezsen ölürsün, aksi takdirde evde bulamazlar. \nZombiler: Her zaman hayatta kal.
+      Sen Koklayıcı Kurtsun. Her gece, bir oyuncunun gece aksiyonu olup olmadığını anlamak için gözetleyebilirsin. Ayrıca, güçlü kokuları nedeniyle sarhoşu, fırıncıyı veya otacıyı ayırt edebileceksin. \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Yalnızca geceleri algılar. \nSeni ziyaret ederlerse: Harekete geçmezsen ölürsün, aksi takdirde evde bulamazlar. \nZombiler: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoSpeedWolf">
-    <value> Sen Hızlı Kurtsun. Sürünün en hızlısı sensin ve oyun başında bir kez o gün linç edilmekten kaçıp kurtulabilirsin. Ancak bunu yaparak herkes senin hızlı kurt olduğunu bilecek ve ertesi gün seni linç edecekler. Doğru anı bekle! \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampiri veya bir kurdu öldürme şansı %50'dir. \nZombiler: \n-Ziyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Daima hayatta kal. </value>
+    <value> Sen Hızlı Kurtsun. Sürünün en hızlısı sensin ve oyun başında bir kez o gün linç edilmekten kaçıp kurtulabilirsin. Ancak bunu yaparak herkes senin hızlı kurt olduğunu bilecek ve ertesi gün seni linç edecekler. Doğru anı bekle! \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: Ubırı veya bir kurdu öldürme şansı %50'dir. \nZombiler: \n-Ziyaret edersen: Tatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nSeni ziyaret ederlerse: Daima hayatta kal. </value>
   </string>
   <string key = "RoleInfoLookout">
-    <value> Sen Nöbetçisin. Her gece bir oyuncunun evine bakıp onu kimin/kimlerin ziyaret ettiğini öğrenebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Sadece gözlemlersin. \nZiyaret ederlerse : %50 ölüm var, eğer ölmezsen dönüşüm oranı %33. \nZombiler: Enfekte olma veya hayatta kalma için %30 şans var. </value>
+    <value> Sen Nöbetçisin. Her gece bir oyuncunun evine bakıp onu kimin/kimlerin ziyaret ettiğini öğrenebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Sadece gözlemlersin. \nZiyaret ederlerse : %50 ölüm var, eğer ölmezsen dönüşüm oranı %33. \nZombiler: Enfekte olma veya hayatta kalma için %30 şans var. </value>
   </string>
   <string key = "RoleInfoGuard">
     <value>
-      Sen Muhafızsın. Her gece bir oyuncuyu savunabilirsin. Onu savunan her muhafız için, saldırıya uğrarsa onu kurtarmak için %20 hakkın var. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: \nZiyaret edersen: Seni dönüştürmek için %50 şans. \nSeni ziyaret ederlerse: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
+      Sen Muhafızsın. Her gece bir oyuncuyu savunabilirsin. Onu savunan her muhafız için, saldırıya uğrarsa onu kurtarmak için %20 hakkın var. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: \nZiyaret edersen: Seni dönüştürmek için %50 şans. \nSeni ziyaret ederlerse: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoHowlingWolf">
     <value>
-      Sen Kâbus Kurdusun. Dolunay gecelerinde uluyacak, köylüleri korkutacak ve gece hareketlerini yapmalarını engelleyeceksin. \n\nTakım: Kurtlar. \n\nDönüşümler: \nVampirler: Vampir %50 öldürülür veya bir kurt ölür. \nZombiler: \nZiyaret edersen: YTatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nZiyaret ederlerse: Her zaman hayatta kal.
+      Sen Kâbus Kurdusun. Dolunay gecelerinde uluyacak, köylüleri korkutacak ve gece hareketlerini yapmalarını engelleyeceksin. \n\nTakım: Kurtlar. \n\nDönüşümler: \nUbırlar: Ubır %50 öldürülür veya bir kurt ölür. \nZombiler: \nZiyaret edersen: YTatlarını beğenmeyecek ve onları yemekten vazgeçeceksin. \nZiyaret ederlerse: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoFirefighter">
     <value>
-      Sen İtfaiyecisin. Her gece birini kurtlardan veya cehennem kurdunun alevlerinden kurtarabilirsin. Kendini de kurtarabilirsin, ancak hedefin saldırıya uğramazsa, sonraki gece onu ziyaret edemezsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Algılamazlar. \nSeni ziyaret ederlerse: %50 ölüm oranı var, ölmezsen %50 dönüşüm şansı var. \nZombiler: \nZiyaret edersen: Ziyaret edilmez. \nSeni ziyaret ederlerse: Her zaman hayatta kal.
+      Sen İtfaiyecisin. Her gece birini kurtlardan veya cehennem kurdunun alevlerinden kurtarabilirsin. Kendini de kurtarabilirsin, ancak hedefin saldırıya uğramazsa, sonraki gece onu ziyaret edemezsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Algılamazlar. \nSeni ziyaret ederlerse: %50 ölüm oranı var, ölmezsen %50 dönüşüm şansı var. \nZombiler: \nZiyaret edersen: Ziyaret edilmez. \nSeni ziyaret ederlerse: Her zaman hayatta kal.
     </value>
   </string>
   <string key = "RoleInfoGhost">
     <value>
-      Sen Hayaletsin! Sen köyün bir parçasısın. Kurtları öldürmek için bir köylünün bedenine sahip oldun. Ölürsen, ruh halinde linç etmeye devam edebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Bağışıklılık var. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
+      Sen Hayaletsin! Sen köyün bir parçasısın. Kurtları öldürmek için bir köylünün bedenine sahip oldun. Ölürsen, ruh halinde linç etmeye devam edebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Bağışıklılık var. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoAugur">
     <value>
-      Sen Müneccimsin. Bir şeyleri görme gücüne sahipsin, ancak yancıdan veya kahinden çok farklı bir şekilde. Köyde olmayan rolleri görebilen tek kişi sensin ve bunlardan birini asla iki kez göremeyeceksin (Oyunda mason olmadığı bilgisi gelirse ikinci kez sana bu bilgi verilmeyecek)! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm var dönüşüm oranı %33. \nZombiler: %30 enfekte, %25 hayatta kalma ve %45 dönüşüm.
+      Sen Müneccimsin. Bir şeyleri görme gücüne sahipsin, ancak yancıdan veya kahinden çok farklı bir şekilde. Köyde olmayan rolleri görebilen tek kişi sensin ve bunlardan birini asla iki kez göremeyeceksin (Oyunda mason olmadığı bilgisi gelirse ikinci kez sana bu bilgi verilmeyecek)! \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: %50 ölüm var dönüşüm oranı %33. \nZombiler: %30 enfekte, %25 hayatta kalma ve %45 dönüşüm.
     </value>
   </string>
   <string key = "RoleInfoTroublemaker">
     <value>
-      Sen Baş Belasısın. Bir köy genci olarak, tüm bunlarla birlikte tam ergenlik çağındasın. Her oyunda bir kez, her şey için çok üzüldüğünde, köyde büyük bir öfkeye neden olabilirsin ve köylüler o gün 2 kez linç ederler. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Ölmek için %50, eğer ölmezsen %75 dönüşüm var. \nZombiler: %70 enfekte olma veya hayatta kalma.
+      Sen Baş Belasısın. Bir köy genci olarak, tüm bunlarla birlikte tam ergenlik çağındasın. Her oyunda bir kez, her şey için çok üzüldüğünde, köyde büyük bir öfkeye neden olabilirsin ve köylüler o gün 2 kez linç ederler. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Ölmek için %50, eğer ölmezsen %75 dönüşüm var. \nZombiler: %70 enfekte olma veya hayatta kalma.
     </value>
   </string>
   <string key = "RoleInfoGraveDigger">
     <value>
-      Sen Mezarcısın. Köylülerin cesetlerini atmak senin sorumluluğundadır. Dün gece öldürülen herkes için bir mezar kazarsın. Her halükarda, genellikle mezarı bitiremeyecek kadar yorgunsun, bu yüzden mezarlar açıkta bırakılıyor. Bazı ziyaretçiler onların içine düşebilir ve ölebilir. Ama gece dışarı çıktığın için, kurtlar ve katil seni yolda bulup öldürebilir ve ne kadar çok mezar kazarsan ölme şansın o kadar çok olur. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Kazılacak mezarın yoksa %50 ölüm oranı vardır, ölmezsen %50 dönüşüm elde edersin. \nZombiler: Kazılacak mezar yoksa Enfekte olma veya hayatta kalma şansı %40.
+      Sen Mezarcısın. Köylülerin cesetlerini atmak senin sorumluluğundadır. Dün gece öldürülen herkes için bir mezar kazarsın. Her halükarda, genellikle mezarı bitiremeyecek kadar yorgunsun, bu yüzden mezarlar açıkta bırakılıyor. Bazı ziyaretçiler onların içine düşebilir ve ölebilir. Ama gece dışarı çıktığın için, kurtlar ve katil seni yolda bulup öldürebilir ve ne kadar çok mezar kazarsan ölme şansın o kadar çok olur. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Kazılacak mezarın yoksa %50 ölüm oranı vardır, ölmezsen %50 dönüşüm elde edersin. \nZombiler: Kazılacak mezar yoksa Enfekte olma veya hayatta kalma şansı %40.
     </value>
   </string>
   <string key = "RoleInfoChemist">
-    <value> Sen Kimyagersin. Zehirli iksirleri seviyorsun ve ayrıca onlarla hayatını riske atmayı seviyorsun ... hatta birazcık bile olsa! İki iksir hazırlayacaksın: bunlardan biri zehirlidir; diğerinin etkisi yoktur, ancak aynı görünürler. Her gece bir oyuncu seçip onu seninle içmeye zorlayabilirsin. Şanslı olabilir ve hayatta kalabilirsin. Partnerin zararsız içeceği seçerse, zehirlenecek ve öleceksin. İyi şanslar! \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Bir bahis yap. \nSeni ziyaret ederlerse: %50 ölüm oranı vardır. dönüşüm oranı %33'tür. \nZombiler: \nZiyaret edersen: Her zaman virüslüdür. \nSeni ziyaret ederlerse: %40 enfekte olma veya hayatta kalma şansı vardır. </value>
+    <value> Sen Kimyagersin. Zehirli iksirleri seviyorsun ve ayrıca onlarla hayatını riske atmayı seviyorsun ... hatta birazcık bile olsa! İki iksir hazırlayacaksın: bunlardan biri zehirlidir; diğerinin etkisi yoktur, ancak aynı görünürler. Her gece bir oyuncu seçip onu seninle içmeye zorlayabilirsin. Şanslı olabilir ve hayatta kalabilirsin. Partnerin zararsız içeceği seçerse, zehirlenecek ve öleceksin. İyi şanslar! \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Bir bahis yap. \nSeni ziyaret ederlerse: %50 ölüm oranı vardır. dönüşüm oranı %33'tür. \nZombiler: \nZiyaret edersen: Her zaman virüslüdür. \nSeni ziyaret ederlerse: %40 enfekte olma veya hayatta kalma şansı vardır. </value>
   </string>
   <string key = "RoleInfoWiseElder">
-    <value> Sen Yaşlı Bilgesin. Kurt adamların saldırısından yalnızca bir kez kurtulabileceksin; Bir dahaki sefere bu kadar şanslı olmayacaksın. Silahşör, avcı veya kimyager tarafından öldürülürsen, güçlerini kaybederler ve köylü olurlar. Yancı seni ziyaret etmeye karar verirse dikkatli ol, çünkü bu yaştaki birine göre böylr bir gece aksiyonu için kalbin zayıftır, o çılgın geceden %50 şansla kurtulacaksın. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: %50 ölüm, ölmezsen dönüşüm oranı %33'tür. \nZombiler: Her zaman enfekte. </value>
+    <value> Sen Yaşlı Bilgesin. Kurt adamların saldırısından yalnızca bir kez kurtulabileceksin; Bir dahaki sefere bu kadar şanslı olmayacaksın. Silahşör, avcı veya kimyager tarafından öldürülürsen, güçlerini kaybederler ve köylü olurlar. Yancı seni ziyaret etmeye karar verirse dikkatli ol, çünkü bu yaştaki birine göre böylr bir gece aksiyonu için kalbin zayıftır, o çılgın geceden %50 şansla kurtulacaksın. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: %50 ölüm, ölmezsen dönüşüm oranı %33'tür. \nZombiler: Her zaman enfekte. </value>
   </string>
   <string key = "RoleInfoPolice">
-    <value> Sen Jandarmasın. Her gece bir oyuncuyu sorgulayabilirsin. Masumsa, bilmek için %50 şansın var. Suçluysa, bunu bilmek için de % 50 şansa sahipsin. Ayrıca birkaç jandarma de olabilir. İşini nasıl yaptığına bağlı olarak terfi edebilir veya rütben düşürülebilir de!. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Jandarma eylemi yapar. \nSeni ziyaret ederlerse: %50 vampir olam veya ölme şansı var \nZombiler: \nZiyaret edersen: %50 enfeksiyon veya hayatta kalma var (zombi keşfet). \nZiyaret ederlerse: %30 enfeksiyon veya hayatta kalma oranı var. </value>
+    <value> Sen Jandarmasın. Her gece bir oyuncuyu sorgulayabilirsin. Masumsa, bilmek için %50 şansın var. Suçluysa, bunu bilmek için de % 50 şansa sahipsin. Ayrıca birkaç jandarma de olabilir. İşini nasıl yaptığına bağlı olarak terfi edebilir veya rütben düşürülebilir de!. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Jandarma eylemi yapar. \nSeni ziyaret ederlerse: %50 Ubır olam veya ölme şansı var \nZombiler: \nZiyaret edersen: %50 enfeksiyon veya hayatta kalma var (zombi keşfet). \nZiyaret ederlerse: %30 enfeksiyon veya hayatta kalma oranı var. </value>
   </string>
   <string key = "RoleInfoBeauty">
-    <value> Sen Afetsin. Köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana aşık olacak. Aşıkların ölürse yaşamayacaksın yani ziyarete gelen son kişi ölürse sen de ölürsün. Son ziyaretçin kazanırsa sen de kazanırsın, kazanırsan rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, O seni öldürebilir ve sana aşık olmaz. Köye yardım etmek için her zaman seni kimin ziyaret ettiğini söylemelisin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüştüm. </value>
+    <value> Sen Afetsin. Köydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana aşık olacak. Aşıkların ölürse yaşamayacaksın yani ziyarete gelen son kişi ölürse sen de ölürsün. Son ziyaretçin kazanırsa sen de kazanırsın, kazanırsan rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, O seni öldürebilir ve sana aşık olmaz. Köye yardım etmek için her zaman seni kimin ziyaret ettiğini söylemelisin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Her zaman dönüşür. \nZombiler: %30 enfeksiyon, %25 hayatta kalma ve %45 dönüştüm. </value>
   </string>
   <string key = "RoleInfoNecromancer">
-    <value> Sen Reenkarnistsin. Gece boyunca, oyunun geri kalanında ölü bir adamın rolü olmayı seçebilirsin. Ancak akıllıca seçim yapın, çünkü Reenkarnist kalarak bir oyunu kazanamazsın. Tıpkı Çift giden'de olduğu gibi... \n\nTakım: Takım seçene kadar Köy. \n\nDönüşümler: \nVampirler: Rol alana kadar bağışıklılığı var. \nZombiler: Enfekte olma veya hayatta kalma şansı %50'dir. </value>
+    <value> Sen Reenkarnistsin. Gece boyunca, oyunun geri kalanında ölü bir adamın rolü olmayı seçebilirsin. Ancak akıllıca seçim yapın, çünkü Reenkarnist kalarak bir oyunu kazanamazsın. Tıpkı Çift giden'de olduğu gibi... \n\nTakım: Takım seçene kadar Köy. \n\nDönüşümler: \nUbırlar: Rol alana kadar bağışıklılığı var. \nZombiler: Enfekte olma veya hayatta kalma şansı %50'dir. </value>
   </string>
   <string key = "RoleInfoTiti">
     <value>
-      Sen Kukla Ustasısın. Başkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişiye ne istersen onu yaptırmak için güçlerini kullanabilirsin. Kontrol ettiğin her üç kişi için, kendini saldırılara ve hatta linçlere karşı koruyacak bir kuklanın olacak. \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Vampiri kontrol edersin. \nSeni ziyaret ederlerse: Kendini koruyacak bir kuklan yoksa, ölme veya dönüşme şansı %50'dir. \nZombiler: \nZiyaret edersen: Bir zombiyi kontrol edersin. \nSeni ziyaret ederlerse : %50 hayatta kalma oranı veya enfeksiyon.
+      Sen Kukla Ustasısın. Başkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişiye ne istersen onu yaptırmak için güçlerini kullanabilirsin. Kontrol ettiğin her üç kişi için, kendini saldırılara ve hatta linçlere karşı koruyacak bir kuklanın olacak. \n\nTakım: Yok. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Ubırı kontrol edersin. \nSeni ziyaret ederlerse: Kendini koruyacak bir kuklan yoksa, ölme veya dönüşme şansı %50'dir. \nZombiler: \nZiyaret edersen: Bir zombiyi kontrol edersin. \nSeni ziyaret ederlerse : %50 hayatta kalma oranı veya enfeksiyon.
     </value>
   </string>
   <string key = "RoleInfocazadornoche">
     <value>
-      Sen Kelle Avcısısın. Her gece bir oyuncu seç; seçtiğin kişi gecenin bir yaratığı ise, o oyuncu ölür. Yaratıklar seni öldürmeye çalışırsa, köydeki ölü sayısı canlı sayısından az olduğu sürece ölecekler. \n\nTakım: Köy. \nAsistanların: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Bir vampirin ölümü. \nSeni ziyaret ederlerse: Vampir ölür. \nZombiler: Her durumda zombi ölümü..
+      Sen Kelle Avcısısın. Her gece bir oyuncu seç; seçtiğin kişi gecenin bir yaratığı ise, o oyuncu ölür. Yaratıklar seni öldürmeye çalışırsa, köydeki ölü sayısı canlı sayısından az olduğu sürece ölecekler. \n\nTakım: Köy. \nAsistanların: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Bir Ubırın ölümü. \nSeni ziyaret ederlerse: Ubır ölür. \nZombiler: Her durumda zombi ölümü..
     </value>
   </string>
   <string key = "RoleInfovampir">
     <value>
-      Sen Vampirsin. Her gece kanını emmek için bir av seçebileceksin ve susuzluğun arttıkça, birisi ayak izlerini takip etmek istemeden önce çok sayıda ölüm olacak. Kurt adamların ve vampirlerin zamanın başından beri düşman olduğu biliniyor. Eğer biriyle karşı karşıya kalırsan bir ölüm kalım savaşı vereceksin. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştürmezsen korkunç bir şekilde ölürsün. \n\nTakım: Vampirler. \n\nDönüşümler: \nZombiler: Her durumda zombi ölümü.
+      Sen Ubırsın. Her gece kanını emmek için bir av seçebileceksin ve susuzluğun arttıkça, birisi ayak izlerini takip etmek istemeden önce çok sayıda ölüm olacak. Kurt adamların ve Ubırların zamanın başından beri düşman olduğu biliniyor. Eğer biriyle karşı karşıya kalırsan bir ölüm kalım savaşı vereceksin. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştürmezsen korkunç bir şekilde ölürsün. \n\nTakım: Ubırlar. \n\nDönüşümler: \nZombiler: Her durumda zombi ölümü.
     </value>
   </string>
   <string key = "RoleInfoidiot">
-    <value> Sen "Deli"sin. Halk tarafından linç edilmedikçe özel bir gücün yoktur. Bu durumda, sanki Ace Ventura'ymış gibi, gerçekten kayıp bir deli gibi salak saçma bir şey yapacaksın ve herkes hatasını anlayacaktır; Deli hâlâ hayatta olabilir ve oyuna devam edebilir, ancak oylamaya katılma hakkı kalmaz. Bununla birlikte, tartışmalara katılmaya ve istediğin kadar konuşmaya devam edebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: Ölmek için %50 , ölmezsen %75 dönüşüm. \nZombiler: Her zaman dönüştürür. </value>
+    <value> Sen "Deli"sin. Halk tarafından linç edilmedikçe özel bir gücün yoktur. Bu durumda, sanki Ace Ventura'ymış gibi, gerçekten kayıp bir deli gibi salak saçma bir şey yapacaksın ve herkes hatasını anlayacaktır; Deli hâlâ hayatta olabilir ve oyuna devam edebilir, ancak oylamaya katılma hakkı kalmaz. Bununla birlikte, tartışmalara katılmaya ve istediğin kadar konuşmaya devam edebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Ölmek için %50 , ölmezsen %75 dönüşüm. \nZombiler: Her zaman dönüştürür. </value>
   </string>
   <string key = "RoleInfoflautista">
-    <value> Sen İllüzyonistsin. İllüzyonist yalnız bir roldür. Her gece iki oyuncuyu eski bir melodiyle büyüleyebilirsin. Tüm canlı oyuncuları büyülersen kazanırsın. Bazı yaratıklar seni evde bulamayacak, ancak seri katile dikkat ed. \n\nTakım: Yok. \n\nDönüşümler: \nVampirler: \nZiyaret edersen: Vampir hipnoz olur. \nZiyaret ederlerse: Seni evde bulamazlar. \nZombiler: \nZiyaret edersen: Zombi büyülenir. \nSeni ziyaret ederlerse: Seni evde bulamazlar. </value>
+    <value> Sen İllüzyonistsin. İllüzyonist yalnız bir roldür. Her gece iki oyuncuyu eski bir melodiyle büyüleyebilirsin. Tüm canlı oyuncuları büyülersen kazanırsın. Bazı yaratıklar seni evde bulamayacak, ancak seri katile dikkat ed. \n\nTakım: Yok. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Ubır hipnoz olur. \nZiyaret ederlerse: Seni evde bulamazlar. \nZombiler: \nZiyaret edersen: Zombi büyülenir. \nSeni ziyaret ederlerse: Seni evde bulamazlar. </value>
   </string>
   <string key = "RoleInfotimetraveler">
     <value>
-      Sen Zaman Yolcususun. Makineni yeniden inşa etmene yardım etmesi için 3 köylüyü ikna etmelisin. Kötü roller sana yardımcı olmaz, bu yüzden amacına yardımcı olarak sayılmazlar. ROLÜNÜ OYUN ESNASINDA AÇIĞA ÇIKARTMAMALISIN! En azından zaman makineni tamir edene kadar... Herhangi bir tehlike altında olmadığın müddetçe saklanmak zorundasın. Kelle avcısı linç için yada silahşörün seni vurması için ismini verirse rolünü söyleyebilirsin. Otacı zehri üzerinde ise en son çare olarak rolünü açığa çıkartmalısın. Görüş sahibi bir rol olmadığın için ziyaret ettiğin oyuncuları kurtaramazsın çünkü ziyaret ettiğin kişilerin iyi veya kötü olduklarını bilmiyorsun. \n\nTakım: Köy. \n\nDönüşümler: \nVampirler: \n-Ziyaret edersen: Onları tespit edemezsib. \nZiyaret ederlerse: %25 ölüm, ölmezsen %33 dönüşüm. \nZombiler: \nZiyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \nSeni ziyaret ederlerse: Orada enfekte olmanın veya hayatta kalmanın oranı %30.
+      Sen Zaman Yolcususun. Makineni yeniden inşa etmene yardım etmesi için 3 köylüyü ikna etmelisin. Kötü roller sana yardımcı olmaz, bu yüzden amacına yardımcı olarak sayılmazlar. ROLÜNÜ OYUN ESNASINDA AÇIĞA ÇIKARTMAMALISIN! En azından zaman makineni tamir edene kadar... Herhangi bir tehlike altında olmadığın müddetçe saklanmak zorundasın. Kelle avcısı linç için yada silahşörün seni vurması için ismini verirse rolünü söyleyebilirsin. Otacı zehri üzerinde ise en son çare olarak rolünü açığa çıkartmalısın. Görüş sahibi bir rol olmadığın için ziyaret ettiğin oyuncuları kurtaramazsın çünkü ziyaret ettiğin kişilerin iyi veya kötü olduklarını bilmiyorsun. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: \n-Ziyaret edersen: Onları tespit edemezsib. \nZiyaret ederlerse: %25 ölüm, ölmezsen %33 dönüşüm. \nZombiler: \nZiyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \nSeni ziyaret ederlerse: Orada enfekte olmanın veya hayatta kalmanın oranı %30.
     </value>
   </string>
   <string key = "RoleInfozombi">
-    <value> Sen Zombisin. Zombiler konuşmadığı için oyunlarda konuşamazsın. Aklın ve mantığın olmadığı için tüm seçimlerin rastgele. Birini ısırırsan, ertesi gece enfeksiyon nedeniyle dönüşecekler, bir başkası o kadar şanslı olmayacak ve daha fazlasını yiyebilmen için hemen dönüşecekler. \n\nTakım: Zombiler. \n\nDönüşümler: \nVampirler: Her durumda zombi ölümü . </value>
+    <value> Sen Zombisin. Zombiler konuşmadığı için oyunlarda konuşamazsın. Aklın ve mantığın olmadığı için tüm seçimlerin rastgele. Birini ısırırsan, ertesi gece enfeksiyon nedeniyle dönüşecekler, bir başkası o kadar şanslı olmayacak ve daha fazlasını yiyebilmen için hemen dönüşecekler. \n\nTakım: Zombiler. \n\nDönüşümler: \nUbırlar: Her durumda zombi ölümü . </value>
   </string>
 
   <string key = "porcentajesv">
     <value>
       VAMPİRE DÖNÜŞME OLASILIĞI
-      \n\nBu roller vampirleri öldürebilir:
-      \nSeri Katil 🔪:%20 ve her zaman bir vampir ölür.
-      \nKelle Avcısı 🌙: Köyün yarısından fazlası hayatta olduğunda vampirler ölür, aksi takdirde %50 şansla bir vampir veya Kelle Avcısı ölür.
-      \nHızlı Kurt 🐺: Vampir ölümü veya kurt ölümü için %50.
-      \nAvcı 🎯: Dönüşüm için %50, yoksa vampir ölümü için %50.
+      \n\nBu roller Ubırları öldürebilir:
+      \nSeri Katil 🔪:%20 ve her zaman bir Ubır ölür.
+      \nKelle Avcısı 🌙: Köyün yarısından fazlası hayatta olduğunda Ubırlar ölür, aksi takdirde %50 şansla bir Ubır veya Kelle Avcısı ölür.
+      \nHızlı Kurt 🐺: Ubır ölümü veya kurt ölümü için %50.
+      \nAvcı 🎯: Dönüşüm için %50, yoksa Ubır ölümü için %50.
       \nCehennem Kurdu 🐺🔥
 	  
       \n\nÖzel koşullara sahip roller:
@@ -3638,14 +3638,14 @@
       \nYancı 💋:Ölüm için %50, yaşıyor ise dönüşüm için %50 (Evden çıkmazsa).
       \nUyurgezer 😴:%100 (Evden çıkmazsa).
       \nKoklayıcı ve Beyaz Kurt 🐺: Kurtlar ölür (Evden çıkmazlarsa).
-      \n\nVampirleştirme rolleri %0:
+      \n\nUbırlaştırma rolleri %0:
       \nReenkarnistt ⚰️ (Rolü alana kadar).
       \nÇiftgiden 🎭 (Rolü alana kadar).
       \nKoruyucu Melek 👼
       \nİllüzyonist 🎼✨
       \nHayalet 👻
 	  
-      \n\nVampirlerin favori rolleri:
+      \n\nUbırların favori rolleri:
       \nZaman Yolcusu ⏳ ve hSurvivor ⛺️: Ölüm için %25, yaşıyor ise dönüşüm için %33.
       \n%50 Ölüm için, yaşıyor ise dönüşüm için %33:
       \nOtacı 🍃
@@ -3667,7 +3667,7 @@
       \nBaş belası 🤯
       \nZombi 🧟: Ölür.
       \nLanetli 😾: Ölür.
-      \n\nListelenmeyen diğer tüm roller %100 vampirleştirilebilir.
+      \n\nListelenmeyen diğer tüm roller %100 Ubırlaştırılabilir.
     </value>
   </string>
   <string key = "porcentajesz">
@@ -3675,7 +3675,7 @@
       ZOMBİ OLMA ŞANSI
       \n\nBu roller zombileri öldürebilir:
       \nCehennem Kurdu 🐺🔥
-      \nVampir 🧛
+      \nUbır 🧛
       \nSeri Katil 🔪
       \nKelle Avcısı 🌙
       \nAvcı 🎯: %30 enfeksiyon veya zombi ölür.
@@ -3727,7 +3727,7 @@
     </value>
   </string>
   <string key = "vkillzpublic">
-    <value> {0}'in cesedi kasabanın ana caddesinin ortasında ve çoktan çürümüş. Başı eksik ve kan izi yok. Bir zombi vampirler tarafından öldürülmüş gibi görünüyor. </value>
+    <value> {0}'in cesedi kasabanın ana caddesinin ortasında ve çoktan çürümüş. Başı eksik ve kan izi yok. Bir zombi Ubırlar tarafından öldürülmüş gibi görünüyor. </value>
   </string>
   <string key = "nocontroltiti">
     <value> {0}'in gece eylemi yok. Uyuyor gibi, gidiyorsun ama tatmin olmadın. </value>
@@ -3740,22 +3740,20 @@
   </string>
   <string key = "nocontrolcn">
     <value> {0} Kelle Avcısı, maalesef onu şimdilik kontrol edemezsin, onun hâlâ çok güçlü bir iradesi var. </value>
-  </string><string key = "zeatcazan2">
-    <value> {0} Bir avcının beyninin lezzetli olabileceğini düşündü ya da buna inanmak istiyordu, kafasız kaldığın için beklediğin gibi değildi. </value>
   </string>
-  <string key = "bağış">
-    <value> PAYPAL \nDiğer para transferleri ile karışıklığı önlemek için transfer notunda "Narrador için bağış" ve telegram kullanıcı adını belirt. \nBağış Linki: \n http://paypal.me/tmogeid \nKriptopara Transfer için Coinbase tarafından kullanıcının E-postası : tmogeid@gmail.com \nDiğer para birimlerini göndermek için @tmogeid ile özel olarak iletişime geç...Teşekkürler </value>
+  <string key = "zeatcazan2">
+    <value> {0} Bir avcının beyninin lezzetli olabileceğini düşündü ya da buna inanmak istiyordu, kafasız kaldığın için beklediğin gibi değildi. </value>
   </string>
 
   <!-- cadejo -->
 
   <string key = "RoleInfocadejo">
     <value>
-      Sen ateşli kırmızı gözleri olan Cadejo'sun. İşin insanların sana nasıl davrandığına bağlı. Eğer seni rahatsız etmezlerse onları koruyacaksın. Bununla birlikte, sana zarar vermeye çalışan olursa, taş atarlarsa veya seni korkutacak benzer bir şey olursa, o oyuncuyu korumak yerine ölümüne neden olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \n Vampirler: \n-Gidersen: Onları tespit edemezsin. \n-Seni ziyaret ederlerse: Seni evde bulamazlar. \n Zombiler: \n-Ziyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \n-Seni ziyaret ederlerse: Seni evde bulamazlar.
+      Sen ateşli kırmızı gözleri olan Cadejo'sun. İşin insanların sana nasıl davrandığına bağlı. Eğer seni rahatsız etmezlerse onları koruyacaksın. Bununla birlikte, sana zarar vermeye çalışan olursa, taş atarlarsa veya seni korkutacak benzer bir şey olursa, o oyuncuyu korumak yerine ölümüne neden olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \n Ubırlar: \n-Gidersen: Onları tespit edemezsin. \n-Seni ziyaret ederlerse: Seni evde bulamazlar. \n Zombiler: \n-Ziyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \n-Seni ziyaret ederlerse: Seni evde bulamazlar.
     </value>
   </string>
   <string key = "Aboutcadejo">
-    <value> Cadejo, ateşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
+    <value> Cadejo 🐕‍🦺: \nAteşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
   </string>
   <string key = "cadejo">
     <value> Cadejo 🐕‍🦺 </value>
@@ -3784,10 +3782,10 @@
   <!-- oldvampir -->
 
   <string key = "RoleInfooldvamp">
-    <value> Sen Kont'sun. Bin yaşın üzerindesin ve herhangi bir normal vampirden daha güçlüsün. Kelle Avcısı bile senden korkuyor. Ziyaretlerin, diğer vampirlerin kana olan susuzluklarını giderme kararlarından ayrı. \n \nTakım: Vampirler. \n \nDönüşümler: \n Zombiler: \n-Ziyaret edersen: Onları öldürürsün. \n-Seni ziyaret ederlerse: ölürler. </value>
+    <value> Sen Kont'sun. Bin yaşın üzerindesin ve herhangi bir normal Ubırdan daha güçlüsün. Kelle Avcısı bile senden korkuyor. Ziyaretlerin, diğer Ubırların kana olan susuzluklarını giderme kararlarından ayrı. \n \nTakım: Ubırlar. \n \nDönüşümler: \n Zombiler: \n-Ziyaret edersen: Onları öldürürsün. \n-Seni ziyaret ederlerse: ölürler. </value>
   </string>
   <string key = "Aboutoldvamp">
-    <value> Sen Kont'sun. Bin yaşın üzerindesin ve herhangi bir normal vampirden daha güçlüsün. Kelle Avcısı bile senden korkuyor. Ziyaretlerin, diğer vampirlerin kana olan susuzluklarını giderme kararlarından ayrı. Bir linçten sağ kurtulabilir ve Kelle Avcısı'nı öldürmek için %50 şansın olabilir. </value>
+    <value> Kont 🧛👨🏻‍🦳: \nBin yaşın üzerindesin ve herhangi bir normal Ubırdan daha güçlüsün. Kelle Avcısı bile senden korkuyor. Ziyaretlerin, diğer Ubırların kana olan susuzluklarını giderme kararlarından ayrı. Bir linçten sağ kurtulabilir ve Kelle Avcısı'nı öldürmek için %50 şansın olabilir. </value>
   </string>
   <string key = "oldvamp">
     <value> Kont 🧛👨🏻‍🦳 </value>
@@ -3808,7 +3806,7 @@
     <value> Kont olann {0}'i seçtin. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "wolfdeadvisitoldvamp">
-    <value> {0}, {1}'i yemeye çalıştı. Büyük acemilik! Onun Kont olabileceğine dair hiçbir fikri yoktu. {1} onu parçaladı ve derisiyle bir yağmurluk yaptı. Kurtlar artık onun kim olduğunu biliyor. O çok güçlü bir vampir, dikkat et. </value>
+    <value> {0}, {1}'i yemeye çalıştı. Büyük acemilik! Onun Kont olabileceğine dair hiçbir fikri yoktu. {1} onu parçaladı ve derisiyle bir yağmurluk yaptı. Kurtlar artık onun kim olduğunu biliyor. O çok güçlü bir Ubır, dikkat et. </value>
   </string>
   <string key = "zdeadvisitoldvamp">
     <value> {0} Kont'u çalıştı ama {1} tek eliyle çürük bir meyve gibi onun kafasını ezdi. </value>
@@ -3832,7 +3830,7 @@
     <value> Kont {0}'i ziyaret ettiğinde, ışığı onu hiçbir şey yapamaz hale getiren ve eve eli boş dönmek zorunda kalan bir melek figürüyle tanışır. </value>
   </string>
   <string key = "oldvampConvertSerialKiller">
-    <value> {0}, {1}'i ziyarete gittiğinde garip bir davranış gördü, katil onu bıçaklamak için üzerine atladı. {0} gibi bir vampir için önemli değil, kötü olan şey {1}'in de onu öldürmeye karar vermesiydi. Onu elektrikli testereyle küçük parçalara ayırdı. </value>
+    <value> {0}, {1}'i ziyarete gittiğinde garip bir davranış gördü, katil onu bıçaklamak için üzerine atladı. {0} gibi bir Ubır için önemli değil, kötü olan şey {1}'in de onu öldürmeye karar vermesiydi. Onu elektrikli testereyle küçük parçalara ayırdı. </value>
   </string>
   <string key = "oldvampirkillwolf">
     <value>
@@ -3999,8 +3997,8 @@
   
   <string key="PlayerStartedbonusrank">
     <!-- 0 - Player name -->
-    <value>¡{0} BONUS oyunu başlattı! Katılmak ve normalden daha fazla puan kazanmak için butona tıkla.</value>
-    <value>¡{0} yeni bir bonus oyun başlattı! Bu fırsattan yararlanabilecek misin?</value>
+    <value> {0} BONUS oyunu başlattı! Katılmak ve normalden daha fazla puan kazanmak için butona tıkla.</value>
+    <value> {0} yeni bir bonus oyun başlattı! Bu fırsattan yararlanabilecek misin?</value>
   </string>
   <string key="nobonus">
     <!-- 0 - Player name -->
@@ -4057,7 +4055,7 @@
 	<!-- peludo -->
 
 	<string key="Aboutpeludo">
-		<value>Samara tıpkı rapunzel gibi çok uzun saçlara sahip bir köylüdür. O kadar çok saçı vardır ki yüzünü bile göremezsin bu yüzden kelle avcısı onu ziyarete gelse Samarayı kurt sanıp öldürür. Saçlarından dolayı vampirlere ve zombilere karşı normal bir köylüden daha dayanıklıdır.</value>
+		<value>Samara 🧔🏻‍♀️: \nTıpkı rapunzel gibi çok uzun saçlara sahip bir köylüdür. O kadar çok saçı vardır ki yüzünü bile göremezsin bu yüzden kelle avcısı onu ziyarete gelse Samarayı kurt sanıp öldürür. Saçlarından dolayı Ubırlara ve zombilere karşı normal bir köylüden daha dayanıklıdır.</value>
 	</string>
 	<string key="peludo">
 		<value>Samara 🧔🏻‍♀️</value>
@@ -4140,7 +4138,7 @@
 		<value>Ucube Kurt 🐺🔱</value>
 	</string>
 	<string key="RoleInfobestia">
-		<value>Sen Ucube Kurtsun! En büyük düşmanın Cadejo'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Vampirler: \n-Ziyaret edersen: Yaşlı Vampir hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Yaşlı Vampir hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
+		<value>Sen Ucube Kurtsun! En büyük düşmanın Cadejo'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Ubırlar: \n-Ziyaret edersen: Kont hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Kont hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
 	</string>
 	<string key="aboutbestia">
 		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Cadejo'dan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığın olacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı </value>
@@ -4346,7 +4344,7 @@
 		<value>Şu ana dek henüz herhangi biri tarafından öldürülmedin.\n</value>
 	</string>
 	<string key="donation">
-		<value>---PAYPAL---\n Diğer aktarım türleri ile karıştırılmaması için "ANLATICI İÇİN BAĞIŞ" aktarım notunda ve kullanıcı adını belirtin. Bağış olarak görünüyorsa alıcı koruma kutusunun işaretini kaldırın. \n\n---CRIPTOCURRENCIES---\n Kripto para bağışlamak istiyorsanız, bunu Coinbase aracılığıyla kullanıcının e-posta adresine gönderebilirsiniz: tmogeid@gmail.com \n\n---TRANSFERENCES---\n Ayrıca banka uygulamanızdan, bizum veya moneygram (kartlar arası transferlerin ücretsiz olduğu yerlerde) ve benzerlerinden uluslararası transfer yoluyla bağış yapmak da mümkündür. \n\n Herhangi bir şüpheniz veya açıklamanız için @tmogeid ile iletişime geçebilirsiniz</value>
+		<value>---PAYPAL---\n Diğer aktarım türleri ile karıştırılmaması için "ANLATICI İÇİN BAĞIŞ" aktarım notunda ve kullanıcı adını belirtin. Bağış olarak görünüyorsa alıcı koruma kutusunun işaretini kaldırın. \n\n---CRIPTOCURRENCIES---\n Kripto para bağışlamak istiyorsanız, bunu Coinbase aracılığıyla kullanıcının e-posta adresine gönderebilirsiniz: tmogeid@gmail.com \n\n---TRANSFERENCES---\n Ayrıca banka uygulamanızdan, bizim veya moneygram (kartlar arası transferlerin ücretsiz olduğu yerlerde) ve benzerlerinden uluslararası transfer yoluyla bağış yapmak da mümkündür. \n\n Herhangi bir şüpheniz veya açıklamanız için 798188919 ile iletişime geçebilirsiniz</value>
     </string>
 	
 	<!-- modos pro -->
@@ -4409,7 +4407,7 @@
 		<value>Fısıltı 🤫</value>
 	</string>
     <string key="RoleInfosusurrador">
-		<value>Sen fısıldayan birisin 🤫. Sessizlik senin en büyük silahın. Beyin ve strateji yoksunu olan zombilere önderlik etmek için varsın yani sen onlar için Alfasın! Her gece bir oyuncuyu zombi sürüsüne dahil edebilir ve bütün sürünün linçlerine hakim olabilirsin. Senden önce bir zombi oy kullanırsa hiçbir zombinin oyu üzerinde hükmün olmayacak bu yüzden hızlı ol! \n\nTakım: Zombiler \n\nDönüşümler: \n Vampirler: \n-Ziyaret edersen veya seni ziyaret ederlerse, seni zombi sanacaklar ve kafanı koparıcaklar. \n Kurtlar: \n-Ziyaret edersen evde kimseyi bulamayacaksın. \n-Seni ziyaret ederlerse zombi sanacaklar ve hayatta kalacaksın.</value>
+		<value>Sen fısıldayan birisin 🤫. Sessizlik senin en büyük silahın. Beyin ve strateji yoksunu olan zombilere önderlik etmek için varsın yani sen onlar için Alfasın! Her gece bir oyuncuyu zombi sürüsüne dahil edebilir ve bütün sürünün linçlerine hakim olabilirsin. Senden önce bir zombi oy kullanırsa hiçbir zombinin oyu üzerinde hükmün olmayacak bu yüzden hızlı ol! \n\nTakım: Zombiler \n\nDönüşümler: \n Ubırlar: \n-Ziyaret edersen veya seni ziyaret ederlerse, seni zombi sanacaklar ve kafanı koparıcaklar. \n Kurtlar: \n-Ziyaret edersen evde kimseyi bulamayacaksın. \n-Seni ziyaret ederlerse zombi sanacaklar ve hayatta kalacaksın.</value>
 	</string>
 	<string key="Aboutsusurrador">
 		<value>Fısıltı 🤫. Köyün dehşeti ve zalimliği yüzünden çeşitli işkencelere maruz kaldı. Hatta aptal zombi enfeksiyonuna bulunması imkansız bir tedavi için onu kobay bile yaptılar! Ancak bilmedikleri şey, zombi ısırıklarından sağ kurtulduğu için evrim geçirmiş olması. Zombiler her ne kadar et ve beyine aç olsalarda ondan çekiniyorlar. Onlar için farklı birisi ve onu Alfaları olarak görüyorlar. Cildindeki çürükler ne kadar ileri düzey olsada bir zombi gibi hareket etmeyecek aksine bütün zombilerin kontrolüne hakim olabilecek. Her gece fısıltıları ile sürüye yeni bir zombi ekleyerek köylülerden intikamını doyasıya alabilecek ve eğer zombilerden önce oy kullanabilirse, zombilerin tüm oyunu yönetebilecek. Fısıltı yeteneği ile bir çok gece oyuncusunu yanıltabilir, hatta kurtları, bazen kelle avcısını ve seri katili bile!</value>
@@ -4463,7 +4461,7 @@
 		<value> Evine gizlice birilerinin sızdığını fark ettin. Otacı {0} içkilerinden birine zehir katmıştı. O zehir seni etkilemeyeceği için onu doğrudan kapana kıstırdın. Ona bir güzellik yapıp zombi sürüne dahil ettin. Bitki uzmanı artık en basit bir bitkiden bile daha aptal.</value>
 	</string>
 	<string key="vkillsuspublic">
-		<value> Köylüler sabah toplandığında {0}'in cansız bedenini bulurlar. Daha dün gece ölmüş birinr göre cesedi fazla çürüktü ama bir zombi kadar da çürük değildi... Belli ki vampirler dün gece fısıltının kafasını uçurmuş.</value>
+		<value> Köylüler sabah toplandığında {0}'in cansız bedenini bulurlar. Daha dün gece ölmüş birinr göre cesedi fazla çürüktü ama bir zombi kadar da çürük değildi... Belli ki Ubırlar dün gece fısıltının kafasını uçurmuş.</value>
 	</string>
 	<string key="NHunterKilledsus">
 		<value> Gecenin ortasında tuhaf sesler duyuldu. Köylüler her ne kadar ürperse de eninde sonunda gündüz vakti dışarı çıkmaya cesaret edebildiler. Kafası gövdesinden ayrı, elleri doğranmış şekilde {0}'in cansız bedenini bulurlar. Herkes cesedin hızla çürüdüğünü sanmıştı ancak o fısıltıydı ve Kelle Avcısı tarafından haşat edildi.</value>
@@ -4472,7 +4470,7 @@
 		<value> Köylüler sabah vakti uyandıklarında elektrik kesintisinin kaynağını bulmaya gittiler. {0}'in cesedi trafonun içindeydi ve tüm ahali dehşete düştü. Kopan kafasını bulduklarında bir yanakta 'S' bir diğerinde ise 'K' harfi vardı. Görünüşe göre psikopat kadın katilimiz meşhur fısıltı üzerinde bir eser yaratmış ve güzel bir hatıra imzası bırakmış.</value>
 	</string>
 	<string key="vampirKilledsus">
-		<value> Görünüşe göre {0}, kurbanını fazla hafife almış. Bu gece bir vampirle karşılacağını hiç düşünmemişti. Ne yazık ki vampirler {0}'i görür görmez kafasını uçururlar.</value>
+		<value> Görünüşe göre {0}, kurbanını fazla hafife almış. Bu gece bir Ubırla karşılacağını hiç düşünmemişti. Ne yazık ki Ubırlar {0}'i görür görmez kafasını uçururlar.</value>
 	</string>
 	<string key="NHunterKilledsusxvisit">
 		<!-- 0 - target's name -->
@@ -4484,7 +4482,7 @@
 	</string>
 	<string key="vampirKilledz">
 		<!-- 0 - target's name -->
-		<value> {0} dün gece bir vampire saldırmaya çalıştı. Ancak kana susamış yaratıklar bu zombi tehtidini anında ortadan kaldırdı. Kanı da vücudu gibi çürüktü ve kafası kopuk öylece yerdeydi.</value>
+		<value> {0} dün gece bir Ubıra saldırmaya çalıştı. Ancak kana susamış yaratıklar bu zombi tehtidini anında ortadan kaldırdı. Kanı da vücudu gibi çürüktü ve kafası kopuk öylece yerdeydi.</value>
 	</string>
 	<string key="susKillsHunterEnd">
 		<!-- 0 - cazador's name -->
@@ -4540,7 +4538,7 @@
 		<value> Sürüne önderlik ederken arkandan gelen topuklu ayakkabı seslerini duyuyorsun. Biliyorsun ki bu köyde senin inine kadar yaklaşabilecek tek bir kadın var ki o da Seri Katil! Sürünün başıboş kalması için hiç de uygun bir zaman değil ve aradan sıvışmaya çalışıyorsun. Seri katil zombilerin arasından geçmekle dikkati dağıldığı sırada arkadan ona salddırıyorsun ve etki altına alarak onu zombi sürüne dahil ediyorsun! BÜYÜK RİSK BÜYÜK KAZANÇ!!!</value>
 	</string>
 	<string key = "susxvamp">
-		<value> Bir vampirle rastlaştın. Zombi olmadığının farkındalar ama derinin hafiften çürümüş ve tuhaf olduğunun da farkındalar. Ne olur ne olmaz diye kafanı uçurdular 🤷</value>
+		<value> Bir Ubırla rastlaştın. Zombi olmadığının farkındalar ama derinin hafiften çürümüş ve tuhaf olduğunun da farkındalar. Ne olur ne olmaz diye kafanı uçurdular 🤷</value>
 	</string>
 	<string key = "susxsk">
 		<value> Sürün için yeni zombiler ararken arkandan bir bıçak darbesi aldın. Seri katil tarafından katledildin.</value>
@@ -4568,5 +4566,74 @@
 	</string>
 	<string key = "fwKilledsusvisit">
 		<value> Hünerlerine her ne kadar güvensede,Fısıltı {0}'in cehennem kurdu karşısında hiç sanşı yoktu.</value>
+	</string>
+
+	<!-- desviador -->
+
+	<string key="desviador">
+		<value> İşaretçi 🔀</value>
+	</string>
+	<string key="RoleInfodesviador">
+		<value> Sen İşaretçisin. Köydeki neredeyse ölümsüz olan tek kişisin. Bunun sebebi ise gece ziyaretçilerini şaşırtıyor olman. Kurt, Ubır, Zombi, Kukla Ustası yada herhangi bir kötü rol seni öldürmeye yeltenirse onların hedeflerini şaşırtacak ve onlara rastgele kurban vereceksin. Sadece kötüleri değil, seni ziyaret eden köylüleri bile şaşırtabilirsin! \nRol @lukinoteg tarafından oluşturuldu. \n\nTakım: Köy \n\nDönüşümler:Önüne gelebilecek herşeye karşı tam bağışıklılık.</value>
+	</string>
+	<string key="aboutdesviador">
+		<value> İşaretçi 🔀: \nKöyün kurnazı ve de ölümsüzü.. neredeyse ölümüz. İşaretçi rolü ziyaretçilerden pek hoşlanmaz bu yüzden gece vakti her birini atlatmak için kendisi için yeni bir metod geliştirdi. İyi veya kötü rol olsun, her kim onu ziyaret ederse, İşaretçi onları raastgele başka bir oyuncuya yönlendirecek. Kurtlar için başka bir atıştırmalık, Gözcü için kime ait olduğunu bilmediği bir görüş, Ubırlar için farklı bir kan torbası, Otacı için zehirlenecek farklı bir hedef, Kelle Avcısı için avlanacak başka bir oyuncu vesaire vesaire... Özet olarak İşaretçi tüm kendsine olan tüm aksiyonları rastgele başka bir oyuncunun üzerine saptıracak ve kimse bunun farkında bile olmayacak. \nRol @lukinoteg tarafından oluşturuldu. </value>
+	</string>
+
+	<!-- indiscreto -->
+
+	<string key="indiscreto">
+		<value> Gölge 🕶</value>
+	</string>
+	<string key="RoleInfoindiscreto">
+		<value> Sen Gölge'sin. Basit bir İnsan değilsin, bir Silüetsin. Köydeki herkesin gölgesindesin ve onları adım adım takip edebilirsin. Bu sayede gece bakti gerçekleşen tüm aksiyonları görebilecek. GRUP İÇİNDE BU AKSİYONLARI AFİŞE EDEMEZSİN! Çünkü bu bilgileri gelecekteki Kurt müttefiklerin için bir süreliğine kendine saklamalısın. Başlangıçta Köy tarafındasın ancak Kurtlar seni keşfederse onların saflarına geçeceksin ve bu bilgileri sürüyle paylaşmak isteyeceksin. Gece oyuncularından biri seni ziyaret etmeye çalışırsa kendi kimliğini riske atmış olur. Kurtlar hariç seni başka biri ziyaret ettiği vakit onları köy meydanının ortasında rolleri ile ifşa edeceksin. Ancak Kukla Ustasının hünerleri senden oldukça üstün bu yüzden gece vakti seni kolaylıkla öldürebilir. Kurtlar tarafından henüz ziyaret edilmediysen ve ölürsen, köy takımının bir parçası olacağın için herhangi bir kurdu ifşa edeceksin. Kurtların tarafında iken ölürsen Kelle Avcısının yaşayan yardımcılarından birini ifşa edeceksin. \nROLÜNÜ GRUPTA AÇIKLAMAMANI TABSİYE EDERİM!!! \nRol @dantravelsofficial tarafından oluşturuldu. \n\nTakım: Başlangıçta Köy. Oyunun gidişatına göre (Eğer Kurtlar, Falcı, Taklitçi, Ucube Kurt tarafından ziyaret edilirse) kurt takımı. \n\nDönüşümler: Ubır ve Zombilere karşı tam bağışıklılık.</value>
+	</string>
+	<string key="Aboutindiscreto">
+		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Eğer Kurtlar Gölgeyi keşfederse Gölge Kurt takımının bir parçası olacak. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Istası oldukça güçlü bür rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. Kurtlar tarafından henüz keşfedilmeden ölürse köylü takımından taraf olarak ölür ve öldüğünde herhangi bir kurdu ifşa eder. \nROLÜNÜ GRUPTA AÇIKLAMAMANI TABSİYE EDERİM!!! \nRol @dantravelsofficial tarafından oluşturuldu.</value>
+	</string>
+	<string key="visionindis">
+		<value> {0}'in gölgesini takip ederken {1}!in adresini ziyaret ettiğini gördün.</value>
+	</string>
+	<string key="cartelindis">
+		<value> Şafak vakti herkes Gölge'nin hazırladığı bir afişi fark etti. Afişteki kişi {0} idi. Görünüşe göre {0} gece oyuncusu ve Gölgeyi ziyaret etmişti ancak Gölge onun rolünü ifşa etmemiş...</value>
+	</string>
+	<string key="cartepvisit">
+		<value> Şafak vakti herkes Gölge'nin hazırladığı bir afişi fark etti. Afişteki kişi {0} idi. Görünüşe göre {0} gece oyuncusu ve Gölgeyi ziyaret etmişti. Afişin en altında büyük harflerle {1} yazıyordu!</value>
+	</string>
+	<string key="cartepvision">
+		<value> Şafak vakti herkes Gölge'nin hazırladığı bir afişi fark etti. Afişteki kişi {0} idi. Görünüşe göre {0} gece oyuncusu ve Gölgeyi ziyaret etmişti. Afişin en altında büyük harflerle {1} yazıyordu!</value>
+	</string>
+	<string key="wvisitind">
+		<value> {0}'in evine gittin ancak orada kimse yoktu ve aç ve öfkeli şekilde inine dönmeye karar versin. Tam o esnada arkandan bir çakıl taşı atılır. Arkana ve etrafına baktığında kimseyi göremezsin. Ancak yere bakınca gölgenin şekil değiştridiğini ve hareket ettiğini fark edersin. BU O!! GÖLGE!!!</value>
+	</string>
+	<string key="indvisitxw">
+		<value> {0}'in evine girdiğini fark ettin. Ancak oldukça tüylü ve uzun pençeleri vardı. O kesinlikle bir KURT ADAM! Hemen onun dikkatini çekmeye karar verdin ve sürüye katıldın.</value>
+	</string>
+	<string key="indinteam">
+		<value> GÖLGE'Yİ BULDUN! {0} artık sürüye dahil oldu.</value>
+	</string>
+	<string key="bestvisitind">
+		<value> {0}'in evine girdiğini fark ettin. Ancak o oldukça ürpertici bir tipti... Devasa ve bir kurda göre oldukça fazla ucubeydi ama yine de {0}!in kurt olduğuna eminsin ve ondan sürü hakkında bilgi almaya karar verdin.</value>
+	</string>
+	<string key="bestvisitind2">
+		<value> {0}'in evine gittin ancak orada kimse yoktu. Çabuk pes etmeye niyetli değilsin elbet. Evi karış karış ararken gölgenin her zamankinden biraz daha ufak olduğunu fark ettin. Adın gibi eminsin burası GÖLGE'NİN evi ve onu kıskıvrak yakaladın. Artık {0} ile takım olma zamanı.</value>
+	</string>
+	<string key="indvdead">
+		<value> Köylüler Gölgeyi linç ettiğinde o hâlâ safkan şekilde köyden yanaydı. Kurt sürüsünün onu bulamamasının hayal kırıklığı ile ölümüne razı oldu. Ancak Gece yeteneklerinin heba olmaması adına ölmeden önce meydana bir parşömen fırlattı. Üzerinde {0}'in resmi vardı ve belli ki Gölge onun gece aksiyonun yakalamıştı. Parşömenin en altında ise koca harflerle {1} yazıyordu.</value>
+	</string>
+	<string key="indwdead">
+		<value> Köylüler Gölgeyi linç ettiğinde bi farklılık olduğu sezdiler ve haklıydılar da. Gölge kurt sürüsü tarafından keşfedilmiş ve saf değiştirmişti. Ölümünde bile Gölge yeni kurt müttefiklerine gece yeteneklerinden bir armağan veriyor. Köy meydanına bir parşömen fırlatır ve üzerinde {0}'in resmi vardı. Belli ki Gölge onun gece aksiyonun yakalamıştı ve parşömenin en altında ise koca harflerle {1} yazıyordu. </value>
+	</string>
+	<string key="socseeind">
+		<value> {0}'in evine girdiğin fark ettin. Sıradan biri gibi gözüküyordu ama gözlerindeki mor renk elindeki kara kristal küreyi görünce oldukça şaşırdın. Kurtların kudretli Falcısı {0} bu. Gölgelerden çıkıp onun karşısına çıkarsın ve sürüyü aramaya başlarsın.</value>
+	</string>
+	<string key="socseeind2">
+		<value> {0}'in evine gittin ancak orada kimse yoktu. Yine de içinde bir ürperme oluştu ve gittikçe şüphe duymaya başladın. Gözlerinde mor parlaklık görüş yeteneğini oldukça öteye taşıyordu bu yüzden kendi gölgendeki tuhaflığı fark ettin. Gölge {0}'i oldukça şaşırttın ve hiç beklemediği bir anda onu ortaya çıkardun. Artık onunla ortak olup sürüyü aramaya başlarsın.</value>
+	</string>
+	<string key="impoind">
+		<value> {0}'in evine girdiğini fark ettin. Yüzünde maske vardı ve onu göremiyordun. Aniden elini gölgesine koydu ve bekle.. SENİ FARK ETTİ! İnanılır gibi değil ama {0} tıpkı senin gibi Gölge oldu. Taklitçi işinde gerçekten inanılmaz olmalı! Onunla iş birliği yapıp sürüyü keşfetmeye başalarsın.</value>
+	</string>
+	<string key="impoind2">
+		<value> {0}'in evine girdin ancak orada kimse yoktu. Şaka olmalı bu :p Hedefini evde mi bulamadın? Elbette bu kadar kolay değil. Diz çöküp kendi gölgene baktın ve onu kopyaladın. BU SENİN KENDİ GÖLGEN DEĞİLDİ AMA! Bunu ilk defa deneyimliyorsun ancak taklit ettiğin kişi Gölge {0} ve onunlar iş birliği yapıp sürüyü keşfetmeye başlarsın.</value>
 	</string>
 </strings>
