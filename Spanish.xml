@@ -4362,4 +4362,13 @@
 	<string key="impoind2">
 		<value>Cuando reúnes información para copiar a {0}, se percata de tus acciones, te dice que es el indiscreto, intentas hacer equipo con {0} y le preguntarás por la manada.</value>
 	</string>
+
+	<!-- diciembre -->
+
+	<string key="zeatfire2">
+		<value>Mientras te acercas a {0} empiezas a sentir un calor insoportable, te sacas tus pieles y máscara para poder respirar mejor, no fue una buena decisión, estabas acercandote al lobo de fuego, cuando te ve no duda en quemarte vivo.</value>
+	</string>
+	<string key="stbonus" >
+		<value>Bonus restantes.\n</value>
+	</string>
 </strings>
