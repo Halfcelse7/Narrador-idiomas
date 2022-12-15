@@ -4233,5 +4233,80 @@
 	<string key = "vampKillszEnd">
 		<value>{0} a préféré le sang, mais en voyant que {1} est un zombie, il l'achève en lui arrachant la tête.</value>
 	</string>
+	<string key="HunterShotWolfMulti">
+		<!-- 0 - target's name -->
+		<value>Les loups-garous ont essayé d'attaquer le chasseur la nuit dernière, mais le chasseur a pu les atteindre avec son fusil à temps ! {0} est mort et c'était un loup-garou.</value>
+	</string>
+
+	<!-- déviateur -->
+
+	<string key="desviador">
+		<value>Le déviateur 🔀</value>
+	</string>
+	<string key="RoleInfodesviador">
+		<value>Vous êtes le déviateur 🔀 : Une force surnaturelle vous protège la nuit, vous pouvez détourner les actions de tous les rôles de nuit sauf cupidon, mais il y a un hic, ces actions sont toujours détournées vers une autre personne. \nRôle conçu par @lukinoteg \n\nEquipe : Village \n\nConversions  : Immunisé contre toute équipe ennemie. </value>
+	</string>
+	<string key="aboutdesviador">
+		<value>Le déviateur 🔀 : Une force surnaturelle vous protège la nuit, vous pouvez détourner les actions de tous les rôles de nuit sauf cupidon, mais il y a un hic, ces actions sont toujours détournées vers une autre personne.\nRôle conçu par @lukinoteg \n\nEquipe: Village \n\nConversions: Immunisé contre toute équipe ennemie. </value>
+	</string>
+
+	<!-- Indiscret -->
+
+	<string key="indiscreet">
+		<value>l'indiscret 🕶</value>
+	</string>
+	<string key="RoleInfoindiscreet">
+		<value>Vous êtes l'Indiscret 🕶 : Depuis votre toit, vous avez passé votre vie à colporter des ragots sur vos voisins, à tel point que vous pouvez même voir ce que font les rôles dotés de vision, comme si vous aviez acquis un pouvoir. Chaque nuit, tu verras tout ce qu'ils font s'ils ont de l'action, tu ne peux pas révéler tes visions dans le groupe, tu ne les utiliseras que pour ton bénéfice et celui des loups, car ce sont tes louveteaux adorés, s'ils te rendent visite, ils rejoindront la meute mais tant qu'ils ne le feront pas, tu seras un villageois. Si un rôle de nuit agit sur vous, il finira mal, il ne vous trouvera pas car vous serez sur votre toit et le lendemain vous remplirez le village d'affiches révélant leur rôle, sauf pour le marionnettiste qui sera le seul à pouvoir vous tuer la nuit. Si vous êtes tué en tant que loup de l'équipe, vous révélerez un assistant du chasseur de nuit s'il en reste un en vie, par contre, si vous êtes tué en tant que village de l'équipe, vous révélerez un loup dans votre dernier souffle. \nVous NE POUVEZ PAS RÉVÉLER VOTRE RÔLE DANS LE GROUPE Rôle imaginé par @dantravelsofficial \Equipe : Village, seulement équipe loup quand il y a visite de la sorcière, des loups, de l'imposteur ou de la bête. \n\nConversions : Immunisé contre les zombies et les vampires.</value>
+	</string>
+	<string key="aboutindiscreet">
+		<value>L'Indiscret 🕶 : Depuis son toit, il passe sa vie à déblatérer sur ses voisins, à tel point qu'il peut même voir ce que font les rôles dotés de vision, comme s'il avait acquis un pouvoir. Chaque nuit, il verra tout ce qu'ils font s'ils ont de l'action, il ne peut pas révéler ses visions dans le groupe, il ne les utilisera que pour son bénéfice et celui des loups, car ils sont ses petits chéris, s'ils lui rendent visite, il rejoindra la meute mais tant qu'ils ne le feront pas, il sera un villageois. Si un rôle de nuit agit sur lui, il finira mal, ils ne le trouveront pas car il sera sur son toit et le lendemain, il remplira le village d'affiches révélant son rôle, sauf pour le marionnettiste qui sera le seul à pouvoir le tuer la nuit. S'il est tué en tant qu'équipe de loups, il révélera une aide du chasseur de nuit s'il en reste en vie, par contre, s'il est tué en tant qu'équipe de village, il révélera un loup dans son dernier souffle. \nVous NE POUVEZ PAS RÉVÉLER VOTRE RÔLE DANS LE GROUPE Rôle imaginé par @dantravelsofficial \Equipe : Village, seulement équipe loup quand il y a visite de la sorcière, des loups, de l'imposteur ou de la bête. \n\nConversions : Immunisé contre les zombies et les vampires.</value>
+	</string>
+	<string key="visionindis">
+		<value>{0} visite ou fait quelque chose à {1}</value>
+	</string>
+	<string key="posterindis">
+		<value>A l'aube, on voit dans tout le village des affiches de l'indiscret où il rend public le fait que {0} traînait chez lui hier soir mais n'a pas pu savoir pourquoi.</value>
+	</string>
+	<string key="cartepvisit">
+		<value>A l'aube, on voit dans tout le village des affiches de l'indiscret où il rend public que {0} traînait chez lui la nuit dernière et qu'il apprécie que {0} soit {1}.</value>
+	</string>
+	<string key="cartepvision">
+		<value>A l'aube, on voit dans tout le village des affiches de l'indiscret où il rend public qu'il a senti la présence de {0} la nuit dernière et que du haut de son toit il a observé sa maison, découvert que {0} est {1}.</value>
+	</string>
+	<string key="wvisitind">
+		<value>Visitant {0} vous ne le voyez nulle part, soudain un caillou vous est lancé, lorsque vous levez les yeux vers le toit, vous le voyez vous faire signe, C'EST L'INDISCRET ! </value>
+	</string>
+	<string key="indvisitxw">
+		<value>Vous voyez {0} s'approcher de votre maison, C'EST UN LOUP, c'est votre chance, attirez son attention en jetant un caillou du toit pour qu'il ne parte pas et que vous puissiez rejoindre le troupeau.</value>
+	</string>
+	<string key="indinteam">
+		<value>VOUS AVEZ TROUVÉ L'INDISCRET ! {0} rejoint la meute.</value>
+	</string>
+	<string key="bestvisitind">
+		<value>
+			Vous voyez {0} s'approcher de votre maison, vous voyez que c'est la bête, vous essayez de faire équipe avec {0} et de lui demander des informations sur la meute.</value>
+		</string>
+	<string key="bestvisitind2">
+		<value>Vous ne voyez pas {0} mais vous le sentez à proximité, en regardant sur le toit vous l'y trouvez, vous voyez que c'est lui l'indiscret, vous essayez de faire équipe avec {0} et de lui demander des informations sur le troupeau.</value>
+	</string>
+	<string key="indvdead">
+		<value>L'indiscret n'a jamais réussi à se faire repérer par ses petits, se sentant oublié et exclu par eux, il crie le nom de l'un d'eux, {0} est {1}.</value>
+	</string>
+	<string key="indwdead">
+		<value>L'indiscret est mort avec la consolation de faire déjà partie de la meute, avant de mourir il crie un des aides du chasseur de nuit pour essayer de faciliter la vie des loups, {0} est {1}.</value>
+	</string>
+	<string key="socseeind">
+		<value>Vous sentez la présence de {0} à proximité mais ne la voyez pas, vous voyez ce qu'elle fait dans sa maison et découvrez qu'elle est la sorcière, vous essayez de faire équipe avec {0} et de lui demander des informations sur la meute.</value>
+	</string>
+	<string key="socseeind2">
+		<value>Quand tu vois {0} tu le vois sur son toit, tu commences à mieux voir et tu vois que c'est lui l'indiscret, tu essayes de faire équipe avec {0} et de lui demander des informations sur la meute.</value>
+	</string>
+	<string key="impoind">
+		<value>Vous voyez {0} s'approcher de votre maison, il semble prendre des photos de vos vêtements, c'est lui l'imposteur, il veut vous imiter, vous essayez de faire équipe avec {0} et de lui poser des questions sur la meute.</value>
+	</string>
+	<string key="impoind2">
+		<value>
+			Lorsque vous rassemblez des informations pour copier {0}, il remarque vos actions, vous dit que c'est lui l'indiscret, vous essayez de faire équipe avec {0} et de lui demander des informations sur la meute.</value>
+		</string>
 
 </strings>
