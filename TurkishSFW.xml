@@ -472,7 +472,7 @@
   <string key = "NameExists">
     <!-- 0 - hedefin adı -->
     <!-- 1 - ad -->
-    <value> @ {1}, {0} adında bir oyuncu zaten katıldı. Lütfen katılmak için adını değiştir. </value>
+    <value> @{1}, {0} adında bir oyuncu zaten katıldı. Lütfen katılmak için adını değiştir. </value>
   </string>
   <string key = "HarlotDiscoverCult">
     <!-- 0 - hedefin adı -->
@@ -2367,7 +2367,7 @@
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "HarlotVisitDigger">
-    <value> {0} 'ın evine dikkatlice ve açık mezarlardan kaçarak gidiyorsun, ama vardığında evi boş ... Görünüşe göre {0} bütün gece dışarıda! </value>
+    <value> {0} 'in evine dikkatlice ve açık mezarlardan kaçarak gidiyorsun, ama vardığında evi boş ... Görünüşe göre {0} bütün gece dışarıda! </value>
   </string>
   <!-- {0}: mezar kazıcı -->
   <string key = "GAFell">
@@ -2450,7 +2450,7 @@
     <value> Onunla içmek için {0}'in evine gittin, ama vardığında o çoktan ölmüştü. </value>
   </string>
   <string key = "ChemistVisitYouSK">
-    <value> Kimyager 👨‍🔬, {0}, seni ziyaret etti. Seni iksirlerinden birini içmeye zorladı ama sen de bıçak çektin, görünüşe göre bıçağın daha güçlüydü 🤷‍♂️</value>
+    <value> Kimyager 👨‍🔬 {0}, seni ziyaret etti. Seni iksirlerinden birini içmeye zorladı ama sen de bıçak çektin, görünüşe göre bıçağın daha güçlüydü 🤷‍♂️</value>
   </string>
   <string key = "ChemistSK">
     <value> Biraz içmek için {0}’i ziyaret ettin, ancak pek de içmeye niyetli değildi çünkü seri katiller ayık gezer, bıçaklandın! 🔪</value>
@@ -2766,7 +2766,7 @@
   </string>
   <string key = "vampirTeam2">
     <!-- 0 - Ubır sayısı -->
-    <value>\nUbırlar:  </value>
+    <value>\nUbırlar: {0} </value>
   </string>
   <string key = "vampJoin">
     <!-- 0 - yeni Ubırin adı -->
@@ -3745,18 +3745,18 @@
     <value> {0} Bir avcının beyninin lezzetli olabileceğini düşündü ya da buna inanmak istiyordu, kafasız kaldığın için beklediğin gibi değildi. </value>
   </string>
 
-  <!-- cadejo -->
+  <!-- Cadejo -->
 
-  <string key = "RoleInfocadejo">
+  <string key = "RoleInfoCadejo">
     <value>
-      Sen ateşli kırmızı gözleri olan Cadejo'sun. İşin insanların sana nasıl davrandığına bağlı. Eğer seni rahatsız etmezlerse onları koruyacaksın. Bununla birlikte, sana zarar vermeye çalışan olursa, taş atarlarsa veya seni korkutacak benzer bir şey olursa, o oyuncuyu korumak yerine ölümüne neden olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \n Ubırlar: \n-Gidersen: Onları tespit edemezsin. \n-Seni ziyaret ederlerse: Seni evde bulamazlar. \n Zombiler: \n-Ziyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \n-Seni ziyaret ederlerse: Seni evde bulamazlar.
+      Sen ateşli kırmızı gözleri olan Barak'sın. İşin insanların sana nasıl davrandığına bağlı. Eğer seni rahatsız etmezlerse onları koruyacaksın. Bununla birlikte, sana zarar vermeye çalışan olursa, taş atarlarsa veya seni korkutacak benzer bir şey olursa, o oyuncuyu korumak yerine ölümüne neden olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \n Ubırlar: \n-Gidersen: Onları tespit edemezsin. \n-Seni ziyaret ederlerse: Seni evde bulamazlar. \n Zombiler: \n-Ziyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \n-Seni ziyaret ederlerse: Seni evde bulamazlar.
     </value>
   </string>
-  <string key = "Aboutcadejo">
-    <value> Cadejo 🐕‍🦺: \nAteşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
+  <string key = "AboutCadejo">
+    <value> Barak 🐕‍🦺: \nAteşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
   </string>
-  <string key = "cadejo">
-    <value> Cadejo 🐕‍🦺 </value>
+  <string key = "Cadejo">
+    <value> Barak 🐕‍🦺 </value>
   </string>
   <string key = "cadebvisit">
     <value> Görünüşe göre {0} sakindi, seni rahatsız etmedi, onu korumak için onunla birlikte kaldın. </value>
@@ -3765,18 +3765,18 @@
     <value> {0} seni görmekten korktu ve salakça sana taş atmaya başladı, öfkelendin. </value>
   </string>
   <string key = "visitxcadeb">
-    <value> Gizemli bir güç hissediyorsun, bir şeyin yanında yürüdüğünü ve yanında oturduğunu hissediyorsun. Cadejo seni korudu. </value>
+    <value> Gizemli bir güç hissediyorsun, bir şeyin yanında yürüdüğünü ve yanında oturduğunu hissediyorsun. Barak seni korudu. </value>
   </string>
   <string key = "visitxcaden">
     <value>
-      Yanında yürüyen bir varlık hissedersin, gözlerini çevirdiğinde bir kurt görürsün. Onu korkutmak için ona taş atmaya başlarsın ama o ... HAYIR, o bir kurt değildi. CADEJO!!! Senin bu aptallığından ötürü şimdi ateş püskürtmeye başladı. Bu geceyi canlı geçirmen pek mümkün değil gibi.
+      Yanında yürüyen bir varlık hissedersin, gözlerini çevirdiğinde bir kurt görürsün. Onu korkutmak için ona taş atmaya başlarsın ama o ... HAYIR, o bir kurt değildi. Barak!!! Senin bu aptallığından ötürü şimdi ateş püskürtmeye başladı. Bu geceyi canlı geçirmen pek mümkün değil gibi.
     </value>
   </string>
   <string key = "tcaden">
-    <value> Doğaüstü ve kötü bir güç fikrini değiştirmene neden oldu. {0} bugün senin seçimin olacak. Görünüşe göre Cadejo'nun işi! </value>
+    <value> Doğaüstü ve kötü bir güç fikrini değiştirmene neden oldu. {0} bugün senin seçimin olacak. Görünüşe göre Barak'ın işi! </value>
   </string>
   <string key = "cadbprotect">
-    <value> {0}'e yaklaştığında beyaz bir köpeğin yanında olduğunu görürsün, yaklaştıkça köpek büyüyene kadar önem vermezsin. O beyaz köpek bir Cadejo'dur. Tüm kötülüklere karşı seni koruyacak. </value>
+    <value> {0}'e yaklaştığında beyaz bir köpeğin yanında olduğunu görürsün, yaklaştıkça köpek büyüyene kadar önem vermezsin. O beyaz köpek bir Barak'tı. Tüm kötülüklere karşı seni koruyacak. </value>
   </string>
 
   <!-- oldvampir -->
@@ -4055,10 +4055,10 @@
 	<!-- peludo -->
 
 	<string key="Aboutpeludo">
-		<value>Samara 🧔🏻‍♀️: \nTıpkı rapunzel gibi çok uzun saçlara sahip bir köylüdür. O kadar çok saçı vardır ki yüzünü bile göremezsin bu yüzden kelle avcısı onu ziyarete gelse Samarayı kurt sanıp öldürür. Saçlarından dolayı Ubırlara ve zombilere karşı normal bir köylüden daha dayanıklıdır.</value>
+		<value>Arçura 🧔🏻‍♀️: \nTıpkı rapunzel gibi çok uzun saçlara sahip bir köylüdür. O kadar çok saçı vardır ki yüzünü bile göremezsin bu yüzden kelle avcısı onu ziyarete gelse Arçurayı kurt sanıp öldürür. Saçlarından dolayı Ubırlara ve zombilere karşı normal bir köylüden daha dayanıklıdır.</value>
 	</string>
 	<string key="peludo">
-		<value>Samara 🧔🏻‍♀️</value>
+		<value>Arçura 🧔🏻‍♀️</value>
 	</string>
 	<string key="NHunterKilledpeludo">
 		<!-- 0 - victim name -->
@@ -4098,7 +4098,7 @@
 		<value>Koklayıcı Kurt, {0}'in evine yaklaşırken fırından yeni çıkmış taze ekmeğin nefis kokusunu fark eder. Yani {0} bir {1}!</value>
 	</string>
 	<string key="cadbprotect2">
-		<value>Cehennem kurdu {0}'e yaklaştığında beyaz bir köpeğin ona eşlik ettiğini görür. Umurunda olmaz ama yaklaştıkça o köpek daha da büyür, işte beyaz Cadejo! {0} Cadejo'nun korumasından çekinerek inine geri döner.</value>
+		<value>Cehennem kurdu {0}'e yaklaştığında beyaz bir köpeğin ona eşlik ettiğini görür. Umurunda olmaz ama yaklaştıkça o köpek daha da büyür, işte beyaz Barak! {0} Barak'ın korumasından çekinerek inine geri döner.</value>
 	</string>
 	<string key="GuardBlockedfireWolf2">
 		<!-- 0 - target's name -->
@@ -4120,7 +4120,7 @@
 		<value>Ne kötü şans! Cehennem kurdu bir koruyucu melek buldu ve hedefini yakamadan kaçtı.</value>
 	</string>
 	<string key="cadbprotect3">
-		<value>{0}'e saldırdığında ona beyaz bir köpeğin eşlik ettiğini fark ettin. {0}'e yaklaştıkça o köpek büyür ve büyür, bu beyaz Cadejo'dur! Evine geri döndün çünkü {0} tüm kötülüklerden korunuyor .</value>
+		<value>{0}'e saldırdığında ona beyaz bir köpeğin eşlik ettiğini fark ettin. {0}'e yaklaştıkça o köpek büyür ve büyür, bu beyaz Barak'ın! Evine geri döndün çünkü {0} tüm kötülüklerden korunuyor .</value>
 	</string>
 	<string key="FightedWolf2">
 		<value>Sürü, {0}'in evine girerken, yaklaşan bir alarm sesi duyulur... itfaiyeciler! Keşfedilmeden önce yemek yemeden kaçmaktan başka çare yok.</value>
@@ -4138,10 +4138,10 @@
 		<value>Ucube Kurt 🐺🔱</value>
 	</string>
 	<string key="RoleInfobestia">
-		<value>Sen Ucube Kurtsun! En büyük düşmanın Cadejo'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Ubırlar: \n-Ziyaret edersen: Kont hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Kont hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
+		<value>Sen Ucube Kurtsun! En büyük düşmanın Barak'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Ubırlar: \n-Ziyaret edersen: Kont hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Kont hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
 	</string>
 	<string key="aboutbestia">
-		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Cadejo'dan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığın olacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı </value>
+		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Barak'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığın olacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı </value>
 	</string>
 	<string key = "GunnerShotbestia">
 		<value>{0}, {1}'e ateş eder ama ölmez, o Ucube Kurt! {0}, {1}'i öldürmek için bir kurşun daha harcaması gerektiğini fark eder. </value>
@@ -4195,19 +4195,19 @@
 		<value>Bu gece {0}, Ucube Kurdu'nu ziyaret ederek yanlış bir karar verdi. Binlerce parçalara ayrıldı ve Ucube kurt en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti. {0} Cerberus'tu. </value>
 	</string>
 	<string key="cadvisitbest3">
-		<value>Sonunda aynı Cadejo'nun seni ziyaret edeceğini kim bilebilirdi. {0} seni ininde ziyaret etmek gibi muhteşem bir fikre sahipti ve gerçekte ne olduğunu bilseydi, bunun hakkında daha derinlemesine düşünürdü. </value>
+		<value>Sonunda aynı Barak'ın seni ziyaret edeceğini kim bilebilirdi. {0} seni ininde ziyaret etmek gibi muhteşem bir fikre sahipti ve gerçekte ne olduğunu bilseydi, bunun hakkında daha derinlemesine düşünürdü. </value>
 	</string>
 	<string key="cadvisitvictimbest2">
-		<value>Bu gece {0}, Ucube Kurdu'nun kurbanını hedef olarak seçerek yanlış bir karar verdi ve acımasızca parçalarına ayrıldı. Ucube Kurdu en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti, {0} Cadejo'ydu. </value>
+		<value>Bu gece {0}, Ucube Kurdu'nun kurbanını hedef olarak seçerek yanlış bir karar verdi ve acımasızca parçalarına ayrıldı. Ucube Kurdu en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti, {0} Barak'tı. </value>
 	</string>
 	<string key="cadvisitvictimbest3">
-		<value>Sonunda aynı cadejo'nun bu gece aynı hedefini ziyaret edeceğini sana kim söyleyebilirdi. {0} bu gece şanssızdı. Bu fırsatın kaçmasına izin vermedin ve onu parçalarına ayırmaya karar verdin. </value>
+		<value>Sonunda aynı Barak'ın bu gece aynı hedefini ziyaret edeceğini sana kim söyleyebilirdi. {0} bu gece şanssızdı. Bu fırsatın kaçmasına izin vermedin ve onu parçalarına ayırmaya karar verdin. </value>
 	</string>
 	<string key="guardvisitvictimbest">
 		<value>Yanlış kişiyi korumaya çalıştın. Ucube Kurdu ile ayakta nöbet tuttun. En iyi kalkanınla bile kendini bu hayvana karşı koruyamadın..</value>
 	</string>
 	<string key="guardvisitvictimbest2">
-		<value>Bu gece {0} hedefi Ucube Kurdu'ndan korumak için yanlış bir karar verdi. Tüm uzuvları köyün dört bir yanına yayıldı. Ucube Kurdu Cadejo'yu aramaya devam edecek. {0} bir muhafızdı. </value>
+		<value>Bu gece {0} hedefi Ucube Kurdu'ndan korumak için yanlış bir karar verdi. Tüm uzuvları köyün dört bir yanına yayıldı. Ucube Kurdu Barak'tı aramaya devam edecek. {0} bir muhafızdı. </value>
 	</string>
 	<string key="guardvisitvictimbest3">
 		<value>{1}'e doğru giderken çevrede devriye gezen {0}'i fark ettin. Gözlerini hedefinden alamıyordu. Bu yüzden onun işini bitirmeye karar verdin. Nöbet günleri sonsuza kadar bitti. </value>
@@ -4292,6 +4292,9 @@
 	<string key="stnogame">
 		<value>Şu ana kadar herhangi bir oyunda yer almadın</value>
 	</string>
+	<string key="stbonus">
+		<value> Kalan bonus hakları.\n</value>
+	</string>
 	<string key="strango">
 		<value>\n\nLig</value>
 	</string>
@@ -4344,7 +4347,7 @@
 		<value>Şu ana dek henüz herhangi biri tarafından öldürülmedin.\n</value>
 	</string>
 	<string key="donation">
-		<value>---PAYPAL---\n Diğer aktarım türleri ile karıştırılmaması için "ANLATICI İÇİN BAĞIŞ" aktarım notunda ve kullanıcı adını belirtin. Bağış olarak görünüyorsa alıcı koruma kutusunun işaretini kaldırın. \n\n---CRIPTOCURRENCIES---\n Kripto para bağışlamak istiyorsanız, bunu Coinbase aracılığıyla kullanıcının e-posta adresine gönderebilirsiniz: tmogeid@gmail.com \n\n---TRANSFERENCES---\n Ayrıca banka uygulamanızdan, bizim veya moneygram (kartlar arası transferlerin ücretsiz olduğu yerlerde) ve benzerlerinden uluslararası transfer yoluyla bağış yapmak da mümkündür. \n\n Herhangi bir şüpheniz veya açıklamanız için 798188919 ile iletişime geçebilirsiniz</value>
+		<value>---PAYPAL---\n Diğer aktarım türleri ile karıştırılmaması için "ANLATICI İÇİN BAĞIŞ" aktarım notunda ve kullanıcı adını belirtin. Bağış olarak görünüyorsa alıcı koruma kutusunun işaretini kaldırın. \n\n---CRIPTOCURRENCIES---\n Kripto para bağışlamak istiyorsanız, bunu Coinbase aracılığıyla kullanıcının e-posta adresine gönderebilirsiniz: tmogeid@gmail.com \n\n---TRANSFERENCES---\n Ayrıca banka uygulamanızdan, bizim veya moneygram (kartlar arası transferlerin ücretsiz olduğu yerlerde) ve benzerlerinden uluslararası transfer yoluyla bağış yapmak da mümkündür. \n\n Herhangi bir şüpheniz veya açıklamanız için Keko J: 798188919 ile iletişime geçebilirsiniz</value>
     </string>
 	
 	<!-- modos pro -->
@@ -4560,6 +4563,9 @@
 	</string>
 	<string key = "zeatfire">
 		<value> {0}'i basit bir köpek yavrusu sandın. Ama seni mangalda cız-bız edebilecek cehennem kurduydu.</value>
+	</string>
+	<string key="zeatfire2">
+		<value> {0}'in beyninden faydalanmak için ona doğru yaklaştın ancak hedefin göründüğünden çok daha sıcaktı. Hatta seni yakıp kül edecek kadar sımsıcak bir cehennem kurduydu ve köze döndün.</value>
 	</string>
 	<string key = "fwKilledzvisit">
 		<value> Zombilerin zekadan yoksun olduğu kanıtlandı. {0} bugün cehennem kurdundan beslenmeye çalıştı. Onun yerşne ızgara oldu...</value>
