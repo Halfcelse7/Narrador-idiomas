@@ -214,6 +214,7 @@
     <Content Include="$(MSBuildThisFileDirectory)Thai.xml" />
     <Content Include="$(MSBuildThisFileDirectory)Traditional.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TraditionalAmnesia.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)Turkish Amnesia.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TurkishSFW.xml" />
     <Content Include="$(MSBuildThisFileDirectory)Uzbek Amnesia.xml" />
     <Content Include="$(MSBuildThisFileDirectory)Uzbek Mafia.xml" />
