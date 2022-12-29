@@ -4393,10 +4393,10 @@
 		<value>el lobo beta 🐺🅱️</value>
 	</string>
 	<string key="RoleInfobeta">
-		<value>Eres el Lobo Beta 🐺🅱️ : Eres el lobo siguiente del lobo alfa en orden de sucesión, al morir este ocuparás su lugar como líder de la manada convirtiéndote en el nuevo alfa.\nRol ideado por @Barbolwey\n\nTeam: Lobos.\n\nConversiones:\n Vampiros: Hay un 50% de matar al vampiro o de que muera un lobo.\n Zombis:\n-Si visitas: No te gustará la comida.\n-Si te visitan: Siempre sobrevive.</value>
+		<value>Eres el Lobo Beta 🐺🅱️ : Eres el lobo siguiente del lobo alfa en orden de sucesión, al morir el alfa ocuparás su lugar como líder de la manada convirtiéndote en el nuevo alfa.\nRol ideado por @Barbolwey\n\nTeam: Lobos.\n\nConversiones:\n Vampiros: Hay un 50% de matar al vampiro o de que muera un lobo.\n Zombis:\n-Si visitas: No te gustará la comida.\n-Si te visitan: Siempre sobrevive.</value>
 	</string>
 	<string key="aboutbeta">
-		<value>Eres el Lobo Beta 🐺🅱️ : Er el lobo siguiente del lobo alfa en orden de sucesión, al morir este ocupará su lugar como líder de la manada convirtiéndose en el nuevo alfa.\nRol ideado por @Barbolwey\n\nTeam: Lobos.\n\nConversiones:\n Vampiros: Hay un 50% de matar al vampiro o de que muera un lobo.\n Zombis:\n-Si visitas: No te gustará la comida.\n-Si te visitan: Siempre sobrevive.</value>
+		<value>Eres el Lobo Beta 🐺🅱️ : Es el lobo siguiente del lobo alfa en orden de sucesión, al morir el alfa este ocupará su lugar como líder de la manada convirtiéndose en el nuevo alfa.\nRol ideado por @Barbolwey\n\nTeam: Lobos.\n\nConversiones:\n Vampiros: Hay un 50% de matar al vampiro o de que muera un lobo.\n Zombis:\n-Si visitas: No te gustará la comida.\n-Si te visitan: Siempre sobrevive.</value>
 	</string>
 	<string key="newalfa">
 		<value>Nuestro líder ha muerto, {0} se ha convertido en el nuevo lobo alfa para liderar la manada.</value>
