@@ -3566,8 +3566,8 @@
 		<value> {0} thought, or so we want to believe, that a hunter's brain could be tasty, it was not what he expected since he was left without a head. </value>
 	</string>
 	<string key = "donation">
-	<value>---PAYPAL---\n Write on transfer note "DONATION TO NARRADOR" and your username to avoid confusion with other types of transfers. Mark off the buyer's protection box if it appears that it is a donation. \n\n---CRYPTOCURRENCY---\n If you want to donate cryptocurrencies it can be done by Coinbase to the user's email: tmogeid@gmail.com \n\n---TRANSFERS---\n It is also possible to make donations by means of an international transfer, from your bank app, bizum or moneygram (where transfers between cards are free) and similar. \n\n For any questions or clarification, please contact: @tmogeid</value>
-</string>
+		<value>---PAYPAL---\n Write on transfer note "DONATION TO NARRADOR" and your username to avoid confusion with other types of transfers. Mark off the buyer's protection box if it appears that it is a donation. \n\n---CRYPTOCURRENCY---\n If you want to donate cryptocurrencies it can be done by Coinbase to the user's email: tmogeid@gmail.com \n\n---TRANSFERS---\n It is also possible to make donations by means of an international transfer, from your bank app, bizum or moneygram (where transfers between cards are free) and similar. \n\n For any questions or clarification, please contact: @tmogeid</value>
+	</string>
 	<!-- cadejo -->
 
 	<string key = "RoleInfocadejo">
@@ -3846,230 +3846,231 @@
 	<string key="Idle">
 		<value>AFK</value>
 	</string>
-<string key="ramvfl">
-    <value>The Harlot kept you distracted all night, your spell didn't work, you should have used the flute you were supposed to.</value>
-  </string>
-  <string key="polvfl">
-    <value>The police wanted to interrogate you tonight, he distracted you a bit and your flute spell didn't work as expected.</value>
-  </string>
-  <string key="shervfl">
-    <value>From your roof you see the sheriff hanging around your house, they distracted you a little and you didn't play the spell melody well.</value>
-  </string>
+	<string key="ramvfl">
+		<value>The Harlot kept you distracted all night, your spell didn't work, you should have used the flute you were supposed to.</value>
+	</string>
+	<string key="polvfl">
+		<value>The police wanted to interrogate you tonight, he distracted you a bit and your flute spell didn't work as expected.</value>
+	</string>
+	<string key="shervfl">
+		<value>From your roof you see the sheriff hanging around your house, they distracted you a little and you didn't play the spell melody well.</value>
+	</string>
 
-  <!-- peludo -->
+	<!-- peludo -->
 
-  <string key="Aboutpeludo">
-    <value>The Hairy Man is a villager with hair problems. But they are so hairy that no one can see their face, so if the Night Hunter visits them, they will mistake them for a wolf and kill them. Because of their excess hair, they are more resistant to vampires and zombies than a normal villager. </value>
-  </string>
-  <string key="peludo">
-    <value>Hairy Man 🧔🏻‍♀️</value>
-  </string>
-  <string key="NHunterKilledpeludo">
-    <!-- 0 - victim name -->
-    <value>That is {0}??? What appeared to be just a giant fur ball rolling around downtown was actually a very hairy person. The night hunter mistook them for a wolf because of so much hair and didn't hesitate to get rid of them tonight.</value>
-  </string>
-  <string key="HunterFindpeludo">
-    <value>when visiting {0} for your proofs you find a huge ball of hair, in doubt if it is human or not, you end it.</value>
-  </string>
-  <string key="peludokilledxcn">
-    <value>Unfortunately {0} mistaken you for a wolf because of your huge amount of hair, and that misunderstanding ended up being the end of you... You're dead!</value>
-  </string>
+	<string key="Aboutpeludo">
+		<value>The Hairy Man is a villager with hair problems. But they are so hairy that no one can see their face, so if the Night Hunter visits them, they will mistake them for a wolf and kill them. Because of their excess hair, they are more resistant to vampires and zombies than a normal villager. </value>
+	</string>
+	<string key="peludo">
+		<value>Hairy Man 🧔🏻‍♀️</value>
+	</string>
+	<string key="NHunterKilledpeludo">
+		<!-- 0 - victim name -->
+		<value>That is {0}??? What appeared to be just a giant fur ball rolling around downtown was actually a very hairy person. The night hunter mistook them for a wolf because of so much hair and didn't hesitate to get rid of them tonight.</value>
+	</string>
+	<string key="HunterFindpeludo">
+		<value>when visiting {0} for your proofs you find a huge ball of hair, in doubt if it is human or not, you end it.</value>
+	</string>
+	<string key="peludokilledxcn">
+		<value>Unfortunately {0} mistaken you for a wolf because of your huge amount of hair, and that misunderstanding ended up being the end of you... You're dead!</value>
+	</string>
 
-  <string key="GuardBlockedfireWolf">
-    <!-- 0 - target's name -->
-    <value>You go to the house of {0} to have fun burning their bodies, but you meet with a tall dark figure who is armed to their teeth. The Guardian Angel stop your flames, and you head back defeated.</value>
-  </string>
-  <string key="FightedfireWolf">
-    <value>When you enter the house of {0}, you hear an alarm approaching.. It's the firefighters! You have no choice but to run away without burning before they find you.</value>
-  </string>
-  
-  <string key="SuccesFreeze">
-    <value>The Snow Wolf went to the house of {0} and freeze them. Tonight they won't be able to use their actions.</value>
-  </string>
-  <string key="SnoopAction2">
-    <value>As the Snoop Wolf approaches the house of {0}, there was movement, so it looks like someone is awake inside. (Has night action).</value>
-  </string>
-  <string key="SnoopNoAction2">
-    <value>After the Snoop Wolf inspected the house of {0}, he doesn't hear or smell anything unusual, seems to be sleeping. (No night action).</value>
-  </string>
-  <string key="SnoopDrunk2">
-    <value>As the Snoop Wolf approaches the house of {0}, smells a strong smell of alcohol. For sure {0} is {1}!</value>
-  </string>
-  <string key="SnoopHerbalist2">
-    <value>As the Snoop Wolf approaches the house of {0}, notice a smell of plants and medicinal herbs. For sure {0} is {1}!</value>
-  </string>
-  <string key="SnoopBaker2">
-    <value>As the Snoop Wolf approaches the house of {0}, smell a delicious bread made... For sure {0} is {1}!</value>
-  </string>
-  <string key="cadbprotect2">
-    <value>When the Fire Wolf approaches of {0} he sees that a white dog is accompanying him, he doesn't care, but the closer he gets, that dog becomes bigger and bigger, it's the white Cadejo! Back home since {0} is protected from all evils.</value>
-  </string>
-  <string key="GuardBlockedfireWolf2">
-    <!-- 0 - target's name -->
-    <value>The Fire Wolf heads for the house of {0} to have fun burning their bodies, but he meets a tall dark figure who is armed to their teeth. The Guardian Angel stopped the flames and the Fre Wolf returned home defeated.</value>
-  </string>
-  <string key="FightedfireWolf2">
-  <value>When the Fire Wolf approaches of {0}, seeking their goal, an alarm is raised... The firefighters! He has no choice but to run away  without burning, before being discovered.</value>
-  </string>
-  <string key="SuccessfulBurning2">
-    <value>The Fire Wolf went to the house of {0} and burned them.</value>
-  </string>
-  <string key="bomberBurning2">
-    <value>The Fire Wolf went to the house of {0} and is surprised by a jet of water. The Firefighter does not mess around when it comes to fire, The Fire Wolf returns home wet and without dinner.</value>
-  </string>
-  <string key="fwvisitacc2">
-    <value>
-It wasn't a good idea to visit the Night Hunter when he's still strong enough, The Fire Wolf wasted their time tonight.</value>
-  </string>
-  <string key="GAburnednofw2">
-    <value>Too bad, the Fire Wolf found the Guardian Angel but before it could burn them, the guardian angel flew out of their grasp.</value>
-  </string>
-  <string key="cadbprotect3">
-    <value>When you attack {0} you see a white dog accompanying you, the closer you get to {0}, that dog gets bigger and bigger, it's the white Cadejo! You come home since {0} is protected from all evils.</value>
-  </string>
-  <string key="FightedWolf2">
-    <value>As the pack heads towards the house of {0}, an alarm is triggered. It's the firefighters! There is no other choice but to go home without eating.</value>
-  </string>
-  <string key="GuardBlockedWolf2">
-    <!-- 0 - target's name -->
-    <value>The pack heads to the house of {0} to eat them, but they meet a tall dark figure who is armed to their teeth. The Guardian Angel fights everyone off, and you head back defeated.</value>
-  </string>
-  <string key="WolvesTriedToEatWiseElder2">
-    <!-- 0 - Wise Elder's name -->
-    <value>The pack tried to enter {0}'s house, but unfortunately that was the house of the Wise Elder! {0} successfully prevented the attack, but luckily they haven't recognized any of the wolves.</value>
-  </string>
-  <string key="bestia">
-    <value>the Beast of Gévaudan🐺🔱</value>
-  </string>
-  <string key="RoleInfobestia">
-    <value>The Beast of Gevaudan🐺🔱is an excellent devourer, the villagers still don't know if they are a werewolf woman or a huge wolf dog, all the villagers shudder at their strength. The beast has returned to take revenge on its greatest enemy: the Cadejo.  Their victims will be 100% devoured, and they are immune to a night hunter's hunt for one night, leaving them injured so they can't hunt the next night.\nRole created by: Maria Emilia (692276031) \n\nTeam: Wolves \n\n Conversions: \n Vampires: \n-If the beast visit: devours them, except the Elder Vampire .\n-If they visit: scares them away, except the Elder Vampire.. \n Zombis: \n-If the beast visit: do not kill.\n-If they visit: they die.</value>
-  </string>
-  <string key="aboutbestia">
-    <value>Toure the Beast of Gevaudan🐺🔱, an excellent devourer, the villagers still don't know if you're a werewolf woman or a huge wolf dog, all the villagers tremble in fear of you.. You returned to take revenge on its greatest enemy: the Cadejo. Your victims will be 100% devoured, and you're immune to a Night Hunter's hunt for one night, leaving them injured so they can't hunt the next night.\nRole created by: Maria Emilia (692276031) \n\nTeam: Wolves \n\n Conversions: \n Vampires: \n-If the beast visit: devours them, except the Elder Vampire .\n-If they visit: scares them away, except the Elder Vampire. \n Zombis: \n-If the beast visit: Do not kill.\n-If they visit: they die.</value>
-  </string>
-  <string key = "GunnerShotbestia">
-    <value>{0} used one of their bullets and shot at {1}, but its target did not die... It was the Beast of Gévaudan! {0} realizes he'll have to use another bullet to kill {1}. </value>
-  </string>
-  <string key="gunvisitbest">
-    <value>You visited someone you shouldn't, you met the Beast of Gévaudan, you spent your last bullet, but they managed to avoid it. Too bad you didn't have any more bullets!</value>
-  </string>
-  <string key="gunvisitbest2">
-    <value>Tonight {0} made the wrong decision to try to kill Beast of Gévaudan, they were completely devoured. {0} was the Gunner, the beast was lucky to dodge the only bullet they had left.</value>
-  </string>
-  <string key="gunvisitbest3">
-    <value>Gunner tried to kill you, {0} they only had one bullet and luckily you managed to dodge the shot, you devoured them and left only their bones.</value>
-  </string>
-  <string key="frozenbestia">
-    <value>The Snow Wolf was going to freeze you until they saw you were part wolf, they told you who the rest of the pack were so you can join.</value>
-  </string>
-  <string key="Freezebestia">
-    <value>As you approach {0}, you notice a resemblance in them... You realize that {0} is a {1}! You quickly tell them who the other wolves are.</value>
-  </string>
-  <string key="Freezebestia2">
-    <value>As the Snow Wolf approaches of {0} notice a resemblance in them... They realized that {0} is {1}! Quickly they tell the beast who the other wolves are so they can join the pack..</value>
-  </string>
-  <string key="SnoopActionbestia">
-    <value>As you approach {0}, you notice a resemblance in them... Thanks to your good sense of smell you realize that {0} is {1}! You quickly tell them who the other wolves are.</value>
-  </string>
-  <string key="SnoopActionbestia2">
-    <value>As the Snoop Wolf approaches the house {0},notice a resemblance in them... They realize that {0} is {1}, thanks to their sense of smell! Quickly they tell the beast who the other wolves are so they can join the pack.</value>
-  </string>
-  <string key="SnoopActionbestia3">
-      <value>The Snoop Wolf was close to your house, by your scent they recognized you as one of the pack, they told you who the other wolves were so you could join them.</value>
-  </string>
-  <string key="bestiaburned">
-    <value>You start to smell smoke and ash in the environment, you see a fireball approaching and it stops right in front of you, it was the Fire Wolf, recognizing you as another wolf makes you meet the rest of the pack to work together.</value>
-  </string>
-  <string key="bestiaburned2">
-<value>As you approach {0}, you realize they has too much hair to be a person, you stop in front of them to look at them closely. {0} es {1}! Luckily you didn't burn them and you tell the beast who the other wolves are so they can join the pack.</value>
-  </string>
-  <string key="bestiaburned3">
-    <value>As the Fire Wolf approaches {0}, they look again and decide not to burn them because {0} is {1}! Lucky they didn't end up burned before completing their mission.</value>
-  </string>
-  <string key="wtob">
-    <value>When the pack was about to attack {0}, they see that they are actually bigger than they think and that their target is actually half wolf. They found the {1}! They catch up with the remaining wolves to strategize together.</value>
-  </string>
-  <string key="wtob2">
-    <value>The pack visited you, at first they were going to eat you but they realized you were one of them, they reveal who their members are to work together with you.</value>
-  </string>
-  <string key="cadvisitbest">
-    <value>You visited who you shouldn't, you have met the Beast of Gévaudan, your worst enemy, and not even your powers can protect you against this beast.</value>
-  </string>
-  <string key="cadvisitbest2">
-    <value>Tonight {0} made the wrong decision whether to visit the Beast of Gévaudan, they were devoured completely, the beast already obtained great satisfaction from killing their biggest enemy, {0} was the Cadejo.</value>
-  </string>
-  <string key="cadvisitbest3">
-    <value>Who could have imagined that in the end the Cadejo would end up visiting you? {0} had the magnificent idea of visiting you in your lair, if they knew what you really were they would have thought better of it.</value>
-  </string>
-  <string key="cadvisitvictimbest2">
-    <value>Tonight {0} made the wrong decision by targeting the victim of the Beast of Gévaudan, they were devoured completely, the beast took great satisfaction in killing the their biggest enemy, {0} was the Cadejo. </value>
-  </string>
-  <string key="cadvisitvictimbest3">
-    <value>Who would have thought that in the end Cadejo would end up visiting your same target as you tonight? {0} had no luck tonight, you didn't miss this opportunity and decided to devour them.</value>
-  </string>
-  <string key="guardvisitvictimbest">
-    <value>You tried to protect the wrong person, you found the Beast of Gévaudan on guard, not even with your best shield you can protect yourself against that beast.</value>
-  </string>
-  <string key="guardvisitvictimbest2">
-    <value>Tonight {0} made the wrong decision to protect the target of the Beast of Gévaudan, it was devoured completely, the beast will keep trying to find the cadejo, {0} was a Guard.</value>
-  </string>
-  <string key="guardvisitvictimbest3">
-    <value>When you approached {1} you meet {0} patrolling the surroundings, they couldn't take their eyes off their target so you decided to finish them off, their guard days are gone forever.</value>
-  </string>
-  <string key="bestkill">
-    <value>You realize something hugs you, you believe it's a wolf, but no, a huge beast is on top of you, devouring you completely.</value>
-  </string>
-  <string key="bestkill2">
-    <value>Tonight a beast (like a wolf) was responsible for devouring {0} that was {1}.</value>
-  </string>
-  <string key="bestkill3">
-    <value>The Beast devoured {0} that was {1}.</value>
-  </string>
-  <string key="Fightedbestia">
-    <value>Upon entering the house of {0}, you hear an alarm approaching... The Firefighters! You have no choice but to run away without eating, before being discovered.</value>
-  </string>
-  <string key="GuardBlockedbestia">
-    <!-- 0 - target's name -->
-    <value>You go to the house of {0} to kill them, but you meet with a tall dark figure who is armed to their teeth. The Guardian Angel stop your attack, and you head back defeated.</value>
-  </string>
-  <string key="ccvisitadoxbestia">
-  <value>You feel a strange presence outside the house, when you go out to inspect you find some footprints, but these footprints are bigger than normal even if they have the shape of a wolf, it must be the beast.</value>
-  </string>
-  <string key="bestiadeadvisitoldvamp">
-    <value>{0} tried to devour {1}, what a mistake, they had no idea tjat their target could be the Elder Vampire, {1} dismembered them and made a coat out of their fur.</value>
-  </string>
-  <string key="vampVisitbestia">
-    <value>When you attack {0} you see that it is a huge and very strong beast, you prefer to go back home to prevent a certain death.</value>
-  </string>
-  <string key="HunterFindbestia">
-    <!-- 0 - target name -->
-    <value>You go to {0}'s house, you see that there is no one there, when you turn to leave the place, a huge beast attacks you from behind, {0} is the Beast of Gévaudan, they took you by surprise and hurt considerably, next night you won't be able to hunt anyone, but next night you'll be ready to finish them off.</value>
-  </string>
-  <string key="HunterFindbestia2">
-    <!-- 0 - target name -->
-    <value>When you get back to your house you find the door open, you smell the essence of {0}, you know they can't be far, or even inside, you quickly climb on the roof and as soon as they come out you attack them by the back but you can't kill them, however you hurt them enough that they can't hunt for a night.</value>
-  </string>
-  <string key="HunterFindbestia3">
-    <!-- 0 - target name -->
-    <value>This time maybe it's your lucky day, you go out hunting {0} with all your might and your courage, you hide in some bushes near their hiding place to wait for them to come out, as soon as they showed up this time it was you who attacked them from behind ending their existence, they won't devour anyone anymore.</value>
-  </string>
-  <string key="HunterFindbestia4">
-    <!-- 0 - target name -->
-    <value>Tonight when you were coming home {0} took their revenge for your surprise the other night, your days of eating people are over.</value>
-  </string>
-  <string key="HarlotFuckWolf2" >
-    <!-- 0 - player name -->
-    <value >You entered {0}'s house for fun, but found the Beast of Gévaudan inside. You've died.</value>
-  </string>
-  <string key="bestiavstiti">
-    <value>You see {0} approaching, but what is that? IT IS HUGE, it must be the Beast of Gévaudan, you prepare with a puppet to confuse them and think that you have been protected.</value>
-  </string>
-  <string key="bestvisitwolf">
-    <value>You see {0} approaching {1}, but what is this? It's huge, it must be the Beast of Gévaudan, you realize they're half wolf, so you invite them to join the pack.</value>
-  </string>
-  <string key="bestvisitwolf2">
-    <value>You intended to attack {0}, but you realized that they have a lot in common with you, you're half a wolf, so {0} decided to tell you who the rest of the pack was.</value>
-  </string>
+	<string key="GuardBlockedfireWolf">
+		<!-- 0 - target's name -->
+		<value>You go to the house of {0} to have fun burning their bodies, but you meet with a tall dark figure who is armed to their teeth. The Guardian Angel stop your flames, and you head back defeated.</value>
+	</string>
+	<string key="FightedfireWolf">
+		<value>When you enter the house of {0}, you hear an alarm approaching.. It's the firefighters! You have no choice but to run away without burning before they find you.</value>
+	</string>
+
+	<string key="SuccesFreeze">
+		<value>The Snow Wolf went to the house of {0} and freeze them. Tonight they won't be able to use their actions.</value>
+	</string>
+	<string key="SnoopAction2">
+		<value>As the Snoop Wolf approaches the house of {0}, there was movement, so it looks like someone is awake inside. (Has night action).</value>
+	</string>
+	<string key="SnoopNoAction2">
+		<value>After the Snoop Wolf inspected the house of {0}, he doesn't hear or smell anything unusual, seems to be sleeping. (No night action).</value>
+	</string>
+	<string key="SnoopDrunk2">
+		<value>As the Snoop Wolf approaches the house of {0}, smells a strong smell of alcohol. For sure {0} is {1}!</value>
+	</string>
+	<string key="SnoopHerbalist2">
+		<value>As the Snoop Wolf approaches the house of {0}, notice a smell of plants and medicinal herbs. For sure {0} is {1}!</value>
+	</string>
+	<string key="SnoopBaker2">
+		<value>As the Snoop Wolf approaches the house of {0}, smell a delicious bread made... For sure {0} is {1}!</value>
+	</string>
+	<string key="cadbprotect2">
+		<value>When the Fire Wolf approaches of {0} he sees that a white dog is accompanying him, he doesn't care, but the closer he gets, that dog becomes bigger and bigger, it's the white Cadejo! Back home since {0} is protected from all evils.</value>
+	</string>
+	<string key="GuardBlockedfireWolf2">
+		<!-- 0 - target's name -->
+		<value>The Fire Wolf heads for the house of {0} to have fun burning their bodies, but he meets a tall dark figure who is armed to their teeth. The Guardian Angel stopped the flames and the Fre Wolf returned home defeated.</value>
+	</string>
+	<string key="FightedfireWolf2">
+		<value>When the Fire Wolf approaches of {0}, seeking their goal, an alarm is raised... The firefighters! He has no choice but to run away  without burning, before being discovered.</value>
+	</string>
+	<string key="SuccessfulBurning2">
+		<value>The Fire Wolf went to the house of {0} and burned them.</value>
+	</string>
+	<string key="bomberBurning2">
+		<value>The Fire Wolf went to the house of {0} and is surprised by a jet of water. The Firefighter does not mess around when it comes to fire, The Fire Wolf returns home wet and without dinner.</value>
+	</string>
+	<string key="fwvisitacc2">
+		<value>
+			It wasn't a good idea to visit the Night Hunter when he's still strong enough, The Fire Wolf wasted their time tonight.
+		</value>
+	</string>
+	<string key="GAburnednofw2">
+		<value>Too bad, the Fire Wolf found the Guardian Angel but before it could burn them, the guardian angel flew out of their grasp.</value>
+	</string>
+	<string key="cadbprotect3">
+		<value>When you attack {0} you see a white dog accompanying you, the closer you get to {0}, that dog gets bigger and bigger, it's the white Cadejo! You come home since {0} is protected from all evils.</value>
+	</string>
+	<string key="FightedWolf2">
+		<value>As the pack heads towards the house of {0}, an alarm is triggered. It's the firefighters! There is no other choice but to go home without eating.</value>
+	</string>
+	<string key="GuardBlockedWolf2">
+		<!-- 0 - target's name -->
+		<value>The pack heads to the house of {0} to eat them, but they meet a tall dark figure who is armed to their teeth. The Guardian Angel fights everyone off, and you head back defeated.</value>
+	</string>
+	<string key="WolvesTriedToEatWiseElder2">
+		<!-- 0 - Wise Elder's name -->
+		<value>The pack tried to enter {0}'s house, but unfortunately that was the house of the Wise Elder! {0} successfully prevented the attack, but luckily they haven't recognized any of the wolves.</value>
+	</string>
+	<string key="bestia">
+		<value>the Beast of Gévaudan🐺🔱</value>
+	</string>
+	<string key="RoleInfobestia">
+		<value>The Beast of Gevaudan🐺🔱is an excellent devourer, the villagers still don't know if they are a werewolf woman or a huge wolf dog, all the villagers shudder at their strength. The beast has returned to take revenge on its greatest enemy: the Cadejo.  Their victims will be 100% devoured, and they are immune to a night hunter's hunt for one night, leaving them injured so they can't hunt the next night.\nRole created by: Maria Emilia (692276031) \n\nTeam: Wolves \n\n Conversions: \n Vampires: \n-If the beast visit: devours them, except the Elder Vampire .\n-If they visit: scares them away, except the Elder Vampire.. \n Zombis: \n-If the beast visit: do not kill.\n-If they visit: they die.</value>
+	</string>
+	<string key="aboutbestia">
+		<value>Toure the Beast of Gevaudan🐺🔱, an excellent devourer, the villagers still don't know if you're a werewolf woman or a huge wolf dog, all the villagers tremble in fear of you.. You returned to take revenge on its greatest enemy: the Cadejo. Your victims will be 100% devoured, and you're immune to a Night Hunter's hunt for one night, leaving them injured so they can't hunt the next night.\nRole created by: Maria Emilia (692276031) \n\nTeam: Wolves \n\n Conversions: \n Vampires: \n-If the beast visit: devours them, except the Elder Vampire .\n-If they visit: scares them away, except the Elder Vampire. \n Zombis: \n-If the beast visit: Do not kill.\n-If they visit: they die.</value>
+	</string>
+	<string key = "GunnerShotbestia">
+		<value>{0} used one of their bullets and shot at {1}, but its target did not die... It was the Beast of Gévaudan! {0} realizes he'll have to use another bullet to kill {1}. </value>
+	</string>
+	<string key="gunvisitbest">
+		<value>You visited someone you shouldn't, you met the Beast of Gévaudan, you spent your last bullet, but they managed to avoid it. Too bad you didn't have any more bullets!</value>
+	</string>
+	<string key="gunvisitbest2">
+		<value>Tonight {0} made the wrong decision to try to kill Beast of Gévaudan, they were completely devoured. {0} was the Gunner, the beast was lucky to dodge the only bullet they had left.</value>
+	</string>
+	<string key="gunvisitbest3">
+		<value>Gunner tried to kill you, {0} they only had one bullet and luckily you managed to dodge the shot, you devoured them and left only their bones.</value>
+	</string>
+	<string key="frozenbestia">
+		<value>The Snow Wolf was going to freeze you until they saw you were part wolf, they told you who the rest of the pack were so you can join.</value>
+	</string>
+	<string key="Freezebestia">
+		<value>As you approach {0}, you notice a resemblance in them... You realize that {0} is a {1}! You quickly tell them who the other wolves are.</value>
+	</string>
+	<string key="Freezebestia2">
+		<value>As the Snow Wolf approaches of {0} notice a resemblance in them... They realized that {0} is {1}! Quickly they tell the beast who the other wolves are so they can join the pack..</value>
+	</string>
+	<string key="SnoopActionbestia">
+		<value>As you approach {0}, you notice a resemblance in them... Thanks to your good sense of smell you realize that {0} is {1}! You quickly tell them who the other wolves are.</value>
+	</string>
+	<string key="SnoopActionbestia2">
+		<value>As the Snoop Wolf approaches the house {0},notice a resemblance in them... They realize that {0} is {1}, thanks to their sense of smell! Quickly they tell the beast who the other wolves are so they can join the pack.</value>
+	</string>
+	<string key="SnoopActionbestia3">
+		<value>The Snoop Wolf was close to your house, by your scent they recognized you as one of the pack, they told you who the other wolves were so you could join them.</value>
+	</string>
+	<string key="bestiaburned">
+		<value>You start to smell smoke and ash in the environment, you see a fireball approaching and it stops right in front of you, it was the Fire Wolf, recognizing you as another wolf makes you meet the rest of the pack to work together.</value>
+	</string>
+	<string key="bestiaburned2">
+		<value>As you approach {0}, you realize they has too much hair to be a person, you stop in front of them to look at them closely. {0} es {1}! Luckily you didn't burn them and you tell the beast who the other wolves are so they can join the pack.</value>
+	</string>
+	<string key="bestiaburned3">
+		<value>As the Fire Wolf approaches {0}, they look again and decide not to burn them because {0} is {1}! Lucky they didn't end up burned before completing their mission.</value>
+	</string>
+	<string key="wtob">
+		<value>When the pack was about to attack {0}, they see that they are actually bigger than they think and that their target is actually half wolf. They found the {1}! They catch up with the remaining wolves to strategize together.</value>
+	</string>
+	<string key="wtob2">
+		<value>The pack visited you, at first they were going to eat you but they realized you were one of them, they reveal who their members are to work together with you.</value>
+	</string>
+	<string key="cadvisitbest">
+		<value>You visited who you shouldn't, you have met the Beast of Gévaudan, your worst enemy, and not even your powers can protect you against this beast.</value>
+	</string>
+	<string key="cadvisitbest2">
+		<value>Tonight {0} made the wrong decision whether to visit the Beast of Gévaudan, they were devoured completely, the beast already obtained great satisfaction from killing their biggest enemy, {0} was the Cadejo.</value>
+	</string>
+	<string key="cadvisitbest3">
+		<value>Who could have imagined that in the end the Cadejo would end up visiting you? {0} had the magnificent idea of visiting you in your lair, if they knew what you really were they would have thought better of it.</value>
+	</string>
+	<string key="cadvisitvictimbest2">
+		<value>Tonight {0} made the wrong decision by targeting the victim of the Beast of Gévaudan, they were devoured completely, the beast took great satisfaction in killing the their biggest enemy, {0} was the Cadejo. </value>
+	</string>
+	<string key="cadvisitvictimbest3">
+		<value>Who would have thought that in the end Cadejo would end up visiting your same target as you tonight? {0} had no luck tonight, you didn't miss this opportunity and decided to devour them.</value>
+	</string>
+	<string key="guardvisitvictimbest">
+		<value>You tried to protect the wrong person, you found the Beast of Gévaudan on guard, not even with your best shield you can protect yourself against that beast.</value>
+	</string>
+	<string key="guardvisitvictimbest2">
+		<value>Tonight {0} made the wrong decision to protect the target of the Beast of Gévaudan, it was devoured completely, the beast will keep trying to find the cadejo, {0} was a Guard.</value>
+	</string>
+	<string key="guardvisitvictimbest3">
+		<value>When you approached {1} you meet {0} patrolling the surroundings, they couldn't take their eyes off their target so you decided to finish them off, their guard days are gone forever.</value>
+	</string>
+	<string key="bestkill">
+		<value>You realize something hugs you, you believe it's a wolf, but no, a huge beast is on top of you, devouring you completely.</value>
+	</string>
+	<string key="bestkill2">
+		<value>Tonight a beast (like a wolf) was responsible for devouring {0} that was {1}.</value>
+	</string>
+	<string key="bestkill3">
+		<value>The Beast devoured {0} that was {1}.</value>
+	</string>
+	<string key="Fightedbestia">
+		<value>Upon entering the house of {0}, you hear an alarm approaching... The Firefighters! You have no choice but to run away without eating, before being discovered.</value>
+	</string>
+	<string key="GuardBlockedbestia">
+		<!-- 0 - target's name -->
+		<value>You go to the house of {0} to kill them, but you meet with a tall dark figure who is armed to their teeth. The Guardian Angel stop your attack, and you head back defeated.</value>
+	</string>
+	<string key="ccvisitadoxbestia">
+		<value>You feel a strange presence outside the house, when you go out to inspect you find some footprints, but these footprints are bigger than normal even if they have the shape of a wolf, it must be the beast.</value>
+	</string>
+	<string key="bestiadeadvisitoldvamp">
+		<value>{0} tried to devour {1}, what a mistake, they had no idea tjat their target could be the Elder Vampire, {1} dismembered them and made a coat out of their fur.</value>
+	</string>
+	<string key="vampVisitbestia">
+		<value>When you attack {0} you see that it is a huge and very strong beast, you prefer to go back home to prevent a certain death.</value>
+	</string>
+	<string key="HunterFindbestia">
+		<!-- 0 - target name -->
+		<value>You go to {0}'s house, you see that there is no one there, when you turn to leave the place, a huge beast attacks you from behind, {0} is the Beast of Gévaudan, they took you by surprise and hurt considerably, next night you won't be able to hunt anyone, but next night you'll be ready to finish them off.</value>
+	</string>
+	<string key="HunterFindbestia2">
+		<!-- 0 - target name -->
+		<value>When you get back to your house you find the door open, you smell the essence of {0}, you know they can't be far, or even inside, you quickly climb on the roof and as soon as they come out you attack them by the back but you can't kill them, however you hurt them enough that they can't hunt for a night.</value>
+	</string>
+	<string key="HunterFindbestia3">
+		<!-- 0 - target name -->
+		<value>This time maybe it's your lucky day, you go out hunting {0} with all your might and your courage, you hide in some bushes near their hiding place to wait for them to come out, as soon as they showed up this time it was you who attacked them from behind ending their existence, they won't devour anyone anymore.</value>
+	</string>
+	<string key="HunterFindbestia4">
+		<!-- 0 - target name -->
+		<value>Tonight when you were coming home {0} took their revenge for your surprise the other night, your days of eating people are over.</value>
+	</string>
+	<string key="HarlotFuckWolf2" >
+		<!-- 0 - player name -->
+		<value >You entered {0}'s house for fun, but found the Beast of Gévaudan inside. You've died.</value>
+	</string>
+	<string key="bestiavstiti">
+		<value>You see {0} approaching, but what is that? IT IS HUGE, it must be the Beast of Gévaudan, you prepare with a puppet to confuse them and think that you have been protected.</value>
+	</string>
+	<string key="bestvisitwolf">
+		<value>You see {0} approaching {1}, but what is this? It's huge, it must be the Beast of Gévaudan, you realize they're half wolf, so you invite them to join the pack.</value>
+	</string>
+	<string key="bestvisitwolf2">
+		<value>You intended to attack {0}, but you realized that they have a lot in common with you, you're half a wolf, so {0} decided to tell you who the rest of the pack was.</value>
+	</string>
 
 
 	<string key="StartMe2" >
@@ -4147,8 +4148,8 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 	<string key="stkilledby2" >
 		<value>No one has killed you yet.\n</value>
 	</string><string key="playerNotHome" >
-	<!-- 0 - player name -->
-	<value>That's weird, {0} wasn't home!</value>
+		<!-- 0 - player name -->
+		<value>That's weird, {0} wasn't home!</value>
 	</string>
 
 	<string key="Abouttimetraveler">
@@ -4178,8 +4179,9 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 	</string>
 	<string key="RoleInfoCupid">
 		<value>
-		You are Cupid. Sent to Earth with only underpants, a bow and two arrows, you get to choose two players to love each other for eternity. If one of them dies, the other one dies of sorrow.
-		You will join them so they can win as a pair, but for that to happen only they must survive at the end of the game, which means they will have to kill you so that they are the only survivors in case they are close to winning as a pair.\n\nTeam: Lovers or Village if the pair dies.\n\nConversions:\n Vampires: Always converts.\n Zombies: Has 30% infection rate, 25% chance to survive, and 45% chance to convert.</value>
+			You are Cupid. Sent to Earth with only underpants, a bow and two arrows, you get to choose two players to love each other for eternity. If one of them dies, the other one dies of sorrow.
+			You will join them so they can win as a pair, but for that to happen only they must survive at the end of the game, which means they will have to kill you so that they are the only survivors in case they are close to winning as a pair.\n\nTeam: Lovers or Village if the pair dies.\n\nConversions:\n Vampires: Always converts.\n Zombies: Has 30% infection rate, 25% chance to survive, and 45% chance to convert.
+		</value>
 	</string>
 	<string key="CupidChosen2">
 		<value>The pair is {0} and {1}.</value>
@@ -4227,15 +4229,18 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 		<value> big game bonus points.\n</value>
 	</string>
 	<string key="psumendinf">
-		<value>\nThe totality of these points is multiplied by a factor that depends on your rank:\n🌑x6 🌘x5 🌗x4 🌖x3 🌕x2 🔅x1'5 🔆x0'8\n🥉x0'6 🥈x0'5 🥇x0'4 💎x0'2 💎👉🏆x0`17 🏆x0'1
+		<value>
+			\nThe totality of these points is multiplied by a factor that depends on your rank:\n🌑x6 🌘x5 🌗x4 🌖x3 🌕x2 🔅x1'5 🔆x0'8\n🥉x0'6 🥈x0'5 🥇x0'4 💎x0'2 💎👉🏆x0`17 🏆x0'1
 		</value>
 	</string>
 	<string key="psumendinfb">
-		<value>\nThe totality of these points is multiplied by a factor that depends on your rank:\n🌑x12 🌘x10 🌗x8 🌖x6 🌕x4 🔅x3 🔆x1'6\n🥉x1'2 🥈x1 🥇x0'8 💎x0'6 💎👉🏆x0'51 🏆x0'3
+		<value>
+			\nThe totality of these points is multiplied by a factor that depends on your rank:\n🌑x12 🌘x10 🌗x8 🌖x6 🌕x4 🔅x3 🔆x1'6\n🥉x1'2 🥈x1 🥇x0'8 💎x0'6 💎👉🏆x0'51 🏆x0'3
 		</value>
 	</string>
 	<string key="pointlost">
-		<value> penalty points for losing (depends on your rank).\n\nPenalties:\n🌑/🌘/🌗/🌖/🌕/🔅-0 🔆-1 🥉-2  \n🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6
+		<value>
+			penalty points for losing (depends on your rank).\n\nPenalties:\n🌑/🌘/🌗/🌖/🌕/🔅-0 🔆-1 🥉-2  \n🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6
 		</value>
 	</string>
 
@@ -4243,168 +4248,293 @@ It wasn't a good idea to visit the Night Hunter when he's still strong enough, T
 
 	  <string key="susurrador">
 		    <value>the Whisperer 🤫</value>
-		  </string>
-		  <string key="RoleInfosusurrador">
-			    <value>You are the Whisperer 🤫! With so much torment for the horrors of the village, one day you discovered that disguised in the skin of zombies, these not only did not attack you, but that you were able to guide them. Every night you try to turn someone into a zombie to increase the number of zombies. In each lynching you guide the zombies to their choice, even if they vote for someone else, your vote is what counts, vote fast because if a zombie votes before you, you won't be able to lynch. \n\nTeam: Zombies \n\n Conversion: \n Vampires: \n-If you visit them or they visit you: You are decapitan by confusing with a zombie. \n Wolves: \n-If you visit: You can't find anyone since you're looking for people.\n-If they visit you: They mistake you for a zombie and you survive.</value>
-			  </string>
-			  <string key="aboutsusurrador">
-				    <value>The Whisperer 🤫 : With so much torment for the horrors of the village, one day they discovered that disguised in zombie skins, not only did they not attack the Whisperer, but they were able to guide them. Every night they tries to turn someone into a zombie to increase the number of zombies. In each lynch, guide the zombies towards their votes, even if they vote for another person, the vote of the Whisperer is the one that counts, must vote quickly because if a zombie votes before them, the Whisperer will not be able to lynch.  As they're camouflaged they're able to mislead the wolves and sometimes even the Night Hunter and the Serial Killer.  \n\nTeam: Zombies \n\nConversions: \n Vampires: \n-If you visit or are visited: You get beheaded for being mistaken for a zombie.  \n Wolves: \n-If you visit: You can't find anyone since you're looking for people.\n-If they visit you: They mistake you for a zombie and you survive.</value>
-				  </string>
-				  <string key="doptranssus">
-					    <value>The good news is that the Whisperer is dead, the not so good news is that it was your choice to copy the Whisperer.</value>
-					  </string>
-					  <string key="necrotranssus">
-						    <value>You have chosen to become the new leader of the Zombie team, using the body of the Whisperer.</value>
-						  </string>
-						  <string key="susseewolf">
-							    <value>While leading your team tonight you notice something approaching, it is {0} in the form of a beast, thanks to your zombie skins you mislead them making them think you are one of the zombies.</value>
-							  </string>
-							  <string key="HunterFindsus">
-								    <value>It wasn't exactly what you were looking for, but {0} was a zombie, a little less scum in the village, the weird thing is that it doesn't seem to be that rotten.</value>
-								  </string>
-								  <string key="cnxsus">
-									    <value>Tonight you are going to check if {0} is a creature of the night or not, you are late, it is already a Zombie, you approach to deal the final blow to their head but then you noticed something... YOU CONFUSED!, and not only that, IT WAS A COUNTERATTACK! The Night Hunter tonight has become the Whisperer's target.</value>
-									  </string>
-									  <string key="cnxsus2">
-										    <value>While walking with your beloved team you see {0} approaching you, you realize their intentions to kill you, they are mistaking you for a zombie, you don't miss this great opportunity and you counterattack by surprise when they try to get you to kill.</value>
-										  </string>
-										  <string key="HarlotVisitsus">
-											    <value>Tonight your client has a very peculiar mask, you don't care and think they're a degenerate or something, the bad news isn't that they didn't pay you, but they didn't decide to end your life to give you another new one, the Whisperer has added you to their Zombie collection. </value>
-											  </string>
-											  <string key="harlotinsus">
-												    <value>The Harlot has decided to serve you tonight, since they've seen your skin, you'd better see to it that they stay forever in your zombie team.</value>
-												  </string>
-												  <string key="polixsus">
-													    <value>{0} wanted to interrogate you tonight, you don't have time to take care of them and hide your zombies, you better add them to your zombies team.</value>
-													  </string>
-													  <string key="polixsus2">
-														    <value>When you are about to start the interrogation of {0} you notice a rotten smell, when you roll your eyes to see what it is about... forget the interrogations, now you just want brains.</value>
-														</string>
-														  <string key="chemxsus">
-															<value>Today it's time to bet your life with {0}, you would never imagine it would be your last bet, the Whisperer preferred to bet on their hunger for brains.</value>
-															  </string>
-															  <string key="chemxsus2">
-																    <value>{0} shows up at your house just before you put on the mask, they expects you to make a bet with them to see who makes it out alive, you decide it's better to be another Zombie on your team.</value>
-																  </string>
-																  <string key="guardinsus">
-																	    <value>Who would have told you that tonight the one you were protecting was the Whisperer, at a time when you turned your back on them to check the ground, his time came to stab you and let you turn into a zombie. </value>
-																	  </string>
-																	  <string key="bomberodinsus">
-																		    <value>While you were busy protecting yourself from wolves, the Whisperer was busy adding you to the zombie team, you should better protect yourself from them. </value>
-																		  </string>
-																		  <string key="herbxsus">
-																			    <value>You were going to poison {0} who smells bad, you thought, but their smell was for something more sinister, it was the Whisperer, now your herbs have more life than you. </value>
-																			  </string>
-																			  <string key="herbxsus2">
-																				    <value>{0} wanted to pay you a visit, they thought you weren't going to notice, but you saw them put something strange in your drink. It really doesn't matter, you were going to add them to your little group of zombies no matter what they did. </value>
-																				  </string>
-																				  <string key="vkillsuspublic">
-																					    <value>{0}'s body is found headless in an alley, surrounded by some rare skin. Looks like the Whisperer was mistaken for a zombie. </value>
-																					  </string>
-																					  <string key="NHunterKilledsus">
-																						    <value>{0} appears decapitated on one of the streets of the village, the Night Hunter thought they were a zombie and so they did not hesitate to finish them off by cutting off their head, they just disguised it. </value>
-																						  </string>
-																						  <string key="SerialKillerKilledsus">
-																							    <value>The Whisperer hasn't had much luck with his victim tonight, the Serial Killer would rather keep killing than eating brains, {0} was killed in cold blood! </value>
-																							  </string>
-																							  <string key="vampirKilledsus">
-																								    <value>It seems that {0} underestimated their victim, they never imagined meeting a vampire and how they hate zombies, when they got mistaken for one they left them headless. </value>
-																								  </string>
-																								  <string key="NHunterKilledsusxvisit">
-																									    <!-- 0 - target's name -->
-																									    <value>{0} wanted to try their luck to see if they could add the Night Hunter to their collection, but luck was not on their side. </value>
-																									  </string>
-																									  <string key="SerialKillerKilledz">
-																										    <!-- 0 - target's name -->
-																										    <value>Some village saw that the body of {0} was hanging on a post with no head, but there was a very peculiar letter with his blood that said "Serial Killer", now this maniac signs...</value>
-																										  </string>
-																										  <string key="vampirKilledz">
-																											    <!-- 0 - target's name -->
-																											    <value>{0} tried to attack a Vampire, they understood what it was about, there was no choice but to go for the head and run out of blood for dinner, {0} was a Zombie. </value>
-																											  </string>
-																											  <string key="susKillsHunterEnd">
-																												    <value>{1} knows that only {0} is left in the town, so they takes advantage while {0} is sharpening the tips of his arrows to end his life, {0} ended up being one more zombie in the Whisperer's collection.</value>
-																												  </string>
-																												  <string key="HunterKillssusEnd">
-																													    <value>
-																														      Knowing that there was only {0} left in the village, {1} tries to kill them by surprise, but {0} already smelled their skin several meters away and manages to make {1} wince. The villagers have won!
-																														  
-																													</value>
-																													  </string>
-																													  <string key="HunterKillszEnd">
-																														    <value>
-																															      As there are only {0} left in the town, {1} tries to eat their brain, but {0} can already hear their growls from across the street and as soon as they approaches, the Hunter drives the ax into their head. The villagers have won!
-																														</value>
-																														  </string>
-																														  <string key="bestKillszEnd">
-																															    <value>{0} ends up alone with {1} in the village, it is clear that there is nothing to do. The Wolfpack has won!</value>
-																															  </string>
-																															<string key="susend">
-																																    <value>{0} was left alone in the village, seeing that there are no zombies to entertain, they falls into such a depression that it drives them to commit suicide...</value>
-																																  </string>
-																																  <string key="Asksuskill">
-																																	    <value>Who do you want to add to your zombie collection tonight?</value>
-																																	  </string>
-																																	  <string key="suslider">
-																																		    <value>There is a zombie that seems ready, they will take care of the lynch to see how this ends.\n\nDO NOT LYNCH BEFORE {0} \nYou must wait for their lynch first or they will not be able to guide the zombies.</value>
-																																		  </string>
-																																		  <string key="guartransxsus">
-																																			    <value>While watching around you come across a zombie, when you are going to get rid of them, they suddenly pulls out a knife and stabs you in the chest.</value>
-																																			  </string>
-																																			  <string key="transguard">
-																																				    <value>When you go to your victim's house you find that there is someone protecting them, what better time to add someone to your collection by doing the trick of the fake zombie.</value>
-																																				  </string>
-																																				  <string key="targettransxsus">
-																																					    <value>Tonight the Whisperer decided that you will be one more zombie in their collection.</value>
-																																					  </string>
-																																					  <string key="sustranstarget">
-																																						    <value>You got a new zombie for your collection.</value>
-																																						  </string>
-																																						  <string key="marionetBlockedsus">
-																																							    <value>How strange, you thought you added one more zombie to your collection, but they never turned, it seemed like a rag person. </value>
-																																							  </string>
-																																							  <string key="susskilled">
-																																								    <value>See where, the Serial Killer didn't want you to keep increasing your collection and paid you a surprise visit.</value>
-																																								  </string>
-																																								  <string key="skxsus">
-																																									    <value>Too bad, it was a zombie, you're going to stick the knife in their back but surprisingly they dodge and stick a shard of glass in your neck. It was the Whisperer, now you're just another zombie in their collection.</value>
-																																									  </string>
-																																									  <string key="skinsus">
-																																										    <value>You hear a strange noise, suddenly you hear:\n\n"Too bad, it's just a zombie."\n\nIT'S THE SERIAL KILLER!, you stay calm, as soon as he approaches your back you turn around and nail a piece of glass that you had on hand. Who knew you'd add the Serial Killer to your collection, lucky you.</value>
-																																										  </string>
-																																										  <string key="susxvamp">
-																																											    <value>Incredibly, you met a Vampire, apparently they don't support zombies, they confuse you with one and rip off your head.</value>
-																																											  </string>
-																																											  <string key="susxsk">
-																																												    <value>¡WHICH?! The Serial Killer approached me running with a knife, from that I am neither saved nor disguised as a zombie!</value>
-																																												  </string>
-																																												  <string key="susxsk2">
-																																													    <value>You see a zombie near your house, oddly enough you see them holding a machete, since when do they do that? Let's finish them off before he gets any smarter.</value>
-																																													  </string>
-																																													  <string key="sustranssk">
-																																														    <value>There is a zombie near your house, you will end their painful existence, but take a machete, a zombie with a machete? With your little knife you can't do anything against a machete and they already have you within their reach, that smarter zombie, you think, as they cut until bored.</value>
-																																														  </string>
-																																														  <string key="sustranssk2">
-																																															    <value>When you see your victim staying at home, it seems that they are not afraid or the same as you have seen with your zombie skin, they goes in their direction with a knife, happily you decided to leave home with a face, from this these crazy are not saved.</value>
-																																															  </string>
-																																															  <string key="susdeadxcn">
-																																																    <value>How strange, there's a zombie near my house, they doesn't know where they are, it's time to chop off heads.</value>
-																																																  </string>
-																																																  <string key="susdeadxcn2">
-																																																	    <value>It didn't feel like home, until you saw everything spinning around you, it really wasn't that everything was spinning, but that your head was rolling after being cut off by the Night Hunter.</value>
-																																																	  </string>
-																																																	<string key="zeatfire">
-																																																		    <value>You thought {0} was just a dog, but you were wrong, they turned you into a barbecue.</value>
-																																																		  </string>
-																																																		  <string key="fwKilledzvisit">
-																																																			    <value>Zombies are known to lack intelligence, {0} turned into a walking bonfire, because of the power of the Fire Wolf.</value>
-																																																			  </string>
-																																																			<string key="fwKilledsusvisit">
-																																																				    <value>{0} became a mountain of ashes, that's what happens to them for looking around among the things of the Fire Wolf.</value>
-																																																				  </string>
+		  
+	</string>
+	  <string key="RoleInfosusurrador">
+		    <value>You are the Whisperer 🤫! With so much torment for the horrors of the village, one day you discovered that disguised in the skin of zombies, these not only did not attack you, but that you were able to guide them. Every night you try to turn someone into a zombie to increase the number of zombies. In each lynching you guide the zombies to their choice, even if they vote for someone else, your vote is what counts, vote fast because if a zombie votes before you, you won't be able to lynch. \n\nTeam: Zombies \n\n Conversion: \n Vampires: \n-If you visit them or they visit you: You are decapitan by confusing with a zombie. \n Wolves: \n-If you visit: You can't find anyone since you're looking for people.\n-If they visit you: They mistake you for a zombie and you survive.</value>
+		  
+	</string>
+	  <string key="aboutsusurrador">
+		    <value>The Whisperer 🤫 : With so much torment for the horrors of the village, one day they discovered that disguised in zombie skins, not only did they not attack the Whisperer, but they were able to guide them. Every night they tries to turn someone into a zombie to increase the number of zombies. In each lynch, guide the zombies towards their votes, even if they vote for another person, the vote of the Whisperer is the one that counts, must vote quickly because if a zombie votes before them, the Whisperer will not be able to lynch.  As they're camouflaged they're able to mislead the wolves and sometimes even the Night Hunter and the Serial Killer.  \n\nTeam: Zombies \n\nConversions: \n Vampires: \n-If you visit or are visited: You get beheaded for being mistaken for a zombie.  \n Wolves: \n-If you visit: You can't find anyone since you're looking for people.\n-If they visit you: They mistake you for a zombie and you survive.</value>
+		  
+	</string>
+	  <string key="doptranssus">
+		    <value>The good news is that the Whisperer is dead, the not so good news is that it was your choice to copy the Whisperer.</value>
+		  
+	</string>
+	  <string key="necrotranssus">
+		    <value>You have chosen to become the new leader of the Zombie team, using the body of the Whisperer.</value>
+		  
+	</string>
+	  <string key="susseewolf">
+		    <value>While leading your team tonight you notice something approaching, it is {0} in the form of a beast, thanks to your zombie skins you mislead them making them think you are one of the zombies.</value>
+		  
+	</string>
+	  <string key="HunterFindsus">
+		    <value>It wasn't exactly what you were looking for, but {0} was a zombie, a little less scum in the village, the weird thing is that it doesn't seem to be that rotten.</value>
+		  
+	</string>
+	  <string key="cnxsus">
+		    <value>Tonight you are going to check if {0} is a creature of the night or not, you are late, it is already a Zombie, you approach to deal the final blow to their head but then you noticed something... YOU CONFUSED!, and not only that, IT WAS A COUNTERATTACK! The Night Hunter tonight has become the Whisperer's target.</value>
+		  
+	</string>
+	  <string key="cnxsus2">
+		    <value>While walking with your beloved team you see {0} approaching you, you realize their intentions to kill you, they are mistaking you for a zombie, you don't miss this great opportunity and you counterattack by surprise when they try to get you to kill.</value>
+		  
+	</string>
+	  <string key="HarlotVisitsus">
+		    <value>Tonight your client has a very peculiar mask, you don't care and think they're a degenerate or something, the bad news isn't that they didn't pay you, but they didn't decide to end your life to give you another new one, the Whisperer has added you to their Zombie collection. </value>
+		  
+	</string>
+	  <string key="harlotinsus">
+		    <value>The Harlot has decided to serve you tonight, since they've seen your skin, you'd better see to it that they stay forever in your zombie team.</value>
+		  
+	</string>
+	  <string key="polixsus">
+		    <value>{0} wanted to interrogate you tonight, you don't have time to take care of them and hide your zombies, you better add them to your zombies team.</value>
+		  
+	</string>
+	  <string key="polixsus2">
+		    <value>When you are about to start the interrogation of {0} you notice a rotten smell, when you roll your eyes to see what it is about... forget the interrogations, now you just want brains.</value>
+	</string>
+	  <string key="chemxsus">
+		<value>Today it's time to bet your life with {0}, you would never imagine it would be your last bet, the Whisperer preferred to bet on their hunger for brains.</value>
+		  
+	</string>
+	  <string key="chemxsus2">
+		    <value>{0} shows up at your house just before you put on the mask, they expects you to make a bet with them to see who makes it out alive, you decide it's better to be another Zombie on your team.</value>
+		  
+	</string>
+	  <string key="guardinsus">
+		    <value>Who would have told you that tonight the one you were protecting was the Whisperer, at a time when you turned your back on them to check the ground, his time came to stab you and let you turn into a zombie. </value>
+		  
+	</string>
+	  <string key="bomberodinsus">
+		    <value>While you were busy protecting yourself from wolves, the Whisperer was busy adding you to the zombie team, you should better protect yourself from them. </value>
+		  
+	</string>
+	  <string key="herbxsus">
+		    <value>You were going to poison {0} who smells bad, you thought, but their smell was for something more sinister, it was the Whisperer, now your herbs have more life than you. </value>
+		  
+	</string>
+	  <string key="herbxsus2">
+		    <value>{0} wanted to pay you a visit, they thought you weren't going to notice, but you saw them put something strange in your drink. It really doesn't matter, you were going to add them to your little group of zombies no matter what they did. </value>
+		  
+	</string>
+	  <string key="vkillsuspublic">
+		    <value>{0}'s body is found headless in an alley, surrounded by some rare skin. Looks like the Whisperer was mistaken for a zombie. </value>
+		  
+	</string>
+	  <string key="NHunterKilledsus">
+		    <value>{0} appears decapitated on one of the streets of the village, the Night Hunter thought they were a zombie and so they did not hesitate to finish them off by cutting off their head, they just disguised it. </value>
+		  
+	</string>
+	  <string key="SerialKillerKilledsus">
+		    <value>The Whisperer hasn't had much luck with his victim tonight, the Serial Killer would rather keep killing than eating brains, {0} was killed in cold blood! </value>
+		  
+	</string>
+	  <string key="vampirKilledsus">
+		    <value>It seems that {0} underestimated their victim, they never imagined meeting a vampire and how they hate zombies, when they got mistaken for one they left them headless. </value>
+		  
+	</string>
+	  <string key="NHunterKilledsusxvisit">
+		    <!-- 0 - target's name -->
+		    <value>{0} wanted to try their luck to see if they could add the Night Hunter to their collection, but luck was not on their side. </value>
+		  
+	</string>
+	  <string key="SerialKillerKilledz">
+		    <!-- 0 - target's name -->
+		    <value>Some village saw that the body of {0} was hanging on a post with no head, but there was a very peculiar letter with his blood that said "Serial Killer", now this maniac signs...</value>
+		  
+	</string>
+	  <string key="vampirKilledz">
+		    <!-- 0 - target's name -->
+		    <value>{0} tried to attack a Vampire, they understood what it was about, there was no choice but to go for the head and run out of blood for dinner, {0} was a Zombie. </value>
+		  
+	</string>
+	  <string key="susKillsHunterEnd">
+		    <value>{1} knows that only {0} is left in the town, so they takes advantage while {0} is sharpening the tips of his arrows to end his life, {0} ended up being one more zombie in the Whisperer's collection.</value>
+		  
+	</string>
+	  <string key="HunterKillssusEnd">
+		    <value>
+			      Knowing that there was only {0} left in the village, {1} tries to kill them by surprise, but {0} already smelled their skin several meters away and manages to make {1} wince. The villagers have won!
+			  
+		</value>
+		  
+	</string>
+	  <string key="HunterKillszEnd">
+		    <value>
+			      As there are only {0} left in the town, {1} tries to eat their brain, but {0} can already hear their growls from across the street and as soon as they approaches, the Hunter drives the ax into their head. The villagers have won!
+		</value>
+		  
+	</string>
+	  <string key="bestKillszEnd">
+		    <value>{0} ends up alone with {1} in the village, it is clear that there is nothing to do. The Wolfpack has won!</value>
+		  
+	</string>
+	<string key="susend">
+		    <value>{0} was left alone in the village, seeing that there are no zombies to entertain, they falls into such a depression that it drives them to commit suicide...</value>
+		  
+	</string>
+	  <string key="Asksuskill">
+		    <value>Who do you want to add to your zombie collection tonight?</value>
+		  
+	</string>
+	  <string key="suslider">
+		    <value>There is a zombie that seems ready, they will take care of the lynch to see how this ends.\n\nDO NOT LYNCH BEFORE {0} \nYou must wait for their lynch first or they will not be able to guide the zombies.</value>
+		  
+	</string>
+	  <string key="guartransxsus">
+		    <value>While watching around you come across a zombie, when you are going to get rid of them, they suddenly pulls out a knife and stabs you in the chest.</value>
+		  
+	</string>
+	  <string key="transguard">
+		    <value>When you go to your victim's house you find that there is someone protecting them, what better time to add someone to your collection by doing the trick of the fake zombie.</value>
+		  
+	</string>
+	  <string key="targettransxsus">
+		    <value>Tonight the Whisperer decided that you will be one more zombie in their collection.</value>
+		  
+	</string>
+	  <string key="sustranstarget">
+		    <value>You got a new zombie for your collection.</value>
+		  
+	</string>
+	  <string key="marionetBlockedsus">
+		    <value>How strange, you thought you added one more zombie to your collection, but they never turned, it seemed like a rag person. </value>
+		  
+	</string>
+	  <string key="susskilled">
+		    <value>See where, the Serial Killer didn't want you to keep increasing your collection and paid you a surprise visit.</value>
+		  
+	</string>
+	  <string key="skxsus">
+		    <value>Too bad, it was a zombie, you're going to stick the knife in their back but surprisingly they dodge and stick a shard of glass in your neck. It was the Whisperer, now you're just another zombie in their collection.</value>
+		  
+	</string>
+	  <string key="skinsus">
+		    <value>You hear a strange noise, suddenly you hear:\n\n"Too bad, it's just a zombie."\n\nIT'S THE SERIAL KILLER!, you stay calm, as soon as he approaches your back you turn around and nail a piece of glass that you had on hand. Who knew you'd add the Serial Killer to your collection, lucky you.</value>
+		  
+	</string>
+	  <string key="susxvamp">
+		    <value>Incredibly, you met a Vampire, apparently they don't support zombies, they confuse you with one and rip off your head.</value>
+		  
+	</string>
+	  <string key="susxsk">
+		    <value>¡WHICH?! The Serial Killer approached me running with a knife, from that I am neither saved nor disguised as a zombie!</value>
+		  
+	</string>
+	  <string key="susxsk2">
+		    <value>You see a zombie near your house, oddly enough you see them holding a machete, since when do they do that? Let's finish them off before he gets any smarter.</value>
+		  
+	</string>
+	  <string key="sustranssk">
+		    <value>There is a zombie near your house, you will end their painful existence, but take a machete, a zombie with a machete? With your little knife you can't do anything against a machete and they already have you within their reach, that smarter zombie, you think, as they cut until bored.</value>
+		  
+	</string>
+	  <string key="sustranssk2">
+		    <value>When you see your victim staying at home, it seems that they are not afraid or the same as you have seen with your zombie skin, they goes in their direction with a knife, happily you decided to leave home with a face, from this these crazy are not saved.</value>
+		  
+	</string>
+	  <string key="susdeadxcn">
+		    <value>How strange, there's a zombie near my house, they doesn't know where they are, it's time to chop off heads.</value>
+		  
+	</string>
+	  <string key="susdeadxcn2">
+		    <value>It didn't feel like home, until you saw everything spinning around you, it really wasn't that everything was spinning, but that your head was rolling after being cut off by the Night Hunter.</value>
+		  
+	</string>
+	<string key="zeatfire">
+		    <value>You thought {0} was just a dog, but you were wrong, they turned you into a barbecue.</value>
+		  
+	</string>
+	  <string key="fwKilledzvisit">
+		    <value>Zombies are known to lack intelligence, {0} turned into a walking bonfire, because of the power of the Fire Wolf.</value>
+		  
+	</string>
+	<string key="fwKilledsusvisit">
+		    <value>{0} became a mountain of ashes, that's what happens to them for looking around among the things of the Fire Wolf.</value>
+		  
+	</string>
 
 
-																																																				        <string key="vampKillszEnd">
-																																																					                <value>{0} prefers blood, but seeing that {1} is a zombie, they ends up with it ripping their head off.</value>
-																																																					        </string>
-	</strings>
+	        <string key="vampKillszEnd">
+		                <value>{0} prefers blood, but seeing that {1} is a zombie, they ends up with it ripping their head off.</value>
+		        
+	</string>
+
+	<string key="HunterShotWolfMulti">
+		<!-- 0 - target name -->
+		<value>The Wolves tried to attack the Hunter last night, but the Hunter managed to get his rifle in Time!  {0} died and was one of the wolves.</value>
+	</string>
+	<!-- desviador -->
+
+	<string key="desviador">
+		<value>the Derailleur 🔀</value>
+	</string>
+	<string key="RoleInfodesviador">
+		<value>You're the Derailleur 🔀! A supernatural force protects you at night, you can deviate the actions of all night roles except the Cupid, but there is a handle, these actions always deviate to another person.\nRole created by: Lukino (@lukinoteg)\n\nTeam: Village \n\Conversions: Immune to any enemy team. </value>
+	</string>
+	<string key="aboutdesviador">
+		<value>The Derailleur 🔀 is protected by a supernatural force at night, they can divert the actions of all the nocturnal roles except Cupid, but there is a catch, those actions are always diverted to another person.\nRole created by: Lukino (@lukinoteg)\n\nTeam: Village \n\Conversions: Immune to any enemy team. </value>
+	</string>
+	<!-- indiscreto -->
+
+	<string key="indiscreto">
+		<value>the Netizen 🕶</value>
+	</string>
+	<string key="RoleInfoindiscreto">
+		<value>You're the Netizen 🕶! From your roof you've spent your life gossiping with your neighbors, to the point where you can even see what the roles are doing with your special vision, as if you've acquired a power. Every night you will see everything they do if they have action but YOU CANNOT REVEAL YOUR VISIONS IN THE GROUP, you will only use them for your benefit and that of the Wolves as they are your beloved pups if they visit you you will join to the pack, but until they do, you're a villager. If any nocturnal role acts on you, it will end badly, they will not find you because you will be on your roof and the next day you will fill the village with posters revealing their role, except for the Puppet Master who will be the only one who can kill you at night. If you are killed while in the Wolves team, you will reveal a helper from the Night Hunter if one is alive, on the contrary, if you are killed while still in the village team, you will reveal a Wolf with your dying breath.\nYOU CAN'T REVEAL YOUR ROLE IN THE GROUP\nRole created by: Dan (@dantravelsofficial)\n\nTeam: Village, becomes part of the wolves' team only if visited/seen by the Sorcerer, Wolves, Imposter or Beast.\n\n Conversations: Immune to Zombies and Vampires.</value>
+	</string>
+	<string key="aboutindiscreto">
+		<value>The Netizen 🕶 : From their roof, they spent all day gossiping with their neighbors, to the point where they can even see what the papers are doing with vision, as if they had acquired a power. Every night they will see everything others do if they have action. The Netizen CANNOT REVEAL THEIR VISIONS IN THE GROUP, they will only use them for their benefit and that of the Wolves as they are their beloved pups if they visit, the Netizen will join the pack but until they do, this role will be in the village team. If any night role acts on them, they will end up in a bad light, they won't find them because they will be on their roof and the next day they will fill the village with posters revealing it's role, except the Puppet Master who will be the only one who can kill them. It at night. If they're killed while in the Wolf team, they will reveal a helper from the Night Hunter if any are alive, on the contrary, if they're killed while still in the village team, they will reveal a Wolf with their last breath.\nYOU CAN'T  REVEAL YOUR ROLE IN THE GROUP\nRole created by: Dan (@dantravelsofficial)\n\nTeam: Village, becomes part of the wolves' team only if visited/seen by the Sorcerer, Wolves, Imposter or Beast.\n\n Conversations: Immune to Zombies and Vampires.</value>
+	</string>
+	<string key="visionindis">
+		<value>{0} visited or did something with {1}</value>
+	</string>
+	<string key="cartelindis">
+		<value>At dawn, posters made by the Netizen are seen all over the village announcing that {0} was hanging around their house last night, but they couldn't find out why.</value>
+	</string>
+	<string key="cartepvisit">
+		<value>At dawn, posters made by the Netizen are seen all over the village, announcing that {0} was hanging around their house last night and noticed that {0} is {1}.</value>
+	</string>
+	<string key="cartepvision">
+		<value>At dawn, posters made by the Netizen are seen throughout the village where they announces that they felt the presence of {0} last night and and watching everything from the roof they discovered that {0} is {1}.</value>
+	</string>
+	<string key="wvisitind">
+		<value>Visiting {0} you don't see them anywhere, suddenly someone throws a small rock at you, when you look up at the roof you see someone greeting you! IT'S THE NETIZEN.!</value>
+	</string>
+	<string key="indvisitxw">
+		<value>You see {0} approaching your house, IT'S A Wolf!  This is your chance, get their attention by throwing a small rock from the roof so they won't go away and you can join the pack.</value>
+	</string>
+	<string key="indinteam">
+		<value>YOU HAVE FOUND THE NETIZEN! {0} joins the pack.</value>
+	</string>
+	<string key="bestvisitind">
+		<value>You see {0} approach your house, you see that it is the Beast, you try to team up with {0} and now you can ask about the pack.</value>
+	</string>
+	<string key="bestvisitind2">
+		<value>You don't see {0} but you smell them nearby, when you look up on the roof you find them there, you see they're the Netizen, you try to join the pack and ask {0} about the pack.</value>
+	</string>
+	<string key="indvdead">
+		<value>The Netizen never managed to get their pups to find them, feeling forgotten and marginalized by them, the Netizen calls out the name of one of them, {0} is {1}.</value>
+	</string>
+	<string key="indwdead">
+		<value>The Netizen died with the consolation of already being part of the pack, before dying they shouted, revealing one of the helpers of the Night Hunter to try to make life easier for the wolves, {0} is {1}.</value>
+	</string>
+	<string key="socseeind">
+		<value>You feel the presence of {0} nearby but you don't see them, you see what they're doing in their house and discover that they're the Sorcerer, you try to join the pack and ask {0} about the pack.</value>
+	</string>
+	<string key="socseeind2">
+		<value>When you see {0} you see them on his roof, you start to take a closer look and you see that they're the Netizen, you try to team up with {0} and ask them about the pack.</value>
+	</string>
+	<!-- diciembre -->
+
+	<string key="zeatfire2">
+		<value>As you get closer to {0} you start to feel unbearably hot, you take off your skins and mask to breathe better, it was not a good decision, you were getting closer to the Fire Wolf, when it sees you it doesn't hesitate to burn you alive. </value>
+	</string>
+	<string key="stbonus" >
+		<value>remaining bonus.\n</value>
+	</string>
+</strings>
