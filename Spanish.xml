@@ -4380,4 +4380,10 @@
 	<string key="aboutpelao">
 		<value>El pelao 👨‍🦲 : Este aldeano está tan concentrado en sus inseguridades que hasta se rapa al cero para disimular su calvicie, tan centrado está en si mismo que ni cuenta se da de cuando lo atacan, puede ser zombificado, vampirizado o alfeado con grán facilidad. El vidente lo verá como aldeano normal y al jugador le llegará el mensaje de aldeano al inicio de la partida por lo que no sabrá que es el calvorota ensimismado.\nRol ideado por @Barbolwey\n\nTeam: Aldea.\n\nConversiones: 100% de conversión excepto con lobos sin lobo alfa.</value>
 	</string>
+	<string key="pelaoBittenWolves">
+		<value>Mientras los hombres lobo atacan a {0}, {1} para a la manada, ya que es el lobo alfa. {1} le dice a la manada que {0} debería unirse a ellos en lugar de morir, por lo que la manada lo suelta y deja que la infección siga su curso.</value>
+	</string>
+	<string key="pelaoTurned">
+		<value>Fuiste mordido por los hombres lobo, pero el lobo alfa te escogió. En lugar de morir, has sido infectado. Mientras cae la noche, sientes un extraño hormigueo y cómo tu cuerpo empieza a transformarse. ¡Ahora eres un hombre lobo!</value>
+	</string>
 </strings>
