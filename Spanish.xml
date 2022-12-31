@@ -4396,9 +4396,41 @@
 		<value>Eres el Lobo Beta 🐺🅱️ : Eres el lobo siguiente del lobo alfa en orden de sucesión, al morir el alfa ocuparás su lugar como líder de la manada convirtiéndote en el nuevo alfa.\nRol ideado por @Barbolwey\n\nTeam: Lobos.\n\nConversiones:\n Vampiros: Hay un 50% de matar al vampiro o de que muera un lobo.\n Zombis:\n-Si visitas: No te gustará la comida.\n-Si te visitan: Siempre sobrevive.</value>
 	</string>
 	<string key="aboutbeta">
-		<value>Eres el Lobo Beta 🐺🅱️ : Es el lobo siguiente del lobo alfa en orden de sucesión, al morir el alfa este ocupará su lugar como líder de la manada convirtiéndose en el nuevo alfa.\nRol ideado por @Barbolwey\n\nTeam: Lobos.\n\nConversiones:\n Vampiros: Hay un 50% de matar al vampiro o de que muera un lobo.\n Zombis:\n-Si visitas: No te gustará la comida.\n-Si te visitan: Siempre sobrevive.</value>
+		<value>El Lobo Beta 🐺🅱️ : Es el lobo siguiente del lobo alfa en orden de sucesión, al morir el alfa este ocupará su lugar como líder de la manada convirtiéndose en el nuevo alfa.\nRol ideado por @Barbolwey\n\nTeam: Lobos.\n\nConversiones:\n Vampiros: Hay un 50% de matar al vampiro o de que muera un lobo.\n Zombis:\n-Si visitas: No te gustará la comida.\n-Si te visitan: Siempre sobrevive.</value>
 	</string>
 	<string key="newalfa">
 		<value>Nuestro líder ha muerto, {0} se ha convertido en el nuevo lobo alfa para liderar la manada.</value>
 	</string>
-</strings>
+	
+<!-- lobo gris -->
+
+  <string key="greywolf">
+    <value>el lobo gris 🐕</value>
+  </string>
+  <string key="RoleInfogreywolf">
+    <value>Eres el Lobo Gris 🐕 : eres una de las más conocidas especies de cánidos. Tu natural fisonomía hace que eventualmente te confundan con algunas razas de perros, por lo que serás supuestamente inofensivo para quienes te visiten. Tu instinto de protección y cooperación a los tuyos hace que si un jugador te visita, tenga un 50% de morir o de unirse a la manada gracias a tu mordida altamente contagiosa por la gran nutrición que mantienes.\nRol ideado por @dantravelsofficial\n\nTeam: Lobos.\n\nConversiones:\n Vampiros: Hay un 50% de matar al vampiro anciano  o de que muera el lobo, con vampiros normales estos mueren.\n Zombis:\n-Si visitas: No te gustará la comida.\n-Si te visitan: Siempre sobrevive, si te visita el susurrador tendrá la misma suerte que el resto de aldeanos.</value>
+  </string>
+  <string key="aboutgreywolf">
+    <value>El Lobo Gris 🐕 : es una de las más conocidas especies de cánidos. Su natural fisonomía hace que eventualmente lo confundan con algunas razas de perros, por lo que será supuestamente inofensivo para quienes lo visiten. Su instinto de protección y cooperación a los tuyos hace que si un jugador lo visita, tenga un 50% de morir o de unirse a la manada gracias a su mordida altamente contagiosa por la gran nutrición que mantienes. El cazador de la noche podrá morir si le da caza con un 50% de posibilidades, en caso contrario morirá el lobo, con la asesina en serie será lo mismo pero la convierte en vez de matarla. La vidente lo verá como si fuera el cadejo al confundirlo con un perro.\nRol ideado por @dantravelsofficial\n\nTeam: Lobos.\n\nConversiones:\n Vampiros: Hay un 50% de matar al vampiro anciano  o de que muera el lobo, con vampiros normales estos mueren.\n Zombis:\n-Si visitas: No te gustará la comida.\n-Si te visitan: Siempre sobrevive, si lo visita el susurrador tendrá la misma suerte que el resto de aldeanos.</value>
+  </string>
+    <string key="visitgwolf">
+      <value>¡Estamos de suerte! {0} decidió visitar a el lobo gris, ha sido convertido en lobo, tenemos un nuevo miembro en la manada.</value>
+    </string>
+    <string key="visitgwolf2">
+      <value>Cuando te acercas {0} lo acaricias creyendo que es un perro, te dio un mordisco sorpresa, no era un perro, era el lobo gris.</value>
+    </string>
+  <string key="deadxvisitgwolf">
+    <value>¡Mira tu por donde! {0} visitó al lobo gris, no pudo ser convertido en lobo pero al menos hoy no pasareis hambre.</value>
+  </string>
+  <string key="deadxvisitgwolf2">
+    <value>Tenemos malas noticias, {0} te pilló por sorpresa mientras lo confundías con un perro, estás muerto.</value>
+  </string>
+  <string key="deadxvisitgwolf3">
+    <value>Vuestra víctima no era lo que parecía,{0} se confió demasiado y acabó confundiendo a {1} con un perro.</value>
+  </string>
+  <string key="deadxvisitgw">
+    <value>Que perrito mas bonito, eso pensaba {0}, fue tarde cuando se dio de cuenta de que era el lobo gris.</value>
+    <value>{0} estaba apreciando a un perro que se cruzó en su camino, al final el supuesto perro acabó apreciando sus huesos después de comérselo.</value>
+    <value>{0} parece que se creía empleado de la perrera, le gustó un ejemplar que vio pero ...  se equivocó de raza, era el lobo gris.</value>
+  </string>
+  </strings>
