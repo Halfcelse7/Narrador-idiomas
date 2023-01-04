@@ -179,7 +179,7 @@
   <string key = "LynchKill">
     <!-- 0 - oyuncu adı -->
     <!-- 1 - oyuncu rolü -->
-    <value> Oy kullanma süresi doldu ve sandıklar kapatıldı. Oylarını şüphe hırs içinde kullanan köylüler oy çoğunluğu ile idam sehpasına çıkartmak için {0}'i seçti. {0} öldü. ve {1} idi. </value>
+    <value> Oy kullanma süresi doldu ve sandıklar kapatıldı. Oylarını şüphe hırs içinde kullanan köylüler oy çoğunluğu ile idam sehpasına çıkartmak için {0}'i seçti. {1}</value>
   </string>
   <string key = "LynchTie">
     <value> Linç için tam bir karara varılamadı. Herkes korku ve endişe içinde evinlerine geri dönüyor...</value>
@@ -3145,6 +3145,9 @@
   <string key = "groupnorank">
     <value> Grup listesinde olmayan grupların dereceli olarak oynamasına izin verilmez, ancak diğer tüm modlar hizmetindedir.</value>
   </string>
+	<string key = "groupnorank2">
+		<value> Resmi olmayan gruplar ve botun kendi grup listesinde yer almayan gruplar sıralı modda oynayamaz. Eğerki grubunuzun listede yer almasını istiyorsanız destek grubu ile yada Türk bir yönetici ile (@Halfcelse) iletişime geçiniz. \n\nhttps://t.me/+15_YMW-D1iQ1YmUx</value>
+	</string>
   <string key = "gamecancel">
     <value> Oyun iptal edildi. Başka bir oyun başlatın. Üzgünüm :( </value>
   </string>
@@ -3747,15 +3750,15 @@
 
   <!-- Cadejo -->
 
-  <string key = "RoleInfoCadejo">
+  <string key = "RoleInfocadejo">
     <value>
       Sen ateşli kırmızı gözleri olan Barak'sın. İşin insanların sana nasıl davrandığına bağlı. Eğer seni rahatsız etmezlerse onları koruyacaksın. Bununla birlikte, sana zarar vermeye çalışan olursa, taş atarlarsa veya seni korkutacak benzer bir şey olursa, o oyuncuyu korumak yerine ölümüne neden olacaksın. \n\nTakım: Köy. \n\nDönüşümler: \n Ubırlar: \n-Gidersen: Onları tespit edemezsin. \n-Seni ziyaret ederlerse: Seni evde bulamazlar. \n Zombiler: \n-Ziyaret edersen: Zombi olduğunu bilmeden hayatta kalırsın. \n-Seni ziyaret ederlerse: Seni evde bulamazlar.
     </value>
   </string>
-  <string key = "AboutCadejo">
+  <string key = "Aboutcadejo">
     <value> Barak 🐕‍🦺: \nAteşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
   </string>
-  <string key = "Cadejo">
+  <string key = "cadejo">
     <value> Barak 🐕‍🦺 </value>
   </string>
   <string key = "cadebvisit">
@@ -4134,14 +4137,14 @@
 		<value>Sürü, {0}'in evine girmeye çalıştı ama ne yazık ki yaşlı bilge oradaydı! {0} saldırıyı başarıyla engelledi, ancak şans eseri kurtlardan hiçbirini tanımadı.</value>
 	</string>
 		
-	        <string key="bestia">
+	<string key="bestia">
 		<value>Ucube Kurt 🐺🔱</value>
 	</string>
 	<string key="RoleInfobestia">
 		<value>Sen Ucube Kurtsun! En büyük düşmanın Barak'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığınızlacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı \n\nTakım : Kurtlar\n \nDönüşümler: \n Ubırlar: \n-Ziyaret edersen: Kont hariç onu yiyip bitirirsin.\n-Seni ziyaret ederlerse: Kont hariç onları korkutursun. \n Zombiler: \n-Ziyaret edersen: Onları öldürmezsin.\n-Seni ziyaret ederlerse: ölürler. </value>
 	</string>
 	<string key="aboutbestia">
-		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Barak'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığın olacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (ID: 692276031) tarafından yaratıldı </value>
+		<value>Ucube Kurt 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Barak'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığın olacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Sxd_ness) tarafından yaratıldı </value>
 	</string>
 	<string key = "GunnerShotbestia">
 		<value>{0}, {1}'e ateş eder ama ölmez, o Ucube Kurt! {0}, {1}'i öldürmek için bir kurşun daha harcaması gerektiğini fark eder. </value>
@@ -4150,13 +4153,13 @@
 		<value>Yanlış kişiyi ziyaret ettin, Ucube Kurt ile karşılaştın. Son kurşununu harcadın ama o kurtulmayı başardı. Keşke daha fazla cephanen olsaydı.</value>
 	</string>
 	<string key="gunvisitbest2">
-		<value>Bu gece {0}, Ucube Kurdu öldürmeye çalışarak yanlış bir karar verdi. O belirsiz bir şekilde öldürülde ve {0} silahşördü. Ucube Kurt kendisine kalan tek kurşunu atlattığı için şanslıydı. </value>
+		<value>Bu gece {0}, Ucube Kurdu öldürmeye çalışarak yanlış bir karar verdi. O belirsiz bir şekilde öldürüldü ve {0} silahşördü. Ucube Kurt kendisine kalan tek kurşunu atlattığı için şanslıydı. </value>
 	</string>
 	<string key="gunvisitbest3">
 		<value>Silahşör seni öldürmeye çalıştı, {0}'in tek kurşunu vardı ve şansına kurşunu atlatmayı başardın. onu yedin, geriye sadece kemikleri kaldı. </value>
 	</string>
 	<string key="frozenbestia">
-		<value>Beyaz kurt, yarı kurt olduğunu görene kadar senii donduracaktı. Stratejisine katılman için sürünün geri kalanının kim olduğunu söyledi. </value>
+		<value>Beyaz kurt, yarı kurt olduğunu görene kadar seni donduracaktı. Stratejisine katılman için sürünün geri kalanının kim olduğunu söyledi. </value>
 	</string>
 	<string key="Freezebestia">
 		<value>{0}'e yaklaştığında, onunla ilgili tanıdık bir şey görürsün. {0}'i {1} olarak tanıyorsun! Ona güçlerini birleştirmesi için sürünün üyelerinden bahsetmekten çekinmiyorsun. </value>
@@ -4171,7 +4174,7 @@
 		<value>Koklayıcı {0}'e yaklaşırken, onunla ilgili tanıdık bir koku alır. Koku alma duyusu sayesinde {0}'i {1} olarak tanımlar! Ona güçlerini birleştirmesi için sürü üyelerini vermekten çekinmiyor. </value>
 	</string>
 	<string key="SnoopActionbestia3">
-			<value>Koklayıcı Kurt evinin yakınındaydı. Kokundan dolayı seni sürüden biri olarak tanıdı ve sana diğer kurtların kim olduğunu söyledi ki onlara katılasın. </value>
+		<value>Koklayıcı Kurt evinin yakınındaydı. Kokundan dolayı seni sürüden biri olarak tanıdı ve sana diğer kurtların kim olduğunu söyledi ki onlara katılasın. </value>
 	</string>
 	<string key="bestiaburned">
 		<value>Ortamda duman ve kül kokusu almaya başlarsın. Bir ateş topunun yaklaştığını görürsün ve tam önünde durur. o chennem kurduydu ve seni bir kurt olarak tanıyarak sürünün geri kalanına takım çalışması için sana tanıtır. </value>
@@ -4192,7 +4195,7 @@
 		<value>Yanlış kişiyi ziyaret ettin. Ucube Kurdu ile tanıştın, o senin en büyük düşmanın ve güçlerin bile seni bu hayvana karşı koruyamayacak.</value>
 	</string>
 	<string key="cadvisitbest2">
-		<value>Bu gece {0}, Ucube Kurdu'nu ziyaret ederek yanlış bir karar verdi. Binlerce parçalara ayrıldı ve Ucube kurt en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti. {0} Cerberus'tu. </value>
+		<value>Bu gece {0}, Ucube Kurdu'nu ziyaret ederek yanlış bir karar verdi. Binlerce parçalara ayrıldı ve Ucube kurt en çok can attığı avını öldürerek şimdiden büyük bir tatmin elde etti. {0} Barak'tı. </value>
 	</string>
 	<string key="cadvisitbest3">
 		<value>Sonunda aynı Barak'ın seni ziyaret edeceğini kim bilebilirdi. {0} seni ininde ziyaret etmek gibi muhteşem bir fikre sahipti ve gerçekte ne olduğunu bilseydi, bunun hakkında daha derinlemesine düşünürdü. </value>
@@ -4207,7 +4210,7 @@
 		<value>Yanlış kişiyi korumaya çalıştın. Ucube Kurdu ile ayakta nöbet tuttun. En iyi kalkanınla bile kendini bu hayvana karşı koruyamadın..</value>
 	</string>
 	<string key="guardvisitvictimbest2">
-		<value>Bu gece {0} hedefi Ucube Kurdu'ndan korumak için yanlış bir karar verdi. Tüm uzuvları köyün dört bir yanına yayıldı. Ucube Kurdu Barak'tı aramaya devam edecek. {0} bir muhafızdı. </value>
+		<value>Bu gece {0} hedefi Ucube Kurdu'ndan korumak için yanlış bir karar verdi. Tüm uzuvları köyün dört bir yanına yayıldı. Ucube Kurdu Barak'ı aramaya devam edecek. {0} bir muhafızdı. </value>
 	</string>
 	<string key="guardvisitvictimbest3">
 		<value>{1}'e doğru giderken çevrede devriye gezen {0}'i fark ettin. Gözlerini hedefinden alamıyordu. Bu yüzden onun işini bitirmeye karar verdin. Nöbet günleri sonsuza kadar bitti. </value>
@@ -4440,7 +4443,7 @@
 		<value> Yancı bu gece senin gönlünü hoş tutmayı tercih etti. Bence onu tatmin etmekle yetinmeyip, kendi sürüne de dahil etmelisin ve öyle de oldu.</value>
 	</string>
     <string key="polixsus">
-		<value> Bu gece {0} seni sorgulamak istedi. Aslına bakarsak bunun için pek vaktin yok çünkü sürüne göz kulak olman gerek.{0}!i de kendi sürüne dahil ederek sorunları çözmüş oldun. Win win</value>
+		<value> Bu gece {0} seni sorgulamak istedi. Aslına bakarsak bunun için pek vaktin yok çünkü sürüne göz kulak olman gerek. {0}'i de kendi sürüne dahil ederek sorunları çözmüş oldun. Win win</value>
 	</string>
     <string key="polixsus2">
 		<value> {0}'i sorgulamak için sorgu odasına gittin. Moda girip tam da onun ağzından bütün lafları alacağını düşünürken derisindeki renginin farklı olduğunu gördün. Bir anlık gafletle yakından bakmak için yaklaştın ancak o fısıltı idi ve seni etkisi altına aldı. Artık sürüden birisin.</value>
@@ -4452,7 +4455,7 @@
 		<value> Bu gece evinde aniden {0} belirdi. Seninle kumar oynamak istedi ancak sen ona farklı bir bahis sundun. Beynin yada ölümün! Onu etki altına aldın ve artık sürüden biri haline geldi.</value>
 	</string>
     <string key="guardinsus">
-		<value> Hedefini olası gecenin yaratıklarından korumayı umuyordun. Ancak kaçırdığın nokta hedefinin fısıltı olduğu idi. Sen orada cenk ederkenfısıltı seni kendi sürüsüne dahil etti ve zombiye dönüştün.</value>
+		<value> Hedefini olası gecenin yaratıklarından korumayı umuyordun. Ancak kaçırdığın nokta hedefinin fısıltı olduğu idi. Sen orada cenk ederken fısıltı seni kendi sürüsüne dahil etti ve zombiye dönüştün.</value>
 	</string>
     <string key="bomberodinsus">
 		<value> Kahramanlık içgüdülerin ile köylülerin hayatını kurtarmakla meşgul iken, hedefin fısıltıydı ve senden faydalınp seni sürüsüne dahil etti. Artık zombi sürüsünün bir parçasısın.</value>
@@ -4464,7 +4467,7 @@
 		<value> Evine gizlice birilerinin sızdığını fark ettin. Otacı {0} içkilerinden birine zehir katmıştı. O zehir seni etkilemeyeceği için onu doğrudan kapana kıstırdın. Ona bir güzellik yapıp zombi sürüne dahil ettin. Bitki uzmanı artık en basit bir bitkiden bile daha aptal.</value>
 	</string>
 	<string key="vkillsuspublic">
-		<value> Köylüler sabah toplandığında {0}'in cansız bedenini bulurlar. Daha dün gece ölmüş birinr göre cesedi fazla çürüktü ama bir zombi kadar da çürük değildi... Belli ki Ubırlar dün gece fısıltının kafasını uçurmuş.</value>
+		<value> Köylüler sabah toplandığında {0}'in cansız bedenini bulurlar. Daha dün gece ölmüş birine göre cesedi fazla çürüktü ama bir zombi kadar da çürük değildi... Belli ki Ubırlar dün gece fısıltının kafasını uçurmuş.</value>
 	</string>
 	<string key="NHunterKilledsus">
 		<value> Gecenin ortasında tuhaf sesler duyuldu. Köylüler her ne kadar ürperse de eninde sonunda gündüz vakti dışarı çıkmaya cesaret edebildiler. Kafası gövdesinden ayrı, elleri doğranmış şekilde {0}'in cansız bedenini bulurlar. Herkes cesedin hızla çürüdüğünü sanmıştı ancak o fısıltıydı ve Kelle Avcısı tarafından haşat edildi.</value>
@@ -4550,16 +4553,16 @@
 		<value> Sürün için yeni bir zombi edinmeyi düşünürken bıçak darbesi ile yere yığıldın. Seri katile yakalandın.</value>
 	</string>
 	<string key = "sustranssk">
-		<value> Evinin yakınlarında bir zombi belirdi. Bıçağınla kolaylıkla savuşturacağını düşündün ancak o Fısıltıydı. Her ne kadar ona saldırmaya çalışsanda yada etkisine karşı dirensende, artık onun sürüsünne dahil oldun. Sebib gibi bir kadına yapılacak en çirkin şey!</value>
+		<value> Evinin yakınlarında bir zombi belirdi. Bıçağınla kolaylıkla savuşturacağını düşündün ancak o Fısıltıydı. Her ne kadar ona saldırmaya çalışsanda yada etkisine karşı dirensende, artık onun sürüsünne dahil oldun. Senin gibi bir kadına yapılacak en çirkin şey!</value>
 	</string>
 	<string key = "sustranssk2">
-		<value> Kurbanın ile karşı karşıyasın ancak hiç de kendisini tehlike altınfaymış gibi hissetmiyor. Hatta senin çürük derin bile onu etkilemiyor. Ancak fark ediyorsun ki bu güzel suratın arkasında keskin bir bıçak duruyor. Azılı bir katil olsa bile yine de sana karşı bir üstünlüğü yok ve onu sürüne dahil ediyorsun.</value>
+		<value> Kurbanın ile karşı karşıyasın ancak hiç de kendisini tehlike altındaymış gibi hissetmiyor. Hatta senin çürük derin bile onu etkilemiyor. Ancak fark ediyorsun ki bu güzel suratın arkasında keskin bir bıçak duruyor. Azılı bir katil olsa bile yine de sana karşı bir üstünlüğü yok ve onu sürüne dahil ediyorsun.</value>
 	</string>
 	<string key = "susdeadxcn">
 		<value> Tuhaf... Kapının evine yolunu şaşırmış bir zombi. Ortadan kaldırma vakti geldi.</value>
 	</string>
 	<string key = "susdeadxcn2">
-		<value> Kafayı bulmuş gibisin yada cüdden bütün dünya etrafında dönüyor sandın. İşin aslı şu ki kafan cidden dönüyor ama Kelle Avcısı onu gövdenden ayırdığı için dönüp duruyor...</value>
+		<value> Kafayı bulmuş gibisin yada cidden bütün dünya etrafında dönüyor sandın. İşin aslı şu ki kafan cidden dönüyor ama Kelle Avcısı onu gövdenden ayırdığı için dönüp duruyor...</value>
 	</string>
 	<string key = "zeatfire">
 		<value> {0}'i basit bir köpek yavrusu sandın. Ama seni mangalda cız-bız edebilecek cehennem kurduydu.</value>
@@ -4568,10 +4571,10 @@
 		<value> {0}'in beyninden faydalanmak için ona doğru yaklaştın ancak hedefin göründüğünden çok daha sıcaktı. Hatta seni yakıp kül edecek kadar sımsıcak bir cehennem kurduydu ve köze döndün.</value>
 	</string>
 	<string key = "fwKilledzvisit">
-		<value> Zombilerin zekadan yoksun olduğu kanıtlandı. {0} bugün cehennem kurdundan beslenmeye çalıştı. Onun yerşne ızgara oldu...</value>
+		<value> Zombilerin zekadan yoksun olduğu kanıtlandı. {0} bugün cehennem kurdundan beslenmeye çalıştı. Onun yerine ızgara oldu...</value>
 	</string>
 	<string key = "fwKilledsusvisit">
-		<value> Hünerlerine her ne kadar güvensede,Fısıltı {0}'in cehennem kurdu karşısında hiç sanşı yoktu.</value>
+		<value> Hünerlerine her ne kadar güvensede, Fısıltı {0}'in cehennem kurdu karşısında hiç sanşı yoktu.</value>
 	</string>
 
 	<!-- desviador -->
@@ -4583,7 +4586,7 @@
 		<value> Sen İşaretçisin. Köydeki neredeyse ölümsüz olan tek kişisin. Bunun sebebi ise gece ziyaretçilerini şaşırtıyor olman. Kurt, Ubır, Zombi, Kukla Ustası yada herhangi bir kötü rol seni öldürmeye yeltenirse onların hedeflerini şaşırtacak ve onlara rastgele kurban vereceksin. Sadece kötüleri değil, seni ziyaret eden köylüleri bile şaşırtabilirsin! \nRol @lukinoteg tarafından oluşturuldu. \n\nTakım: Köy \n\nDönüşümler:Önüne gelebilecek herşeye karşı tam bağışıklılık.</value>
 	</string>
 	<string key="aboutdesviador">
-		<value> İşaretçi 🔀: \nKöyün kurnazı ve de ölümsüzü.. neredeyse ölümüz. İşaretçi rolü ziyaretçilerden pek hoşlanmaz bu yüzden gece vakti her birini atlatmak için kendisi için yeni bir metod geliştirdi. İyi veya kötü rol olsun, her kim onu ziyaret ederse, İşaretçi onları raastgele başka bir oyuncuya yönlendirecek. Kurtlar için başka bir atıştırmalık, Gözcü için kime ait olduğunu bilmediği bir görüş, Ubırlar için farklı bir kan torbası, Otacı için zehirlenecek farklı bir hedef, Kelle Avcısı için avlanacak başka bir oyuncu vesaire vesaire... Özet olarak İşaretçi tüm kendsine olan tüm aksiyonları rastgele başka bir oyuncunun üzerine saptıracak ve kimse bunun farkında bile olmayacak. \nRol @lukinoteg tarafından oluşturuldu. </value>
+		<value> İşaretçi 🔀: \nKöyün kurnazı ve de ölümsüzü.. neredeyse ölümsüz. İşaretçi rolü ziyaretçilerden pek hoşlanmaz bu yüzden gece vakti her birini atlatmak için kendisi için yeni bir metod geliştirdi. İyi veya kötü rol olsun, her kim onu ziyaret ederse, İşaretçi onları raastgele başka bir oyuncuya yönlendirecek. Kurtlar için başka bir atıştırmalık, Gözcü için kime ait olduğunu bilmediği bir görüş, Ubırlar için farklı bir kan torbası, Otacı için zehirlenecek farklı bir hedef, Kelle Avcısı için avlanacak başka bir oyuncu vesaire vesaire... Özet olarak İşaretçi tüm kendsine olan tüm aksiyonları rastgele başka bir oyuncunun üzerine saptıracak ve kimse bunun farkında bile olmayacak. \nRol @lukinoteg tarafından oluşturuldu. </value>
 	</string>
 
 	<!-- indiscreto -->
@@ -4598,7 +4601,7 @@
 		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Eğer Kurtlar Gölgeyi keşfederse Gölge Kurt takımının bir parçası olacak. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Istası oldukça güçlü bür rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. Kurtlar tarafından henüz keşfedilmeden ölürse köylü takımından taraf olarak ölür ve öldüğünde herhangi bir kurdu ifşa eder. \nROLÜNÜ GRUPTA AÇIKLAMAMANI TABSİYE EDERİM!!! \nRol @dantravelsofficial tarafından oluşturuldu.</value>
 	</string>
 	<string key="visionindis">
-		<value> {0}'in gölgesini takip ederken {1}!in adresini ziyaret ettiğini gördün.</value>
+		<value> {0}'in gölgesini takip ederken {1}'in adresini ziyaret ettiğini gördün.</value>
 	</string>
 	<string key="cartelindis">
 		<value> Şafak vakti herkes Gölge'nin hazırladığı bir afişi fark etti. Afişteki kişi {0} idi. Görünüşe göre {0} gece oyuncusu ve Gölgeyi ziyaret etmişti ancak Gölge onun rolünü ifşa etmemiş...</value>
@@ -4640,6 +4643,76 @@
 		<value> {0}'in evine girdiğini fark ettin. Yüzünde maske vardı ve onu göremiyordun. Aniden elini gölgesine koydu ve bekle.. SENİ FARK ETTİ! İnanılır gibi değil ama {0} tıpkı senin gibi Gölge oldu. Taklitçi işinde gerçekten inanılmaz olmalı! Onunla iş birliği yapıp sürüyü keşfetmeye başalarsın.</value>
 	</string>
 	<string key="impoind2">
-		<value> {0}'in evine girdin ancak orada kimse yoktu. Şaka olmalı bu :p Hedefini evde mi bulamadın? Elbette bu kadar kolay değil. Diz çöküp kendi gölgene baktın ve onu kopyaladın. BU SENİN KENDİ GÖLGEN DEĞİLDİ AMA! Bunu ilk defa deneyimliyorsun ancak taklit ettiğin kişi Gölge {0} ve onunlar iş birliği yapıp sürüyü keşfetmeye başlarsın.</value>
+		<value> {0}'in evine girdin ancak orada kimse yoktu. Şaka olmalı bu :p Hedefini evde mi bulamadın? Elbette bu kadar kolay değil. Diz çöküp kendi gölgene baktın ve onu kopyaladın. BU SENİN KENDİ GÖLGEN DEĞİLDİ AMA! Bunu ilk defa deneyimliyorsun ancak taklit ettiğin kişi Gölge {0} ve onunla iş birliği yapıp sürüyü keşfetmeye başlarsın.</value>
+	</string>
+	
+	<!-- pelao -->
+	
+	<string key="pelao">
+		<value> Hibrit 👨‍🦲</value>
+	</string>
+	<string key="aboutpelao">
+		<value> Hibrit 👨‍🦲: \nHibrit köye ait bir roldür. Ancak kendi bilincinin farkında değildir. Vücudundaki bozuk genetik hem kendi benliğini yitirmesine hem de saçlarının dökülmesine sebep olmuştur. Bu yüzden o parlak kafasını tüm köy halkından saklamaya çalışır ama gelen saldırıları anlayamaz. Oyun başında kendisini köylü sanar ve Ubır/Zombi saldırılarında doğrudan dönüşüm gerçekleştirir. Kurt sürüsünde alfa Kurt yoksa bu kesin dönüşüm Kurt Adamlar için de geçerlidir, tıpkı lanetli gibi dönüşüm geçirir. Alfa Kurt var ise dönüşüm Alfanın yüzdesinebağlıdır. \nRol @Barbolwey tarafından oluşturuldu. \n\nTakım: Köy \n\nDönüşümler: Gelen saldırılara karşı (Ubır/Zombi) doğrudan dönüşür. Alfa kurt hariç...</value>
+	</string>
+	<string key = "pelaoBittenWolves">
+		<value> Kurtlar {0}’a saldırdığında , {1} Alfa Kurt olarak herkesi durdurdu. {1} sürüye: {0} ölmek yerine bize katılmalı, dedi. Böylece sürü onu zehiriyle baş başa bıraktı. Yarın gece bir Kurt Adam olacak. </value>
+	</string>
+	<string key = "pelaoTurned">
+		<value> Gece karanlığı çökünce garip bir karıncalanma hissedersin ve vücudun dönüşmeye başladıkça sızlar… Şimdi bir Kurt Adam’sın! </value>
+	</string>
+	
+	<!-- beta -->
+
+	<string key="beta">
+		<value>Beta Kurt 🐺🅱️</value>
+	</string>
+	<string key="RoleInfobeta">
+		<value> Sen Beta Kurtsun! Alfa Kurdun saltanatı sona erdiği (öldüğü) an onun varisi olarak yerine geçecek ve yeni Alfa Kurt sen olacaksın. \nRol @Barbolwey tarafından yaratıldı. \n\nTakım:Kurtlar \n\nDönüşümler:\nUbırlar: Bir Ubırı öldürmek veya hayatta kalmak için 50% şansın var.\nZombiler: \n-Eğer onları ziyaret edersen: Tatlarını beğenmeyecek ve onları yemeyeceksin. \n-Eğer seni ziyaret ederlerse: Her zaman hayatta kalırsın.</value>
+	</string>
+	<string key="aboutbeta">
+		<value> Beta Kurt 🐺🅱️: \nBeta Kurt Alfa Kurttan sonra sürü için en değerli kişidir. Eğer ki Alfa Kurt herhangi bir şekilde öldürülürse, Beta Kurt yeni Alfa olacak ve enfeksiyon oranı aynı olacak. Alfa Kurt ölmeden Beta Kurt sıradan bir Kurt Adamdan farksızdır. \nRol @Barbolwey tarafından yaratıldı.</value>
+	</string>
+	<string key="newalfa">
+		<!-- 0 - Beta Kurt İsmi -->
+		<value> Sürünün lideri Alfa Kurt öldürüldü. {0} halefisi olarak onun yerine geçti ve yeni Alfa Kurda dönüştü.</value>
+	</string>
+	
+	<!-- lobo gris -->
+
+	<string key="greywolf">
+		<value> Sigma Kurt 🐕</value>
+	</string>
+	<string key="RoleInfogreywolf">
+		<value> Sen Sigma Kurtsun. Sürüdeki doğal fizyonizm gücüne sahip tek kurtsun. Ziyaretçilerine karşı "sözde" zararsızın. Gece eylemindeki herhangi bir oyuncu seni ziyaret ederse ya ölecek yada kurt sürüsünün bir parçası olacak. \nRol @dantravelsofficial tarafından yaratıldı. \n\nTakım:Kurtlar \n\nDönüşümler:\nUbırlar: Kont'u 50% öldürme şansı var. Ubırlar direkt olarak ölür. \nZombiler: \n-Eğer onları ziyaret edersen: Tatlarını beğenmeyecek ve onları yemeyeceksin. \n-Eğer seni ziyaret ederlerse: Her zaman hayatta kalırsın. Fısıltı seni ziyaret ederse diğer köylüler ile aynı şansa sahip olacak.</value>
+	</string>
+	<string key="aboutgreywolf">
+		<value> Sigma Kurt 🐕: \nSiga Kurt sürüdeki doğa üstü güçlere sahip olan inanılmaz bir kurttur. Alfa ve Beta bile karşısında boyun eğebilir çünkü Sigma Kurt ziyaretçilerini kendi tuzağına düşürerek onları sürünün bir parçası haline getirebilir! Genellikle ziyaretçilerinekarşı zararsız görünür ancak 50% şans ile ya ölecek, yada sürünün birparçası olmak zorunda kalacaklar. Kelle Avcısı Sigma Kurdu avlarsa ya o ölecek yada Sigma Kurt. Ancak Seri Katil içintek farklı olan nokta, Sigma Kurt onu öldürmek yerine sürünün bir parçası haline getirecektir. Gözcü Sigma Kurdu Barak olarak algılayacaktır. \nRol @dantravelsofficial tarafından yaratıldı.</value>
+	</string>
+	<string key="visitgwolf">
+		<!-- 0 - Ziyaretçi İsmi -->
+		<value> Ne büyük şans! {0} bu gece Sigma Kurdu ziyaret etti ve ölmek yerine sürünün bir parçası haline geldi.</value>
+	</string>
+	<string key="visitgwolf2">
+		<!-- 0 - Hedef İsmi -->
+		<value> {0}'in adresini ziyaret ettin ve onun koruyucu Barak olduğunu sandın. Ancak biraz daha detaylı ve yakından bakınca fark ettin ki o aslında Sigma Kurduydu. Artık çok geçti ve seni sürünün bir parçası haline getirdi.</value>
+	</string>
+	<string key="deadxvisitgwolf">
+		<!-- 0 - Ziyaretçi İsmi -->
+		<value> Dün gece {0} Sigma Kurdu ziyaret etti ancak dönüşmek yerine doğrudan öldü. En azından artık seni ve sürüyü daha fazla rahatsız edemeyecek.</value>
+	</string>
+	<string key="deadxvisitgwolf2">
+		<!-- 0 - Hedef İsmi -->
+		<value> Köyü haber... {0}'i seni koruması gereken Barak sandın. Sigma Kurt ziyaretinden rahatsız oldu ve öldün.</value>
+	</string>
+	<string key="deadxvisitgwolf3">
+		<!-- 0 - Ubır İsmi -->
+		<!-- 1 - Sigma Kurt İsmi -->
+		<value> Ubır {0} bu gece büyükbir hata yaptı. Sigma Kurt {1}'i ziyaret etti ve öldü.</value>
+	</string>
+	<string key="deadxvisitgw">
+		<!-- 0 - Kurbanın İsmi -->
+		<value> Dün gece {0} yanlış kişiyi ziyaret etti. Sigma Kurt ziyaretçesini öldürmeyü tercih etti ve artık {0} ölü.</value>
+		<value> {0} koruyucu köpeği Barak'ın yanında güvende olduğunu sanıyordu ancak ziyaret ettiği kişi Barak değil Sigma Kurduydu. {0} öldü.</value>
+		<value> {0} dün gece Sigma Kurdun adresini ziyaret ederek büyük birtehlikeye atıldı ve hedefi tarafından avlandı. {0} öldü.</value>
 	</string>
 </strings>
