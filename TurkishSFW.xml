@@ -2762,11 +2762,11 @@
   </string>
   <string key = "vampirTeam">
     <!-- 0 - Ubır sayısı -->
-    <value>\nUbırlar: {0} </value>
+    <value>\n\nUbırlar: {0} </value>
   </string>
   <string key = "vampirTeam2">
     <!-- 0 - Ubır sayısı -->
-    <value>\nUbırlar: {0} </value>
+    <value>\n\nUbırlar: </value>
   </string>
   <string key = "vampJoin">
     <!-- 0 - yeni Ubırin adı -->
@@ -3177,7 +3177,7 @@
       Botta yeni olan gruplar önce bir global yönetici veya bot geliştirici ile iletişime geçmelidir, bunlar https://t.me/narrador20news kanalında veya https://t.me/Narrator_Support_Chat
     </value>
   </string>
-  <string key = "rules">
+  <string key="rules">
     <value> Yeni başlayanlar için kılavuz: \n https://narradorbot.com/guia-para-novatos/ \n\nGenel bot kuralları (dereceler için uyulması zorunludur): \n https://narradorbot.com/reglas-rankeds \n\nDereceli olarak oynayabilmek için bir grubun uyması gereken kurallar ve koşullar: \n https://narradorbot.com/narrador/grouplist \n\nHerhangi bir soru, öneri, çeviri hatası veya hata bildirmek için @Halfcelse ile iletişime geçin.</value>
   </string>
   <string key = "groupinfo">
