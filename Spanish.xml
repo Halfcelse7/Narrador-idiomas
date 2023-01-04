@@ -4433,4 +4433,12 @@
     <value>{0} estaba apreciando a un perro que se cruzó en su camino, al final el supuesto perro acabó apreciando sus huesos después de comérselo.</value>
     <value>{0} parece que se creía empleado de la perrera, le gustó un ejemplar que vio pero ...  se equivocó de raza, era el lobo gris.</value>
   </string>
+	
+	<!-- 2023 -->
+	
+	<!-- enero -->
+
+	<string key="groupnorank2">
+		<value>Solo los grupos aprobados para aparecer en grouplist tienen permitido jugar rankeds, puedes solicitar el ingreso en grouplist en el grupo de soporte https://t.me/+15_YMW-D1iQ1YmUx </value>
+	</string>
   </strings>
