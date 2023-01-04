@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Alzheimer mod by İsmet (@Halfcelse)
-Son Günccelleme: 17.12.2022 -->
+Son Günccelleme: 30.12.2022 -->
 <strings>
 	<language name="Türkçe (Alzheimer mod)" base="Türkçe" variant="Alzheimer mod" code="TR" isDefault="False" owner="@Halfcelse"/>
 	<string key="NotInGame">
@@ -385,6 +385,12 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "Was">
 		<value> idi </value>
 	</string>
+	<string key = "Won">
+		<value> Galibiyet </value>
+	</string>
+	<string key = "Lost">
+		<value> Mağlubiyet </value>
+	</string>
 	<string key = "VillageTeam">
 		<value> Köylü Takımı </value>
 	</string>
@@ -590,7 +596,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Özel bir oyun nasıl oluşturulur: \n\nÖzel bir oyun başlatmak için /startcustom komutunu ve ardından kullanılacak rollerin listesini koymalısın. Bu liste, görünmesini istediğin rollerin virgülle ayrılmış ve boşluksuz emojilerinden oluşur. Daha az oyuncu katılırsa listede yer alanların soldan başlayarak rol dağıtılacatır. Bu yüzden en azından ilk 4 role kötü bir adam koymalısın. Birçok oyuncu katılır katılmaz oyun otomatik olarak başlar. Hangi emojileri kullanabileceğini görmek için /emojisCustom.\n komutunu kullan</value>
 	</string>
 	<string key = "EmojisCustom">
-		<value> Belirli roller: Rol emojilerini, /rolelist ile görebilirsiniz \n❓ - Rastgele rol \n✅ - Rastgele köy rolü (hain , lanetli, yabani çocuk yok) \n❎ - Rastgele köy rolü (hain , lanetli, yabani çocuk var) \n⚠️ - Rastgele Kurt, SK veya Kuklacı \n⚠️👤 - Rastgele Kurt, SK, Kuklacı veya Vampir \n🆘 - Rastgele Kurt \n🚫 - Rastgele Kurt Takımı \n✳️ - Survivor, Çiftgiden , Reenkarnist veya İblis \n120 - Eros, yabani çocuk, çiftgiden, reenkarnist veya taklitçi \n🔪🔥 - SK veya kuklacı </value>
+		<value> Belirli roller: Rol emojilerini, /rolelist ile görebilirsiniz \n❓ - Rastgele rol \n✅ - Rastgele köy rolü (hain , lanetli, yabani çocuk yok) \n❎ - Rastgele köy rolü (hain , lanetli, yabani çocuk var) \n⚠️ - Rastgele Kurt, SK veya Kuklacı \n⚠️👤 - Rastgele Kurt, SK, Kuklacı veya Ubır \n🆘 - Rastgele Kurt \n🚫 - Rastgele Kurt Takımı \n✳️ - Survivor, Çiftgiden , Reenkarnist veya İblis \n120 - Eros, yabani çocuk, çiftgiden, reenkarnist veya taklitçi \n🔪🔥 - SK veya kuklacı </value>
 	</string>
 	<string key = "NotEnoughMembersRanked">
 		<value> Puanlı bir oyuna başlamak için grubun en az 50 üyesi olması gerekir. /startgame ile aynı tür oyunları puan olmadan oynayabilirsin. </value>
@@ -724,7 +730,7 @@ Son Günccelleme: 17.12.2022 -->
 			\n%50 Ölüm için, yaşıyor ise dönüşüm için %33:
 			\nOtacı 🍃
 			\nFalcı🔮
-			\nDedektif 🕵️‍♂️
+			\nDedektif 🕵️
 			\nMüneccim 🦅
 			\nŞerif 🤠
 			\nNöbetçi 🔭
@@ -769,11 +775,11 @@ Son Günccelleme: 17.12.2022 -->
 			\n\nDüşük zombileşme olasılığı olan roller:
 			\nSurvivor ⛺️: %20 enfeksiyon.
 			\nZaman yolcusu ⏳
-			\nJandarma 🪖
+			\n Jandarma 🪖
 			\nNöbetçi 🔭
 			\nŞerif 🤠
 			\nKurdumsu 👱🌚
-			\nDedektif 🕵️‍♂️
+			\nDedektif 🕵️
 			\nİblis 👺
 			\n %40:
 			\nFalcı 🔮
@@ -847,6 +853,9 @@ Son Günccelleme: 17.12.2022 -->
 		<!-- 0 - Oyuncu İsmi -->
 		<value> {0} puanlı bir oyun başlattı. Zirve göründüğü kadar kolay değil ve bu hafıza kaybına rağmen ilk 10' girebilecek misin?</value>
 		<value> {0} küresel mücadelede bir oyun başlattı. Anıların eksikliği hiçbir şey! Tüm rakiplerini bu zorlukla eleyebilecek misin?</value>
+	</string>
+	<string key = "groupnorank2">
+		<value> Resmi olmayan gruplar ve botun kendi grup listesinde yer almayan gruplar sıralı modda oynayamaz. Eğerki grubunuzun listede yer almasını istiyorsanız destek grubu ile yada Türk bir yönetici ile (@Halfcelse) iletişime geçiniz. \n\nhttps://t.me/+15_YMW-D1iQ1YmUx</value>
 	</string>
 	<string key="StartInverse">
 		<value> DİKKAT ALZHEİMER KÖYLÜLER! Oyun tersine çevirildi. Kazanmak için önceliğiniz kaybetmek olamlı.</value>
@@ -1037,12 +1046,12 @@ Son Günccelleme: 17.12.2022 -->
 		<value> {0} seçimini yaptı: {1}</value>
 	</string>
 	<string key = "vampirVotedbyte">
-		<!-- 0 - Vampir Takım Arkadaşı İsmi -->
+		<!-- 0 - Ubır Takım Arkadaşı İsmi -->
 		<!-- 1 - Kurbanın İsmi -->
 		<value> {0} seçimini yaptı: {1}</value>
 	</string>
 	<string key = "oldvampVotedbyte">
-		<!-- 0 - Vampir Takım Arkadaşı İsmi -->
+		<!-- 0 - Ubır Takım Arkadaşı İsmi -->
 		<!-- 1 - Kurbanın İsmi -->
 		<value> {0} seçimini yaptı: {1}</value>
 	</string>
@@ -1069,7 +1078,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Seçim kabul edildi.</value>
 	</string>
 	<string key = "TimesUp">
-		<value> Zaman doldu! BUmarım bir şeyler yapman gerektiğini hatırlarsın. </value>
+		<value> Zaman doldu! Umarım bir şeyler yapman gerektiğini hatırlarsın. </value>
 	</string>
 	<string key="AskLynch">
 		<value> Kimi linç etmek istiyorsun? </value>
@@ -1258,7 +1267,7 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "LynchKill">
 		<!-- 0 - Oyuncu İsmi -->
 		<!-- 1 - Oyuncu Rolü -->
-		<value> Oy kullanma süresi doldu ve sandıklar kapatıldı. Oylarını şüphe hırs içinde kullanan köylüler oy çoğunluğu ile idam sehpasına çıkartmak için {0}'i seçti. {0} öldü ve {1} idi. </value>
+		<value> Oy kullanma süresi doldu ve sandıklar kapatıldı. Oylarını şüphe hırs içinde kullanan köylüler oy çoğunluğu ile idam sehpasına çıkartmak için {0}'i seçti. {1}</value>
 	</string>
 	<string key = "LynchTie">
 		<value> Linç için tam bir karara varılamadı. Herkes korku ve endişe içinde evinlerine geri dönüyor...</value>
@@ -1291,7 +1300,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Saklandığı yerden oyuncak bebeklerle birlikte gizemli bir gölge çıkar ve uzun zamandır beklenen zaferinin keyfini çıkarır. Kukla Ustası kazandı! </value>
 	</string>
 	<string key = "vampirwins">
-		<value> Tüm köylülerin kanları emildi ve ayakta kalanlar vampirlere dönüştü. Vampirler kazandı! Umarım bir sonraki köyde şansları artar. </value>
+		<value> Tüm köylülerin kanları emildi ve ayakta kalanlar Ubırlara dönüştü. Ubırlar kazandı! Umarım bir sonraki köyde şansları artar. </value>
 	</string>
 	<string key = "flautistaWins">
 		<value> KAHRETSİNNNNNN!!!! Köyün tamamı İllüzyonistin melodisine yenik düştü ve hayatının sonuna kadar ona hizmet edeceksin.!!</value>
@@ -1343,16 +1352,16 @@ Son Günccelleme: 17.12.2022 -->
 		<value> {1} ve {0} kasaba meydanında. Ancak, {1} önünde ne olduğunu çok iyi biliyor ve {0}'i çabucak ve acı çekmeden öldürür. {0} kurt takımının ayakta kalan son oyuncusuydu. </value>
 	</string>
 	<string key = "NHKillsvampEnd">
-		<!-- {0} = Son Vampirin İsmi, {1} = KA'nin İsmi -->
-		<value> {1} ve {0} kasaba meydanında. Ancak, {1} bugün ders vermek istiyor ve {0} dişlerini çıkarmadan önce onun üzerine atlıyor ve onu öldürüyor. {0} ayakta kalan son Vampirdi. </value>
+		<!-- {0} = Son Ubırın İsmi, {1} = KA'nin İsmi -->
+		<value> {1} ve {0} kasaba meydanında. Ancak, {1} bugün ders vermek istiyor ve {0} dişlerini çıkarmadan önce onun üzerine atlıyor ve onu öldürüyor. {0} ayakta kalan son Ubırdı. </value>
 	</string>
 	<string key = "vampKillswwEnd">
-		<!-- {0} = Son Vampirin İsmi, {1} = WW'nin İsmi -->
+		<!-- {0} = Son Ubırın İsmi, {1} = WW'nin İsmi -->
 		<value> {1} ve {0} kasaba meydanında. Ancak, {0} {1}'in pençeleri ile kendisine saldırmadan önce hemen onun üzerine atlıyor ve onu öldürüyor. {1} ayakta kalan son kurttu. </value>
 	</string>
 	<string key = "wwKillsvampEnd">
-		<!-- {0} = Son Vampirin İsmi, {1} = WW'nin İsmi -->
-		<value> {1} ve {0} kasaba meydanında. Ancak, {1} {0}'in dişlerini çıkarmadan önce hemen onun üzerine atlıyor ve kalbini sökerek onu öldürüyor. {0} ayakta kalan son Vampirdi. </value>
+		<!-- {0} = Son Ubırın İsmi, {1} = WW'nin İsmi -->
+		<value> {1} ve {0} kasaba meydanında. Ancak, {1} {0}'in dişlerini çıkarmadan önce hemen onun üzerine atlıyor ve kalbini sökerek onu öldürüyor. {0} ayakta kalan son Ubırdı. </value>
 	</string>
 	<string key = "wwKillszEnd">
 		<value> Köyde {0} yalnızca {1}'i öldürür, ancak yangın tüm zombileri öldürür. </value>
@@ -1370,22 +1379,22 @@ Son Günccelleme: 17.12.2022 -->
 		<value>{0}, kalan son kişi olan {1} ile sona kaldı. Bu kalan son Hollow'du. Köy şimdi barış içinde yaşayabilir. Köylüler Kazandı.</value>
 	</string>
 	<string key="susKillsHunterEnd">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<!-- 1 - Fısıltı İsmi -->
 		<value> Köyün meydanında yalnızca iki kişi hayatta kaldı. {0} karşısındaki tehlikenin farkındaydı ve tüfeği ile hiç tereddüt etmeden {1}'in üzerine iki el ateş etti. {0}, {1}'in cesedinin üzerine doğru yürüyor ve {1}'in birşey mırıldandığını fark ediyor. Ne olduğunu anlamak için daha yakına gidiyor ve şu sözleri duyuyor; "Kafama nişan almalıydın". Bu sözler sonrasında {1} {0}'i etki altına lıyor ve onu da zombi sürüsüne ekliyor.</value>
 	</string>
 	<string key="HunterKillssusEnd">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<!-- 1 - Fısıltı İsmi -->
 		<value> Köyde yalnızca {0}'in hayatta kaldığını gören {1}, basit bir av olacağını düşünerek onu zombiye dönüştürmeye çalışır. Ama ava giderken avlandı ve kaşlarının ortasına Avcı {0}'in mermilerini yedi.</value>
 	</string>
 	<string key="HunterKillszEnd">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<!-- 1 - Zombi İsmi -->
 		<value> Kasabanın meydanında yalnız kalan {0}, tüm köylü arkadaşlarının ölümünden dolayı çökmüş durumda. Uzakta ayakta duran birini görür ve yaşayan bir köylü zanneder. Ancak ağır yürüyüşü, homurdanışı ve çürük bedeninden dolayı {1}'in zombi olduğunu anlar. Kayıpların verdiği öfke ile tüfeğini alır ve tereddütsüz defalarca kafasına ateş ederek {1}'i öldürür.</value>
 	</string>
 	<string key = "bestKillszEnd">
-		<!-- 0 - Gevaduan Canavarı İsmi -->
+		<!-- 0 - Ucube Kurt İsmi -->
 		<!-- 1 - Zombi İsmi -->
 		<value> Onca kemik ve vücut parçaları arasında yalnızca {1}'in çürük bedeni duruyordu. {0} için bu çürük zombi bedeni değersizdi bu yüzden kafasını uçurmakla yetindi ve kurt sürüsü için mutlak galibiyeti getirdi!</value>
 	</string>
@@ -1440,7 +1449,7 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "RandomTip">
 		<value>Bunları Biliyor Muydunuz? : Botla ilgili ilginç bilgileri paylaşmak için oyun sırasında rastgele görünebiliriz. Hepsini okuyabilecek misin? </value>
 		<value>Bunları Biliyor Muydunuz? : Muhafız rolü asla tek başına ortaya çıkamaz. Minimum 2 kişi (veya daha fazla) olacaktır. </value>
-		<value>Bunları Biliyor Muydunuz? : Oyunlarda Köylü, Polis, Mason, Muhafız ve Kurtadam dışında her rol benzersizdir. Bununla birlikte, hemen hemen her rol Süper Kaos modunda tekrarlanabilir. </value>
+		<value>Bunları Biliyor Muydunuz? : Oyunlarda Köylü, Jandarma, Mason, Muhafız ve Kurtadam dışında her rol benzersizdir. Bununla birlikte, hemen hemen her rol Süper Kaos modunda tekrarlanabilir. </value>
 		<value>Bunları Biliyor Muydunuz? : Süper Kaos modu rolleri tekrar etme eğilimindedir. Yani, tekrar eden role sahip biri, başka hiç kimsenin sahip olmadığı bir rolü olduğunu iddia eden birinden daha güvenilirdir. </value>
 		<value>Bunları Biliyor Muydunuz? : Alfa kurt, Muhtar ve Eros Süper Kaos modunda tekrarlanmaz. Diğerleri tekrar eder. </value>
 		<value>Bunları Biliyor Muydunuz? : Seri Katil, muhafızlar yüzünden saldırısını gerçekleştiremez ise, onlardan birini rastgele öldürecek. </value>
@@ -1466,7 +1475,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Köylü 👱 </value>
 	</string>
 	<string key="RoleInfoVillager">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutVG">
 		<value> Sıradan Köylü 👱: \nHayatta kalmaya çalış. Her gün kurt adamı linç etmek için bir şansın olacak. </value>
@@ -1474,7 +1483,7 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "DefaultEaten">
 		<!-- 0 - Kurban İsmi -->
 		<!-- 1 - Kurban Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapının kırıldığını ve evin duvarlarında uzun ve derin çizgiler buldular. {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapının kırıldığını ve evin duvarlarında uzun ve derin çizgiler buldular. {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {1}</value>
 	</string>
 	<string key = "GenericDeathNoReveal">
 		<!-- 0 - Kurban İsmi -->
@@ -1484,14 +1493,14 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "DefaultKilled">
 		<!-- 0 - Kurban İsmi -->
 		<!-- 1 - Kurban Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapı kilidinde bir zorlama olduğu fark ettiler ancak onun dışında evdeki her eşya yerli yerinde ve düzenliydi. {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapı kilidinde bir zorlama olduğu fark ettiler ancak onun dışında evdeki her eşya yerli yerinde ve düzenliydi. {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {1}</value>
 	</string>
 	<string key = "Defaultburn">
 		<!-- 0 - Kurban İsmi -->
 		<!-- 1 - Kurban Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine bakmaya gittiklerinde evin yanıp kül olduğunu gördüler. {0}'in yanmış bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine bakmaya gittiklerinde evin yanıp kül olduğunu gördüler. {0}'in yanmış bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine bakmaya gittiklerinde evin yanıp kül olduğunu gördüler. {0}'in yanmış bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine bakmaya gittiklerinde evin yanıp kül olduğunu gördüler. {1}</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine bakmaya gittiklerinde evin yanıp kül olduğunu gördüler. {1}</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine bakmaya gittiklerinde evin yanıp kül olduğunu gördüler. {1}</value>
 	</string>
 	<string key = "Visitorburned">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
@@ -1511,7 +1520,7 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "DefaultFellPublic">
 		<!-- 0 - Kurban İsmi -->
 		<!-- 1 - Kurban Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Köyü aramaya başladıklarında cesedini mezarlıkta buldular. İçi boş bir mezara düşmüştü ve belli ki mezarcı mesleğini unutmuş olmalı. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Köyü aramaya başladıklarında cesedini mezarlıkta buldular. İçi boş bir mezara düşmüştü ve belli ki mezarcı mesleğini unutmuş olmalı. {1}</value>
 	</string>
 	<string key = "ChemistVisitYouSuccess">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
@@ -1523,7 +1532,7 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "ChemistSuccessPublic">
 		<!-- 0 - Kurban İsmi -->
 		<!-- 1 - Kurban Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu öylece kanepede uzanarak elinde bir deney tüpü buldular. Görünüşe göre boyundan büyük deneylere ortak olmuş ve sonuçlarına katlanmış. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu öylece kanepede uzanarak elinde bir deney tüpü buldular. Görünüşe göre boyundan büyük deneylere ortak olmuş ve sonuçlarına katlanmış. {1}</value>
 	</string>
 	<string key = "skytoplayerNotHome">
 		<!-- 0 - Oyuncu İsmi -->
@@ -1542,7 +1551,7 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "DefaultPoisoned">
 		<!-- 0 - Kurban İsmi -->
 		<!-- 1 - Kurban Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında yatağında öylece uzandığını fark ettiler. Ağzından köpükler fışkırıyordu ve bu durum pek de hayıra alamet değil. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında yatağında öylece uzandığını fark ettiler. Ağzından köpükler fışkırıyordu ve bu durum pek de hayıra alamet değil. {1}</value>
 	</string>
 	<string key = "vampAttempt">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
@@ -1556,27 +1565,27 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "DefaultKillv">
 		<!-- 0 - Kurban İsmi -->
 		<!-- 1 - Kurban Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında bütün bedenini kurutulmuş halde buldular. Neredeyse hiçbir kan yoktu yalnızca boynunda iki tane sivri diş izi vardı ancak kimse buna neyin sebep olduğunu anlayamadı. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında bütün bedenini kurutulmuş halde buldular. Neredeyse hiçbir kan yoktu yalnızca boynunda iki tane sivri diş izi vardı ancak kimse buna neyin sebep olduğunu anlayamadı. {1}</value>
 	</string>
-	<string key = "convertz">
+	<string key="convertz">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bedenin hızlıca çürüdü ve konuşma yeteneğini kaybettin...</value>
 	</string>
-	<string key = "infeztado">
+	<string key="infeztado">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak elinde bir ısırık izi var ve hızlıca çürümeye başlıyor...</value>
 	</string>
 	<string key = "controleddead">
 		<!-- 0 - Kurban İsmi -->
 		<!-- 1 - Kurban Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu tavana bağladı bir halatla asılı olduğunu fark ederler. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu tavana bağladı bir halatla asılı olduğunu fark ederler. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu tavana bağladı bir halatla asılı olduğunu fark ederler. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu tavana bağladı bir halatla asılı olduğunu fark ederler. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu tavana bağladı bir halatla asılı olduğunu fark ederler. {1}</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu tavana bağladı bir halatla asılı olduğunu fark ederler. {1}</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu tavana bağladı bir halatla asılı olduğunu fark ederler. {1}</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında onu tavana bağladı bir halatla asılı olduğunu fark ederler. {1}</value>
 	</string>
 	<string key = "Drunk">
 		<value> Sarhoş 🍻 </value>
 	</string>
 	<string key="RoleInfoDrunk">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutDrunk">
 		<value> Sarhoş 🍻: \nSeni sarhoşşşşş brupppp! Sarhoş olarak, Sen sadece bir köylüsün. ANCAK! Kurtlar seni öldürürse, senin yüksek alkol içerikli kanını delicesine içtikleri için sonraki gece etkisiz hale gelecekler.</value>
@@ -1593,7 +1602,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Yancı 💋 </value>
 	</string>
 	<string key="RoleInfoHarlot">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutHarlot">
 		<value> Yancı 💋: \nBir yancı olarak, her gece başka bir oyuncuyu "ziyaret etme" fırsatına sahip olacaksın. Eğer ziyaret ettiğin kişi kurt değilse sana da kurt olmadığı söylenecek (Bunu hayatta olman ile anlayacaksın tabi!). Kurtu ziyaret edersen, öldürüleceksin. Kurtların öldürmek için seçtiği oyuncuyu ziyaret edersen, sen de öldürüleceksin. Ancak eğer bir oyuncuyu ziyaret ediyorsan ve kurtlar seni öldürmeyi seçerse sen hayatta kalırsın. (Evde değildin çünkü) </value>
@@ -1640,9 +1649,11 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Köy halkı evin diğer odalarını da kontrol edince başka bir ceset daha buldular! Görünüşe göre gece vakti {1} yalnız değildi. Diğer odadaki ceset {0}'e aitti ve cesedini teşhis ettiklerinde onun <b> Yancı 💋 </b> olduğunu hatırladılar. </value>
 	</string>
 	<string key = "harlotvisitwise">
+		<!-- When Harlot visited and killed Wise Elder -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "Harlotnokillwise">
+		<!-- When Harlot visited but not killed Wise Elder -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "HarlotFrozen">
@@ -1688,7 +1699,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Gözcü 👳 </value>
 	</string>
 	<string key="RoleInfoSeer">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSeer">
 		<value> Gözcü 👳: \nBu rolde her gece birini seçebilirsin ve onun rolü sana açıklanır. Rolünü akıllıca oyna. Eğer Gözcü olduğun belli olursa Kurtlar seni yemeye çalışır!</value>
@@ -1722,19 +1733,19 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Hain 🖕 </value>
 	</string>
 	<string key="RoleInfoTraitor">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="RoleInfoTraitor2">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutTraitor">
 		<value> Hain 🖕: \nSen pis bir hainsin. Gözcü seni bir köylü ya da kurt olarak görebilir. Nüfusun üçte ikisi ölünceye veya tüm kurtlar ölene kadar kimseye ihanet etmek istemeyeceksin. </value>
 	</string>
 	<string key = "TraitorTurnWolf">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "TraitorTurnWolf2">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "TraitorKillv">
 		<!-- 0 - Kurbanın İsmi -->
@@ -1744,7 +1755,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Koruyucu Melek 👼 </value>
 	</string>
 	<string key="RoleInfoGuardianAngel">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutGA">
 		<value> Koruyucu Melek 👼: \nHer gece korumak için bir oyuncu seçeceksin. Bir kurt adamı korumayı seçersen dikkatli ol %50 ölme şansın var. </value>
@@ -1785,7 +1796,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Koruyucu Melek 👼 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "GAGuardedWolf">
-		<!-- GA bir kurdu koruduğunda kullanılır -->
+		<!-- Use when GA protect a Wolf -->
 		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Koruyucu Melek 👼 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "GAFrozen">
@@ -1801,33 +1812,33 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "Detective">
-		<value> Dedektif 🕵 </value>
+		<value> Dedektif 🕵️ </value>
 	</string>
 	<string key="RoleInfoDetective">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutDetective">
-		<value> Dedektif 🕵: \nGündüz vakti herhangi bir oyuncuyu araştırma şansın olacak. Ancak bunu dikkatlice kullan, %40 ihtimalle kurt adamlar seni bulabilir!</value>
+		<value> Dedektif 🕵️: \nGündüz vakti herhangi bir oyuncuyu araştırma şansın olacak. Ancak bunu dikkatlice kullan, %40 ihtimalle kurt adamlar seni bulabilir!</value>
 	</string>
 	<string key = "DetectiveEaten">
 		<!-- 0 - Kurban İsmi -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapının kırıldığını ve evin duvarlarında uzun ve derin çizgiler buldular. {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Dedektif 🕵 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapının kırıldığını ve evin duvarlarında uzun ve derin çizgiler buldular. {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Dedektif 🕵️ </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "DetectiveSnoop">
-		<!-- 0 - Oyuncu Rolü -->
-		<value> Akıl sağlığın için bir şeyler denedin. Belli ki işe yaramış ve bir şeyler hatırlıyorsun: {0}</value>
+		<!-- 1 - Oyuncu Rolü -->
+		<value> Akıl sağlığın için bir şeyler denedin. Belli ki işe yaramış ve bir şeyler hatırlıyorsun: {1}</value>
 	</string>
 	<string key = "Wolf">
 		<value> Kurtadam 🐺 </value>
 	</string>
 	<string key="RoleInfoWolf">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutWw">
 		<value> Kurt Adam 🐺: \nEğlence başlasın! Hergün, oyuncu arkadaşlarını aldatmaya çalışacaksın. Ancak, her gece, bir oyuncuyu öldürmek için seçeceksin! Not:Sarhoşa saldırırsan, sen kendin sarhoş olursun ve içki sersemliğiyle gelecek gece saldıramazsın! Eğer lanetliye saldırırsan, o da senin gibi kurt olur! Yalan parayla değil devam!</value>
 	</string>
 	<string key="CursedBittenToWolves">
-		<!-- 0 - Kurban İsmi -->
+		<!-- 0 - Lanetli İsmi -->
 		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
 	</string>
 	<string key = "WildChildToWolves">
@@ -1880,6 +1891,7 @@ Son Günccelleme: 17.12.2022 -->
 	</string>
 	<string key = "DetectiveCaught">
 		<!-- 0 - Oyuncu İsmi -->
+		<!-- When WW notice Detective and of the day -->
 		<value> Hâlâ kim veya ne olduğunu hatırlamıyorsun. Fark ettin mi bilmiyorum ama sence de {0} Alzheimer birine göre ortalıkta çok fazla dolanmıyor mu?</value>
 	</string>
 	<string key = "WolvesTriedToEatWiseElder">
@@ -1897,7 +1909,7 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "WolfFellPublic">
 		<!-- 0 - Kurt Adam İsmi -->
 		<!-- 1 - Kurt Adamın Türü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Köyü aramaya başladıklarında cesedini mezarlıkta buldular. İçi boş bir mezara düşmüştü ve belli ki mezarcı mesleğini unutmuş olmalı. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Köyü aramaya başladıklarında cesedini mezarlıkta buldular. İçi boş bir mezara düşmüştü ve belli ki mezarcı mesleğini unutmuş olmalı. {1}</value>
 	</string>
 	<string key = "GuardsStopWolf">
 		<!-- 0 - Hedefin İsmi -->
@@ -1912,24 +1924,23 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "wolfeatcazan">
-		<!-- 1 - Gecenin Avcısı İsmi -->
+		<!-- 1 - Kelle Avcısı İsmi -->
 		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "wkilledxcn">
-		<value> Gecenin Avcısı seni yakaladı ve kafanı kopardı.</value>
+		<value> Kelle Avcısı seni yakaladı ve kafanı kopardı.</value>
 	</string>
 	<string key = "vKillw">
 		<!-- 0 - Kurt Adam İsmi -->
-		<!-- 1 - Kurt Adamın Türü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında bütün bedenini kurutulmuş halde buldular. Neredeyse hiçbir kan yoktu yalnızca boynunda iki tane sivri diş izi vardı ancak kimse buna neyin sebep olduğunu anlayamadı. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında bütün bedenini kurutulmuş halde buldular. Neredeyse hiçbir kan yoktu yalnızca boynunda iki tane sivri diş izi vardı ancak kimse buna neyin sebep olduğunu anlayamadı.</value>
 	</string>
 	<string key = "vampirKilledWolf">
 		<!-- 0 - Kurt Adam İsmi -->
 		<!-- 1 - Kurt Adamın Türü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve bütün bedenini kurutulmuş halde buldular. Neredeyse hiçbir kan yoktu yalnızca boynunda iki tane sivri diş izi vardı ancak kimse buna neyin sebep olduğunu anlayamadı. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve bütün bedenini kurutulmuş halde buldular. Neredeyse hiçbir kan yoktu yalnızca boynunda iki tane sivri diş izi vardı ancak kimse buna neyin sebep olduğunu anlayamadı. {1}</value>
 	</string>
 	<string key = "wolfdeadvisitvampir">
-		<!-- 1 - Vampir İsmi -->
+		<!-- 1 - Ubır İsmi -->
 		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "wolftoz">
@@ -1937,42 +1948,47 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "wolfdeadvisitoldvamp">
-		<!-- 1 - Yaşlı Vampir İsmi -->
+		<!-- 1 - Kont İsmi -->
 		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="cnnorabid">
+		<!-- Use when the pack try to make rabbid to NH -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="wtob">
 		<!-- 0 - Hedefin İsmi -->
+		<!-- When the pack discover the bestia -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺🔱</value>
 	</string>
 	<string key="bestvisitwolf">
 		<!-- 1 - Hedefin İsmi -->
-		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺🔱</value>
+		<!-- When bestia discover the pack -->
+		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="wvisitind">
 		<!-- 0 - Hedefin İsmi -->
+		<!-- When the pack discover the neitzen -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🕶</value>
 	</string>
 	<string key="indinteam">
 		<!-- 0 - Kurban İsmi -->
+		<!-- Neitzen became part of the pack list -->
 		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
 	</string>
 	<string key = "Cursed">
 		<value> Lanetli 😾 </value>
 	</string>
 	<string key="RoleInfoCursed">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutCursed">
 		<value> Lanetli 😾: \nBir zamanlar bir çingene sana ömür boyu lanet etmesine rağmen onu tamamen görmezden gelen basit bir köylüsün. Kurt adamlar seni ısırırsa, sen de kurt adam olacaksın! Çingene'nin sana lanet okuduğu gün olmaz olsun, şimdi her gece sevgili köylülerini kendi isteğin dışında avlamalısın. </value>
 	</string>
 	<string key = "CursedBitten">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "CursedBitten2">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "WolfTeam">
 		<!-- 0 - takım arkadaşı isimleri -->
@@ -1986,7 +2002,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Silahşör 🔫 </value>
 	</string>
 	<string key="RoleInfoGunner">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutGunner">
 		<value> Silahşör 🔫: \nBiraz mutluyuz değil mi? Silahşör olarak, oyunun başında sana 2 tane altın mermi verilir. Her gün, Başka bir oyuncuya ateş etme şansın olacak. Bunu yaptığında herkes senin silahşör olduğunu herkes bilecek! Oyunda Demirci ve Muhtar ortaya çıkarsa, ekstra bir mermi kazanacaksın. Kötü rolleri her vurduğunda ekstra bir mermin olacak ancak masumları vurursan Muhtar seni cezalandırmak için mermilerinden birini elinden alacak. </value>
@@ -2040,19 +2056,19 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "GunnerShotbestia">
 		<!-- 0 - Silahşör İsmi -->
 		<!-- 1 - Yaşlı Bilge İsmi -->
-		<value>{0}, {1}'e ateş eder ama ölmez, o Gevaduan Canavarı! {0}, {1}'i öldürmek için bir kurşun daha harcaması gerektiğini fark eder. </value>
+		<value>{0}, {1}'e ateş eder ama ölmez, o Ucube Kurt! {0}, {1}'i öldürmek için bir kurşun daha harcaması gerektiğini fark eder. </value>
 	</string>
 	<string key="gunvisitbest">
-		<value>Yanlış kişiyi ziyaret ettin, Gevaduan Canavarı ile karşılaştın. Son kurşununu harcadın ama o kurtulmayı başardı. Keşke daha fazla cephanen olsaydı.</value>
+		<value>Yanlış kişiyi ziyaret ettin, Ucube Kurt ile karşılaştın. Son kurşununu harcadın ama o kurtulmayı başardı. Keşke daha fazla cephanen olsaydı.</value>
 	</string>
 	<string key="gunvisitbest2">
-		<value>Bu gece {0}, Gevaduan Canavarını öldürmeye çalışarak yanlış bir karar verdi. O belirsiz bir şekilde öldürüldü ve {0} silahşördü. Gevaduan Canavarı kendisine kalan tek kurşunu atlattığı için şanslıydı. </value>
+		<value>Bu gece {0}, Ucube Kurtnı öldürmeye çalışarak yanlış bir karar verdi. O belirsiz bir şekilde öldürüldü ve {0} silahşördü. Ucube Kurt kendisine kalan tek kurşunu atlattığı için şanslıydı. </value>
 	</string>
 	<string key = "Tanner">
 		<value> İblis 👺 </value>
 	</string>
 	<string key="RoleInfoTanner">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutTanner">
 		<value> İblis 👺: \nİblisin amacı basitçe linç edilmek. İblis linç edilirse oyunu kazanır. Diğer herkes kaybeder. </value>
@@ -2061,7 +2077,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Çomar 🃏 </value>
 	</string>
 	<string key="RoleInfoFool">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutFool">
 		<value> Çomar 🃏: \nÇomar’a gözcü olduğu söylenir... Gece birisini görmek için seçtiğinde, ona rastgele bir rol söylenir. Bu rol oyunda var olan rollerden biridir.</value>
@@ -2074,16 +2090,16 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Yabani Çocuk 👶 </value>
 	</string>
 	<string key="RoleInfoWildChild">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutWC">
 		<value> Yabani Çocuk 👶: \nOyunun başında kendine rol model birini seçeceksin. Eğer o ölürse, kurt adam olacaksın. </value>
 	</string>
 	<string key = "WildChildTransform">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "WildChildSnowTransform">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
 	</string>
 	<string key = "WildChildEaten">
 		<!-- 0 - Kurban İsmi -->
@@ -2093,7 +2109,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Seyirci 👁 </value>
 	</string>
 	<string key="RoleInfoBeholder">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutBH">
 		<value> Seyirci 👁: \nSana gerçek Gözcü’nün kim olduğu söylenecek. (Gerçek Gözcü, Çomar değil.) </value>
@@ -2103,7 +2119,7 @@ Son Günccelleme: 17.12.2022 -->
 	</string>
 	<string key = "BeholderSeer">
 		<!-- 0 - gözcü adı -->
-		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
+		<value> \n{0} </value>
 	</string>
 	<string key = "BeholderNewSeer">
 		<!-- 0 - Kalfa İsmi -->
@@ -2114,13 +2130,13 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Kalfa 🙇 </value>
 	</string>
 	<string key="RoleInfoApprenticeSeer">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutAppS">
 		<value> Kalfa 🙇: \nŞu anda normal bir köylüsün ama Gözcü ölürse, sen yeni Gözcü olacaksın. </value>
 	</string>
 	<string key = "ApprenticeNowSeer">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "ApprenticeSeerEaten">
 		<!-- 0 - Kurban İsmi -->
@@ -2130,7 +2146,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Mason 👷 </value>
 	</string>
 	<string key="RoleInfoMason">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutMason">
 		<value> Mason 👷: \nMason’un işi basit. Otomatik olarak diğer Mason’ların kim olduğunu bilecek. Bunun dışında basit köylü.</value>
@@ -2141,7 +2157,7 @@ Son Günccelleme: 17.12.2022 -->
 	</string>
 	<string key = "MasonTeam">
 		<!-- 0 - takım arkadaşı isimleri -->
-		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu isimler belki de sana yardımcı olabilir: {0}</value>
+		<value> \n{0}</value>
 	</string>
 	<string key = "MasonConverted">
 		<!-- 0 - Mason İsmi -->
@@ -2159,13 +2175,13 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Avcı 🎯 </value>
 	</string>
 	<string key="RoleInfoHunter">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutHunter">
 		<value>
 			Avcı 🎯: \nİntikam dolu mutlu bir tetikçi, kindar bir oyuncu. Avcı olarak kendini tutman lazım. Diğerleri seni ziyarete gelirse kendilerini ölü bulabilirler. Paranoyan devreye girer ve vurursun. Kurtlar sana saldırırsa birini de kendinle beraber götürme şansın var. Öbür türlü, ölürken birini vurma şansın var.
 			Not: Kurt saldırıları için şansın %50’dan başlıyor. Sadece bir Kurt varsa Avcı’nın Kurt’u öldürme şansı %50. Her bir ek Kurt için %25 eklenir. (2 Kurt = %75, 3 = %95 vs.) Öte yandan, birden fazla Kurt varsa birini öldürsen bile sen de öleceksin.
-			Vampirler seni dönüştürmeye çalışırsa %50 kaybetme şansları var. Kaybederlerse %50 şansla onlardan birini öldüreceksin!
+			Ubırlar seni dönüştürmeye çalışırsa %50 kaybetme şansları var. Kaybederlerse %50 şansla onlardan birini öldüreceksin!
 		</value>
 	</string>
 	<string key = "HunterNoChoiceLynched">
@@ -2221,8 +2237,8 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve vücudunda saçma izleri vardı. Belli ki hedefinde silahlı biri vardı ve başarısız oldu. {0}'in bedenini teşhis ettiklerinde onun <b> Cehennem Kurdu 🐺🔥 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "HunterKilledvampir">
-		<!-- 0 - Vampir İsmi -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve vücudunda saçma izleri vardı. Belli ki hedefinde silahlı biri vardı ve başarısız oldu. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
+		<!-- 0 - Ubır İsmi -->
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve vücudunda saçma izleri vardı. Belli ki hedefinde silahlı biri vardı ve başarısız oldu. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "FireBurnHunter">
 		<!-- 0 - Cehennem Kurdu İsmi -->
@@ -2239,12 +2255,12 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu isimler belki de sana yardımcı olabilir: {0}, {1}</value>
 	</string>
 	<string key="RoleInfoCupid">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutCupid">
 		<value>
-			Eros 🏹: \nHavada aşk kokusu var! Eros olarak oyunun başında iki kişi seç (kendin ve Gecenin Avcısı hariç). Bu iki kişiden biri ölürse diğeri de aşk acısından ölecek. :(
-			Not: Seçtiğin iki oyuncu kendi aralarında bağımsız bir takım olacak ve sen de onlara dahil olacaksın! Bu ilişkiyi üst seviyeye taşımak için onların 3. Ortağı olacaksın ve her zamankinden daha güçlü bir seviyedesiniz. Bir noktaya kadar onları desteklemeli ancak eninde sonunda ölmen gerekiyor. Eros olarak köylü takımındasın ve eğer aşıklar köy dışında farklı takımlarda ise (Kurt + Vampir/ Vampir + Zombi) ve köy takımı kazanırsa aşıklar kaybeder ama Eros kazanır. Senden önce aşıklar ölür ise Eros olarak yalnızca köylü takımına ait biri olacaksın. Aşıklar hayatta kalır ve kazanırlarsa sen de öldüğün için onlarla beraber kazanacaksın. Bu aşkın mimarı olarak çok fazla fedakarlık yapman gerekecek. Önce onları zafere giden yola getirmeli, ardından kendi ölümüne razı gelmelisin.
+			Eros 🏹: \nHavada aşk kokusu var! Eros olarak oyunun başında iki kişi seç (kendin ve Kelle Avcısı hariç). Bu iki kişiden biri ölürse diğeri de aşk acısından ölecek. :(
+			Not: Seçtiğin iki oyuncu kendi aralarında bağımsız bir takım olacak ve sen de onlara dahil olacaksın! Bu ilişkiyi üst seviyeye taşımak için onların 3. Ortağı olacaksın ve her zamankinden daha güçlü bir seviyedesiniz. Bir noktaya kadar onları desteklemeli ancak eninde sonunda ölmen gerekiyor. Eros olarak köylü takımındasın ve eğer aşıklar köy dışında farklı takımlarda ise (Kurt + Ubır/ Ubır + Zombi) ve köy takımı kazanırsa aşıklar kaybeder ama Eros kazanır. Senden önce aşıklar ölür ise Eros olarak yalnızca köylü takımına ait biri olacaksın. Aşıklar hayatta kalır ve kazanırlarsa sen de öldüğün için onlarla beraber kazanacaksın. Bu aşkın mimarı olarak çok fazla fedakarlık yapman gerekecek. Önce onları zafere giden yola getirmeli, ardından kendi ölümüne razı gelmelisin.
 		</value>
 	</string>
 	<string key = "LoverDied">
@@ -2261,7 +2277,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Seri Katil 🔪 </value>
 	</string>
 	<string key="RoleInfoSerialKiller">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSK">
 		<value> Seri Katil 🔪: \nAkıl hastanesi zaten sıkıcı bir yerdi. Şaka şaka. Şu anda özgürsün ama her zamanki işine dönmen lazım öldürmek! Seri Katil kendi takımında yalnız bir oyuncudur. Sadece son kalan oyuncu olursa oyunu kazanır (Aşık olma durumu hariç). Seri Katil olarak herhangi birini öldürebilirsin Kurtlar, avcılar, silahşör, koruyucu melekler her neyse. Kurtlar sana saldırırsa rastgele bir tanesini öldürürsün ve yaşamaya devam edersin. </value>
@@ -2321,96 +2337,96 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Çiftgiden 🎭 </value>
 	</string>
 	<string key="RoleInfoDoppelganger">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutDG">
 		<value>
 			Çiftgiden 🎭: \nAtaların başkalarının kılığına girebiliyordu... Fakat sen onların tüm gücüne sahip değilsin. Oyunun başında bir oyuncu seç ve o ölürse onun rolüne geçeceksin. Unutma! Çift Giden olarak kazanamazsın. Rol modelin öldüğü vakit onun takımıyla da oyunu kazanmak zorundasın. Rolüne kavuştuktan sonra herşeyin daha güzel olabileceğini düşünmüş olabilirsin ama şimid herşey daha da zorlaşacak.
-			Not: Eğer oyuncu Vampir olursa sen onun gerçek rolünü alacaksın. Eğer Yabani Çocuk ise ve rol modeli ölürse Kurt olursun. Yoksa onun rol modelini alırsın.
-			Vampir Çiftgiden’i dönüştüremez. (ama Çiftgiden rolleri değiştirirse yapabilir.) Oyunun sonunda Çiftgiden aynıysa eğer o zaman kaybeder.(Aşık hariç)
+			Not: Eğer oyuncu Ubır olursa sen onun gerçek rolünü alacaksın. Eğer Yabani Çocuk ise ve rol modeli ölürse Kurt olursun. Yoksa onun rol modelini alırsın.
+			Ubır Çiftgiden’i dönüştüremez. (ama Çiftgiden rolleri değiştirirse yapabilir.) Oyunun sonunda Çiftgiden aynıysa eğer o zaman kaybeder.(Aşık hariç)
 		</value>
 	</string>
 	<string key = "DGTransformToMason">
 		<!-- 1 - Mason Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "DGTransformToWolf">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "DGTransformToAlpha">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "DGTransformToWolfCub">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "DGTransformToLycan">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "DGTransformToHungryWolf">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "DGTransformToAlphaWithSnow">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
 		<!-- 2 - Beyaz Kurt İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
 	</string>
 	<string key = "DGTransformToWolfCubWithSnow">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
 		<!-- 2 - Beyaz Kurt İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
 	</string>
 	<string key = "DGTransformToWolfWithSnow">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
 		<!-- 2 - Beyaz Kurt İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
 	</string>
 	<string key = "DGTransformToLycanWithSnow">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
 		<!-- 2 - Beyaz Kurt İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}, {2}</value>
 	</string>
 	<string key = "DGTransformToSnowWolf">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "DGTransformToRabidWolf">
 		<!-- 1 - Kurt Adam Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "DGTransformTovamp">
-		<!-- 1 - Vampir Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<!-- 1 - Ubır Takım Arkadaşları (varsa) -->
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "DGTransformTooldvamp">
-		<!-- 1 - Vampir Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<!-- 1 - Ubır Takım Arkadaşları (varsa) -->
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "doptransz">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. Ancak bedenin hızlıca çürüdü ve konuşma yeteneğini kaybettin...</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. Ancak bedenin hızlıca çürüdü ve konuşma yeteneğini kaybettin...</value>
 	</string>
 	<string key="doptranssus">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "NewWCRoleModel">
 		<!-- 0 - Hedefin İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {0}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {0}</value>
 	</string>
 	<string key = "NewDGRoleModel">
 		<!-- 0 - Hedefin İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {0}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {0}</value>
 	</string>
 	<string key = "NewIMRoleModel">
 		<!-- 0 - Hedefin İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {0}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {0}</value>
 	</string>
 	<string key = "NewnecroRoleModel">
 		<!-- 0 - Hedefin İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {0}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {0}</value>
 	</string>
 	<string key = "RoleModelChosen">
 		<!-- 0 - Hedefin İsmi -->
@@ -2420,7 +2436,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Muhtar 🎖 </value>
 	</string>
 	<string key="RoleInfoMayor">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutMayor">
 		<value> Muhtar 🎖: \nMuhtar sıradan bir köylüdür. Ta ki kendini açığa çıkarana kadar. Ondan sonra linç ederken oyun 2 oy sayılır. (Yani oyun herkesinkinden 2 kat güçlü olur.) Gücünü Köy Takımı için akıllıca kullan! </value>
@@ -2432,7 +2448,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Prenses 👸 </value>
 	</string>
 	<string key="RoleInfoPrince">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutPrince">
 		<value> Prenses 👸: \nKöy Takımı stratejisinde anahtar bir rol oynar. Prenses linç edildiği zaman, rolü ortaya çıkar. Ve yaşamaya devam eder. Ama bu birkez olur ve rolleri açığa çıkar. Köylüler linç etmeye devam ederlerse ölür. </value>
@@ -2448,7 +2464,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Falcı 🔮 </value>
 	</string>
 	<string key="RoleInfoSorcerer">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSorcerer">
 		<value> Falcı 🔮: \nEski ihtiyar Gözcüyü hatırlıyor musun? İyi, şimdi Kurt Takımı’nda olma zamanı. Falcı kurtların gözcüsüdür. Kurtlarla beraber kazanırlar. Gözcüden çok daha iyisin çünkü taklitçi, kurdumsu ve Lycan senin kafanı karıştıramaz. Kristal küren her türden rolü algılayabilir. Tüm kurtlar öldüğü vakit emeklerini boşa gitmemesi uğruna sen de bir kurt adama dönüşeceksin! Daha önceden görüş güçlerinle ettiğin bilgiler sayesinde şimdi bir yırtıcısın! Gerisini köylüler düşünsün... </value>
@@ -2470,7 +2486,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Beceriksiz 🤕 </value>
 	</string>
 	<string key="RoleInfoClumsyGuy">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutClumsy">
 		<value> Beceriksiz 🤕: \nKeşke kahvaltıda o kadar alkol almasaydın. Lanet olası, önünü bile göremiyorsun! Bir de istediğin adama oy verebileceğini mi sanıyorsun? (Verdiğin oyda tuturma ihtimalin %50.)</value>
@@ -2479,7 +2495,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Demirci ⚒ </value>
 	</string>
 	<string key="RoleInfoBlacksmith">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutBlacksmith">
 		<value> Demirci ⚒: \nBiraz gümüş tozun kalmış olmalı. Kim bilir? Belki kurt saldırısını engelleyebilir bu gece. 🤔 </value>
@@ -2495,25 +2511,26 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Alfa Kurt ⚡️ </value>
 	</string>
 	<string key="RoleInfoAlphaWolf">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutAlphaWolf">
 		<value> Alfa Kurt ⚡️:  \nLanetin kaynağı, pisliğin tekisin. Sen hayattayken kurt takımının yediği birinin kurtadama dönüşme ihtimali %25.. </value>
 	</string>
 	<string key = "PlayerBittenWolves">
+		<!-- 0 - Hedefin İsmi -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "PlayerBitten">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "BittenTurned">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. </value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. </value>
 	</string>
 	<string key = "WolfCub">
 		<value> Yavru Kurt 🐶 </value>
 	</string>
 	<string key="RoleInfoWolfCub">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutWolfCub">
 		<value> Yavru Kurt 🐶: \nAyyyyy , ne tatlış bir minik kuçu kuçu! Gıdı, gıdı. Dediğim gibi, sen Yavru Kurt’sun. Biri seni öldürürse, kuçu kuçulara 2 kurban vereceksin. Ölmek için çok tatlısın. Daha fazla seni gıdıklayamayacağım. :( </value>
@@ -2522,7 +2539,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Kurdumsu 👱🌚 </value>
 	</string>
 	<string key="RoleInfoWolfMan">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutWolfMan">
 		<value> Kurdumsu 👱🌚: \nSen köylü gibi bir şeysin, zamanının çoğunu gerçek kurtların olduğu ormanda geçirdiğin için, Gözcünün kafası karışacak ve senin bir kurt adam olduğunu düşünecek! Oh hayır... </value>
@@ -2531,7 +2548,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Lycan 🐺🌝 </value>
 	</string>
 	<string key="RoleInfoLycan">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutLycan">
 		<value> Lycan 🐺🌝: \nLycan bir kurttur, ancak gözcüye bir köylü olarak görünecektir. :) </value>
@@ -2544,7 +2561,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Kâhin 🌀 </value>
 	</string>
 	<string key="RoleInfoOracle">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutOracle">
 		<value> Kâhin 🌀: \nHer gece birine bakmayı seçebilirsin, ama sadece o kişinin ne olmadığını görebileceksin. Oyunda hala hayatta olan bir başkasının rolü sana gösterilecek, bu yüzden hangi rolün söylendiğine dikkat edin, bu demek oluyor ki o rol hâlâ hayatta :) </value>
@@ -2557,7 +2574,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Uyutucu 💤 </value>
 	</string>
 	<string key="RoleInfoSandman">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSandman">
 		<value> Uyutucu 💤: \nOyun başında bir kez, tüm oyuncuları o kadar derin bir uykuya sokabilir ki kimse gece yeteneklerini kullanamaz. </value>
@@ -2572,7 +2589,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Barışcıl ☮️</value>
 	</string>
 	<string key="RoleInfoPacifist">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutPacifist">
 		<value> Barışcıl ☮️: \nBir günlüğüne mahsus köydeki herkesi linç olmaması için ikna edebilirsin. Sadece bir kere yapılabilir. </value>
@@ -2592,7 +2609,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Yaşlı Bilge 📚 </value>
 	</string>
 	<string key="RoleInfoWiseElder">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutWiseElder">
 		<value> Yaşlı Bilge 📚: \nKurt adam saldırısından yalnızca bir kez sağ çıkabilecektir bir dahaki sefere kurtlar yemek isterse onu kolaylıkla öldürebilecek. Silahşör, avcı veya kimyager tarafından öldürülürse, güçlerini kaybedecekler ve köylü olarak hayatlarına devam ederler. Yancı onu ziyaret ederse, ölme şansı %50 dir. </value>
@@ -2613,7 +2630,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Beyaz Kurt 🐺❄️ </value>
 	</string>
 	<string key="RoleInfoSnowWolf">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSnowWolf">
 		<value> Beyaz kurt 🐺❄️. \nKarlı dağların kurdudur. Böylelikle buz ve karı kontrol etme sanatında ustalaşmıştır. Uzun süre yalnız yaşadığı için beyaz kurt ayrı ayrı saldırmayı tercih ediyor. Birini sürü ile beraber yemek yerine, gece boyunca donması için başka bir kurbanı seçebilir; bu şekilde kurbanlarının gece aksiyonları uygulamasını imkansız hale getirir. Ancak kurbanı gücünün kalıntılarına sahip olacak ve iki gece arka arkaya dondurulamayacak. </value>
@@ -2629,7 +2646,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "SnowWolfTurnWolf">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key="SuccesFreeze">
 		<!-- 0 - Hedefin İsmi -->
@@ -2645,7 +2662,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Müneccim 🦅 </value>
 	</string>
 	<string key="RoleInfoAugur">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutAugur">
 		<value> Müneccim 🦅: \nKartal gibi gözlerin var. Her gece hangi rolün oyunda mevcut olmadığını anlayabilirsin. Ayrıca aynı rolün iki kez olmadığı söylenmeyecek. </value>
@@ -2663,7 +2680,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Baş Belası 🤯 </value>
 	</string>
 	<string key="RoleInfoTRoublemaker">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutTroublemaker">
 		<value> Baş Belası 🤯: \nKöyden gelen belalı bir gençtir. Çığlık atmaya başladığında tüm köy kontrolü kaybeder. Çok sinirlenen köylüler o gün 2 kez linç edecekler! </value>
@@ -2678,10 +2695,10 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Mezarcı ☠️ </value>
 	</string>
 	<string key="RoleInfoGraveDigger">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutGraveDigger">
-		<value> Mezarcı ☠️: Sen ölenler için mezar kazıyorsun (evet, kurtadamlar bile cenazeyi hakediyor). Kurtadamlar ve Vampirler bütün gece dışarıda oldukları için mezar kazarken şans eseri onları öldürülebilirsin. Ancak seni ziyaret ettiklerinde evde kimseyi bulamazlar. Eğer kimse ölmemişse doğal olarak mezar kazamayacağın için evde olacaksın bu sefer kurtlara ve seri katillere karşı hazırlı olsan iyi edersin çünkü tırpanla gelir en dürüst melek..</value>
+		<value> Mezarcı ☠️: Sen ölenler için mezar kazıyorsun (evet, kurtadamlar bile cenazeyi hakediyor). Kurtadamlar ve Ubırlar bütün gece dışarıda oldukları için mezar kazarken şans eseri onları öldürülebilirsin. Ancak seni ziyaret ettiklerinde evde kimseyi bulamazlar. Eğer kimse ölmemişse doğal olarak mezar kazamayacağın için evde olacaksın bu sefer kurtlara ve seri katillere karşı hazırlı olsan iyi edersin çünkü tırpanla gelir en dürüst melek..</value>
 	</string>
 	<string key = "DigGraves">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
@@ -2722,11 +2739,11 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key = "NHunterFellDigger">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key = "vampirFell">
-		<!-- 0 - Vampir İsmi -->
+		<!-- 0 - Ubır İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key = "zombiFellDigger">
@@ -2752,7 +2769,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Kimyager 👨‍🔬 </value>
 	</string>
 	<string key="RoleInfoChemist">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutChemist">
 		<value> Kimyager 👨‍🔬: \nİksir yapmayı seven ve bunu köylülere içirmeyi seven dengesiz bir kişidir. İksirlerinden ikisini karıştıracak ve diğerlerine birini tatmaya zorlayacak. Bir iksir basit rose şarabıdır, diğeri ise anında hayatına son verecek zehirli bir iksir. Bol şans! </value>
@@ -2809,7 +2826,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Survivor ⛺️ </value>
 	</string>
 	<string key="RoleInfoSurvivor">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSurvivor">
 		<value> Survivor ⛺️: \nİblis gibi serbest takılır. Ama amacı iblisin tam tersi, ne olursa olsun hayatta kalmalı ve sonuna kadar hayatta kalmak için istediği tarafla ittifak kurabilir... </value>
@@ -2818,10 +2835,10 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Şerif 🤠 </value>
 	</string>
 	<string key="RoleInfoSheriff">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSheriff">
-		<value> Şerif 🤠: \nKöyde önemli bir pozisyona sahiptir. Aynı zamanda araştırmacı ve koruyucu bir roldür. Her gece, bir oyuncunun evinden ayrılıp yada evde kaldığını anlayabilirsin. Elbette yakında eve döner, böylece devriyeye çıksa bile Vampirler onu dönüştürebilir. </value>
+		<value> Şerif 🤠: \nKöyde önemli bir pozisyona sahiptir. Aynı zamanda araştırmacı ve koruyucu bir roldür. Her gece, bir oyuncunun evinden ayrılıp yada evde kaldığını anlayabilirsin. Elbette yakında eve döner, böylece devriyeye çıksa bile Ubırlar onu dönüştürebilir. </value>
 	</string>
 	<string key = "SheriffVisitHome">
 		<!-- 0 - Hedefin İsmi -->
@@ -2840,13 +2857,13 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak ortamdaki derin sessizlik sence de biraz fazla tuhaf değil mi?</value>
 	</string>
 	<string key = "Police">
-		<value> Polis 👮 </value>
+		<value>  Jandarma 🪖 </value>
 	</string>
 	<string key="RoleInfoPolice">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutPolice">
-		<value> Polis 👮: \nKöylü ya da Mason gibidir, birkaç tane olabilir. Her gece bir oyuncuyu sorgulayabilirsiniz. Sorgulama sonucunda 3 olasılık vardır; ya sorguladığın kişinin suçlu olduğuna kanaat getireceksin, ya masum olduğuna kesninlikle inanacaksın ya da sorgulama sonucunda hiçbir şey elde edemeyeceksin (suçlu veya masum olduğunu bilemeyeceksin). </value>
+		<value>  Jandarma 🪖: \nKöylü ya da Mason gibidir, birkaç tane olabilir. Her gece bir oyuncuyu sorgulayabilirsiniz. Sorgulama sonucunda 3 olasılık vardır; ya sorguladığın kişinin suçlu olduğuna kanaat getireceksin, ya masum olduğuna kesninlikle inanacaksın ya da sorgulama sonucunda hiçbir şey elde edemeyeceksin (suçlu veya masum olduğunu bilemeyeceksin). </value>
 	</string>
 	<string key = "PoliceInnocent">
 		<!-- 0 - Hedefin İsmi -->
@@ -2861,16 +2878,16 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "Politodetec">
-		<!-- Polis, Dedektif rolüne terfi edildiği zaman kullanılır -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<!-- Jandarma , Dedektif rolüne terfi edildiği zaman kullanılır -->
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "Politoserif">
-		<!-- Polis, Şerif rolüne terfi edildiği zaman kullanılır -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<!-- Jandarma , Şerif rolüne terfi edildiği zaman kullanılır -->
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "Politogb">
-		<!-- Polis rütbesi, Kurdumsu rolüne düşürüldüğü zaman kullanılır -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<!-- Jandarma  rütbesi, Kurdumsu rolüne düşürüldüğü zaman kullanılır -->
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "Policealivez">
 		<!-- 0 - Hedefin İsmi -->
@@ -2888,7 +2905,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Cehennem Kurdu 🐺🔥 </value>
 	</string>
 	<string key="RoleInfoFireWolf">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutFireWolf">
 		<value> Cehennem Kurdu 🐺🔥: \nCehennem kurdu yemek yerken tek başına gider ama kurt sürüsüne aittir. Her gece bir oyuncuyu yakabilirsin. Beyaz kurt gibisin ama fark şu ki, sonunda kurbanlarını kömürleştiriyorsun. </value>
@@ -2923,7 +2940,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "fireWolfTurnalfa">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "bomberBurning">
 		<!-- 0 - Hedefin İsmi -->
@@ -2981,7 +2998,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Aç Kurt 🐺🍽 </value>
 	</string>
 	<string key="RoleInfoHungryWolf">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutHungryWolf">
 		<value> Aç Kurt 🐺🍽: \nOldukça güçlü bir kurttur. Yaşadığı sürece, kurbanları tanınmaz halde bırakma şansı %40'tır. Bu nedenle köylüler öldükten sonra rollerini göremeyecekler . </value>
@@ -2995,7 +3012,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Taklitçi ❌ </value>
 	</string>
 	<string key="RoleInfoImposter">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutImposter">
 		<value> Taklitçi ❌: \nTıpkı Falcı gibi kurtların müttefikidir. Gecenin başında seçtiği bir oyuncuyu taklit edebilir. Öldüğü zaman taklit ettiği rol olarak gözükür, hatta dedektif ve gözcü de onu taklit ettiği rol olarak görür. Bu yüzden köylülerin kafasını oldukça karıştırmış olacak. Bir Kurdu taklit edersen ona mesaj atmaktan sakın çekinme! Tüm kurtlar öldüğünde emeklerinin boşa gitmemesi için bir kurt adama dönüşeceksin! Müttefik gibi müttefik... </value>
@@ -3012,7 +3029,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Fırıncı 🍞 </value>
 	</string>
 	<string key="RoleInfoBaker">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutBaker">
 		<value> Fırıncı 🍞: \nKöyden bir roldür. Ölürse köylülerde öyle bir üzüntü yaratacak ki bir gün linç edilmeyecekler. Bu nedenle, kurtlar seni öldürmek isteyeceği için saklanman önemlidir. Dikkatli ol, AFK'dan ölmemek de önemlidir, bu yüzden intihar etmek bir seçenek değildir. </value>
@@ -3028,7 +3045,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Şifacı 🌟 </value>
 	</string>
 	<string key="RoleInfoHealer">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutHealer">
 		<value> Şifacı 🌟: \nMistik güçlere sahip eşsiz bir köy rolüdür. 2. Geceden itibaren köyden ölen herhangi bir rolü hayata geri dödürebilir. Gecenin yaratıklarından veya solo rollerden herhangi birini diriltemezsin. Tanınmaz haldeki bir oyuncuyu diriltemezsen bil ki o kötü roldür.</value>
@@ -3041,7 +3058,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Otacı 🍃 </value>
 	</string>
 	<string key="RoleInfoHerbalist">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutHerbalist">
 		<value> Otacı 🍃: \nŞifalı bitkilerde uzman olan bir köylüdür. Köydeki kurt adamların ortaya çıkması nedeniyle, her gece zehirlemek için başka bir oyuncuyu ziyaret edecek. Hedef, zehirlendiklerini bilecek ve ertesi gece ölecek. Bir panzehir var, ancak kararından pişman olursa ertesi gece ona verebilecek olan otacının sadece kendisi tarafından biliniyor. </value>
@@ -3066,19 +3083,19 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Uyurgezer 😴 </value>
 	</string>
 	<string key="RoleInfoSleepwalker">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSleepwalker">
 		<value> Uyurgezer 😴: \nSadece başka sıradan bir köylüdür. Aradaki fark, her gece bilinçsiz şekilde evi terk etme şansı %80 ve o gece saldırganlara karşı bağışıklılığı olacaktır. Ancak uyurgezer bile kendisinin ne olduğunu bilmiyor ve sadece normal bir köylü olduğunu düşünecek. </value>
 	</string>
 	<string key = "Ninja">
-		<value> Ninja 💨 </value>
+		<value> Ninja 🥷 </value>
 	</string>
 	<string key="RoleInfoNinja">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutNinja">
-		<value> Ninja 💨: \nKöyün bir rolüdür. Her gece uyanık kalmaya veya uyumaya karar verebilirsin. Uyanık kalmaya karar verirsen, tetikte olacaksın ve seni ziyaret eden ilk saldırgandan saklanacaksın. Ancak, seni ziyaret etmezlerse, ertesi gece dinlenmelisin. Ek olarak, sen saklanırken seri katil tarafından bulunma şansın %50'dir. </value>
+		<value> Ninja 🥷: \nKöyün bir rolüdür. Her gece uyanık kalmaya veya uyumaya karar verebilirsin. Uyanık kalmaya karar verirsen, tetikte olacaksın ve seni ziyaret eden ilk saldırgandan saklanacaksın. Ancak, seni ziyaret etmezlerse, ertesi gece dinlenmelisin. Ek olarak, sen saklanırken seri katil tarafından bulunma şansın %50'dir. </value>
 	</string>
 	<string key = "NinjaHidden">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
@@ -3097,7 +3114,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Koklayıcı Kurt 🐾 </value>
 	</string>
 	<string key="RoleInfoSnooper">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSnooper">
 		<value> Koklayıcı kurt 🐾: \nBeyaz kurt gibi bir destek kurdudur. Her gece, bir oyuncunun gece uyanık olup olmadığını (gece aksiyonunun olup olmadığını) anlamak için gözetleyebilirsin. Ayrıca, güçlü kokusu nedeniyle hedefinin sarhoş mu, fırıncı mı yoksa otacı mı olduğunu belirleyebilirsin. Kurtların geri kalanı ölürse normal bir kurda dönüşürsün. Ayrıca, alfa kurt dedektifi enfekte ederse, dedektif koklayıcı kurda dönüşecektir. </value>
@@ -3151,13 +3168,13 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺🔱</value>
 	</string>
 	<string key = "SpeedWolf">
-		<value> Hızlı Kurt 🐺💨 </value>
+		<value> Hızlı Kurt 🐺🥷 </value>
 	</string>
 	<string key="RoleInfoSpeedWolf">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSpeedWolf">
-		<value> Hızlı Kurt 🐺💨: \nSürünün en hızlısıdır ve o gün linç edilmekten kaçmak için bir kez kaçabilir. Ancak böyle yaparak herkes hızlı kurt olduğunu bilecek ve ertesi gün linç edecekler. Doğru anı bekle! </value>
+		<value> Hızlı Kurt 🐺🥷: \nSürünün en hızlısıdır ve o gün linç edilmekten kaçmak için bir kez kaçabilir. Ancak böyle yaparak herkes hızlı kurt olduğunu bilecek ve ertesi gün linç edecekler. Doğru anı bekle! </value>
 	</string>
 	<string key = "SpeedWolfRunning">
 		<!-- 0 - Hızlı Kurt İsmi -->
@@ -3170,7 +3187,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Nöbetçi 🔭 </value>
 	</string>
 	<string key="RoleInfoLookout">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutLookout">
 		<value> Nöbetçi 🔭: \nHer gece birinin evine bakabilen çok meraklı bir köylüdür. O gece evini gözlediğin kişinin ziyaretçileri varsa hepsinin isimlerini bileceksin. Ancak, hedefine saldırılırsa, yalnızca kurtlardan birinin adını görebilirsin. </value>
@@ -3188,7 +3205,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Muhafız 🛡 </value>
 	</string>
 	<string key="RoleInfoGuard">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutGuard">
 		<value> Muhafız 🛡: \nKöylü gibi tekrar eden bir roldür. Her gece bir oyuncuyu savunabilir ve saldırıya uğrarsa onu kurtarmak için %20 şansı vardır. Birden fazla koruma aynı kişiyi savunursa, olasılıkları artar ve 5 muhafız ile mükemmel bir kombinasyon oluşturarak kusursuz bir savunma oluşturulur. Ayrıca, oyunda muhafız varsa, minimum 2 kişi olacaklardır. </value>
@@ -3231,7 +3248,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Kuduz Kurt 🐺🤢 </value>
 	</string>
 	<string key="RoleInfoRabidWolf">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutRabidWolf">
 		<value> Kuduz Kurt 🐺🤢: \nYeryüzünde Alfa Kurt tarafından enfeksiyon kapmış ilk kurttur. Sürü ve Alfa için çok değerlidir. Herhangi bir yolla kuduz kurt öldüğü zaman (AFK hariç) Alfa kurt bir sonraki saldırısında 100% enfeksiyon şansına sahip olacaktır. Bu döngü her bir kuduz öldüğünde sonsuza dek devam eder. Ancak Alfa kurt öldürüldüğü zaman Kuduz kurt işlevini yitirecektir. </value>
@@ -3240,10 +3257,10 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Kâbus Kurdu 🐺🌕 </value>
 	</string>
 	<string key="RoleInfoHowlingWolf">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutHowlingWolf">
-		<value> Kâbus kurdu 🐺🌕: \nSürüdeki ürpertici kurtlardan biridir. Sürüdeki yırtıcı kurtlardan biri olması yanı sıra, her dolunay vakti köyün yüksek dağlarında ulumaya başlar. Bu sayede köydeki bütün herkesin kâbuslarına girer ve onları korkutarak gece aksiyonlarını engeller. Gecenin Avcısı, Seri Katil, İllüzyonist, kısacası kurt sürüsündekiler hariç herkes Kâbus kurdu yaşadığı müddetçe dolunay zamanlarında gece aksiyonlarını gerçekleştiremeyecek. </value>
+		<value> Kâbus kurdu 🐺🌕: \nSürüdeki ürpertici kurtlardan biridir. Sürüdeki yırtıcı kurtlardan biri olması yanı sıra, her dolunay vakti köyün yüksek dağlarında ulumaya başlar. Bu sayede köydeki bütün herkesin kâbuslarına girer ve onları korkutarak gece aksiyonlarını engeller. Kelle Avcısı, Seri Katil, İllüzyonist, kısacası kurt sürüsündekiler hariç herkes Kâbus kurdu yaşadığı müddetçe dolunay zamanlarında gece aksiyonlarını gerçekleştiremeyecek. </value>
 	</string>
 	<string key = "HowlingNight">
 		<value> AUUUUUUUUUUUUU !!! Köyün her yerinde ürpertici bir uğultu var. Korkudan tir tir titreyen köylüler gece eylemlerini gerçekleştiremiyor. [Kâbus kurdu köyü korkuttu]. </value>
@@ -3252,7 +3269,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Hayalet 👻 </value>
 	</string>
 	<string key="RoleInfoGhost">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutGhost">
 		<value> Hayalet 👻: \nÖlümden sonra bile linç etmeye devam etme gücüne sahip köyün bir rolüdür. Aksi takdirde, normal bir köylü gibidir. </value>
@@ -3261,7 +3278,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> İtfaiyeci 👨‍🚒 </value>
 	</string>
 	<string key="RoleInfoFirefighter">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutFirefighter">
 		<value> İtfaiyeci 👨‍🚒: \nKoruyucu bir roldür. Her gece bir oyuncuyu (kendisi dahil) seri katil dışında herhangi bir tehlikeden kurtarabilir. Bununla birlikte, yanlışlıkla saldırıya uğramayan birini ziyaret edersen, bir sonraki gece tekrar onu rahatsız edemezsin. \n\nEn yüksek rütbeye ulaşan ilk oyuncu olan Chris tarafından tasarlanan roldür. </value>
@@ -3293,7 +3310,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Afet 💅 </value>
 	</string>
 	<string key="RoleInfoBeauty">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutBeauty">
 		<value> Afet 💅: \nKöydeki en güzel kadınsın ve bu yüzden seni ziyaret eden her oyuncu sana, hatta kurtlar bile sana aşık olacak. Aşıkların kazanırsa sende kazanırsın. Seni ziyaret edenler linç edilerek ölürse hayatta kalabilirsin. Son ziyaretçin kazanırsa rolü ne olursa olsun onunla kazanırsın. Seri katile dikkat et, seni öldürebilir ve sana aşık olmayacak. </value>
@@ -3319,38 +3336,38 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Reenkarnist ⚰️ </value>
 	</string>
 	<string key="RoleInfoNecromancer">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutNecro">
 		<value>
 			Reenkarnist ⚰️: \nÖlüm bir son değil, başlangıçtır! Reenkarnist, öldürülen birinin rolünü seçme yeteneğine sahiptir. Geceleri Reenkarnist, oyunun geri kalanı için ölü bir adamın rolü olmayı seçebilir. Reenkarnist kalmayı seçerek bir oyunu kazanamaz. Reenkarnist ve Çiftgiden aynı oyunda görünmeyecek.
-			Not: Reenkarnist rolüne sahip bir oyuncu bir Vampirin rolünü seçerse, orijinal rolünü alır ancak saf Vampir olan bir oyuncuyu seçerse de Vampir olur. Diğerleri için normal kurallar geçerlidir. Eğer o yabani çocuksa ve rol modeli ölmüşse, bir kurt adam olacak. Aksi takdirde, onların rol modelini devralacak.
-			Vampir Reenkarnisti dönüştüremez (ancak rolleri değiştirdikten sonra yapabilir). Dikkat: Reenkarnist, rollerini değiştirmediyse kazanamaz. Oyunun sonunda, Reenkarnist hâlâ ölü bir adamın rolünü kopyalamazsa, kaybeder (istisna: aşıklar).
+			Not: Reenkarnist rolüne sahip bir oyuncu bir Ubırın rolünü seçerse, orijinal rolünü alır ancak saf Ubır olan bir oyuncuyu seçerse de ubır olur. Diğerleri için normal kurallar geçerlidir. Eğer o yabani çocuksa ve rol modeli ölmüşse, bir kurt adam olacak. Aksi takdirde, onların rol modelini devralacak.
+			Ubır Reenkarnisti dönüştüremez (ancak rolleri değiştirdikten sonra yapabilir). Dikkat: Reenkarnist, rollerini değiştirmediyse kazanamaz. Oyunun sonunda, Reenkarnist hâlâ ölü bir adamın rolünü kopyalamazsa, kaybeder (istisna: aşıklar).
 		</value>
 	</string>
 	<string key = "necroTransformToMason">
 		<!-- 1 - Mason Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "necroTransformTovamp">
-		<!-- 1 - Vampir Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<!-- 1 - Ubır Takım Arkadaşları (varsa) -->
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "necroTransformTooldvamp">
-		<!-- 1 - Vampir Takım Arkadaşları (varsa) -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+		<!-- 1 - Ubır Takım Arkadaşları (varsa) -->
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "necroTransformToz">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. Ancak bedenin hızlıca çürüdü ve konuşma yeteneğini kaybettin...</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. Ancak bedenin hızlıca çürüdü ve konuşma yeteneğini kaybettin...</value>
 	</string>
 	<string key="nekrotranssus">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "Titi">
 		<value> Kukla Ustası 🕴 </value>
 	</string>
 	<string key="RoleInfoTiti">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutTiti">
 		<value> Kukla Ustası 🕴: \nBaşkalarını manipüle etme ve aldatma konusunda ustasın. Her gece, hayatta kalan son kişi olana kadar, bir kişinin eğer ki gece aksiyonu varsa onu istediğin gibi yönlendirebileceksin. Öte yandan aksiyonu olmayan oyuncuların ise intihar etmesini sağlayabilirsin. </value>
@@ -3364,8 +3381,8 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "titivsvamp">
-		<!-- 0 - Vampir İsmi -->
-		<!-- Vampir üyesi Kukla Ustasını ziyaret ettiği zaman kullanılır -->
+		<!-- 0 - Ubır İsmi -->
+		<!-- Ubır üyesi Kukla Ustasını ziyaret ettiği zaman kullanılır -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key = "titilinched">
@@ -3402,27 +3419,27 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="bestiavstiti">
-		<!-- 0 - Gevaduan Canavarı İsmi -->
-		<!-- Gevaduan Canavarı Kukla Ustasını ziyaret ettiği zaman kullanılır -->
+		<!-- 0 - Ucube Kurt İsmi -->
+		<!-- Ucube Kurt Kukla Ustasını ziyaret ettiği zaman kullanılır -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	
 	<!-- NARRADOR YARATICISININ OLUŞTURDUĞU ROLLER İÇİN METİNLER -->
 
 	<string key = "cazadornoche">
-		<value> Gecenin Avcısı 🌙 </value>
+		<value> Kelle Avcısı 🌙 </value>
 	</string>
 	<string key="RoleInfocazadornoche">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "Aboutcazadornoche">
-		<value> Gecenin Avcısı 🌙: \nO eski yobaz avcısı olan çelimsiz Tarikatçı Avcısını hatırlıyor musun? Her ne kadar sığ bir topluluğun sonunu getirse de gecenin yeni yaratıklarına karşı aşırı zayıf ve o artık tarih oldu! Gecenin Avcısı önüne gelen herhangi bir kurdu, Vampirı ve zombiyi avlamaktan asla çekinmez. Her gece bir oyuncuyu seçer ve eğer bu kişi Gecenin karanlık yaratıklarından biri ise ölecektir. Kurtlar, Vampirler ve zombiler Gecenin Avcısına saldırmaya çalışırla alt etmek hiç de kolay olmayacak! Ancak köylülerin yarısı öldüğü zaman bir şansları olabilir. Gecenin Avcısı, İllüzyonisti ve Kukla Ustasını avlayamaz. Eğer Kont ile karşı karşıya gelirlerse o savaştan yalnızca biri sağ çıkacak ve ikisinin de şansı yarı yarıya (50%-50%). Gevaduan Canavarına karşı dikkatli olmalı çünkü onu avlamaya çalışırsa yaralanacak ve ertesi gece avlanmaya çıkamaz. Bu köye önderlik edebilecek tek kişi Gecenin Avcısıdır ve oyunda yalnızca bir tane olabilir. Reenkarnist Gecenin Avcısının yerine geçer ve Şifacı ölü Gecenin Avcısını diriltmeye çalışırsa başarısız olacaktır. \nYardımcıları: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı. </value>
+		<value> Kelle Avcısı 🌙: \nO eski yobaz avcısı olan çelimsiz Tarikatçı Avcısını hatırlıyor musun? Her ne kadar sığ bir topluluğun sonunu getirse de gecenin yeni yaratıklarına karşı aşırı zayıf ve o artık tarih oldu! Kelle Avcısı önüne gelen herhangi bir kurdu, Ubırı ve zombiyi avlamaktan asla çekinmez. Her gece bir oyuncuyu seçer ve eğer bu kişi Gecenin karanlık yaratıklarından biri ise ölecektir. Kurtlar, Ubırlar ve zombiler Kelle Avcısına saldırmaya çalışırla alt etmek hiç de kolay olmayacak! Ancak köylülerin yarısı öldüğü zaman bir şansları olabilir. Kelle Avcısı, İllüzyonisti ve Kukla Ustasını avlayamaz. Eğer Kont ile karşı karşıya gelirlerse o savaştan yalnızca biri sağ çıkacak ve ikisinin de şansı yarı yarıya (50%-50%). Ucube Kurtna karşı dikkatli olmalı çünkü onu avlamaya çalışırsa yaralanacak ve ertesi gece avlanmaya çıkamaz. Bu köye önderlik edebilecek tek kişi Kelle Avcısıdır ve oyunda yalnızca bir tane olabilir. Reenkarnist Kelle Avcısının yerine geçer ve Şifacı ölü Kelle Avcısını diriltmeye çalışırsa başarısız olacaktır. \nYardımcıları: Gözcü, Dedektif, Koruyucu Melek, Şerif, Yancı ve Otacı. </value>
 	</string>
 	<string key = "SerialKillerKilledNH">
 		<!-- NH, SK'yi ziyaret ettiğinde kullanılır -->
 		<!-- 0 - Oyuncu İsmi -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Gecenin Avcısı 🌙 </b> olduğunu hatırladır.</value>
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Gecenin Avcısı 🌙 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Kelle Avcısı 🌙 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Kelle Avcısı 🌙 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "HunterFindwolf">
 		<!-- 0 - Hedefin İsmi -->
@@ -3449,7 +3466,7 @@ Son Günccelleme: 17.12.2022 -->
 	</string>
 	<string key = "cazadornocheKillv">
 		<!-- 0 - Kurbanın İsmi -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında bütün bedenini kurutulmuş halde buldular. Neredeyse hiçbir kan yoktu yalnızca boynunda iki tane sivri diş izi vardı ancak kimse buna neyin sebep olduğunu anlayamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Gecenin Avcısı 🌙 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında bütün bedenini kurutulmuş halde buldular. Neredeyse hiçbir kan yoktu yalnızca boynunda iki tane sivri diş izi vardı ancak kimse buna neyin sebep olduğunu anlayamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Kelle Avcısı 🌙 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "HunterFindvampir">
 		<!-- 0 - Hedefin İsmi -->
@@ -3458,12 +3475,11 @@ Son Günccelleme: 17.12.2022 -->
 	<string key = "NHunterKilledw">
 		<!-- 0 - Hedefin İsmi -->
 		<!-- 1 - Hedefin Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapısının önünde cansız bedeni yatıyordu ve kafası gövdesinden kopmuş haldeydi. Ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapısının önünde cansız bedeni yatıyordu ve kafası gövdesinden kopmuş haldeydi. Ancak kimse buna neyin sebep olduğunu anlamadı. {1}</value>
 	</string>
 	<string key = "NHunterKilledwxvisit">
 		<!-- 0 - Hedefin İsmi -->
-		<!-- 1 - Hedefin Rolü -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular. Cansız bedeni yatıyordu ve kafası gövdesinden kopmuş haldeydi. Ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun {1} olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular. Cansız bedeni yatıyordu ve kafası gövdesinden kopmuş haldeydi. Ancak kimse buna neyin sebep olduğunu anlamadı.</value>
 	</string>
 	<string key = "HunterFindz">
 		<!-- 0 - Hedefin İsmi -->
@@ -3478,7 +3494,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "huntKilledoldvampVisit">
-		<!-- 0 - Yaşlı Vampir İsmi -->
+		<!-- 0 - Kont İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="ccvisitadoxFireWolf">
@@ -3492,11 +3508,11 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="HunterFindbestia">
-		<!-- 0 - Gevaduan Canavarı İsmi -->
+		<!-- 0 - Ucube Kurt İsmi -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺🔱</value>
 	</string>
 	<string key="HunterFindbestia3">
-		<!-- 0 - Gevaduan Canavarı İsmi -->
+		<!-- 0 - Ucube Kurt İsmi -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="HunterFindsus">
@@ -3515,13 +3531,13 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "vampir">
-		<value> Vampir 🧛 </value>
+		<value> Ubır 🧛 </value>
 	</string>
 	<string key="RoleInfovampir">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "Aboutvampir">
-		<value> Vampir 🧛: \nHer gece kanını emecek bir av seçebileceksin. (başka bir oyuncuyu ziyaret ettiğinde %50 öldürme şansın olacaktır, hedefin ölmezse dönüşecek her rol için farklı bir yüzde vardır ve dönüşmeyi başaramayanlar ölür). Kurtadamların ve Vampirlerin zamanın başından beri düşman olduğu biliniyor, Biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin, diğer yandan seni ziyaret ederlerse birden fazla olmaları gerekecek. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen ve korkunç bir şekilde ölürsün. </value>
+		<value> Ubır 🧛: \nHer gece kanını emecek bir av seçebileceksin. (başka bir oyuncuyu ziyaret ettiğinde %50 öldürme şansın olacaktır, hedefin ölmezse dönüşecek her rol için farklı bir yüzde vardır ve dönüşmeyi başaramayanlar ölür). Kurtadamların ve Ubırlarin zamanın başından beri düşman olduğu biliniyor, Biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin, diğer yandan seni ziyaret ederlerse birden fazla olmaları gerekecek. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen ve korkunç bir şekilde ölürsün. </value>
 	</string>
 	<string key = "DGTovamp">
 		<!-- 0 - Çift Giden İsmi -->
@@ -3532,18 +3548,18 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
 	</string>
 	<string key = "vampConvertYou">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "vampirTeam">
-		<!-- 0 - Vampir sayısı -->
-		<value>\nVampirler: {0} </value>
+		<!-- 0 - Ubır sayısı -->
+		<value>\n\nİsimler: {0} </value>
 	</string>
 	<string key = "vampirTeam2">
-		<!-- 0 - Vampir sayısı -->
-		<value>\nVampirler: {0} </value>
+		<!-- 0 - Ubır sayısı -->
+		<value>\n\nİsimler: {0} </value>
 	</string>
 	<string key = "vampJoin">
-		<!-- 0 - Yeni Vampirin İsmi -->
+		<!-- 0 - Yeni Ubırın İsmi -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "vampVisitEmpty">
@@ -3580,31 +3596,31 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "vkilledxcn">
-		<value> Gecenin Avcısı seni yakaladı ve kafanı kopardı.</value>
+		<value> Kelle Avcısı seni yakaladı ve kafanı kopardı.</value>
 	</string>
 	<string key = "vampirFellPublic">
 		<!-- 0 - Kurban İsmi -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Köyü aramaya başladıklarında cesedini mezarlıkta buldular. İçi boş bir mezara düşmüştü ve belli ki mezarcı mesleğini unutmuş olmalı. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Köyü aramaya başladıklarında cesedini mezarlıkta buldular. İçi boş bir mezara düşmüştü ve belli ki mezarcı mesleğini unutmuş olmalı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "vampirKilled">
 		<!-- 0 - Kurban İsmi -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapı kilidinde bir zorlama olduğu fark ettiler ancak onun dışında evdeki her eşya yerli yerinde ve düzenliydi. {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapı kilidinde bir zorlama olduğu fark ettiler ancak onun dışında evdeki her eşya yerli yerinde ve düzenliydi. {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "NHunterKilledvampir">
 		<!-- 0 - Kurban İsmi -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapısının önünde cansız bedeni yatıyordu ve kafası gövdesinden kopmuş haldeydi. Ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapısının önünde cansız bedeni yatıyordu ve kafası gövdesinden kopmuş haldeydi. Ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "vampConvertWolfPublic">
 		<!-- 0 - Kurban İsmi -->
-		<!-- Vampirler bir Kurt Adamı dönüştürmeye çalıştıklarında kullanılır -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
+		<!-- Ubırlar bir Kurt Adamı dönüştürmeye çalıştıklarında kullanılır -->
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "vampConvertKillerPublic">
 		<!-- 0 - Kurban İsmi -->
-		<!-- Vampirler bir Seri Katili dönüştürmeye çalıştıklarında kullanılır -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
+		<!-- Ubırlar bir Seri Katili dönüştürmeye çalıştıklarında kullanılır -->
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "GuardBlockedv">
 		<!-- 0 - Hedefin İsmi -->
@@ -3612,8 +3628,8 @@ Son Günccelleme: 17.12.2022 -->
 	</string>
 	<string key = "vampirEaten">
 		<!-- 0 - Kurban İsmi -->
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapının kırıldığını ve evin duvarlarında uzun ve derin çizgiler buldular. {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
-		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapının kırıldığını ve evin duvarlarında uzun ve derin çizgiler buldular. {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Vampir 🧛 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapının kırıldığını ve evin duvarlarında uzun ve derin çizgiler buldular. {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapının kırıldığını ve evin duvarlarında uzun ve derin çizgiler buldular. {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "vampConvertcn">
 		<!-- 1 - Hedefin İsmi -->
@@ -3625,14 +3641,14 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="vampVisitbestia">
-		<!-- 0 - Gevaduan Canavarı İsmi -->
+		<!-- 0 - Ucube Kurt İsmi -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "idiot">
 		<value> Deli 🤪 </value>
 	</string>
 	<string key="RoleInfoidiot">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "Aboutidiot">
 		<value> Deli 🤪: \nİnsanlar tarafından linç edilmedikçe özel bir güçten yoksundur. O ana kadar gerçekten bir aptalmış gibi biraz delice ve çılgınca hareketler yapacak. Herkes hatasını anlayacaktır. Devamında deli hâlâ yaşayabilir ve oyunu oynayabilir, ancak oylama hakkını kaybeder. Artık gözcülük taslamak yok, sadece tartışmalara katılmaya ve istediğin kadar konuşmaya devam edeceksin. Kasabanın delisi kurt adamlar tarafından yenilirse (bir linçte kimliğini ifşa etmeden önce veya sonra), silahşörün ya da avcının vurulmasıyla, kimyacının iksiriyle, sevgilisi ölürse vb. ölecek. Bir oyuncu deliyle aşıksa ve linç edilirse, oyundan gerçekten çıkarılmadığı için hiçbir şey olmaz ve bu nedenle sevgilisi intihar etmemelidir. </value>
@@ -3641,13 +3657,13 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Bekle, görünüşe göre bu deli, celladın baltasını yalamaya başladı, {0} onu sevdiğini ve aynı şekilde bir lolipop istediğini söylüyor, o kadar deli olmanın kötü olamayacağını anlıyorsun ve onu kendi haline bırakıyorsun. Evet, linç de gerçekleşmez. Bu yüzden onların oylarına önem vermeyin. {0} kendini kasabanın delisi olarak gösteriyor, ona fazla ilgi göstermeyin. </value>
 	</string>
 	<string key = "flautista">
-		<value> Kavalcı 🎼✨ </value>
+		<value> İllüzyonist 🎼✨ </value>
 	</string>
 	<string key="RoleInfoflautista">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "Aboutflautista">
-		<value> Kavalcı 🎼✨: \nYalnız bir roldür. Kurt, Ubır veya köydeki başka herhangi bir rol olsun, nereden öğrendiğini bilmediği bir melodi ile her bir gece 2 oyuncuyu etkisi altına alabilir. Tüm canlı oyuncuları büyülersen kazanırsın. Kukla Ustası seni kontrol edemez, sen geceyi çatıda geçirirken kurtlar ve Ubırlar seni evde bulamazlar, ama seri katile dikkat et. </value>
+		<value> İllüzyonist 🎼✨: \nYalnız bir roldür. Kurt, Ubır veya köydeki başka herhangi bir rol olsun, nereden öğrendiğini bilmediği bir melodi ile her bir gece 2 oyuncuyu etkisi altına alabilir. Tüm canlı oyuncuları büyülersen kazanırsın. Kukla Ustası seni kontrol edemez, sen geceyi çatıda geçirirken kurtlar ve Ubırlar seni evde bulamazlar, ama seri katile dikkat et. </value>
 	</string>
 	<string key = "flencantedyou">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
@@ -3668,7 +3684,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Zaman Yolcusu ⏳ </value>
 	</string>
 	<string key="RoleInfotimetraveler">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "Abouttimetraveler">
 		<value> Zaman yolcusu ⏳: \nGelecekten gelen bir dahidir, köydeki katliam nedeniyle yalnız kaldığı bir gelecekten gelmektedir. Amacı geçmişi değiştirerek yaşananlardan kaçınmaktır. Bunun için en az 3 köylüyü zaman makinesini yeniden inşa etmesi için kendisine yardım etmesi için ikna etmesi gerekir. Çünkü ilk denemesinde sonbaharda bir uçurumun kenarında göründü ve makine düşerek yok oldu. Zaman yolcusu kötü rolleri ziyaret ederse, onlar yeniden inşa etme teklifinin kabul edecekler ama ona hiçbir konuda yardımcı olmayacaklar, hangisinin iyi ya da kötü olduğunu bilmeyeceğini ve sadece 3 iyi rolle zamanda geri dönebilir. TEHLİKE ALTINDA OLMADIĞI MÜDDETÇE KENDİSİNİ AÇIĞA ÇIKARAMAZ. Örnek olarak otacı tarafından zzehirlenirse, Kelle avcısı tarafından linç için hedef alınırsa, silahşör tarafından hedef alınırsa veya linçte üst üste fazla oy aldığı vakit vs. Zaman Yolcusu görüş sahibi bir rol değildir. Ziyaret ettiği oyuncuların iyi mi yoksa kötü mü olduklarını asla bilemez bu yüzden diğer oyuncuları kurtarmak için kendini ortaya çıkarmaması lazım. </value>
@@ -3694,13 +3710,13 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Zombi 🧟 </value>
 	</string>
 	<string key="RoleInfozombi">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. Ancak bedenin hızlıca çürüdü ve konuşma yeteneğini kaybettin... \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "Aboutzombi">
 		<value> Zombi 🧟: \nZombiler efsanevi yaratıklardır, seni ısırırlarsa onların sürüsüne dahil olursun. Bazı roller daha az şanslı olacak ve anında oyuna sessiz başlayacaklar. Ekip olsalar bile, her zombi ayrı ayrı hareket eder ve hem linçlerde hem de gece eylemlerinde seçimleri zeka ve mantıktan yoksun oldukları için rastgele olur. </value>
 	</string>
 	<string key = "zkilledxcn">
-		<value> Gecenin Avcısı seni yakaladı ve kafanı kopardı.</value>
+		<value> Kelle Avcısı seni yakaladı ve kafanı kopardı.</value>
 	</string>
 	<string key = "vampirbitez">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
@@ -3720,11 +3736,11 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "zdeadvisitvampir">
-		<!-- 1 - Vampir İsmi -->
+		<!-- 1 - Ubır İsmi -->
 		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "zdeadvisitoldvamp">
-		<!-- 1 - Yaşlı Vampir İsmi -->
+		<!-- 1 - Kont İsmi -->
 		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "marionetBlockedz">
@@ -3744,17 +3760,17 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "BittenTurnedz">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Ancak bir şekilde rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
 	<string key = "aliveofz">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "zeatcazan">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "zeatcazan2">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "vkillzpublic">
@@ -3774,13 +3790,13 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve yanıp kül olduğunu gördüler. {0}'in yanmış bedenini teşhis ettiklerinde onun <b> Zombi 🧟 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "cadejo">
-		<value> Cadejo 🐕‍🦺 </value>
+		<value> Barak 🐕‍🦺 </value>
 	</string>
 	<string key="RoleInfocadejo">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "Aboutcadejo">
-		<value> Cadejo 🐕‍🦺: \nAteşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
+		<value> Barak 🐕‍🦺: \nAteşli kırmızı gözleri olan efsanevi köpek olan bir hayvandır. Onun işi, insanların ona nasıl davrandığına bağlıdır. Eğer onu rahatsız etmezlerse, ateşini içinde tutacak  ve insanları herhangi bir kötülükten korumakla ilgilenecektir. Ancak onu rahatsız ederlerse, taş atarlarsa ya da ona zarar vermeye teşebbüs edecek olurlarsa içindeki şeytani gücü o oyuncuyu korumak yerine öldürmek için kullanır. </value>
 	</string>
 	<string key = "cadebvisit">
 		<!-- 0 - Hedefin İsmi -->
@@ -3819,13 +3835,13 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key = "oldvamp">
-		<value> Yaşlı Vampir 🧛👨🏻‍🦳 </value>
+		<value> Kont 🧛👨🏻‍🦳 </value>
 	</string>
 	<string key="RoleInfooldvamp">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "Aboutoldvamp">
-		<value> Yaşlı Vampir 🧛👨🏻‍🦳: \nBin yaşın üzerindesin ve herhangi bir normal Ubırdan daha güçlüsün. Kelle Avcısı bile senden korkuyor. Ziyaretlerin, diğer Ubırların kana olan susuzluklarını giderme kararlarından ayrı. Bir linçten sağ kurtulabilir ve Kelle Avcısı'nı öldürmek için %50 şansın olabilir. </value>
+		<value> Kont 🧛👨🏻‍🦳: \nBin yaşın üzerindesin ve herhangi bir normal Ubırdan daha güçlüsün. Kelle Avcısı bile senden korkuyor. Ziyaretlerin, diğer Ubırların kana olan susuzluklarını giderme kararlarından ayrı. Bir linçten sağ kurtulabilir ve Kelle Avcısı'nı öldürmek için %50 şansın olabilir. </value>
 	</string>
 	<string key = "DGTooldvamp">
 		<!-- 0 - Çift Giden İsmi -->
@@ -3836,7 +3852,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
 	</string>
 	<string key = "vdefendofcn">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key = "oldvamplinched">
@@ -3866,7 +3882,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value>Arçura 🧔🏻‍♀️</value>
 	</string>
 	<string key="RoleInfopeludo">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="Aboutpeludo">
 		<value>Arçura 🧔🏻‍♀️: \nTıpkı rapunzel gibi çok uzun saçlara sahip bir köylüdür. O kadar çok saçı vardır ki yüzünü bile göremezsin bu yüzden kelle avcısı onu ziyarete gelse Arçurayı kurt sanıp öldürür. Saçlarından dolayı Ubırlara ve zombilere karşı normal bir köylüden daha dayanıklıdır.</value>
@@ -3875,14 +3891,14 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapısının önünde cansız bedeni yatıyordu ve kafası gövdesinden kopmuş haldeydi. Ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Arçura 🧔🏻‍♀️ </b> olduğunu hatırladır.</value>
 	</string>
 	<string key="peludokilledxcn">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="susurrador">
 		<value>Fısıltı 🤫</value>
 	</string>
 	<string key="RoleInfosusurrador">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="Aboutsusurrador">
 		<value>Fısıltı 🤫. Köyün dehşeti ve zalimliği yüzünden çeşitli işkencelere maruz kaldı. Hatta aptal zombi enfeksiyonuna bulunması imkansız bir tedavi için onu kobay bile yaptılar! Ancak bilmedikleri şey, zombi ısırıklarından sağ kurtulduğu için evrim geçirmiş olması. Zombiler her ne kadar et ve beyine aç olsalarda ondan çekiniyorlar. Onlar için farklı birisi ve onu Alfaları olarak görüyorlar. Cildindeki çürükler ne kadar ileri düzey olsada bir zombi gibi hareket etmeyecek aksine bütün zombilerin kontrolüne hakim olabilecek. Her gece fısıltıları ile sürüye yeni bir zombi ekleyerek köylülerden intikamını doyasıya alabilecek ve eğer zombilerden önce oy kullanabilirse, zombilerin tüm oyunu yönetebilecek. Fısıltı yeteneği ile bir çok gece oyuncusunu yanıltabilir, hatta kurtları, bazen kelle avcısını ve seri katili bile!</value>
@@ -3891,7 +3907,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺🔱</value>
 	</string>
 	<string key="cnxsus2">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="harlotinsus">
@@ -3899,7 +3915,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="polixsus">
-		<!-- 0 - Polis İsmi -->
+		<!-- 0 - Jandarma  İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="chemxsus2">
@@ -3973,19 +3989,19 @@ Son Günccelleme: 17.12.2022 -->
 	</string>
 
 
-	<!-- @Sxd_ness MARIA EMILIA TARAFINDAN YARATILAN GEVAUDAN CANAVARI ROLÜ -->
+	<!-- @Sxd_ness MARIA EMILIA TARAFINDAN YARATILAN UCUBE KURT ROLÜ -->
 
 	<string key="bestia">
-		<value>Gevaduan Canavarı 🐺🔱</value>
+		<value>Ucube Kurt 🐺🔱</value>
 	</string>
 	<string key="RoleInfobestia">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="aboutbestia">
-		<value>Gevaduan Canavarı 🐺🔱 : Olağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Barak'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığın olacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Sxd_ness) tarafından yaratıldı </value>
+		<value>Ucube Kurt 🐺🔱 : \nOlağanüstü bir güce sahipsin. Köylüler seni ucube olarak gördükleri için dışlıyorlardı ancak kim bilebilirdi ki aynı zamanda bir KURT ADAMSIN!!! Herkes senin gücün karşısında tir tir titriyor, Kelle Avcısı bile! En büyük düşmanın Barak'tan intikam almak için geri geldin. Yediğin oyuncular %100 tanınmaz halde olacak ayrıca bir kez Kelle avcısının avına karşı bağışıklığın olacak ve ertesi gece avlanamaması için onu yaralayarak bırakacaksın.\nRol Maria Emilia (@Sxd_ness) tarafından yaratıldı </value>
 	</string>
 	<string key="gunvisitbest3">
-		<value> Az önce bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. </value>
+		<value> Az önce bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="frozenbestia">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺❄️</value>
@@ -3997,7 +4013,7 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺🔥</value>
 	</string>
 	<string key="wtob2">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺</value>
+		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="cadvisitbest2">
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐕‍🦺</value>
@@ -4033,20 +4049,20 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="bestiadeadvisitoldvamp">
-		<!-- 1 - Yaşlı Vampir İsmi -->
+		<!-- 1 - Kont İsmi -->
 		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="HunterFindbestia2">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="HunterFindbestia4">
-		<!-- 0 - Gecenin Avcısı İsmi -->
+		<!-- 0 - Kelle Avcısı İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="bestvisitwolf2">
 		<!-- 0 - Hedefin İsmi -->
-		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺</value>
+		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
 	</string>
 	<string key="bestvisitind2">
 		<!-- 0 - Hedefin İsmi -->
@@ -4059,19 +4075,19 @@ Son Günccelleme: 17.12.2022 -->
 		<value> İşaretçi 🔀</value>
 	</string>
 	<string key="RoleInfodesviador">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="aboutdesviador">
 		<value> İşaretçi 🔀: \nKöyün kurnazı ve de ölümsüzü.. neredeyse ölümsüz. İşaretçi rolü ziyaretçilerden pek hoşlanmaz bu yüzden gece vakti her birini atlatmak için kendisi için yeni bir metod geliştirdi. İyi veya kötü rol olsun, her kim onu ziyaret ederse, İşaretçi onları raastgele başka bir oyuncuya yönlendirecek. Kurtlar için başka bir atıştırmalık, Gözcü için kime ait olduğunu bilmediği bir görüş, Ubırlar için farklı bir kan torbası, Otacı için zehirlenecek farklı bir hedef, Kelle Avcısı için avlanacak başka bir oyuncu vesaire vesaire... Özet olarak İşaretçi tüm kendsine olan tüm aksiyonları rastgele başka bir oyuncunun üzerine saptıracak ve kimse bunun farkında bile olmayacak. \nRol @lukinoteg tarafından oluşturuldu. </value>
 	</string>
 	
-	<!-- @dantravelsofficial DAN TARAFINDAN YARATILAN INDISCREET ROLÜ -->
+	<!-- @dantravelsofficial DAN TARAFINDAN YARATILAN GÖLGE ROLÜ -->
 
 	<string key="indiscreto">
-		<value> Indiscreet 🕶</value>
+		<value> Gölge 🕶</value>
 	</string>
 	<string key="RoleInfoindiscreto">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nVampirler: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="Aboutindiscreto">
 		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Eğer Kurtlar Gölgeyi keşfederse Gölge Kurt takımının bir parçası olacak. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Istası oldukça güçlü bür rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. Kurtlar tarafından henüz keşfedilmeden ölürse köylü takımından taraf olarak ölür ve öldüğünde herhangi bir kurdu ifşa eder. \nROLÜNÜ GRUPTA AÇIKLAMAMANI TABSİYE EDERİM!!! \nRol @dantravelsofficial tarafından oluşturuldu.</value>
@@ -4098,11 +4114,11 @@ Son Günccelleme: 17.12.2022 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="bestvisitind">
-		<!-- 0 - Gevaduan Canavarı İsmi -->
+		<!-- 0 - Ucube Kurt İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="indvdead">
-		<value> Köylüler Indisecreeti linç ettiğinde o hâlâ safkan şekilde köyden yanaydı. Kurt sürüsünün onu bulamamasının hayal kırıklığı ile ölümüne razı oldu. Ancak Gece yeteneklerinin heba olmaması adına ölmeden önce meydana bir parşömen fırlattı. Üzerinde {0}'in resmi vardı ve belli ki Indiscreet onun gece aksiyonun yakalamıştı. Parşömenin en altında ise koca harflerle {1} yazıyordu.</value>
+		<value> Köylüler Indisecreeti linç ettiğinde o hâlâ safkan şekilde köyden yanaydı. Kurt sürüsünün onu bulamamasının hayal kırıklığı ile ölümüne razı oldu. Ancak Gece yeteneklerinin heba olmaması adına ölmeden önce meydana bir parşömen fırlattı. Üzerinde {0}'in resmi vardı ve belli ki Gölge onun gece aksiyonun yakalamıştı. Parşömenin en altında ise koca harflerle {1} yazıyordu.</value>
 	</string>
 	<string key="indwdead">
 		<value> Köylüler Indisecreeti linç ettiğinde bi farklılık olduğu sezdiler ve haklıydılar da. Indisecreet kurt sürüsü tarafından keşfedilmiş ve saf değiştirmişti. Ölümünde bile Indisecreet yeni kurt müttefiklerine gece yeteneklerinden bir armağan veriyor. Köy meydanına bir parşömen fırlatır ve üzerinde {0}'in resmi vardı. Belli ki Indisecreet onun gece aksiyonun yakalamıştı ve parşömenin en altında ise koca harflerle {1} yazıyordu. </value>
@@ -4114,5 +4130,80 @@ Son Günccelleme: 17.12.2022 -->
 	<string key="impoind">
 		<!-- 0 - Taklitçi İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
+	</string>
+	
+	<!-- @Barbolwey ROB TARAFINDAN YARATILAN HİBRİT ROLÜ -->
+
+	<string key="pelao">
+		<value> Hibrit 👨‍🦲</value>
+	</string>
+	<string key="RoleInfopelao">
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+	</string>
+	<string key="aboutpelao">
+		<value> Hibrit 👨‍🦲: \nHibrit köye ait bir roldür. Ancak kendi bilincinin farkında değildir. Vücudundaki bozuk genetik hem kendi benliğini yitirmesine hem de saçlarının dökülmesine sebep olmuştur. Bu yüzden o parlak kafasını tüm köy halkından saklamaya çalışır ama gelen saldırıları anlayamaz. Oyun başında kendisini köylü sanar ve Ubır/Zombi saldırılarında doğrudan dönüşüm gerçekleştirir. Kurt sürüsünde alfa Kurt yoksa bu kesin dönüşüm Kurt Adamlar için de geçerlidir, tıpkı lanetli gibi dönüşüm geçirir. Alfa Kurt var ise dönüşüm Alfanın yüzdesinebağlıdır. \nRol @Barbolwey tarafından oluşturuldu. \n\nTakım: Köy \n\nDönüşümler: Gelen saldırılara karşı (Ubır/Zombi) doğrudan dönüşür. Alfa kurt hariç...</value>
+	</string>
+	<string key = "pelaoBittenWolves">
+		<!-- 0 - Hedefin İsmi -->
+		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+	</string>
+	<string key = "pelaoTurned">
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. </value>
+	</string>
+	
+	<!-- @Barbolwey ROB TARAFINDAN YARATILAN BETA KURT ROLÜ -->
+
+	<string key="beta">
+		<value>Beta Kurt 🐺🅱️</value>
+	</string>
+	<string key="RoleInfobeta">
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+	</string>
+	<string key="aboutbeta">
+		<value> Beta Kurt 🐺🅱️: \nBeta Kurt Alfa Kurttan sonra sürü için en değerli kişidir. Eğer ki Alfa Kurt herhangi bir şekilde öldürülürse, Beta Kurt yeni Alfa olacak ve enfeksiyon oranı aynı olacak. Alfa Kurt ölmeden Beta Kurt sıradan bir Kurt Adamdan farksızdır. \nRol @Barbolwey tarafından yaratıldı.</value>
+	</string>
+	<string key="newalfa">
+		<!-- 0 - Beta Kurt İsmi -->
+		<!-- Alfa Kurt öldükten sonra Beta Kurdun yeni Alfa olduğunu duyurmak için kullanılır -->
+		<value>Aniden içinizden birinin rolü değişti. Şimdi {0}, yeni rolunu hatırlamak ve keşfetmek zorunda.</value>
+	</string>
+	
+	<!-- @dantravelsofficial DAN TARAFINDAN YARATILAN SİGMA KURT ROLÜ -->
+
+	<string key="greywolf">
+		<value> Sigma Kurt 🐕</value>
+	</string>
+	<string key="RoleInfogreywolf">
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+	</string>
+	<string key="aboutgreywolf">
+		<value> Sigma Kurt 🐕: \nSiga Kurt sürüdeki doğa üstü güçlere sahip olan inanılmaz bir kurttur. Alfa ve Beta bile karşısında boyun eğebilir çünkü Sigma Kurt ziyaretçilerini kendi tuzağına düşürerek onları sürünün bir parçası haline getirebilir! Genellikle ziyaretçilerinekarşı zararsız görünür ancak 50% şans ile ya ölecek, yada sürünün birparçası olmak zorunda kalacaklar. Kelle Avcısı Sigma Kurdu avlarsa ya o ölecek yada Sigma Kurt. Ancak Seri Katil içintek farklı olan nokta, Sigma Kurt onu öldürmek yerine sürünün bir parçası haline getirecektir. Gözcü Sigma Kurdu Barak olarak algılayacaktır. \nRol @dantravelsofficial tarafından yaratıldı.</value>
+	</string>
+	<string key="visitgwolf">
+		<!-- 0 - Ziyaretçi İsmi -->
+		<!-- Sigma Kurdu ziyaret eden kişi kurda dönüştüğü zaman kullanılır -->
+		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
+	</string>
+	<string key="visitgwolf2">
+		<!-- 0 - Hedef İsmi -->
+		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
+	</string>
+	<string key="deadxvisitgwolf">
+		<!-- 0 - Ziyaretçi İsmi -->
+		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
+	</string>
+	<string key="deadxvisitgwolf2">
+		<!-- 0 - Hedef İsmi -->
+		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+	</string>
+	<string key="deadxvisitgwolf3">
+		<!-- 1 - Sigma Kurt İsmi -->
+		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+	</string>
+	<string key="deadxvisitgw">
+		<!-- 0 - Kurbanın İsmi -->
+		<value> Dün gece {0} yanlış kişiyi ziyaret etti. Sigma Kurt ziyaretçesini öldürmeyü tercih etti ve artık {0} ölü.</value>
+		<value> {0} koruyucu köpeği Barak'ın yanında güvende olduğunu sanıyordu ancak ziyaret ettiği kişi Barak değil Sigma Kurduydu. {0} öldü.</value>
+		<value> {0} dün gece Sigma Kurdun adresini ziyaret ederek büyük birtehlikeye atıldı ve hedefi tarafından avlandı. {0} öldü.</value>
 	</string>
 </strings>
