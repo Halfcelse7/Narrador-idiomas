@@ -690,7 +690,7 @@ Son Günccelleme: 30.12.2022 -->
 		</value>
 	</string>
 	<string key = "rules">
-		<value> Yeni başlayanlar için kılavuz: \n https://narradorbot.com/guia-para-novatos/ \n\nGenel bot kuralları (dereceler için uyulması zorunludur): \n https://narradorbot.com/reglas-rankeds \n\nDereceli olarak oynayabilmek için bir grubun uyması gereken kurallar ve koşullar: \n https://narradorbot.com/narrador/grouplist </value>
+		<value> Yeni başlayanlar için kılavuz: \n https://narradorbot.com/guia-para-novatos/ \n\nGenel bot kuralları (dereceler için uyulması zorunludur): \n https://narradorbot.com/reglas-rankeds \n\nDereceli olarak oynayabilmek için bir grubun uyması gereken kurallar ve koşullar: \n https://narradorbot.com/narrador/grouplist \n\nHerhangi bir soru, öneri, çeviri hatası veya hata bildirmek için @Halfcelse ile iletişime geçin.</value>
 	</string>
 	<string key = "groupinfo">
 		<value> Lütfen komuttan sonra grup kimliğini kullanarak tekrar deneyin. </value>
@@ -1467,6 +1467,9 @@ Son Günccelleme: 30.12.2022 -->
 	<string key = "linchado">
 		<value> Bu oyunu kazanmayı düşünmüş olabilirsin ama acımasızca linç edildin... Üzüldüm dostum :( </value>
 		<value> ZZOOOOOORRRRRTTTTTT Çok yazık. Köy seni linç etti. Geberdin!  </value>
+	</string>
+	<string key = "EndTime">
+		<value>Oyun Süresi: {0}</value>
 	</string>
 	
 	<!-- KLASİK WEREWOLF ROLLERİ İÇİN METİNLER -->
@@ -3550,13 +3553,13 @@ Son Günccelleme: 30.12.2022 -->
 	<string key = "vampConvertYou">
 		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın.</value>
 	</string>
-	<string key = "vampirTeam">
+	<string key="vampirTeam">
 		<!-- 0 - Ubır sayısı -->
 		<value>\n\nİsimler: {0} </value>
 	</string>
-	<string key = "vampirTeam2">
+	<string key="vampirTeam2">
 		<!-- 0 - Ubır sayısı -->
-		<value>\n\nİsimler: {0} </value>
+		<value>\n\nİsimler: </value>
 	</string>
 	<string key = "vampJoin">
 		<!-- 0 - Yeni Ubırın İsmi -->
@@ -3632,9 +3635,9 @@ Son Günccelleme: 30.12.2022 -->
 		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapının kırıldığını ve evin duvarlarında uzun ve derin çizgiler buldular. {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Ubır 🧛 </b> olduğunu hatırladır.</value>
 	</string>
 	<string key = "vampConvertcn">
-		<!-- 1 - Hedefin İsmi -->
-		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
-		<value> Dün gece {1}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+		<!-- 0 - Ubır İsmi -->
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular. Cansız bedeni yatıyordu ve kafası gövdesinden kopmuş haldeydi. Ancak kimse buna neyin sebep olduğunu anlamadı.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular. Cansız bedeni yatıyordu ve kafası gövdesinden kopmuş haldeydi. Ancak kimse buna neyin sebep olduğunu anlamadı.</value>
 	</string>
 	<string key = "vampirkillz">
 		<!-- 0 - Hedefin İsmi -->
@@ -4165,7 +4168,7 @@ Son Günccelleme: 30.12.2022 -->
 	<string key="newalfa">
 		<!-- 0 - Beta Kurt İsmi -->
 		<!-- Alfa Kurt öldükten sonra Beta Kurdun yeni Alfa olduğunu duyurmak için kullanılır -->
-		<value>Aniden içinizden birinin rolü değişti. Şimdi {0}, yeni rolunu hatırlamak ve keşfetmek zorunda.</value>
+		<value>Aniden içinizden birinin rolü değişti. Şimdi {0}, yeni rolünü hatırlamak ve keşfetmek zorunda.</value>
 	</string>
 	
 	<!-- @dantravelsofficial DAN TARAFINDAN YARATILAN SİGMA KURT ROLÜ -->
