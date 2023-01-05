@@ -592,10 +592,10 @@ Son Günccelleme: 30.12.2022 -->
 	<string key = "RandomLowCultable">
 		<value> Tarikat dönüşümü az olan Rastgele Roller ❇️ </value>
 	</string>
-	<string key = "HelpCustom">
+	<string key="HelpCustom">
 		<value> Özel bir oyun nasıl oluşturulur: \n\nÖzel bir oyun başlatmak için /startcustom komutunu ve ardından kullanılacak rollerin listesini koymalısın. Bu liste, görünmesini istediğin rollerin virgülle ayrılmış ve boşluksuz emojilerinden oluşur. Daha az oyuncu katılırsa listede yer alanların soldan başlayarak rol dağıtılacatır. Bu yüzden en azından ilk 4 role kötü bir adam koymalısın. Birçok oyuncu katılır katılmaz oyun otomatik olarak başlar. Hangi emojileri kullanabileceğini görmek için /emojisCustom.\n komutunu kullan</value>
 	</string>
-	<string key = "EmojisCustom">
+	<string key="EmojisCustom">
 		<value> Belirli roller: Rol emojilerini, /rolelist ile görebilirsiniz \n❓ - Rastgele rol \n✅ - Rastgele köy rolü (hain , lanetli, yabani çocuk yok) \n❎ - Rastgele köy rolü (hain , lanetli, yabani çocuk var) \n⚠️ - Rastgele Kurt, SK veya Kuklacı \n⚠️👤 - Rastgele Kurt, SK, Kuklacı veya Ubır \n🆘 - Rastgele Kurt \n🚫 - Rastgele Kurt Takımı \n✳️ - Survivor, Çiftgiden , Reenkarnist veya İblis \n120 - Eros, yabani çocuk, çiftgiden, reenkarnist veya taklitçi \n🔪🔥 - SK veya kuklacı </value>
 	</string>
 	<string key = "NotEnoughMembersRanked">
@@ -2270,7 +2270,7 @@ Son Günccelleme: 30.12.2022 -->
 		<!-- 0 - Ölünün İsmi -->
 		<!-- 1 - Sevgilinin İsmi -->
 		<!-- 2 - Roller -->
-		<value> Sevdiği kişi {0} 'nin son nefesiyle {1} yere yığılır ve ağlamaya başlar. Sevdiğinin kaybıyla yaşayamaz ve bulduğu ilk tabancayla kendini vurur. {1} {2} idi </value>
+		<value> Sevdiği kişi {0} 'nin son nefesiyle {1} yere yığılır ve ağlamaya başlar. Sevdiğinin kaybıyla yaşayamaz ve bulduğu ilk tabancayla kendini vurur. {2}</value>
 	</string>
 	<string key = "CupidKilled">
 		<!-- 0 - Kurban İsmi -->
