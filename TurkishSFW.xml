@@ -616,7 +616,7 @@
   <string key = "DefaultKilled">
     <!-- 0 - hedefin adı -->
     <!-- 1 - hedefin rolü -->
-    <value> {0} için yeteri kadar sessiz bir gece görünüyordu, ama yanıldılar. Köylüler sabah toplandılar ve onu parçalara ayrılmış halde buldular. Karaciğeri ve böbreği eksikti ... Seri katil iş başında! {0} {1} idi. </value>
+    <value> {0} için yeteri kadar sessiz bir gece görünüyordu, ama yanıldılar. Köylüler sabah toplandılar ve onu parçalara ayrılmış halde buldular. Karaciğeri ve böbreği eksikti ... Seri katil iş başında! {1}. </value>
   </string>
   <string key = "GuardBlockedKiller">
     <!-- 0 - hedefin adı -->
@@ -680,7 +680,7 @@
     <!-- 0 - ölünün adı -->
     <!-- 1 - sevgilinin adı -->
     <!-- 2 - roller -->
-    <value> Sevdiği kişi {0} 'nin son nefesiyle {1} yere yığılır ve ağlamaya başlar. Sevdiğinin kaybıyla yaşayamaz ve bulduğu ilk tabancayla kendini vurur. {1} {2} idi </value>
+    <value> Sevdiği kişi {0} 'nin son nefesiyle {1} yere yığılır ve ağlamaya başlar. Sevdiğinin kaybıyla yaşayamaz ve bulduğu ilk tabancayla kendini vurur. {2}</value>
   </string>
   <string key = "AskDoppelganger">
     <value> Ölürse kimin rolüne sahip olmak istersin? </value>
@@ -1927,7 +1927,7 @@
     <value> Tarikat dönüşümü az olan Rastgele Roller ❇️ </value>
   </string>
 
-  <string key = "HelpCustom">
+  <string key="HelpCustom">
     <value> Özel bir oyun nasıl oluşturulur: \n\nÖzel bir oyun başlatmak için /startcustom komutunu ve ardından kullanılacak rollerin listesini koymalısın. Bu liste, görünmesini istediğin rollerin virgülle ayrılmış ve boşluksuz emojilerinden oluşur. Daha az oyuncu katılırsa listede yer alanların soldan başlayarak rol dağıtılacatır. Bu yüzden en azından ilk 4 role kötü bir adam koymalısın. Birçok oyuncu katılır katılmaz oyun otomatik olarak başlar. Hangi emojileri kullanabileceğini görmek için /emojisCustom.\n komutunu kullan</value>
   </string>
 
@@ -2395,7 +2395,7 @@
   </string>
   <!-- {0}: ölen kişi, {1}: "(kişi) (rol)" -->
   <string key = "DefaultFellPublic">
-    <value> Mezarlığındaki mezarlarından biri dün gece çok fazla insan içeriyordu ... Görünüşe göre {0} mezar kazıcısını ziyaret etmeye çalıştı, bir mezara düştü ve öldü! {0} {1} idi </value>
+    <value> Mezarlığındaki mezarlarından biri dün gece çok fazla insan içeriyordu ... Görünüşe göre {0} mezar kazıcısını ziyaret etmeye çalıştı, bir mezara düştü ve öldü! {1}</value>
   </string>
   <!-- {0}: yancı -->
   <string key = "HarlotFellPublic">
@@ -2407,7 +2407,7 @@
   </string>
   <!-- {0}: ölen kurt, {1}: "(kişi) (rol)" ne tür bir kurt olduğunu belirtmek için -->
   <string key = "WolfFellPublic">
-    <value> Sürü avlanmaya çıktığında, {0} potansiyel bir avın kokusunu alır ve ayak bileğine takılan ayı tuzağını fark etmez! Şaşıran {0}, gümüş bir mızrağın ucunun başıyla buluştuğu mezara düştü. Neyse ki mezarcı mezarlarını güvende tutar! {0} {1} idi </value>
+    <value> Sürü avlanmaya çıktığında, {0} potansiyel bir avın kokusunu alır ve ayak bileğine takılan ayı tuzağını fark etmez! Şaşıran {0}, gümüş bir mızrağın ucunun başıyla buluştuğu mezara düştü. Neyse ki mezarcı mezarlarını güvende tutar! {1}</value>
   </string>
   <string key = "SerialKillerSpottedYou" isgif = "true">
     <value> Sadece işini yapmaya çalışıyorsun, aniden çılgın bir seri katil seni bulup bıçaklar! Çok kötü :( ... </value>
@@ -2589,7 +2589,7 @@
     <value> Reenkarnist, {0}, yeni beyaz kurt oldu! </value>
   </string>
 
-  <string key = "EmojisCustom">
+  <string key="EmojisCustom">
     <value> Belirli roller: Rol emojilerini, /rolelist ile görebilirsiniz \n❓ - Rastgele rol \n✅ - Rastgele köy rolü (hain , lanetli, yabani çocuk yok) \n❎ - Rastgele köy rolü (hain , lanetli, yabani çocuk var) \n⚠️ - Rastgele Kurt, SK veya Kuklacı \n⚠️👤 - Rastgele Kurt, SK, Kuklacı veya Ubır \n🆘 - Rastgele Kurt \n🚫 - Rastgele Kurt Takımı \n✳️ - Survivor, Çiftgiden , Reenkarnist veya İblis \n120 - Eros, yabani çocuk, çiftgiden, reenkarnist veya taklitçi \n🔪🔥 - SK veya kuklacı </value>
   </string>
 
@@ -2881,7 +2881,7 @@
   <string key = "DefaultKillv">
     <!-- 0 - hedefin adı -->
     <!-- 1 - hedefin rolü -->
-    <value> Geceleri {0}'in çığlık attığı duyuldu, ama köylüler bu durumu umursamadılar. Köylüler sabah buluştu ve onu, bir damla kanı kalmamış halde yerde buldular. Merakla baktılar, boynunda iki kırmızı nokta izi vardı ... VAMPİRLER! {0} {1} idi. </value>
+    <value> Geceleri {0}'in çığlık attığı duyuldu, ama köylüler bu durumu umursamadılar. Köylüler sabah buluştu ve onu, bir damla kanı kalmamış halde yerde buldular. Merakla baktılar, boynunda iki kırmızı nokta izi vardı ... VAMPİRLER! {1}.</value>
   </string>
   <string key = "cazadornocheKillv">
     <value> Ubırlar ne kadar şanslıydılar, {0} tarafından oyuna gelmediler ve onun kaçışı yoktu, köy ulu liderini kaybetti. </value>
@@ -2899,7 +2899,7 @@
     <value> Ubırlar kümeleniyor, {0} hayatının onlar tarafından sonlandırılacağını göremedi, bu kurtlar için büyük bir kayıp. </value>
   </string>
   <string key = "vKillw">
-    <value> Bu gece kasabada bazı tuhaf sesler ve kargaşa vardı, Ubırlar avlanıyorlardı ancak hedefleri köylüler değildi. Kurtlar sürüsünden bir üye eksildi. {0} {1} idi. </value>
+    <value> Bu gece kasabada bazı tuhaf sesler ve kargaşa vardı, Ubırlar avlanıyorlardı ancak hedefleri köylüler değildi. Kurtlar sürüsünden bir üye eksildi. {1}. </value>
   </string>
   <string key = "HunterFindvampir">
     <!-- 0 - hedef adı -->
@@ -2908,7 +2908,7 @@
   <string key = "NHunterKilledw">
     <!-- 0 - hedefin adı -->
     <!-- 1 - hedefin rolü -->
-    <value> Geceleri ne tuhaf çığlıklar duyulabiliyordu, sanki bir köpeğe işkence ediliyordu. Komşular nereden geldiğini görmek istediğinde, {0}'in derisi yüzülmüş ve Avcı'nın evinin girişinde bacaklarından asılı halde buldular. {0} {1} idi. </value>
+    <value> Geceleri ne tuhaf çığlıklar duyulabiliyordu, sanki bir köpeğe işkence ediliyordu. Komşular nereden geldiğini görmek istediğinde, {0}'in derisi yüzülmüş ve Avcı'nın evinin girişinde bacaklarından asılı halde buldular. {1}. </value>
   </string>
   <string key = "vampirEaten">
     <value> Köy, {0}'in ortalıkta olmadığını fark etmeye başlar, nerede olup olmadığını kontrol etmesi için birini gönderirler. Evde bulunanlar pek umut verici değil. {0} sakatlandı ve tesadüfen kalbinden yoksun kaldı. Cansız bedeninde ısırık izleri vardı, görünüşe göre kurtlar ve Ubırlarla savaşıyoruz. </value>
@@ -3080,6 +3080,9 @@
   <string key = "encanteddone">
     <value> {0} büyülendi. </value>
   </string>
+	<string key="encanteddone2?">
+		<value>{0} büyülendi.</value>
+	</string>
   <string key = "flencantedyou">
     <value> Geceleri bir melodi işitiyorsun, sana şey gibi geliyor, sanki daha önce duymuşsun gibi ama nereden olduğunu hatırlayamıyorsun. </value>
   </string>
@@ -3736,10 +3739,10 @@
     <value> {0}'in gece eylemi yok. Uyuyor gibi, gidiyorsun ama tatmin olmadın. </value>
   </string>
   <string key = "controleddead">
-    <value> {0} banyo yaparken ayağı sabun yüzünden kayarak düştü ve oracıkta can verdi. {0} {1} idi. </value>
-    <value> {0} intihar etti, vücudu oturma odasındaki lambadan sarkarken bulundu, tuhaf olan ise akşam yemeğini servis edilmiş ve yemeye hazır hale getirmiş olması. {0} {1} idi. </value>
-    <value> {0} intihar etti, cesedi caddeye dağılmış halde bulundu, dokuzuncu katının penceresinden atladığı söyleniyor. {0} {1} idi. </value>
-    <value> {0} intihar etti, tren raylarının üzerine kafasını koydu ve öldü. {0} {1} idi. </value>
+    <value> {0} banyo yaparken ayağı sabun yüzünden kayarak düştü ve oracıkta can verdi. {1}. </value>
+    <value> {0} intihar etti, vücudu oturma odasındaki lambadan sarkarken bulundu, tuhaf olan ise akşam yemeğini servis edilmiş ve yemeye hazır hale getirmiş olması. {1}. </value>
+    <value> {0} intihar etti, cesedi caddeye dağılmış halde bulundu, dokuzuncu katının penceresinden atladığı söyleniyor. {1}. </value>
+    <value> {0} intihar etti, tren raylarının üzerine kafasını koydu ve öldü. {1}. </value>
   </string>
   <string key = "nocontrolcn">
     <value> {0} Kelle Avcısı, maalesef onu şimdilik kontrol edemezsin, onun hâlâ çok güçlü bir iradesi var. </value>
