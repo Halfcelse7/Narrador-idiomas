@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Alzheimer mod by İsmet (@Halfcelse)
-Son Günccelleme: 30.12.2022 -->
+Son Günccelleme: 06.01.2023 -->
 <strings>
 	<language name="Türkçe (Alzheimer mod)" base="Türkçe" variant="Alzheimer mod" code="TR" isDefault="False" owner="@Halfcelse"/>
 	<string key="NotInGame">
@@ -1405,23 +1405,23 @@ Son Günccelleme: 30.12.2022 -->
 		<value> Gündüz vakti bütün Alzheimer köylüler meydanda buluştu ancak dünden bu yana farklı bir şey yoktu. Gece vakti hiçbir saldırı olmamıştı. Belli ki gecenin yaratıkları görevlerini unutmuşlardı yada bir şekilde emgellenmişlerdi. Kim bilir...</value>
 	</string>
 	<string key = "WolvesEatYou">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+		<value> HOLLY DAMNN! Kurt adamlar seni yedi! NOMNOMNOMNOM </value>
 	</string>
 	<string key = "SKStabbedYou">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+		<value> Gece vakti seni omzundan bir kadının çektiğini fark ettin. Adamım boşa ümitlenme yancı değil o... En azından ateşli bir seri katil tarafından katledildin. </value>
 	</string>
 	<string key = "PyroBurnedYou">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+		<value> YANGINNN! Alevler içinde uyanıyorsun ama artık çok geç. Öldün. </value>
 	</string>
 	<string key = "vampirbiteyou">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+		<value> OLAMAZZZZ !! Kim Ubırların kanını çok sevdiğini söyledi? Seni kuru ve cansız (ölü!) bıraktılar. </value>
 	</string>
 	<string key="titikill">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+		<value>ÖLDÜN!! Kukla Ustası, kukla yapmak için vücudunun bazı kısımlarını kullanmaya karar verdi.</value>
+		<value>SENİ ÖLDÜRDÜLER!! Belki bir oyuncak bebek olarak daha değerlisin. Kukla Ustası seni nasıl kullanacağını iyi biliyor.</value>
 	</string>
 	<string key="bestkill">
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+		<value>Bir şeyin seni takip ettiğini fark ettin ve onun bir kurt olduğunu düşünürsün. Ama hayır, büyük bir ucubemsi bir yaratık üstüne atlar ve seni iz bırakmadan yiyip bitirir. </value>
 	</string>
 	<string key = "Day">
 		<!-- 0 - Gün -->
@@ -2022,7 +2022,7 @@ Son Günccelleme: 30.12.2022 -->
 		<!-- 0 - Silahşör İsmi -->
 		<!-- 1 - Kurban İsmi -->
 		<!-- 2 - Kurban Rolü -->
-		<value> Köy meydanında aniden bir patlama sesi duyuldu. Silah sesiydi. {0} elinde bir tabancayla öylece duruyordu. Önünde ise {1}'in cansız bedei vardı. Anılarını geri kazanan Silahşör kaldığı yerden intikamlarına devam edecek! [{0} <b> Silahşör 🔫 </b> ve katlettiği Alzheimer ise {1} {2}]</value>
+		<value> Köy meydanında aniden bir patlama sesi duyuldu. Silah sesiydi. {0} elinde bir tabancayla öylece duruyordu. Önünde ise {1}'in cansız bedei vardı. Anılarını geri kazanan Silahşör kaldığı yerden intikamlarına devam edecek! [{0} <b> Silahşör 🔫 </b> ve katlettiği Alzheimer ise {2}]</value>
 	</string>
 	<string key = "HarlotShot">
 		<!-- 0 - Silahşör İsmi -->
@@ -2032,7 +2032,7 @@ Son Günccelleme: 30.12.2022 -->
 	<string key="GunnerShotWiseElder">
 		<!-- 0 - Silahşör İsmi -->
 		<!-- 1 - Yaşlı Bilge İsmi -->
-		<value>Silahşör {0}, Yaşlı Bilge {1}'i vurdu. {0} büyük bir üzüntüyle ağlıyor. Büyük hatasından pişmanlık duyuyor ve geri çekilmeye karar veriyor, bu da onu sürmek için çok fazla toprağı olan basit bir köylü yapıyor.</value>
+		<value>Silahşör {0}, Yaşlı Bilge {1}'i vurdu. {0} büyük bir üzüntüyle ağlıyor. Büyük hatasından pişmanlık duyuyor ve geri çekilmeye karar veriyor, bu da onu sürmek için çok fazla toprağı olan basit bir köylü yapıyor. [{0} <b> Silahşör 🔫 </b> ve katlettiği Alzheimer ise {1} <b> Yaşlı Bilge 📚 </b>]</value>
 	</string>
 	<string key = "unabalamas">
 		<value> Muhtar, iyi hizmetlerinin karşılığında demircinin sana bir mermi daha yapması gerektiğine karar verdi. </value>
@@ -2045,12 +2045,12 @@ Son Günccelleme: 30.12.2022 -->
 	</string>
 	<string key = "GunnerShotz">
 		<!-- 0 - Silahşör İsmi -->
-		<!-- 1 - Yaşlı Bilge İsmi -->
-		<value> {0}, {1} 'e ateş ediyor, ama {1} ölmüyor ve homurdanarak kalkıyor, bir zombiyi iyi niyetli bir atışla öldürmek için {0} başka bir mermisinin daha olduğunun farkına varıyor. </value>
+		<!-- 1 - Zombi İsmi -->
+		<value> {0}, {1} 'e ateş ediyor, ama {1} ölmüyor ve homurdanarak kalkıyor, bir zombiyi iyi niyetli bir atışla öldürmek için {0} başka bir mermisinin daha olduğunun farkına varıyor. [{0} <b> Silahşör 🔫 </b> ve katlettiği Alzheimer ise {1} <b> Zombi 🧟 </b>]</value>
 	</string>
 	<string key = "GunnerfailShotz">
 		<!-- 0 - Silahşör İsmi -->
-		<!-- 1 - Yaşlı Bilge İsmi -->
+		<!-- 1 - Zombi İsmi -->
 		<value> {0}, son mermisini {1} 'e ateşlemek için kullanıyor ama bu onu öldürmüyor... O bir zombi, kendi hayatını kurtarmak için silahşörün kaçmaktan başka seçeneği kalmadı. </value >
 	</string>
 	<string key = "justialiveofz">
@@ -2058,8 +2058,8 @@ Son Günccelleme: 30.12.2022 -->
 	</string>
 	<string key = "GunnerShotbestia">
 		<!-- 0 - Silahşör İsmi -->
-		<!-- 1 - Yaşlı Bilge İsmi -->
-		<value>{0}, {1}'e ateş eder ama ölmez, o Ucube Kurt! {0}, {1}'i öldürmek için bir kurşun daha harcaması gerektiğini fark eder. </value>
+		<!-- 1 - Ucube Kurt İsmi -->
+		<value>{0}, {1}'e ateş eder ama ölmez, o Ucube Kurt! {0}, {1}'i öldürmek için bir kurşun daha harcaması gerektiğini fark eder. [{0} <b> Silahşör 🔫 </b> ve katlettiği Alzheimer ise {1} <b> Ucube Kurt 🐺🔱 </b>]</value>
 	</string>
 	<string key="gunvisitbest">
 		<value>Yanlış kişiyi ziyaret ettin, Ucube Kurt ile karşılaştın. Son kurşununu harcadın ama o kurtulmayı başardı. Keşke daha fazla cephanen olsaydı.</value>
@@ -3008,8 +3008,8 @@ Son Günccelleme: 30.12.2022 -->
 	</string>
 	<string key = "PlayerDevouredWolves">
 		<!-- 0 - Hedefin İsmi -->
-		<!-- 1 - Hedefin Rolü -->
-		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {1}</value>
+		<!-- 2 - Hedefin Rolü -->
+		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {2}</value>
 	</string>
 	<string key = "Imposter">
 		<value> Taklitçi ❌ </value>
@@ -3054,7 +3054,7 @@ Son Günccelleme: 30.12.2022 -->
 		<value> Şifacı 🌟: \nMistik güçlere sahip eşsiz bir köy rolüdür. 2. Geceden itibaren köyden ölen herhangi bir rolü hayata geri dödürebilir. Gecenin yaratıklarından veya solo rollerden herhangi birini diriltemezsin. Tanınmaz haldeki bir oyuncuyu diriltemezsen bil ki o kötü roldür.</value>
 	</string>
 	<string key = "PlayerRevived">
-		<!-- Hayata Döndürülen Oyuncu -->
+		<!-- 0 - Hayata Döndürülen Oyuncu -->
 		<value> Bu gece inanılmaz bir olay meydana geldi. Köylüler toplandığında, şifacı tarafından hayata döndürülen {0}'in mezarından çıktığını görüyorlar. </value>
 	</string>
 	<string key = "Herbalist">
@@ -3171,13 +3171,13 @@ Son Günccelleme: 30.12.2022 -->
 		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🐺🔱</value>
 	</string>
 	<string key = "SpeedWolf">
-		<value> Hızlı Kurt 🐺🥷 </value>
+		<value> Hızlı Kurt 🐺💨 </value>
 	</string>
 	<string key="RoleInfoSpeedWolf">
 		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "AboutSpeedWolf">
-		<value> Hızlı Kurt 🐺🥷: \nSürünün en hızlısıdır ve o gün linç edilmekten kaçmak için bir kez kaçabilir. Ancak böyle yaparak herkes hızlı kurt olduğunu bilecek ve ertesi gün linç edecekler. Doğru anı bekle! </value>
+		<value> Hızlı Kurt 🐺💨: \nSürünün en hızlısıdır ve o gün linç edilmekten kaçmak için bir kez kaçabilir. Ancak böyle yaparak herkes hızlı kurt olduğunu bilecek ve ertesi gün linç edecekler. Doğru anı bekle! </value>
 	</string>
 	<string key = "SpeedWolfRunning">
 		<!-- 0 - Hızlı Kurt İsmi -->
