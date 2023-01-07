@@ -3830,10 +3830,10 @@
 		<value>la Bestia de Gévaudan 🐺🔱</value>
 	</string>
 	<string key="RoleInfobestia">
-		<value>Eres la Bestia de Gévaudan 🐺🔱 : Una devoradora por excelencia, los habitantes de la aldea aún no saben si eres una mujer lobo o una perra-lobo enorme, todos tiemblan ante lo fuerte que eres. Volviste para cobrar venganza de tu mayor némesis: El Cadejo. Tus comidas serán 100% devorado, además serás inmune a una caza del cazador de la noche una vez, dejándolo herido para que no pueda cazar la siguiente noche.\nRol creado por Maria Emilia (@Emily212001) \n\nTeam: Lobos \n\nConversiones: \n Vampiros: \n-Si visitas: Lo devoras, excepto vampiro anciano.\n-Si te visitan: Lo espantas, excepto vampiro anciano. \n Zombis: \n-Si visitas: No lo matas.\n-Si te visitan: Mueren. </value>
+		<value>Eres la Bestia de Gévaudan 🐺🔱 : Una devoradora por excelencia, los habitantes de la aldea aún no saben si eres una mujer lobo o una perra-lobo enorme, todos tiemblan ante lo fuerte que eres. Volviste para cobrar venganza de tu mayor némesis: El Cadejo. Tus comidas serán 100% devorado, además serás inmune a una caza del cazador de la noche una vez, dejándolo herido para que no pueda cazar la siguiente noche.\nRol creado por Maria Emilia (@Sxd_ness) \n\nTeam: Lobos \n\nConversiones: \n Vampiros: \n-Si visitas: Lo devoras, excepto vampiro anciano.\n-Si te visitan: Lo espantas, excepto vampiro anciano. \n Zombis: \n-Si visitas: No lo matas.\n-Si te visitan: Mueren. </value>
 	</string>
 	<string key="aboutbestia">
-		<value>La Bestia de Gévaudan 🐺🔱 : Una devoradora por excelencia, los habitantes de la aldea aún no saben si eres una mujer lobo o una perra-lobo enorme, todos tiemblan ante lo fuerte que eres. Volviste para cobrar venganza de tu mayor némesis: El Cadejo. Tus comidas serán 100% devorado, además serás inmune a una caza del cazador de la noche una vez, dejándolo herido para que no pueda cazar la siguiente noche.\nRol creado por Maria Emilia (@Emily212001) \n\nTeam: Lobos \n\nConversiones: \n Vampiros: \n-Si visitas: Lo devoras, excepto vampiro anciano.\n-Si te visitan: Lo espantas, excepto vampiro anciano. \n Zombis: \n-Si visitas: No lo matas.\n-Si te visitan: Mueren. </value>
+		<value>La Bestia de Gévaudan 🐺🔱 : Una devoradora por excelencia, los habitantes de la aldea aún no saben si eres una mujer lobo o una perra-lobo enorme, todos tiemblan ante lo fuerte que eres. Volviste para cobrar venganza de tu mayor némesis: El Cadejo. Tus comidas serán 100% devorado, además serás inmune a una caza del cazador de la noche una vez, dejándolo herido para que no pueda cazar la siguiente noche.\nRol creado por Maria Emilia (@Sxd_ness) \n\nTeam: Lobos \n\nConversiones: \n Vampiros: \n-Si visitas: Lo devoras, excepto vampiro anciano.\n-Si te visitan: Lo espantas, excepto vampiro anciano. \n Zombis: \n-Si visitas: No lo matas.\n-Si te visitan: Mueren. </value>
 	</string>
 	<string key = "GunnerShotbestia">
 		<value>{0} dispara a {1}, pero no muere, ¡es la Bestia de Gévaudan!, {0} al darse cuenta debe gastar otra bala para matar a {1}. </value>
@@ -4440,5 +4440,11 @@
 
 	<string key="groupnorank2">
 		<value>Solo los grupos aprobados para aparecer en grouplist tienen permitido jugar rankeds, puedes solicitar el ingreso en grouplist en el grupo de soporte https://t.me/+15_YMW-D1iQ1YmUx </value>
+	</string>
+	<string key="linkposgame">
+	<value>Recuerden que ahora hay un grupo para discutir las partidas cuando estas finalizan, podrán solicitar unirse en el siguiente link:\n\n https://t.me/+hHR-4ptcpIRiNDJk \n\nDe no seguir las indicaciones pueden ser muteados, este grupo pospartida se creó para poder discutir las jugadas y estrategias de la partida siempre respetando al resto de sus jugadores para no fomentar discusiones largas pospartida en este grupo.</value>
+    </string>
+    <string key="noextneg">
+	<value>El extend solo puede utilizarse para añadir tiempo, no para restarlo.</value>
 	</string>
   </strings>
