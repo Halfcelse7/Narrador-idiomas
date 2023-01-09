@@ -818,6 +818,9 @@ Son Günccelleme: 06.01.2023 -->
 	<string key="donation">
 		<value>---PAYPAL---\n Diğer aktarım türleri ile karıştırılmaması için "ANLATICI İÇİN BAĞIŞ" aktarım notunda ve kullanıcı adını belirtin. Bağış olarak görünüyorsa alıcı koruma kutusunun işaretini kaldırın. \n\n---CRIPTOCURRENCIES---\n Kripto para bağışlamak istiyorsanız, bunu Coinbase aracılığıyla kullanıcının e-posta adresine gönderebilirsiniz: tmogeid@gmail.com \n\n---TRANSFERENCES---\n Ayrıca banka uygulamanızdan, bizim veya moneygram (kartlar arası transferlerin ücretsiz olduğu yerlerde) ve benzerlerinden uluslararası transfer yoluyla bağış yapmak da mümkündür. \n\n Herhangi bir şüpheniz veya açıklamanız için Keko J: 798188919 ile iletişime geçebilirsiniz</value>
 	</string>
+	<string key="noextneg">
+		<value>/ extend komutu yalnızca süreyi arttırmak için kullanılır, düşürmek içindeğil.</value>
+	</string>
 
 	<!-- OYUN MODLARI -->
 	
@@ -1020,7 +1023,7 @@ Son Günccelleme: 06.01.2023 -->
 		<value>\n Kazandığın için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır:\n 🌑x12 🌘x10 🌗x8 🌖x6 🌕x4 🔅x3 🔆x1'6 🥉x1'2 🥈x1 🥇x0'8 💎x0'6 💎👉🏆x0`51 🏆x0'3</value>
 	</string>
 	<string key="pointlost">
-		<value> Kaybettiğin için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır.\n Cezalar: \n 🌑/🌘/🌗/🌖/🌕/🔅 0 🔆-1 🥉-2 🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6</value>
+		<value> Kaybettiğin için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle toplanır.\n Cezalar: \n 🌑/🌘/🌗/🌖/🌕/🔅 0 🔆-1 🥉-2 🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6</value>
 	</string>
 	
 	<!-- OYUN İÇİ METİNLER -->
@@ -1063,11 +1066,11 @@ Son Günccelleme: 06.01.2023 -->
 	<string key="IdleKill">
 		<!-- 0 - Oyuncu İsmi -->
 		<!-- 1 - Oyuncu Rolü -->
-		<value> {0} iki gece üst üste oy kullanmayı unuttu! Oylarnı geçiştirdiği için oyundan otomatik olarak düştü ve öldü. AFK cezası puan ve istatistiklerine yansıyacaktır. {1}</value>
+		<value>{1} </value>
 	</string>
 	<string key = "IdleCount">
 		<!-- 0 - oyuncunun adı -->
-		<value> {0} iki gece üst üste oy kullanmayı unuttu! İyilik güçleri bunu affedilmez bir hata olarak gördü ve o da ne? {0} yere kapaklandı ve öldü. Afk kalacaksan neden oyuna girdin ki? </value>
+		<value> {0} iki gece üst üste oylamaya katılmadı. Oylarnı geçiştirdiği için oyundan otomatik olarak düştü ve öldü. AFK cezası puan ve istatistiklerine yansıyacaktır. İyilik güçleri bunu affedilmez bir hata olarak gördü ve o da ne? {0} yere kapaklandı ve öldü. Afk kalacaksan neden oyuna girdin ki? </value>
 	</string>
 	<string key="GroupIdleCount">
 		<!-- {0} - Idle count in the last 24 hours in the current group -->
@@ -3540,7 +3543,7 @@ Son Günccelleme: 06.01.2023 -->
 		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key = "Aboutvampir">
-		<value> Ubır 🧛: \nHer gece kanını emecek bir av seçebileceksin. (başka bir oyuncuyu ziyaret ettiğinde %50 öldürme şansın olacaktır, hedefin ölmezse dönüşecek her rol için farklı bir yüzde vardır ve dönüşmeyi başaramayanlar ölür). Kurtadamların ve Ubırlarin zamanın başından beri düşman olduğu biliniyor, Biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin, diğer yandan seni ziyaret ederlerse birden fazla olmaları gerekecek. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen ve korkunç bir şekilde ölürsün. </value>
+		<value> Ubır 🧛: \nGeçmişte Sıradan, aciz ve putperest zamanlarını hatırlıyor musun? Ne kadar zavvallıca! Olabilecek her solo katilden korkarak, tir tir titreyerek bu zamana kadar kazanamamış olmana şaşmamak gerek. Ancak işler senin için değişti :) Ölüsün ama kana susamış yaratıklar olarak yeniden dirildin. Zamanında mezarına kazık çakmaları gerekirdi ancak artık çok geç. Her gece yalnızca mezhebine dahil etmek için bir oyuncu seçmeyeceksin. Eğer ki senin Ubır tarikatına katılmayı reddederlerse onların tüm kanın emicek ve ölüme terk edeceksin. Her oyuncu için farklı bir dönüşüm ve ölüm yüzdesi vardır. Öncelik dönüşüm yüzdesi baz alınır. Eğer dönüşüm gerçekleşmezse yüzdeye bağlı olarak ölüm gerçekleşir. Kurtadamların ve Ubırların zamanın başından beri düşman olduğu biliniyor. Biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin. Diğer yandan seni ziyaret ederlerse kolayca pes etmeyeceksin. Seni alt etmeleri için birden fazla olmaları gerekir aksi takdirde onu öldürürsün Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen korkunç bir şekilde ölürsün. Yeni gelen Kelle Avcısı mı? Evet onun için hakkında endileşensen iyi olur çünkü oyunun başlarında ölümsüz ve acımasız bir avcı. Oyundaki oyuncuların yarısı öldüğü vakit kanın ve ölümlerin sana verdiği güçle Kelle Avcısını düşürmek için bir şansın olacak. Ne kurt, ne Avcı ne de başka bir kötü... Artık doğaüstü bir yaratıksın ve sen onlardan endişe etme, bırak onlar senin hakkında endişelensin!</value>
 	</string>
 	<string key = "DGTovamp">
 		<!-- 0 - Çift Giden İsmi -->
@@ -4084,7 +4087,7 @@ Son Günccelleme: 06.01.2023 -->
 		<value> İşaretçi 🔀: \nKöyün kurnazı ve de ölümsüzü.. neredeyse ölümsüz. İşaretçi rolü ziyaretçilerden pek hoşlanmaz bu yüzden gece vakti her birini atlatmak için kendisi için yeni bir metod geliştirdi. İyi veya kötü rol olsun, her kim onu ziyaret ederse, İşaretçi onları raastgele başka bir oyuncuya yönlendirecek. Kurtlar için başka bir atıştırmalık, Gözcü için kime ait olduğunu bilmediği bir görüş, Ubırlar için farklı bir kan torbası, Otacı için zehirlenecek farklı bir hedef, Kelle Avcısı için avlanacak başka bir oyuncu vesaire vesaire... Özet olarak İşaretçi tüm kendsine olan tüm aksiyonları rastgele başka bir oyuncunun üzerine saptıracak ve kimse bunun farkında bile olmayacak. \nRol @lukinoteg tarafından oluşturuldu. </value>
 	</string>
 	
-	<!-- @dantravelsofficial DAN TARAFINDAN YARATILAN GÖLGE ROLÜ -->
+	<!-- @dantravelsofficial DAN TARAFINDAN YARATILAN GÖLGE & SİGMA KURT ROLÜ -->
 
 	<string key="indiscreto">
 		<value> Gölge 🕶</value>
@@ -4134,45 +4137,6 @@ Son Günccelleme: 06.01.2023 -->
 		<!-- 0 - Taklitçi İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
-	
-	<!-- @Barbolwey ROB TARAFINDAN YARATILAN HİBRİT ROLÜ -->
-
-	<string key="pelao">
-		<value> Hibrit 👨‍🦲</value>
-	</string>
-	<string key="RoleInfopelao">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
-	</string>
-	<string key="aboutpelao">
-		<value> Hibrit 👨‍🦲: \nHibrit köye ait bir roldür. Ancak kendi bilincinin farkında değildir. Vücudundaki bozuk genetik hem kendi benliğini yitirmesine hem de saçlarının dökülmesine sebep olmuştur. Bu yüzden o parlak kafasını tüm köy halkından saklamaya çalışır ama gelen saldırıları anlayamaz. Oyun başında kendisini köylü sanar ve Ubır/Zombi saldırılarında doğrudan dönüşüm gerçekleştirir. Kurt sürüsünde alfa Kurt yoksa bu kesin dönüşüm Kurt Adamlar için de geçerlidir, tıpkı lanetli gibi dönüşüm geçirir. Alfa Kurt var ise dönüşüm Alfanın yüzdesinebağlıdır. \nRol @Barbolwey tarafından oluşturuldu. \n\nTakım: Köy \n\nDönüşümler: Gelen saldırılara karşı (Ubır/Zombi) doğrudan dönüşür. Alfa kurt hariç...</value>
-	</string>
-	<string key = "pelaoBittenWolves">
-		<!-- 0 - Hedefin İsmi -->
-		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
-	</string>
-	<string key = "pelaoTurned">
-		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. </value>
-	</string>
-	
-	<!-- @Barbolwey ROB TARAFINDAN YARATILAN BETA KURT ROLÜ -->
-
-	<string key="beta">
-		<value>Beta Kurt 🐺🅱️</value>
-	</string>
-	<string key="RoleInfobeta">
-		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
-	</string>
-	<string key="aboutbeta">
-		<value> Beta Kurt 🐺🅱️: \nBeta Kurt Alfa Kurttan sonra sürü için en değerli kişidir. Eğer ki Alfa Kurt herhangi bir şekilde öldürülürse, Beta Kurt yeni Alfa olacak ve enfeksiyon oranı aynı olacak. Alfa Kurt ölmeden Beta Kurt sıradan bir Kurt Adamdan farksızdır. \nRol @Barbolwey tarafından yaratıldı.</value>
-	</string>
-	<string key="newalfa">
-		<!-- 0 - Beta Kurt İsmi -->
-		<!-- Alfa Kurt öldükten sonra Beta Kurdun yeni Alfa olduğunu duyurmak için kullanılır -->
-		<value>Aniden içinizden birinin rolü değişti. Şimdi {0}, yeni rolünü hatırlamak ve keşfetmek zorunda.</value>
-	</string>
-	
-	<!-- @dantravelsofficial DAN TARAFINDAN YARATILAN SİGMA KURT ROLÜ -->
-
 	<string key="greywolf">
 		<value> Sigma Kurt 🐕</value>
 	</string>
@@ -4205,8 +4169,41 @@ Son Günccelleme: 06.01.2023 -->
 	</string>
 	<string key="deadxvisitgw">
 		<!-- 0 - Kurbanın İsmi -->
-		<value> Dün gece {0} yanlış kişiyi ziyaret etti. Sigma Kurt ziyaretçesini öldürmeyü tercih etti ve artık {0} ölü.</value>
-		<value> {0} koruyucu köpeği Barak'ın yanında güvende olduğunu sanıyordu ancak ziyaret ettiği kişi Barak değil Sigma Kurduydu. {0} öldü.</value>
-		<value> {0} dün gece Sigma Kurdun adresini ziyaret ederek büyük birtehlikeye atıldı ve hedefi tarafından avlandı. {0} öldü.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı.</value>
+		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve {0}'in vücudu parçalanmış haldeydi ancak kimse buna neyin sebep olduğunu anlamadı.</value>
+	</string>
+	
+	<!-- @Barbolwey ROB TARAFINDAN YARATILAN HİBRİT & BETA KURT ROLÜ -->
+
+	<string key="pelao">
+		<value> Hibrit 👨‍🦲</value>
+	</string>
+	<string key="RoleInfopelao">
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+	</string>
+	<string key="aboutpelao">
+		<value> Hibrit 👨‍🦲: \nHibrit köye ait bir roldür. Ancak kendi bilincinin farkında değildir. Vücudundaki bozuk genetik hem kendi benliğini yitirmesine hem de saçlarının dökülmesine sebep olmuştur. Bu yüzden o parlak kafasını tüm köy halkından saklamaya çalışır ama gelen saldırıları anlayamaz. Oyun başında kendisini köylü sanar ve Ubır/Zombi saldırılarında doğrudan dönüşüm gerçekleştirir. Kurt sürüsünde alfa Kurt yoksa bu kesin dönüşüm Kurt Adamlar için de geçerlidir, tıpkı lanetli gibi dönüşüm geçirir. Alfa Kurt var ise dönüşüm Alfanın yüzdesinebağlıdır. \nRol @Barbolwey tarafından oluşturuldu. \n\nTakım: Köy \n\nDönüşümler: Gelen saldırılara karşı (Ubır/Zombi) doğrudan dönüşür. Alfa kurt hariç...</value>
+	</string>
+	<string key = "pelaoBittenWolves">
+		<!-- 0 - Hedefin İsmi -->
+		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+	</string>
+	<string key = "pelaoTurned">
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. </value>
+	</string>
+	<string key="beta">
+		<value>Beta Kurt 🐺🅱️</value>
+	</string>
+	<string key="RoleInfobeta">
+		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
+	</string>
+	<string key="aboutbeta">
+		<value> Beta Kurt 🐺🅱️: \nBeta Kurt Alfa Kurttan sonra sürü için en değerli kişidir. Eğer ki Alfa Kurt herhangi bir şekilde öldürülürse, Beta Kurt yeni Alfa olacak ve enfeksiyon oranı aynı olacak. Alfa Kurt ölmeden Beta Kurt sıradan bir Kurt Adamdan farksızdır. \nRol @Barbolwey tarafından yaratıldı.</value>
+	</string>
+	<string key="newalfa">
+		<!-- 0 - Beta Kurt İsmi -->
+		<!-- Alfa Kurt öldükten sonra Beta Kurdun yeni Alfa olduğunu duyurmak için kullanılır -->
+		<value>Aniden içinizden birinin rolü değişti. Şimdi {0}, yeni rolünü hatırlamak ve keşfetmek zorunda.</value>
 	</string>
 </strings>
