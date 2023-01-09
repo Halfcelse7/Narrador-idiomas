@@ -96,7 +96,7 @@
   <string key = "IdleKill">
     <!-- 0 - oyuncu adı -->
     <!-- 1 - oyuncu rolü -->
-    <value> {0} iki gece üst üste oylamaya katılmadı. Oylarnı geçiştirdiği için oyundan otomatik olarak düştü ve öldü. AFK cezası puan ve istatistiklerine yansıyacaktır. {1}</value>
+    <value> {1}</value>
   </string>
   <string key = "TraitorTurnWolf">
     <value> Tüm kurt adamların ölümünden sonra köylüler gardını indirmeye başlıyordu. Ancak senin için işler farklıydı. Vücudun başkalaşım geçiriyor ve her bir kemiğin kırılarak evrim geçiriyordu! Yaşayan kurt adam kalmadı ve sen hain olarak kurt adama dönüştün! </value>
@@ -423,12 +423,6 @@
   <string key = "ApprenticeSeer">
     <value> Kalfa 🙇 </value>
   </string>
-  <string key = "Tarikatçı">
-    <value> Tarikatçı 👤 </value>
-  </string>
-  <string key = "CultistHunter">
-    <value> Tarikat Avcısı 💂 </value>
-  </string>
   <!-- Bunlar oyuncu listesi içindir -->
   <string key = "RanAway">
     <value> Kaçış </value>
@@ -454,29 +448,15 @@
     <value>  Masonlar: {0} </value>
   </string>
   <!-- yeni dizeler 6 Mayıs 2016 -->
-  <string key = "CultTargetDead">
-    <!-- 0 - En genç kültistlerin adı -->
-    <value> Tarikatın en yeni üyesi, {0} 'ın evine onu çevirmeye gitti, ancak ev tam bir enkaz, her yer kan ve girişte kurt adam tüyleri var... </value>
-  </string>
   <string key = "GuardBlockedWolf">
     <!-- 0 - hedefin adı -->
     <value> Sürü , vücuduyla ziyafet çekmek için {0} 'in evine gider. Ama orada uzun, koca dişli karanlık birisi onlara karşı koydu. Koruyucu melek herkesi tek başına alt etti. Mağlup olarak ininize geri döndünüz. </value>
-  </string>
-  <!-- yeni dizeler 9 Mayıs 2016 -->
-  <string key = "CultUnableToConvert">
-    <!-- 0 - en yeni -->
-    <!-- 1 - hedefin adı -->
-    <value> {1}’i dönüştürmek amacıyla {0}’i gönderdin lakin iradesi çok güçlüydü ve onu dönüştürmek imkansızdı :( </value>
   </string>
   <!-- yeni dize 12 Mayıs 2016 -->
   <string key = "NameExists">
     <!-- 0 - hedefin adı -->
     <!-- 1 - ad -->
     <value> @{1}, {0} adında bir oyuncu zaten katıldı. Lütfen katılmak için adını değiştir. </value>
-  </string>
-  <string key = "HarlotDiscoverCult">
-    <!-- 0 - hedefin adı -->
-    <value> Dün gece iyi vakit geçirmek için gizlice {0}'in evine gittin ama gittiğinde garip bir şey fark ettin. O bir yabancı, ayrıca hasta gibi soluk görünüyordu, keskin dişleri vardı ... [{0} Bir Ubır]. </value>
   </string>
   <!-- yeni dize 13 Mayıs 2016 -->
   <string key = "Was">
@@ -622,17 +602,6 @@
     <!-- 0 - hedefin adı -->
     <value>Sen {0}'in cesedini koleksiyonun için toplamaya çalıştın, ama Koruyucu Melek tarafından bozguna uğradın! Bu gece hiç ölüm olmadı. </value>
   </string>
-  <string key = "CultConvertHunter">
-    <!-- 0 - En Genç Tarikatçının adı -->
-    <!-- 1 - hedefin adı -->
-    <value>Tarikat üyesi {0}’i,  {1}’i dönüştürmek için gönderdi, ama onun yerine bir ateş sesi duyuldu ve {0}'in vücudu pencereden dışarı fırladı! {0} ölü....</value>
-  </string>
-  <string key = "CultConvertSerialKiller">
-    <!-- 0 - En Genç Tarikatçının adı -->
-    <!-- 1 - hedefin adı -->
-    <value>Tarikat üyesi {0}’i, {1}’i dönüştürmek için gönderdi, ama onun yerine bir çığlık sesi duyuldu ve {0}'in vücudu pencereden dışarı fırladı, bıçaklar vücudunun her yerine sokulmuş! NASIL BIR PSIKOPAT! {0} ölü....</value>
-    <value> {0} gizlice {1}'in evine girer, kapıyı açar ve bıçaklı bir deli tarafından karşılanır !! {1}, bıçağı {0}'in iç organlarına alfabetik sırayla saplayarak ve gülerek öldürür! {0} öldü. </value>
-  </string>
   <string key = "GuardKiller">
     <value> Seri Katili korumaya çalıştın ama o seni 88 kez bıçakladı! Ölüsün. </value>
   </string>
@@ -651,15 +620,6 @@
     <!-- 0 - ölü masonun adı -->
     <!-- 1 - mason meslektaşlarının adı -->
     <value> {0} öldü ve sen Mason oldun. Takım arkadaşların (varsa): {1} </value>
-  </string>
-  <string key = "DGToCult">
-    <!-- 0 - yeni tarikatçının adı -->
-    <value> Çiftgiden {0}, tıpkı senin gibi bir tarikat oldu! </value>
-  </string>
-  <string key = "DGTransformToCult">
-    <!-- 0 - rolün adı -->
-    <!-- 1 - takım arkadaşlarının adı -->
-    <value> {0} öldü ve sen tarikatçı oldun. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "DGToWolf">
     <!-- 0 - DG'nin adı -->
@@ -715,9 +675,6 @@
     <!-- 1 - rol -->
     <value> Köy meydanının ortasında, vücuduna bir çok kez ateş edilmiş şekilde {0}'in cesedini bulurlar. Görünüşe göre avcıya gizlice yaklaşmaya çalıştı! {1} </value>
   </string>
-  <string key = "CultAttempt">
-    <value> Kapşonlu biri seni kendi tarikatına dönüştürmeye çalıştı, ancak inancın çok güçlü ve ona direndin. </value>
-  </string>
   <string key = "AlreadyOnWaitList">
     <!-- 0 - hedefin adı -->
     <value> {0} için zaten bekleme listesindesin. </value>
@@ -741,7 +698,7 @@
   <string key = "SKHunterEnd">
     <!-- 0 - SK'nin adı -->
     <!-- 1 - Avcının adı -->
-    <value> Güneş doğduğunda, {0} ve {1} köye doğru yürüyorlar. {0} bıçağını çıkardı ve  {1} ‘in üzerine atladı .  {1} bir tabanca çıkardı ve {0}'in yüzüne ateş etti {0} yere yığılırken, bıçağını {1}’in içine derince soktu.  İkisi de ölü, köy boş, kazanan yok... </value>
+    <value> Güneş doğduğunda, {0} ve {1} köye doğru yürüyorlar. {0} bıçağını çıkardı ve  {1}‘in üzerine atladı. {1} bir tabanca çıkardı ve {0}'in yüzüne ateş etti. {0} yere yığılırken, bıçağını {1}’in içine derince soktu.  İkisi de ölü, köy boş, kazanan yok... </value>
   </string>
   <string key = "RoleModelChosen">
     <!-- 0 - hedefin adı -->
@@ -755,7 +712,7 @@
   </string>
   <string key = "IdleCount">
     <!-- 0 - oyuncunun adı -->
-    <value> {0} iki gece üst üste oylamaya katılmadı. İyilik güçleri bunu affedilmez bir hata olarak gördü ve o da ne? {0} yere kapaklandı ve öldü. Afk kalacaksan neden oyuna girdin ki? </value>
+    <value> {0} iki gece üst üste oylamaya katılmadı. Oylarnı geçiştirdiği için oyundan otomatik olarak düştü ve öldü. AFK cezası puan ve istatistiklerine yansıyacaktır. İyilik güçleri bunu affedilmez bir hata olarak gördü ve o da ne? {0} yere kapaklandı ve öldü. Afk kalacaksan neden oyuna girdin ki? </value>
   </string>
   <!-- Yeni dizeler 7 Temmuz -->
   <string key = "AboutVG">
@@ -789,12 +746,6 @@
   </string>
   <string key = "AboutFool">
     <value> Çomar 🃏: \nÇomar’a gözcü olduğu söylenir... Gece birisini görmek için seçtiğinde, ona rastgele bir rol söylenir. Bu rol oyunda var olan rollerden biridir.</value>
-  </string>
-  <string key = "AboutCult">
-    <value> Tarikat Üyesi olarak senin görevin oyundaki diğer tüm oyuncaları (Kurtlar hariç) tarikat Üyesi yapmak. Eğer oyunun sonunda yaşayan tüm oyuncular tarikat Üyesi olursa tarikat kazanır. </value>
-  </string>
-  <string key = "AboutCH">
-    <value> Senin işin tarikatı bitirmek. Bir tarikatçı size saldırırsa ölür. Her gece hangi oyuncunun "avlanacağını" seçeceksin tarikatçı ise ölecek. \nOnun yardımcıları: Gözcü, Dedektif, Koruyucu Melek, Yancı ve Otacı. </value>
   </string>
   <string key = "AboutWC">
     <value> Yabani Çocuk 👶: \nOyunun başında kendine rol model birini seçeceksin. Eğer o ölürse, kurt adam olacaksın. </value>
@@ -1136,9 +1087,6 @@
   <string key = "SerialKillerTeam">
     <value> SK Takımı </value>
   </string>
-  <string key = "CultTeam">
-    <value> Ubır Takımı </value>
-  </string>
   <string key = "TannerTeam">
     <value> İblis Takımı </value>
   </string>
@@ -1156,16 +1104,10 @@
   <string key = "SerialKillerTeamEnd">
     <value> SK Takımı </value>
   </string>
-  <string key = "CultTeamEnd">
-    <value> Ubır Takımı </value>
-  </string>
   <string key = "TannerTeamEnd">
     <value> İblis Takımı </value>
   </string>
 
-  <string key = "CultConvertWolf">
-    <value> Tarikat {0}’i {1}’i döndürsün diye gönderdi, fakat onun yerine {0}'in kafasını pencereden dışarı uçarken gördüler... Acaba kafayı neden yemediler! {0} ölü.. </value>
-  </string>
   <string key = "HarlotFuckedKilledPublic">
     <!-- Harlot, SK'nin kurbanını ziyaret ettiğinde ve öldüğünde kullanılır -->
     <!-- {0} = Harlot adı, {1} = SK'nin kurban adı -->
@@ -1179,9 +1121,6 @@
   </string>
   <string key = "BlacksmithKilled">
     <value> Görünüşe göre köy demircisi {0}, ellerinde, ayaklarında ve kafasında sıkışmış cephaneliğinden alınan 5 bıçakla birlikte demirci masasında bulunduğu için geceleri çok kötü şansa sahipti. Belki de seri katil, silah ve organ koleksiyonunu {0}'in kalbi, karaciğeri ve midesi ile genişletmeyi umuyordu. </value>
-  </string>
-  <string key = "CultistKilled">
-    <value> {0}, sunağının yanında bir mum çubuğuyla bıçaklanarak öldürüldü. Seri katil ırk, dil veya din fark etmeksizin tekrar tekrar bıçak darbesi vurdu! {0} bir tarikatdı... </value>
   </string>
   <string key = "CupidKilled">
     <value> Ertesi sabah, köylüler Eros {0}'i ikiye bölünmüş paramparça bir şekilde gördüler. Merakla baktılar, kalbi eksikti. </value>
@@ -1212,21 +1151,6 @@
   <string key = "WildChildEaten">
     <value> OOOOYYYYYYYYYYY! Dün gece, yumuşak ve yabani bir çocuğun etine karşı kurtların diş sesleri duyuldu. {0}'in sadece küçük iskeletlerini bıraktılar! Kurtlar zavallı savunmasız çocuğu sindirirken, köylüler kurtların herhangi bir suçluluk hissedip hissetmediğini merak ediyor. </value>
   </string>
-  <string key = "SerialKillerKilledCH">
-    <!-- CH, SK'yi ziyaret ettiğinde kullanılır -->
-    <value> Köylüler sabah uyandılar ve Tarikat Avcısı {0}'in cesedinin kalıntılarını, belediye binasının yanındaki bir arabanın üzerinde parçalara ayırdılar. Alınan ders: seri katili asla ziyaret etmeyin! </value>
-    <value> Tarikat avcısı {0}'in cesedi şehir merkezinde bulundu ve yüz parçaya bölünmüştü. Seri katilin bir tarikatçı olup olmadığını kontrol etmek iyi bir fikir gibi görünmüyor. </value>
-  </string>
-  <string key = "CultConvertWolfPublic">
-    <!-- Tarikatçılar kurtları dönüştürürken, yalnızca kurtlar evde kaldıysa kullanılır -->
-    <value> Kurt adamlar evde kalmaya karar vermiş gibi görünse de, bir tarikatçı onları ziyaret etmeye karar verdi, kurt adamların direnmesi çok zordu. {0}'in kafası lezzetli bir akşam yemeğine döndü! </value>
-    <value> Tarikat dün gece beklenmedik bir sorunla karşılaştı. En yeni üyeleri {0}, kurtadamların evde kalmaya karar verdikleri gece bir kurt adamı ziyaret etme talihsizliğini yaşadı. Maalesef tarikat için, kurt adamların yeni dini harekete katılmakla hiç ilgisi yok ve bu kaçırmayacakları bir fırsattı. {0} öldü. </value>
-  </string>
-  <string key = "CultConvertKillerPublic">
-    <!-- Tarikatçılar SK'yi dönüştürürken kullanılır -->
-    <value> Tarikat, saflarında yeni bir üye olacağını düşündü, ancak hiçbir şey gerçeklerden daha acı olamazdı! Bir tarikatçı olan {0} parçalandı ve kalıntıları kasabanın dört bir yanına dağıldı. "Kutsal" kitabın ortsında saplanmış bir bıçak ve kitap cesedin gövdesine asılıydı. </value>
-    <value> Dün gece, tarikat kasabanın en çılgın köylüsünü dönüştürmeye çalıştı. En son üyesi {0}, seri katili dönüştürmeye çalıştı ve kasaba meydanında kasabanın tüm iç organlarını sergileyen yeni bir sanat eseri yaptı. </value>
-  </string>
   <string key = "GAGuardedKiller">
     <!-- GA, SK'yi korurken kullanılır -->
     <value> Koruyucu melek {0}'in kasabayı katillerden kurtaracağı bir gece olması gerekiyordu. Ama Seri Katil onun kanatlarını söktü! Vücudunun soluna "Kendimi senden daha iyi koruyabilirim" yazan bir not bıraktı... </value>
@@ -1246,10 +1170,6 @@
   <string key = "WolfKillsHunterEnd">
     <!-- {0} = avcının adı, {1} = kurdun adı -->
     <value> {1} köyde yalnızca {0}'in kaldığını biliyor, bu nedenle {0} evinde yeni bir atış şekli üzerinde çalışmakla meşgulken avantaj elde ediyor ve {0}'in gövdesini parçalamak için evine giriyor. </value>
-  </string>
-  <string key = "CHKillsCultistEnd">
-    <!-- {0} = son kültçünün adı, {1} = CH'nin adı -->
-    <value> {1} ve {0} kasaba meydanında. Ancak, bugün {1} vaazları istemiyor ve {0} kutsal kitabını çıkarmadan önce ona saldırıp onu öldürüyor. {0} ayakta kalan son tarikatçıydı. </value>
   </string>
 
   <!-- Zamanı uzatın -->
@@ -1401,26 +1321,17 @@
     <value> Bu gece bütün köyü uyutmak ister misin? </value>
   </string>
   <string key = "SandmanSleepAll">
-    <value> Kasaba konuşurken, {0} evine geri döner ve yumuşak bir melodiyi mırıldanmaya başlar (Dandini dandini dastanaa). Bu gece, herkes çok derinden uyuyacak ve kimse gece aksiyonlarını gösteremeyecek </value>
+    <value> Kasaba konuşurken, {0} evine geri döner ve yumuşak bir melodiyi mırıldanmaya başlar (Dandini dandini dastanaa). Bu gece, herkes çok derinden uyuyacak ve kimse gece aksiyonlarını gösteremeyecek. </value>
   </string>
   <string key = "SandmanNight">
     <value> Gece çöker ve köylüler yorgunluktan kendilerini zar zor yataklara atarlar. Mışıl mışıl uykuya dalarlar, uyumayı bile hatırlamazlar ... </value>
   </string>
 
-  <string key = "AllowThiefQ">
-    <value> Hırsıza izin verilsin mi? \nŞu anda: {0} </value>
-  </string>
-  <string key = "AllowThiefA">
-    <value> Hırsız şimdi: {0} </value>
-  </string>
   <string key = "RankPerksQ">
     <value> Sıralamadaki oyuncular avantajlar elde edebilir mi? \nGüncel: {0} </value>
   </string>
   <string key = "RankPerksA">
     <value> Aralık avantajları: {0} </value>
-  </string>
-  <string key = "AllowThief">
-    <value> Hırsıza İzin Ver </value>
   </string>
   <string key = "RankPerks">
     <value> Aralık Avantajını Etkinleştir </value>
@@ -1430,7 +1341,7 @@
     <value> Kurdumsu 👱🌚 </value>
   </string>
   <string key = "AboutWolfMan">
-    <value> Kurdumsu 👱🌚: \nSen köylü gibi bir şeysin, zamanının çoğunu gerçek kurtların olduğu ormanda geçirdiğin için, Gözcünün kafası karışacak ve senin bir kurt adam olduğunu düşünecek! Oh hayır... </value>
+    <value> Kurdumsu 👱🌚: \nSen köylü gibi bir şeysin. Zamanının çoğunu gerçek kurtların olduğu ormanda geçirdiğin için gözcünün kafası karışacak ve senin bir kurt adam olduğunu düşünecek! Oh hayır... </value>
   </string>
 
   <string key = "Lycan">
@@ -1444,7 +1355,7 @@
     <value> Kâhin 🌀 </value>
   </string>
   <string key = "AboutOracle">
-    <value> Kâhin 🌀: \nHer gece birine bakmayı seçebilirsin, ama sadece o kişinin ne olmadığını görebileceksin. Oyunda hala hayatta olan bir başkasının rolü sana gösterilecek, bu yüzden hangi rolün söylendiğine dikkat edin, bu demek oluyor ki o rol hâlâ hayatta :) </value>
+    <value> Kâhin 🌀: \nHer gece birine bakmayı seçebilirsin, ama sadece o kişinin ne olmadığını görebileceksin. Oyunda hâlâ hayatta olan bir başkasının rolü sana gösterilecek, bu yüzden hangi rolün söylendiğine dikkat edin, bu demek oluyor ki o rol hâlâ hayatta :) </value>
   </string>
 
   <string key = "Sandman">
@@ -1467,12 +1378,6 @@
   </string>
 
 
-  <string key = "Thief">
-    <value> Hırsız 😈 </value>
-  </string>
-  <string key = "AboutThief">
-    <value> Hırsız, seri katil gibi yalnız bir karakterdir. Bir oyuncunun rolünü çalabilirsin. Başarı olasılığı %50, ancak telafi edilemez rollerin %100 çalınması ve muhtarın %0 olması dışında. Hırsızın oyları başlangıçta 0 değerindedir ve soyduğu her canlı oyuncu için 1'e kadar ekler. Çalınan oyuncular yine de oy kullanabilecekler ancak oyları değersiz. </value>
-  </string>
 
   <string key = "AskPacifist">
     <value> Yürekten konuşmak ve bir sonraki sefere köyün linç etmesini durdurmak için bu düğmeye bas! </value>
@@ -1553,12 +1458,6 @@
   <string key = "HarlotFrozen">
     <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Kapının önünde sessizce bu garip esaret biçimine küfrediyorsun. </value>
   </string>
-  <string key = "Kültist Dondurulmuş">
-    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Ubır arkadaşların, içinde bulunduğun durumu gördüklerinde sana gülüyorlar. </value>
-  </string>
-  <string key = "CHFrozen">
-    <value> Evden çıkmak için kapıyı açtığında, bir rüzgar esintisi etrafını sararak soğuktan donmana neden olur ❄️. Kalçan saatlerce bu pozisyonda kaldıktan sonra yorulmaya başlar. </value>
-  </string>
   <string key = "SeeingFrozen">
     <!-- gözcü, aptal, kahin ve büyücü için kullanılır -->
     <value> Psişik güçlerini kullanmak için masaya oturduğunda, bir rüzgar akışı seni sarar ve soğuktan donmana neden olur ❄️. Genellikle soğuk sorun değildir, ancak yoğun soğuk beynini dondurur. </value>
@@ -1623,7 +1522,7 @@
   </string>
   <string key = "SheriffVisitNotHome">
     <!-- 0 - hedefin adı -->
-    <value> İlginç... Sen {0} 'in evinde devriye gezerken, onun evi terk ettiğini gördün. (Hedefin evi terk etti). </value>
+    <value> İlginç... Sen {0}'in evinde devriye gezerken, onun evi terk ettiğini gördün. (Hedefin evi terk etti). </value>
   </string>
   <string key = "AskSheriff">
     <value> Bu gece kimin evini izlemek istiyorsunuz? </value>
@@ -1634,15 +1533,9 @@
   </string>
   <string key = "CultTargetSheriffed">
     <!-- 0 - hedefin adı -->
-    <value> En yeni Ubır üyesi {0} 'i evinde kendisine çevirmeye gitti, ancak Şerifi izlerken buldu, bu yüzden başarısız bir şekilde geri döndü. </value>
+    <value> En yeni Ubır üyesi {0}'i evinde kendisine çevirmeye gitti, ancak Şerifi izlerken buldu, bu yüzden başarısız bir şekilde geri döndü. </value>
   </string>
 
-  <string key = "Ateist">
-    <value> Ateist 👦 </value>
-  </string>
-  <string key = "AboutAtheist">
-    <value> Ateist, tarikata dönüştürülememesi dışında normal bir köylüdür. </value>
-  </string>
 
   <string key = "Survivor">
     <value> Survivor ⛺️ </value>
@@ -1675,25 +1568,6 @@
     <value> Aç Kurt 🐺🍽: \nOldukça güçlü bir kurttur. Yaşadığı sürece, kurbanları tanınmaz halde bırakma şansı %40'tır. Bu nedenle köylüler öldükten sonra rollerini göremeyecekler . </value>
   </string>
 
-  <string key = "AskDouse">
-    <value> Kimi benzinlemek istiyorsun? </value>
-  </string>
-  <string key = "Tutuştur">
-    <value> Ateşe ver! 🔥 </value>
-  </string>
-  <string key = "ExtraDouse">
-    <value> Ortalıkta herhangi bir Kurt adam kalmadığı için köy halkı gardını indirdi ve sen de başka birini benzinleme fırsatı yakaladın. </value>
-  </string>
-  <string key = "DefaultIgnited">
-    <!-- 0 - hedefin adı -->
-    <!-- 1 - hedefin rolü -->
-    <value> Ne büyük bir felaket! Köylüler, {0}'in evinin yanmış olduğunu keşfeder. Kundakçının işi olmalı. {1}. </value>
-    <value> Bugün trajik bir gün. Köy, başka bir kundakçının kurbanı olan {0} 'in küllerini bulur. {1}. </value>
-    <value> {0} bu gece ateşle oynamaya çalıştı ve o öldü... {1}. </value>
-  </string>
-  <string key = "PyroWins" isgif = "true">
-    <value> Bütün köy yandı! Kundakçı kazandı. </value>
-  </string>
   <string key = "PyroVisitHunter">
     <!-- 0 - hedefin adı -->
     <value> Boooom! Bir mermi sesi köyde yankılanıyor. Köylüler evlerini terk ettikten sonra {0}'in cesedini kül ve kanla çevrili bulurlar. Görünüşe göre avcı ızgarada pişirilmeyi sevmiyor. </value>
@@ -2246,20 +2120,6 @@
   </string>
 
 
-  <!-- CC GÜNCELLEME -->
-
-  <string key = "ccvisitedxsk">
-    <value> Garip bir silüetin seni tuhaf bir şekilde takip ettiğini hissettin, ancak bir süre sonra ortadan kayboldu, ertesi sabah ön kapına saplanmış bir bıçak buldun. </value>
-  </string>
-  <string key = "skvisitacc">
-    <value> Görünüşe göre Kelle Avcısını ziyaret etmişsin ama o hâlâ oldukça güçlü, daha yorgun olduğunda bir şansın daha olacak. </value>
-  </string>
-  <string key = "ccvisitedxFireWolf">
-    <value> Yakınında kül kokusu aldın ve sıcaklık biraz artmış gibi görünüyor, sen havalandırma için pencereleri açarken dondurma yemenin zamanı geldi. </value>
-  </string>
-  <string key = "ccvisitadoxlobo">
-    <value> Çevrede bir hayvan sesi duydun, bakmak için dışarı çıkıyorsun ve kapında bir kurt tüyü buluyorsun. </value>
-  </string>
 
   <string key = "grupoban">
     <value> Sıralamalı mod şu anda bu grupta sınırlı, düzeltmek için bir bot yöneticisiyle konuşun. </value>
@@ -2334,22 +2194,6 @@
     <value> {0} adlı kişinin evine, sadece önündeki koruyucu meleği görmek için geldin! Savaşmaya çalışıyorsun ama hiç şansın yok. Bu senin için gerçekten kötü bir geceydi ... </value>
   </string>
   <!-- {0}: mezar kazıcı -->
-  <string key = "HunterFell">
-    <value> O kanlı tarikatçılardan birini öldüremeden bir gece daha! Hayal kırıklığına uğramış, bir mezarın üzerinden geçip, ayak bileğine takılıncaya kadar ayı tuzağını fark etmedin. Çığlık atıyorsun ve mücadele ediyorsun ama artık çok geç. Geriye, açık bırakılan bir mezara düşersin ve en son her şey kararmadan önce boynun kırılır. </value>
-  </string>
-  <!-- {0}: kült avcısı -->
-  <string key = "HunterFellDigger">
-    <value> Yorucu başka bir geceden sonra, güneş doğarken eve dönüyorsun. Eve gelmeden hemen önce, bitmemiş bir mezarın yanında yerde duran bir kılıç dikkatini çeker. İçinde {0}'in cesedini buluyorsun. Kelle avcısı senden şüphelenmemeliydi ... </value>
-  </string>
-  <!-- {0}: tarikatçı -->
-  <string key = "CultFell">
-    <value> Bitmemiş mezarlarının birinden aniden gelen bir çığlık duydun, yorucu bir geceden dönüyorsun! Oraya gitmek için acele ediyorsun, sadece {0} 'i ölü olarak bulursun. Her neyse, tarikat için mezarcıyı dönüştürmek kötü bir fikirdi. </value>
-  </string>
-  <!-- {0}: düşen tarikatçı, {1}: mezar kazıcı -->
-  <string key = "CultConvertGraveDigger">
-    <value> {1} adlı kişinin evine giderken, {0} kiliseyi yakmanın iyi bir fikir olacağına karar verir. Aniden bir ayı kapanı bileğini yakaladığında, {0} mezarlıklardan birine düşer! Tek duydukları, bir mezara düştükten sonra ağlaması ve tarikatın geri kalanı hayatı için kaçıyor. </value>
-  </string>
-  <!-- {0}: mezar kazıcı -->
   <string key = "ChemistFell">
     <value> Evine {0} giderken, hangi iksirlerin zehirli olduğunu hatırlamaya çalışıyorsun ve tökezleyerek gümüş bir mızrağın kalbini deldiği açık bir mezara düşüyorsun. Herhangi bir ses çıkarmadan önce öldün. </value>
   </string>
@@ -2378,14 +2222,6 @@
     <value> Geri dönerken, yerde yatan tüyler dikkatini çekiyor ... Mezarlarından birinde ölü yatan koruyucu melek {0}'i bulmak için uzağa bakmana gerek yok! Bazen "güvenlik önlemlerin" gerçekten yanlış kişilere düşüyor. </value>
   </string>
   <!-- {0}: mezar kazıcı -->
-  <string key = "ThiefFell">
-    <value> {0}'in rolünü çalmaya giderken mezarlığa giriyorsun, ama hiç ses çıkarmamaya o kadar odaklandın ki ayak bileğini sıkıştıran ayı tuzağının dikkatini çekiyorsun! Ayağının kırılması yeterli değildi, hatta yanındaki mezara düşüp boynunu kırarsın! </value>
-  </string>
-  <!-- {0}: hırsız -->
-  <string key = "ThiefFellDigger">
-    <value> Neyse ki mezarlarının etrafına güvenlik önlemleri koydun ... {0} dün gece rolünü çalmaya çalıştı ama ayı tuzağına yakalandı ve mezarına düştü! Belki şimdi köy, mezarlarının gerçekten gerekli olduğuna inanacaktır. </value>
-  </string>
-  <!-- {0}: mezar kazıcı -->
   <string key = "FireWolfFell">
     <value> Bir dahaki sefere mezar kazıcısını yakmaya gittiğinde adımına dikkat etmelisin ... Bir ayı tuzağına bastın, bir mezara düştün ve kalbine gümüş bir mızrak saplandı! Küçük cehennem kurdu bunu hak ettin. </value>
   </string>
@@ -2400,10 +2236,6 @@
   <!-- {0}: yancı -->
   <string key = "HarlotFellPublic">
     <value> Yancı {0} eğlenceli bir gece geçirmek için evden ayrılırken, yerel mezarlıkta kestirme bir yol denedi. Biraz başı dönmüş olmalı, çünkü bir sonraki adımında toprak olmadığını fark etmedi ve üstü örtülü olmayan mezarın içine düştü. Belki dün ona teklif ettikleri daveti kabul etmemeliydi! </value>
-  </string>
-  <!-- {0}: ölen tarikatçı -->
-  <string key = "CultistFellPublic">
-    <value> Tarikat kiliseyi yakmaya çalıştı, ancak {0}'in grubu mezarlıktan geçerken ayak bileklerini bir ayı tuzağı yakaladı! Açık bir mezara düştüğünde çığlıklar duyuldu ve diğer tarikatlar dehşet içinde kaçtı ... </value>
   </string>
   <!-- {0}: ölen kurt, {1}: "(kişi) (rol)" ne tür bir kurt olduğunu belirtmek için -->
   <string key = "WolfFellPublic">
@@ -2661,11 +2493,6 @@
     <value> Sabah olur {0} hiçbir yerde görünmez, {1} aniden kendini asmak için lambanın ipini kullanmayı seçer. {1} öldü. </value>
   </string>
 
-  <string key = "PlayerStartedcultus">
-    <!-- 0 - Oyuncu adı -->
-    <value> {0} bir Tarikat oyunu başlattı! Eğlenceye katılmak için butona tıkla ... ve muhtemel ölümün için dua edin :P </value>
-    <value> {0} yeni bir Tarikat oyunu başlattı! Yeni bir tür kutsanma için butona tıkla! </value>
-  </string>
 
   <!-- GECE AVCISI -->
 
@@ -2843,7 +2670,7 @@
     <value> Bu gece kimi ısırmak istiyorsun? </value>
   </string>
   <string key = "Aboutvampir">
-    <value> Ubır 🧛: \nHer gece kanını emecek bir av seçebileceksin. (başka bir oyuncuyu ziyaret ettiğinde %50 öldürme şansın olacaktır, hedefin ölmezse dönüşecek her rol için farklı bir yüzde vardır ve dönüşmeyi başaramayanlar ölür). Kurtadamların ve Ubırların zamanın başından beri düşman olduğu biliniyor, Biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin, diğer yandan seni ziyaret ederlerse birden fazla olmaları gerekecek. Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen ve korkunç bir şekilde ölürsün. </value>
+    <value> Ubır 🧛: \nGeçmişte Sıradan, aciz ve putperest zamanlarını hatırlıyor musun? Ne kadar zavvallıca! Olabilecek her solo katilden korkarak, tir tir titreyerek bu zamana kadar kazanamamış olmana şaşmamak gerek. Ancak işler senin için değişti :) Ölüsün ama kana susamış yaratıklar olarak yeniden dirildin. Zamanında mezarına kazık çakmaları gerekirdi ancak artık çok geç. Her gece yalnızca mezhebine dahil etmek için bir oyuncu seçmeyeceksin. Eğer ki senin Ubır tarikatına katılmayı reddederlerse onların tüm kanın emicek ve ölüme terk edeceksin. Her oyuncu için farklı bir dönüşüm ve ölüm yüzdesi vardır. Öncelik dönüşüm yüzdesi baz alınır. Eğer dönüşüm gerçekleşmezse yüzdeye bağlı olarak ölüm gerçekleşir. Kurtadamların ve Ubırların zamanın başından beri düşman olduğu biliniyor. Biriyle karşı karşıya kalırsan ölüm kalım savaşı vereceksin. Diğer yandan seni ziyaret ederlerse kolayca pes etmeyeceksin. Seni alt etmeleri için birden fazla olmaları gerekir aksi takdirde onu öldürürsün Bir avcıyı ziyaret edersen dikkatli ol, çünkü onu dönüştüremezsen korkunç bir şekilde ölürsün. Yeni gelen Kelle Avcısı mı? Evet onun için hakkında endileşensen iyi olur çünkü oyunun başlarında ölümsüz ve acımasız bir avcı. Oyundaki oyuncuların yarısı öldüğü vakit kanın ve ölümlerin sana verdiği güçle Kelle Avcısını düşürmek için bir şansın olacak. Ne kurt, ne Avcı ne de başka bir kötü... Artık doğaüstü bir yaratıksın ve sen onlardan endişe etme, bırak onlar senin hakkında endişelensin!</value>
   </string>
   <string key = "vampir">
     <value> Ubır 🧛 </value>
@@ -2938,9 +2765,6 @@
   <string key = "Harlotburned">
     <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Kapının önünde tamamen kül olmuş şekilde ölürsün. </value>
   </string>
-  <string key = "Cultistburned">
-    <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Ubır arkadaşların, içinde bulunduğun durumu gördüklerinde sonunda gülüyor ve bir mumla dua ediyorlar. </value>
-  </string>
   <string key = "CHburned">
     <value> Evden çıkmak için kapıyı açtığında, yaklaşan bir ışık görüyorsun, ama ... bu bir ışık değil, inanılır gibi değil !! Alevlere boğulmuş bir kurt üzerine saldırıyor. Senin için avlanma bitti, ızgarada cız bız oldun. </value>
   </string>
@@ -2977,9 +2801,9 @@
   <string key = "Defaultburn">
     <!-- 0 - hedefin adı -->
     <!-- 1 - hedefin rolü -->
-    <value> Ne büyük bir felaket! Köylüler {0} 'in küllerle dolu evini keşfederler. Ateşli bir kurdun işi olmalı. {0} idi {1} ve artık ölü. </value>
-    <value> Bugün trajik bir gün. Köy, Cehennem Kurdunun başka bir kurbanı olan {0}'in küllerini bulur. {0} idi {1} ve artık ölü. </value>
-    <value> {0} bu gece ateşle oynamaya çalıştı ve o öldü. {0} idi {1} ve artık ölü. </value>
+    <value> Ne büyük bir felaket! Köylüler {0} 'in küllerle dolu evini keşfederler. Ateşli bir kurdun işi olmalı. {1} ve artık ölü. </value>
+    <value> Bugün trajik bir gün. Köy, Cehennem Kurdunun başka bir kurbanı olan {0}'in küllerini bulur. {1} ve artık ölü. </value>
+    <value> {0} bu gece ateşle oynamaya çalıştı mangalda ızgara oldu. {1} ve artık ölü. </value>
   </string>
   <string key = "WolfVotedburn">
     <value> {0}, yakmak için {1}'e oy kullandın. </value>
@@ -4407,7 +4231,7 @@
 		<value>\n Kazandığın için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır:\n 🌑x12 🌘x10 🌗x8 🌖x6 🌕x4 🔅x3 🔆x1'6 🥉x1'2 🥈x1 🥇x0'8 💎x0'6 💎👉🏆x0`51 🏆x0'3</value>
 	</string>
 	<string key="pointlost">
-		<value> Kaybettiğin için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle çarpılır.\n Cezalar: \n 🌑/🌘/🌗/🌖/🌕/🔅 0 🔆-1 🥉-2 🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6</value>
+		<value> Kaybettiğin için bu puanların toplamı, bulunduğun lige bağlı olan bir faktörle toplanır.\n Cezalar: \n 🌑/🌘/🌗/🌖/🌕/🔅 0 🔆-1 🥉-2 🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6</value>
 	</string>
 
     <!-- susurrador -->
@@ -4717,5 +4541,8 @@
 		<value> Dün gece {0} yanlış kişiyi ziyaret etti. Sigma Kurt ziyaretçesini öldürmeyü tercih etti ve artık {0} ölü.</value>
 		<value> {0} koruyucu köpeği Barak'ın yanında güvende olduğunu sanıyordu ancak ziyaret ettiği kişi Barak değil Sigma Kurduydu. {0} öldü.</value>
 		<value> {0} dün gece Sigma Kurdun adresini ziyaret ederek büyük birtehlikeye atıldı ve hedefi tarafından avlandı. {0} öldü.</value>
+	</string>
+	<string key="noextneg">
+		<value>/ extend komutu yalnızca süreyi arttırmak için kullanılır, düşürmek içindeğil.</value>
 	</string>
 </strings>
