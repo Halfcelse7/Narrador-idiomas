@@ -2638,7 +2638,7 @@
   </string>
   <string key="vampConvertWolfPublic">
     <!--used when vamp convert the wolves, only if wolves stayed home-->
-    <value>Aunque parecía que los hombres lobo habían decidido quedarse en casa, un vampiro decidió retarlos, siendo demasiado difícil de resistir para los hombres lobo. ¡La cabeza de {0} se convirtió en una deliciosa cena!</value>
+    <value>Cuando los hombres lobo volvían de su caza, un vampiro decidió retarlos en las puertas de su morada, siendo demasiado difícil de resistir para los hombres lobo. ¡La cabeza de {0} se convirtió en una deliciosa cena!</value>
     <value>Los vampiros se encontraron con problemas inesperados anoche. Su miembro más reciente, {0}, tuvo la desgracia de visitar a un hombre lobo, justo la noche que los hombres lobo habían decidido quedarse en casa. Desafortunadamente para los vampiros {0} ha muerto.</value>
   </string>
   <string key="vampConvertKillerPublic">
@@ -4446,5 +4446,63 @@
     </string>
     <string key="noextneg">
 	<value>El extend solo puede utilizarse para añadir tiempo, no para restarlo.</value>
+	</string>
+
+	<!-- vs in victim -->
+
+	<string key="susvisittarofv">
+		<value>Quien te iba a decir que los vampiros te pillarían por sorpresa cuando te acercabas a tu siguiente victima, has muerto decapitado.</value>
+	</string>
+	<string key="zdeadvisittarofov">
+		<value>Vuestro líder se encontró con {0} merodeando muy lentamente y gruñendo cerca de casa de {1}, será zombi?, aprovechó la oportunidad para deshacerse de {0}.</value>
+	</string>
+	<string key="zdeadvisittarofv">
+		<value>Habéis encontrado a {0} caminando como sin vida en las cercanías de la casa de {1}, como parece un zombi pues le arrancáis la cabeza.</value>
+	</string>
+	<string key="susvisittarofww">
+		<value>Girando la esquina para llegar a casa de tu siguiente victima ves uno o dos lobos acercándose, mejor decides volverte a casa antes de que se den cuenta de que no eres un zombi.</value>
+	</string>
+	<string key="ovvisittofw">
+		<value>Vuestro anciano líder aparece con las pieles de {0}, por lo visto se lo encontró en los alrededores de la casa de su victima.</value>
+		<value>Parece que vuestro anciano no trajo un nuevo vampiro, pero si trae los colmillos de {0} como recuerdo.</value>
+	</string>
+	<string key="ovdeadxvisittofws">
+		<value>Increíble pero cierto, cuando entras por la puerta de la casa de tu víctima aparece una manada de lobos que te hacen pedazos.</value>
+	</string>
+	<string key="ovdeadxvisittofws2">
+		<value>2x1, estamos de suerte, {0} aparece como pedro por su casa cuando estáis a punto de ocuparos de {1}, no dejáis escapar esta oportunidad y acabáis con {0} haciéndolo pedazos.</value>
+	</string>
+	<string key="ovdeadxvisittofws3">
+		<value>Notáis que algo pasa, {0} ha muerto de alguna forma cuando fue a chuparle la sangre a {1}.</value>
+	</string>
+	<string key="vvisittofw">
+		<value>¿Coincidencia?,¿azar?,nunca lo sabremos, pero si aprovechamos para deshacernos de {0} al verlo por la casa de nuestra víctima.</value>
+		<value>Este lobito se fue al mercado, el otro lobito se fue a la feria, pero {0} se metió donde no debía al visitar a vuestra victima.</value>
+	</string>
+	<string key="vdeadxvisittofws2">
+		<value>¿Eso es un murciélago?, pues no, es {0} con sed de sangre sobrevolando la casa de {1}, en cuanto aterriza acabáis con él.</value>
+		<value>{0} se acerca por casa de {1} con una rara capa y la cara muy pálida, mejor no dejarlo vivir y acabar ya con su triste vida.</value>
+	</string>
+	<string key="vdeadxvisittofws3">
+		<value>{0} no volvió de su botellón de sangre planeado para esta noche, algo debió ocurrir en casa de {1}.</value>
+		<value>{0} no aparece por ningún lado, lo último que se supo de él era que iba a ocuparse de {1}.</value>
+	</string>
+	<string key="vkillwwxvsinvictim">
+		<value>Nadie esperaba que {0} fuera de la manada, bueno, un lobo menos por meterse en los asuntos de los vampiros, no es buena idea visitar la misma víctima que ellos.</value>
+		<value>{0} tenia tanta tanta hambre, que intentó robarle la comida a los vampiros, claramente no tuvo suerte.</value>
+	</string>
+	<string key="vkillsusxvsinvictim">
+		<value>{0} quería intentar unir un zombi mas a su horda personal, pero no se percató de los vampiros que estaban cerca, {0} sufrió las consecuencias quedando sin cabeza.</value>
+	</string>
+	<string key="vkillzxvsinvictim">
+		<value>La inteligencia de {0} se terminó cuando se volvió zombi, al parecer su vista también ya que {0} no vio que su próxima cena ya estaba siendo acechada por vampiros.</value>
+		<value>Un zombi menos, los vampiros mientras acechaban a su siguiente victima se encontraron a {0} gruñendo cerca de su casa.</value>
+	</string>
+	<string key="wwkillvxvsinvictim">
+		<value>{0} se arrepintió de su elección para chupar sangre esta noche, se encontró con los lobos en casa de su victima.</value>
+		<value>Hoy {0} quería hacer un botellón de sangre, que mala suerte que los lobos ya estaban allí.</value>
+	</string>
+	<string key="vsinvictim">
+		<value>Explicación de porcentajes cuando varios roles coinciden con una misma victima:\n\n-Susurrador y zombis:\nCoincidiendo con cualquier clase de vampiros siempre serán decapitados, coincidiendo con lobos no les ocurrirá nada pero perderán su oportunidad esa noche.\n\n-Lobos VS Vampiro Anciano:\nEn esta situación dependerá de la cantidad de lobos que haya, si son 3 o mas lobos, podrán derrotar al vampiro anciano y seguir con su acción con su victima, en caso contrario morirán y la victima sobrevivirá al vampiro anciano.\n\n-Lobos VS Vampiros:\nTambién depende de la cantidad de miembros de ambos teams, si los vampiros son mayoría los lobos mueren y la víctima sobrevive, si los lobos ganan por mayoría realizarán su acción con su víctima, en caso de ser empate en cantidad de miembros de ambos teams habrá un porcentaje del 50% para decidir que team gana.</value>
 	</string>
   </strings>
