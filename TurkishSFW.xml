@@ -2689,7 +2689,7 @@
   </string>
   <string key = "vampConvertWolfPublic">
     <!-- vamp, kurtları dönüştürürken, yalnızca kurtlar evde kaldıysa kullanılır -->
-    <value> Kurt adamlar evde kalmaya karar vermiş gibi görünse de, bir Ubır onlara meydan okumaya karar verdi, kurt adamların direnmesi çok zordu. {0}'in kafası lezzetli bir akşam yemeğine döndü! </value>
+    <value> Kurt adamlar evde kalmaya karar vermiş gibi görünse de, bir Ubır onlara meydan okumaya karar verdi. Kurt adamların direnmesi çok zordu. {0}'in kafası lezzetli bir akşam yemeğine döndü! </value>
     <value> Ubırlar dün gece beklenmedik bir sorunla karşılaştı. En yeni üyesi {0}, kurtadamların evde kalmaya karar verdikleri gece bir kurt adamı ziyaret etme talihsizliğini yaşadı. Ne yazık ki genç Ubır {0} öldü. </value>
   </string>
   <string key = "vampConvertKillerPublic">
@@ -4543,6 +4543,82 @@
 		<value> {0} dün gece Sigma Kurdun adresini ziyaret ederek büyük birtehlikeye atıldı ve hedefi tarafından avlandı. {0} öldü.</value>
 	</string>
 	<string key="noextneg">
-		<value>/ extend komutu yalnızca süreyi arttırmak için kullanılır, düşürmek içindeğil.</value>
+		<value>/ extend komutu yalnızca süreyi arttırmak için kullanılır, düşürmek için değil.</value>
+	</string>
+	
+	<!-- vs in victim -->
+
+	<string key="susvisittarofv">
+		<value> Bir sonraki kurbanına doğru yaklaştığından sürpriz bir şekilde ubırlarla karşılaştın. Sonuç olarak kafanı gövdenden ayırdılar.</value>
+	</string>
+	<string key="zdeadvisittarofov">
+		<!-- 0 - Zombi İsmi -->
+		<!-- 1 - Kont İsmi -->
+		<value> Lideriniz {1}, evinin yakınlarında dolaşan homurdanan birilerini yakaladı. Yoksa {0} bir zombi mi? {1} hiç tereddüt etmeden onun kafasını kopardı.</value>
+	</string>
+	<string key="zdeadvisittarofv">
+		<!-- 0 - Zombi İsmi -->
+		<!-- 1 - Ubır İsmi -->
+		<value> {1}'in evinin önünde dolanan bir varlığı fark edersin. {0}'in çıkardığı seslerden ve çürümüş bedeninden anlayacağın üzere o bir zombi. Hiç tereddüt etmeden kafasını kopardın.</value>
+	</string>
+	<string key="susvisittarofww">
+		<value> Bir sonraki kurbanının evinegitmek içinköşeyi döndüğünde, birkaç tane Kurt Adam fark edersin. Çürükbedenleri pek tercih etmeselerde senin bir zombi olmadığını anlamadan kaçsan iyi olur.</value>
+	</string>
+	<string key="ovvisittofw">
+		<!-- 0 - Kurt Adam İsmi -->
+		<value> Liderin, kurbanının evinin etrafında dolanan tüylü bir yaratık fark etti. Görünüşe göre {0} bir Kurttu ancak bunu çözmek Kont için pek de büyük bir problem değildi.</value>
+		<value> Görünüşe göre senin yaşlı adam yeni bir ubır getirmemiş ama {0}'in dişlerini hatıra olarak getiriyor.</value>
+	</string>
+	<string key="ovdeadxvisittofws">
+		<value> Hedefinin evine doğru ilerliyordun ancak bir Kurt sürüsü etrafını sardı ve seni alt etmeyi başardılar.</value>
+	</string>
+	<string key="ovdeadxvisittofws2">
+		<!-- 0 - Kont İsmi -->
+		<!-- 1 - Kurbanın İsmi -->
+		<value> Hedefinin evinden çıkarken kapının önünde {0}'i fark edersin. {1}'in üstüne bir de {0}'i öldürmen yok mu? Offff tadından yenmez.</value>
+	</string>
+	<string key="ovdeadxvisittofws3">
+		<!-- 0 - Kont İsmi -->
+		<!-- 1 - Hedefin İsmi -->
+		<value> Garip bir şeyler var... {1}'in kanını emmeye gittin ancak bir şekilde {0}'i de ölü buldun.</value>
+	</string>
+	<string key="vvisittofw">
+		<!-- 0 - Kurt Adam İsmi -->
+		<value> Şans? Kader? Adına her ne dersen de. Ancak hedefinin evinde {0}'i görüp de öylece bırakmak olmaz. Göz hakkıdır onun da canı ister. Hemen bu itin kanını emip kafasını kopardın.</value>
+		<value> Sürü belli ki farklı yerlere dağılmış. Ama bariz bir şekilde en şanssızları {0} idi. Çünkü senin kurbanın evine geldi ve onun da işini bitirdin.</value>
+	</string>
+	<string key="vdeadxvisittofws2">
+		<!-- 0 - Ubır İsmi -->
+		<!-- 1 - Kurbanın İsmi -->
+		<value> Yarasa mı lan o? Yoo bildiğimiz düz Ubır işte. Her neyse daha fazla hedefinin evinin etrafında dolanmasını istemiyorsun ve tek pençeyle bu kana susamış ubırın icabına bakıyorsun.</value>
+		<value> {1}'in işini bitirirken aniden kapının önünde {0} belirdi. Rengi solmuş tuhaf bir şeydi. Senin mekanına gelip hedefine göz diken bu elemana göz yumucaksın? Tek pençeyle hemen aşşa aldın onu.</value>
+	</string>
+	<string key="vdeadxvisittofws3">
+		<!-- 0 - Ubır İsmi -->
+		<!-- 1 - Hedefin İsmi -->
+		<value> Bir terslik var. {0}'in {1}'in tüm kanını emip yada onu kendi saflarına çekerek geri dönmüş olması gerekirdi. Sanırım {1}'in evinde beklenmedik olaylar yaşandı...</value>
+		<value> İlginç... {0} hiçbir yerde yok. {1}'in evinde onun işini bitiriyor olması gerekirdi.</value>
+	</string>
+	<string key="vkillwwxvsinvictim">
+		<!-- 0 - Kurt Adam İsmi -->
+		<value> Sürü kurban seçiciliğinde pek de iyi değildi bu gece. Ancak bunun bedelini {0} ödedi. Sanırım kan emici Ubırlar ile karşı karşıya gelmemek gerekir.</value>
+		<value> {0}'in açlıktan gözü dönmüştü ve Ubırların yemeğine göz dikti. E sonucu da belli hani.. Ubırlar {0}'in kafasını kopardılar.</value>
+	</string>
+	<string key="vkillsusxvsinvictim">
+		<!-- 0 - Fısıltı İsmi -->
+		<value> Avınla meşgul iken çürük vücutlu biri hedefinin etrafındaydı. Pek de zombi gibi hareketleri yoktu ancak belli ki {0} senin avını kendi zombi sürüsüne dahil etmek isteyen fısıltıydı. Bu da ibreti alem olsun "Ubırların kurbanlarına göz dikemesin".</value>
+	</string>
+	<string key="vkillzxvsinvictim">
+		<!-- 0 - Zombi İsmi -->
+		<value> {0}'in zekası literatür olarak beynini terk etmiş! Senin gibi doyumsuz ubırın hedefine göz dikmesi inanılmaz cesurca. E tabi bi o kadarda aptalca amaişte, cesaret para etmiyor. Doğrudan {0}'in sefil kafasını gövdesinden ayırdın.</value>
+		<value> Bir başka zombi olan {0} senin avına göz dikmişti. Allah versin kardeş deyip de onu geri döndürebilirdin onu ama en iyi kellesini koparmaktı.</value>
+	</string>
+	<string key="wwkillvxvsinvictim">
+		<!-- 0 - Ubir İsmi -->
+		<value> Her ne kadar pişman olsa da {0}'in bunu dert etmesine gerek kalmadı. Kurtların kurbanına sulanmak başlı başına bir hata idi ve daha pişmanlık duymasına müsade bile etmeyen kurtlar {0}'i lime lime ettiler.</value>
+		<value> Kana susamışlık ve açgözlülük bir Ubır'ın canına daha mâl oldu. {0} bu gece kurtların hedefine saldırmaya çalıştı ve kurbanın yanında meze oldu.</value>
+	</string>
+	<string key="vsinvictim">
+		<value> Eğer ki gecenin yaratıkları aynı hedefi seçer ve karşı karşıya gelirse, olacak sonuçlar ile ilgili bazı yüzdelik ihtimalleri buradan görebilirsin: \n\n   -Fısıltı ve Zombiler: \nEğer Fısıltı/Zombi Ubırlar ile aynı kurbanın evinde rastlaşırsa, Ubırlar daima Fısıltıyı/Zombiyi katledecektir. Ancak Kurt Adamlar ile aynı kurbanın evinde rastlaşırlarsa hiçbir şey olmayacak. Yalnızca gece aksiyonlarını boşa harcamış olacaklar. \n\n   -Kurt Adamlar ve Kont:\n Böyle bir durumda herşey tamamıyla kurt sürüsünün sayısına bağlıdır. Eğer ki, 3 veya 3'ten fazla Kurt Adam Kont'un kurbanı ile aynı evde rastlaşırsa Kurt adamlar galip gelir ve kurbanlarını da öldürürler. 3 kişiden az Kurt Adam var ise Kont Kurtlardan bir kişi varsa birini, iki kişi varsa ikisini de öldürecek ancak kurban ise hayatta kalacak. \n\n   -Kurt Adamlar ve Ubırlar: \nBu durumda da herşey her iki takımdaki üye sayısına bağlı. Ubırlar sayı olarak Kurt Adamlardan fazla olarak aynı kurbanın evinde rastlaşırsa, Ubırlar galip gelir ancak kurban hayatta kalır. Kurt Adamlar sayı olarak Ubırlardan fazla olarak aynı kurbanın evinde rastlaşırsa, Kurt Adamlar galip gelir ve kurban da ölür. İki tarafın da üye sayısı eşit ise 50% tek bir kazanan olacak.</value>
 	</string>
 </strings>
