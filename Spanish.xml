@@ -2780,7 +2780,7 @@
     <value>El lobo de fuego intentó quemarte, como si de un diablo se tratase, pero fuiste rápido y echaste a volar alto antes de que te quemara las alas.</value>
   </string>
   <string key="GAburnednofw">
-    <value>Que mala suerte, diste con un angel de la guardia y antes de quemarlo alzó el vuelo para escapar a tu alcance.</value>
+    <value>Que mala suerte, diste con un angel de la guarda y antes de quemarlo alzó el vuelo para escapar a tu alcance.</value>
   </string>
   <string key="vampirKilledWolf">
     <value>{0} parece que subestimó a su presa, este lobito no volvió a casa, aparentemente parece que murió mordido por una serpiente, pero las serpientes no chupan sangre, o si?.</value>
@@ -3809,7 +3809,7 @@
 		<value>No fue buena idea visitar al Cazador de la Noche cuando aún es lo suficientemente fuerte, el lobo de fuego perdió el tiempo esta noche.</value>
 	</string>
 	<string key="GAburnednofw2">
-		<value>Que mala suerte, el lobo de fuego dio con un angel de la guardia y antes de quemarlo alzó el vuelo para escapar a su alcance.</value>
+		<value>Que mala suerte, el lobo de fuego dio con un angel de la guarda y antes de quemarlo alzó el vuelo para escapar a su alcance.</value>
 	</string>
 	<string key="cadbprotect3">
 		<value>Cuando se ataca a {0} se distingue que lo acompaña un perro blanco, cuanto mas cerca se está de {0}, ese perro se vuelve cada vez más grande, ¡es el cadejo blanco!, se vuelve a casa ya que {0} está protegido contra todo mal.</value>
