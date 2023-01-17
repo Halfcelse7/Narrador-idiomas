@@ -6,13 +6,13 @@
 	</string>
 	<string key="PlayerStartedGame">
 		<!-- 0 - Player name -->
-		<value>¡{0} telah memulai permainan! Tekan "Gabung" untuk bergabung dalam permainan. Bersiaplah untuk dimakan!</value>
-		<value>¡{0} telah memulai permainan! Tekan tombol untuk bergabung dalam permainan.</value>
+		<value>¡{0} memulai permainan! Tekan "Gabung" untuk bergabung dalam permainan. Bersiaplah untuk dimakan!</value>
+		<value>¡{0} memulai permainan! Tekan tombol untuk bergabung dalam permainan.</value>
 	</string>
 	<string key="PlayerStartedChaosGame">
 		<!-- 0 - Player name -->
-		<value>¡{0} telah memulai permainan mode Chaos! Tekan tombol dan bersiaplah untuk mati! (Unique roles can repeat)</value>
-		<value>¡{0} telah memulai permainan mode Chaos! Tekan tombol untuk bergabung (Unique roles can repeat)</value>
+		<value>¡{0} memulai permainan mode Chaos! Tekan tombol dan bersiaplah untuk mati! (Unique roles can repeat)</value>
+		<value>¡{0} memulai permainan mode Chaos! Tekan tombol untuk bergabung (Unique roles can repeat)</value>
 	</string>
 	<string key="NoJoinGameRunning">
 		<value>Kamu tidak bisa bergabung {0}, permainan sudah dimulai!</value>
@@ -32,7 +32,7 @@
 	</string>
 	<string key="BannedForExploit">
 		<!-- 0 - Player name -->
-		<value>{0} telah dilarang karena bermain curang! (/ nama yang mendapat larangan).</value>
+		<value>{0} dilarang bermain karena curang! (/ nama yang mendapat larangan).</value>
 	</string>
 	<string key="ChangeNameToJoin">
 		<!-- 0 - Player name -->
@@ -53,11 +53,11 @@
 		<value>{0}, silakan hubungi saya dengan menekan tombol di bawah ini, agar saya dapat mengirimi Anda petunjuk permainan.</value>
 	</string>
 	<string key="DeadFlee">
-		<value>Kamu sudah meninggalkan permainan karena kamu sudah mati. Kembali ke makammu atau mulai permainan baru.</value>
+		<value>Kamu sudah meninggalkan permainan karena kamu sudah mati.</value>
 	</string>
 	<string key="Flee">
 		<!-- 0 - Player name -->
-		<value>¡{0} lari ketakutan seperti pengecut!</value>
+		<value>¡{0} lari ketakutan seperti pengecut.</value>
 	</string>
 	<string key="PlayerRoleWas">
 		<!-- 0 - Player name -->
@@ -69,26 +69,26 @@
 		<value>{0} pemain terisa.</value>
 	</string>
 	<string key="DidntAsk">
-		<value>Hey, aku belum tanya apa pun!</value>
+		<value>Hey, aku belum tanya apa pun.</value>
 	</string>
 	<string key="NotPlaying">
 		<value>Kamu tidak tergabung dalam permainan.</value>
 	</string>
 	<string key="NoPlayerName">
-		<value>Maaf, saya tidak menemukan pemain dengan nama tersebut!</value>
+		<value>Maaf, saya tidak menemukan pemain dengan nama tersebut.</value>
 	</string>
 	<string key="AnswerNonValid">
-		<value>Jawaban ini tidak valid!</value>
+		<value>Jawaban ini tidak valid.</value>
 	</string>
 	<string key="WolfVotedKill">
 		<!-- 0 - wolf teammate name -->
 		<!-- 1 - Victim name -->
-		<value>{0} telah memilih untuk memakan {1}.</value>
+		<value>{0} memilih untuk memakan {1}.</value>
 	</string>
 	<string key="PlayerVotedLynch">
 		<!-- 0 - Voter name -->
 		<!-- 1 - Target name -->
-		<value>{0} telah memilih untuk mengeksekusi {1}.</value>
+		<value>{0} memilih untuk mengeksekusi {1}.</value>
 	</string>
 	<string key="TraitorTurnWolf">
 		<value>Hei, Traitor. Sekarang kamu adalah serigala.</value>
@@ -170,7 +170,7 @@
 	<string key="LynchKill">
 		<!-- 0 - player name -->
 		<!-- 1 - player role -->
-		<value>Setelah diliputi kecurigaan dan keraguan, warga desa menentukan pilihannya. {0} tewas digantung. Dia adalah {1}.</value>
+		<value>Setelah diliputi kecurigaan dan keraguan, warga desa menentukan pilihannya. {0} tewas digantung. {1}.</value>
 	</string>
 	<string key="LynchTie">
 		<value>Frustasi, warga desa tidak dapat memutuskan siapa yang harus dieksekusi. Mereka kembali ke rumah masing-masing.</value>
@@ -205,7 +205,7 @@
 	<string key="DefaultEaten">
 		<!-- 0 - victim name -->
 		<!-- 1 - victim role -->
-		<value>Pagi ini, penduduk desa mencium bau yang sangat menyengat. Saat menelusuri sumber bau, mereka menemukan jasad {0} tercabik-cabik di kandang babi, kepalanya hilang! NOMNOMNOMNOM\nDia adalah {1}</value>
+		<value>Pagi ini, penduduk desa mencium bau yang sangat menyengat. Saat menelusuri sumber bau, mereka menemukan jasad {0} tercabik-cabik di kandang babi, kepalanya hilang! NOMNOMNOMNOM\n{1}</value>
 	</string>
 	<string key="HunterKilledCultist">
 		<!-- 0 - victim name -->
@@ -223,7 +223,7 @@
 	</string>
 	<string key="CursedBittenToWolves">
 		<!-- 0 - victim name -->
-		<value>{0} berhasil digigit, tapi karena dia adalah Terkutuk (Cursed), kini dia menjadi serigalawas bitten. Selamat atas rekan serigala baru Anda!</value>
+		<value>{0} berhasil digigit, tapi karena dia adalah Terkutuk (Cursed), kini dia menjadi serigalawas bitten. Selamat atas rekan serigala barumu!</value>
 	</string>
 	<string key="WolvesEatYou">
 		<value>Oh, tidak! Serigala memakanmu! NOMNOMNOMNOM.</value>
@@ -1647,7 +1647,7 @@ Catatan: Jika hanya ada 1 serigala, Hunter memiliki potensi 30% membunuh serigal
 		<value>Tidak diketahui</value>
 	</string>
 	<string key="Imposter">
-		<value>the Impostor❌</value>
+		<value>Impostor❌</value>
 	</string>
 	<string key="AboutImposter">
 		<value>Impostor berada di tim serigala. Di awal permainan, dia bisa bisa memilih satu pemain untuk ditiru perannya. Jika peran yang dia tiru memiliki aksi malam, dia tidak dapat melakukan aksi malam seperti target. Penerawang akan melihatnya sebagai peran yang dia tiru. Dan saat dia mati, dia mati sebagai peran yang ditiru.</value>
@@ -3321,7 +3321,7 @@ Guide for beginners: \nhttps://narradorbot.com/guia-para-novatos/\n\nAturan umum
 		<value>Kamu adalah Serigala Rakus🐺🍖. Kamu tidak pernah kenyang; selalu lapar. 40% kemungkinan peran korbanmu tidak akan terungkap (Devoured) di desa.\n\nTim: Serigala.\n\nKonversi:\nVampire: Berpeluang 50% membunuh vampire atau terbunuh oleh vampire.\nZombie:\nJika kamu mengunjungi zombie, kamu tidak akan memakannya karwna daginnya busuk. \nJika zombie mengunjungimu, kamu tidak akan terinfeksi.</value>
 	</string>
 	<string key = "RoleInfoImposter">
-		<value>mu adalah Impostor❌. Kamu berada di tim serigala. Di awal permainan, kamu bisa memilih satu pemain untuk ditiru perannya. Jika peran yang kamu tiru memiliki aksi malam, kamu tidak dapat melakukan aksi malam sepertinya. Penerawang akan melihatmu sebagai peran yang kamu tiru. Dan saat kamu mati, kamu mati sebagai peran yang kamu tiru.\n\nTim: Serigala.\n\nKonversi:\nVampire: selalu terkonversi.\nZombie: Berpotensi 40% terinfeksi atau bertahan hidup.</value>
+		<value>Kamu adalah Impostor❌. Kamu berada di tim serigala. Di awal permainan, kamu bisa memilih satu pemain untuk ditiru perannya. Jika peran yang kamu tiru memiliki aksi malam, kamu tidak dapat melakukan aksi malam sepertinya. Penerawang akan melihatmu sebagai peran yang kamu tiru. Dan saat kamu mati, kamu mati sebagai peran yang kamu tiru.\n\nTim: Serigala.\n\nKonversi:\nVampire: selalu terkonversi.\nZombie: Berpotensi 40% terinfeksi atau bertahan hidup.</value>
 	</string>
 	<string key = "RoleInfoBaker">
 		<value>mu adalah Baker🍞 penduduk desa yang dihormati dan dicintai oleh warga desa. Jika kamu mati, warga desa akan berkabung dan tidak akan mengadakan hukuman mati.\n\nTim: Warga Desa.\n\nKonversi:\nVampire: selalu terkonversi.\nZombie: Berpotensi 40% terinfeksi atau bertahan hidup.</value>
