@@ -4537,7 +4537,77 @@
     <value>{0} was appreciating a dog that crossed their path, in the end the supposed dog ended up appreciating their bones after eating them.</value>
     <value>It seems that {0} thought it was a kennel employee, they liked a breed that they saw... a wrong breed, it was the little Grey Wolf.</value>
   </string>
-  <string key="groupnorank2">
-    <value>Only the approved groups to appear in the grouplist are allowed to play ranked, you can request the permission to appear in the grouplist in our support group: https://t.me/+15_YMW-D1iQ1YmUx </value>
+  
+
+  <!-- 2023 -->
+	
+	<!-- January Mac Translation--> 
+
+	<string key="groupnorank2">
+    <value>Only approved groups from the grouplist are allowed to play ranked, you can request permission to appear in the grouplist in our support group: https://t.me/+15_YMW-D1iQ1YmUx </value>
   </string>
-	 </strings>
+	<string key="linkposgame">
+	<value>Remember that now there is a group to discuss the games when they end, you can request to join in the following link:\n\n https://t.me/+hHR-4ptcpIRiNDJk \n\n If you don't follow the instructions you can be muted, this post-game group was created to discuss the moves and strategies from the game always respecting the rest of players not to encourage long post-game discussions in this group.</value>
+    </string>
+    <string key="noextneg">
+	<value>The extend command can only be used to increase time, not to decrease it..</value>
+	</string>
+
+	<!-- vs in victim -->
+
+	<string key="susvisittarofv">
+		<value>Who would have thought vampires would catch you by surprise when you approached your next victim, you died decapitated.</value>
+	</string>
+	<string key="zdeadvisittarofov">
+		<value>Your leader came across {0} sneaking around very slowly and growling near {1} house, will he be a zombie?, he took the opportunity to get rid of {0}.</value>
+	</string>
+	<string key="zdeadvisittarofv">
+		<value>You have found {0} walking lifelessly in the surroundings of {1} house, as he looks like a zombie, you ripped off his head.</value>
+	</string>
+	<string key="susvisittarofww">
+		<value>Going around the corner to get to your next victim's house you see one or two wolves approaching, you'd better decide to go home before they realize you're not a zombie.</value>
+	</string>
+	<string key="ovvisittofw">
+		<value>Your elderly leader appears with the skins of {0}, apparently, he was found in the surroundings of his victim's house.</value>
+		<value>It seems your elder didn't bring a new vampire, but he does bring {0} fangs as a souvenir.</value>
+	</string>
+	<string key="ovdeadxvisittofws">
+		<value>Unbelievable but true, when you enter the door of your victim's house, a pack of wolves shows up to rip you to shreds.</value>
+	</string>
+	<string key="ovdeadxvisittofws2">
+		<value>2x1, we are lucky, {0} shows up just as you are about to deal with {1}, you don't let this opportunity slip away and you end up with {0} ripping him to shreds.</value>
+	</string>
+	<string key="ovdeadxvisittofws3">
+		<value>You notice that something is going on, {0} has somehow died when he went to suck {1} blood.</value>
+	</string>
+	<string key="vvisittofw">
+		<value>Coincidence? we'll never know, but we did take the opportunity to get rid of {0} when we saw him at our victim's house.</value>
+		<value>This wolfie went to the market, and the other wolfie went to the fair, but {0} got in the wrong place when he visited your victim.</value>
+	</string>
+	<string key="vdeadxvisittofws2">
+		<value>Is that a bat?, no, it's {0} with a thirst for blood flying over {1} house, as soon as it lands you kill it.</value>
+		<value>{0} approaches {1} house with a strange cape and a very pale face, better not to let him live and put an end to his sad life.</value>
+	</string>
+	<string key="vdeadxvisittofws3">
+		<value>{0} didn't return from his blood feast planned for tonight, something must have happened at {1} house.</value>
+		<value>{0} can't be found anywhere, the last we heard from him was that he was going to take care of {1}.</value>
+	</string>
+	<string key="vkillwwxvsinvictim">
+		<value>No one expected {0} to be from the pack, well, one less wolf for messing with the vampires business, not a good idea to visit the same victim as them.</value>
+		<value>{0} he was so hungry, he tried to steal food from vampires, clearly he had no luck.</value>
+	</string>
+	<string key="vkillsusxvsinvictim">
+		<value>{0} wanted to try joining one more zombie to his personal horde, but he didn't notice vampires standing nearby, {0} suffered the consequences by getting his head removed.</value>
+	</string>
+	<string key="vkillzxvsinvictim">
+		<value>{0} intelligence ended when he became a zombie, apparently, his eyesight as well since {0} didn't see that his next dinner was already being stalked by vampires.</value>
+		<value>Another zombie down, the vampires while stalking their next victim found {0} growling near their home.</value>
+	</string>
+	<string key="wwkillvxvsinvictim">
+		<value>{0} regretted his choice to suck blood tonight, he met the wolves at his victim's home.</value>
+		<value>Today {0} wanted to make a blood feast, too bad wolves were already there.</value>
+	</string>
+	<string key="vsinvictim">
+		<value>Explanation of percentages when several roles coincide with the same victim:\n\n-Whisperer and zombies:By coinciding with any kind of vampires, they will always be decapitated; by coinciding with wolves nothing will happen to them but they will lose their chance that night.\n\n-Wolves VS Elder Vampire: In this situation will depend on the number of wolves, if there are 3 or more wolves, they can defeat the elder vampire and continue their action with their victim, otherwise, they will die and the victim will survive the elder vampire.\n\n-Wolves VS Vampires:It also depends on the number of members of both teams, if the vampires are the majority the wolves die and the victim survives, if the wolves win by majority they will perform their action with their victim, in case of a tie in the number of members of both teams there will be a percentage of 50% to decide which team wins. </value>
+	</string>
+  </strings>
