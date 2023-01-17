@@ -4505,4 +4505,8 @@
 	<string key="vsinvictim">
 		<value>Explicación de porcentajes cuando varios roles coinciden con una misma victima:\n\n-Susurrador y zombis:\nCoincidiendo con cualquier clase de vampiros siempre serán decapitados, coincidiendo con lobos no les ocurrirá nada pero perderán su oportunidad esa noche.\n\n-Lobos VS Vampiro Anciano:\nEn esta situación dependerá de la cantidad de lobos que haya, si son 3 o mas lobos, podrán derrotar al vampiro anciano y seguir con su acción con su victima, en caso contrario morirán y la victima sobrevivirá al vampiro anciano.\n\n-Lobos VS Vampiros:\nTambién depende de la cantidad de miembros de ambos teams, si los vampiros son mayoría los lobos mueren y la víctima sobrevive, si los lobos ganan por mayoría realizarán su acción con su víctima, en caso de ser empate en cantidad de miembros de ambos teams habrá un porcentaje del 50% para decidir que team gana.</value>
 	</string>
+
+	<string key="fleelimit">
+		<value>{0} ya hiciste flee en esta partida, en modo ranked y derivados del mismo, solo puedes usarlo una vez.</value>
+	</string>
   </strings>
