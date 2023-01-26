@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- Amnesia mode by Amber (@ayylimao)!
+<!-- Amnesia mode by İsmet Uygur (@Halfcelse)!
 Last update: 23/02/2019 -->
 <strings>
-  <language name="English (Amnesia Mode)" base="English" variant="Amnesia Mode" code="en" isDefault="false"/>
+  <language name="English (Amnesia Mode)" base="English" variant="Amnesia Mode" code="en" isDefault="false" owner="@Halfcelse"/>
   <string key="NotInGame">
     <value>Did you forget? You're not in any games at the moment!</value>
   </string>
@@ -14,6 +14,97 @@ Last update: 23/02/2019 -->
     <value>{0} has started a chaos game! Join to take part in the confusion!</value>
     <value>A new chaos game has been started by {0}! Join to get killed by accident!</value>
   </string>
+	<string key="PlayerStartedClumsyGame">
+		<!-- 0 - Player Name -->
+		<value> {0} awkwardly started a game. How about adding your clumsiness on top of this awful memory?!</value>
+		<value> {0} attempted another clumsiness. As if the lack of memories is not enough, how about a game full of involuntary clumsiness?!</value>
+	</string>
+	<string key="CantStartClumsy">
+		<!-- 0 - Player Name -->
+		<value> Have you forgotten? Your rank is too low to start a clumsy game. Reach 1800 points to unlock.</value>
+	</string>
+	<string key="PlayerStartedSuperChaosGame">
+		<!-- 0 - Player Name-->
+		<value> {0} started a game in the middle of the mess. Your missing memories and your mind can't keep you from being a part of this war!</value>
+		<value> {0} has started a new war. You don't know the reason or why but that does not stop you from fighting in the field!</value>
+	</string>
+	<string key="PlayerStartedCustomGame">
+		<!-- 0 - Player Name-->
+		<value> {0} started a special game. You may have chosen the roles yourself but be sure you will forget them again...</value>
+		<value> {0} is trying something new its own. Even if the roles are listed specifically, your bad mind will ake you fotget them again.</value>
+	</string>
+	<string key="PlayerStartedRandkedGame">
+		<!-- 0 - Player Name-->
+		<value> {0} started a game with points. The summit is not as easy as it looks and despite this memory lose, will you be able to reach the top 10?</value>
+		<value> {0} started a game in the global challenge. Lack of memories is nothing! Will you be able to eliminate all your opponents on this challenge?</value>
+	</string>
+	<string key="groupnorank2">
+		<value> Informal groups the groups that are not in the bot's own group list can't play in ranked mode. If you want your group to be in the list, please contact with support group. \n\n https://t.me/+15_YMW-D1iQ1YmUx</value>
+	</string>
+	<string key="StartInverse">
+		<value> ATTENTION ALZHEIMER VILLAGERS! The game has been reversed. To win, your priority must be to lose.</value>
+	</string>
+	<string key="PlayerStartedInverted">
+		<!-- 0 - Player Name-->
+		<value> {0} started a game upside down. This time the aim of the game is the opposite... You have to lose to win.</value>
+		<value> {0} started a game on the contrary. You may have forgotten yourself and your memories, which is why it's easier for you to win (You have to lose to win the game)!</value>
+		<value> {0} !yaw rouy ni gnorw gnihtemos gniyrt !seiromem tsol ruoy rof kcabtes dna tset hguot a rof ydaer teG</value>
+	</string>
+	<string key="PlayerStartedmasacre">
+		<!-- 0 - Player Name-->
+		<value> {0} started a game at the height of the carnage. Are you ready for a hell of stray memories? /join or click the 'Join' button.</value>
+		<value> {0} has lots its mind, creating a new mayhem! Join the game now to survive this disaster among lost personalities and memories!</value>
+	</string>
+	<string key="CantStartmasacre">
+		<value> How quickly you fortgot! Your rank is too low to start a masacre game. Reach 1400 points to unlock.</value>
+	</string>
+	<string key="PlayerStartedneciosfroever">
+		<!-- 0 - Player Name-->
+		<value> {0} is attemting a new farm. Being smart isv tiring every day. But how about making nonsense with a lost memory? /join or click the 'Join' button.</value>
+		<value> {0} started a game in foolish mode. The memory must have affected villagers so much that they don't realize what kind of game they are in? JOIN THIS MADNESS NOW!</value>
+	</string>
+	<string key="CantStartnecio">
+		<value> Don't you remember. Yor rank is too low to start a foolish game. Reach 1800 points to unlock.</value>
+	</string>
+	<string key="PlayerStartedveteran">
+		<!-- 0 - Player Name -->
+		<value> {0} started an evil game. You don't have to remember anything because winning is so much easier here!</value>
+		<value> {0} started a tanner game. Forget the lack of memories... Just get them to lynch you so you're more likely to win.</value>
+	</string>
+	<string key="PlayerStartedbonusrank">
+		<!-- 0 - Player Name -->
+		<value> {0} has started a game with extra points! Join the game now to earn more unusual points and maybe these points will help you remember!</value>
+		<value> {0} started a game with BONUS points. Click the /join or 'Join' button to earn more points. There is no better time to remember.</value>
+	</string>
+	<string key="PlayerStartedbonuspro">
+		<!-- 0 - Player Name -->
+		<value> {0} bonus pro game started. I hope you remember reaching 2600 points or the Gold league because there's no room for low-capacity players here!</value>
+		<value> {0} has launched a new bonus pro game. Only players who have reached 2600 points or Gold league can participate. How about playing with your missing memories among all these masters?!</value>
+	</string>
+	<string key="PlayerStartedRankedPro">
+		<!-- 0 - Player Name -->
+		<value> {0} started the game in ranked pro mode. I hope you remember reaching 2600 points or the Gold league because there's no room for low-capacity players here!</value>
+		<value> {0} launched a new ranked pro game. Only players who have reached 2600 points or Gold league can participate. How about playing with your missing memories among all these masters?!</value>
+	</string>
+	<string key="nonobsranked">
+		<!-- 0 - Player Name -->
+		<value> {0} I guess you don't remember but you are not versed enough to start a game in this type of mode. For this, you need to have played at least 1000 games or be in the Gold (🥇) league.</value>
+	</string>
+	<string key="nonobsranked2">
+		<!-- 0 - Player Name -->
+		<value> {0} I guess you don't remember clearly. You are not ready to play in this type of mode yet. Play 1000 games first or reach the Gold (🥇) league. This mode is not suitable for novices...</value>
+	</string>
+	<string key="groupnorank">
+		<value> Don't forget!!! Pro modes are not playable in unofficial groups. However, the rest of the mods are still playable.</value>
+	</string>
+	<string key = "noofigroup">
+		<!-- 0 - Player Name -->
+		<value> The restricted command can only be used in official groups. </value>
+	</string>
+	<string key="nobonus">
+		<!-- 0 - Player Name -->
+		<value>{0} There are no more bonus games to use.</value>
+	</string>
   <string key="NoJoinGameRunning">
     <value>You forgot to join while the game hadn't started yet! Use /nextgame and I'll notify you once a new game starts so you won't forget about it again!</value>
   </string>
