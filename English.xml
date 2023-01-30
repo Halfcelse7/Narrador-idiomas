@@ -4610,4 +4610,8 @@
 	<string key="vsinvictim">
 		<value>Explanation of percentages when several roles coincide with the same victim:\n\n-Whisperer and zombies:By coinciding with any kind of vampires, they will always be decapitated; by coinciding with wolves nothing will happen to them but they will lose their chance that night.\n\n-Wolves VS Elder Vampire: In this situation will depend on the number of wolves, if there are 3 or more wolves, they can defeat the elder vampire and continue their action with their victim, otherwise, they will die and the victim will survive the elder vampire.\n\n-Wolves VS Vampires:It also depends on the number of members of both teams, if the vampires are the majority the wolves die and the victim survives, if the wolves win by majority they will perform their action with their victim, in case of a tie in the number of members of both teams there will be a percentage of 50% to decide which team wins. </value>
 	</string>
+
+	 <string key="fleelimit">
+		 <value>{0} you already flee from this game, you can only use this command once in ranked mode and similars.</value>
+	 </string>
   </strings>
