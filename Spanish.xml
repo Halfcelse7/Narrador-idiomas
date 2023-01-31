@@ -2354,7 +2354,7 @@
   <string key="necroTransformToMason">
     <!-- 0 - dead mason's name -->
     <!-- 1 - mason collegues's name -->
-    <value>has elegido a {0} que era un masón. Tus compañeros de equipo (si los hay) son: {1}</value>
+    <value>Has elegido a {0} que era un masón. Tus compañeros de equipo (si los hay) son: {1}</value>
   </string>
   <string key="necroToWolf">
     <!-- 0 - DG's name -->
@@ -4509,4 +4509,36 @@
 	<string key="fleelimit">
 		<value>{0} ya hiciste flee en esta partida, en modo ranked y derivados del mismo, solo puedes usarlo una vez.</value>
 	</string>
+	<string key="nogamewamnesia">
+		<value>{0} no puedes iniciar esta modalidad de juego con el idioma amnesia configurado, ponte en contacto con un admin del grupo para solucionarlo.</value>
+	</string>
+	<string key="wcmuted">
+		<value>Como eres un niño salvaje, nunca has recibido una educación adecuada y no sabes hablar, por este motivo estarás mute durante toda la partida.</value>
+	</string>
+  <string key="necroToCupid">
+    <!-- 0 - target's name -->
+    <value>El necromancer {0} se ha convertido en Cupido, ahora hará equipo con vosotros.</value>
+  </string>
+  <string key="necroTransformToCupid">
+    <!-- 0 - dead Cupid's name -->
+    <!-- 1 - players in love -->
+    <value>Has elegido a {0} que era Cupido. La pareja flechada (si siguen vivos) es: {1}</value>
+  </string>
+  <string key="dopToCupid">
+    <!-- 0 - target's name -->
+    <value>El doppelganger {0} se ha convertido en Cupido, ahora hará equipo con vosotros.</value>
+  </string>
+  <string key="dopTransformToCupid">
+    <!-- 0 - dead Cupid's name -->
+    <!-- 1 - players in love -->
+    <value>{0} ha muerto y era Cupido. La pareja flechada (si siguen vivos) es: {1}</value>
+  </string>
+  <string key="DGToindis">
+    <!-- 0 - DG's name -->
+    <value>El doppelgänger {0} se ha convertido en el nuevo indiscreto.</value>
+  </string>
+  <string key="necroToindis">
+    <!-- 0 - DG's name -->
+    <value>El necromancer {0} se ha convertido en el nuevo indiscreto.</value>
+  </string>
   </strings>
