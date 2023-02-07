@@ -4614,4 +4614,36 @@
 	 <string key="fleelimit">
 		 <value>{0} you already flee from this game, you can only use this command once in ranked mode and similars.</value>
 	 </string>
+	 <string key="nogamewamnesia">
+	 <value>{0} you can't start this game mode with the amnesia language set, contact a group admin to fix this. </value>
+ </string>
+	 <string key="wcmuted">
+		 <value>As you are a wild child, you have never received a proper education and are not able to speak, so you will be muted for the entire game.</value>
+	 </string>
+	 <string key="necroToCupid">
+		 <!-- 0 - target's name -->
+		 <value>The necromancer {0} has turned into Cupid, he will now team up with both of you.</value>
+	 </string>
+	 <string key="necroTransformToCupid">
+		 <!-- 0 - dead Cupid's name -->
+		 <!-- 1 - players in love -->
+		 <value>You have chosen {0} who was Cupid. The matched couple (if they are still alive) is: {1}</value>
+	 </string>
+	 <string key="dopToCupid">
+		 <!-- 0 - target's name -->
+		 <value>The doppelganger {0} has turned into Cupid, he will now team up with both of you.</value>
+	 </string>
+	 <string key="dopTransformToCupid">
+		 <!-- 0 - dead Cupid's name -->
+		 <!-- 1 - players in love -->
+		 <value>The matched couple (if they are still alive) is: {1}</value>
+	 </string>
+	 <string key="DGToindis">
+		 <!-- 0 - DG's name -->
+		 <value>The doppelgänger {0} has become the new indiscrete.</value>
+	 </string>
+	 <string key="necroToindis">
+		 <!-- 0 - DG's name -->
+		 <value>The necromancer {0} has become the new indiscreet.</value>
+	 </string>
   </strings>
