@@ -4422,10 +4422,10 @@
 		<value> Gölge 🕶</value>
 	</string>
 	<string key="RoleInfoindiscreto">
-		<value> Sen Gölge'sin. Basit bir İnsan değilsin, bir Silüetsin. Köydeki herkesin gölgesindesin ve onları adım adım takip edebilirsin. Bu sayede gece bakti gerçekleşen tüm aksiyonları görebilecek. GRUP İÇİNDE BU AKSİYONLARI AFİŞE EDEMEZSİN! Çünkü bu bilgileri gelecekteki Kurt müttefiklerin için bir süreliğine kendine saklamalısın. Başlangıçta Köy tarafındasın ancak Kurtlar seni keşfederse onların saflarına geçeceksin ve bu bilgileri sürüyle paylaşmak isteyeceksin. Gece oyuncularından biri seni ziyaret etmeye çalışırsa kendi kimliğini riske atmış olur. Kurtlar hariç seni başka biri ziyaret ettiği vakit onları köy meydanının ortasında rolleri ile ifşa edeceksin. Ancak Kukla Ustasının hünerleri senden oldukça üstün bu yüzden gece vakti seni kolaylıkla öldürebilir. Kurtlar tarafından henüz ziyaret edilmediysen ve ölürsen, köy takımının bir parçası olacağın için herhangi bir kurdu ifşa edeceksin. Kurtların tarafında iken ölürsen Kelle Avcısının yaşayan yardımcılarından birini ifşa edeceksin. \nROLÜNÜ GRUPTA AÇIKLAMAMANI TABSİYE EDERİM!!! \nRol @dantravelsofficial tarafından oluşturuldu. \n\nTakım: Başlangıçta Köy. Oyunun gidişatına göre (Eğer Kurtlar, Falcı, Taklitçi, Ucube Kurt tarafından ziyaret edilirse) kurt takımı. \n\nDönüşümler: Ubır ve Zombilere karşı tam bağışıklılık.</value>
+		<value> Sen Gölge'sin. Basit bir İnsan değilsin, bir Silüetsin. Köydeki herkesin gölgesindesin ve onları adım adım takip edebilirsin. Bu sayede gece vakti gerçekleşen tüm aksiyonları görebilecek. GRUP İÇİNDE BU AKSİYONLARI AFİŞE EDEMEZSİN! Çünkü bu bilgileri seni henüz keşfetmemiş kurt müttefiklerin için saklaman gerekecek. Gece oyuncularından biri seni ziyaret etmeye çalışırsa kendi kimliğini riske atmış olur. Kurtlar hariç seni başka biri ziyaret ettiği vakit onları köy meydanının ortasında rolleri ile ifşa edeceksin. Ancak Kukla Ustasının hünerleri senden oldukça üstün bu yüzden gece vakti seni kolaylıkla öldürebilir. Eğer linçlenerek ölürsen Kelle Avcısının yaşayan yardımcılarından birini ifşa edeceksin. \nRol @dantravelsofficial tarafından oluşturuldu. \n\nTakım: Kurtlar. \n\nDönüşümler: Ubır ve Zombilere karşı tam bağışıklılık.</value>
 	</string>
 	<string key="Aboutindiscreto">
-		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Eğer Kurtlar Gölgeyi keşfederse Gölge Kurt takımının bir parçası olacak. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Istası oldukça güçlü bür rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. Kurtlar tarafından henüz keşfedilmeden ölürse köylü takımından taraf olarak ölür ve öldüğünde herhangi bir kurdu ifşa eder. \nROLÜNÜ GRUPTA AÇIKLAMAMANI TABSİYE EDERİM!!! \nRol @dantravelsofficial tarafından oluşturuldu.</value>
+		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bür rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
 	</string>
 	<string key="visionindis">
 		<value> {0}'in gölgesini takip ederken {1}'in adresini ziyaret ettiğini gördün.</value>
@@ -4442,20 +4442,11 @@
 	<string key="wvisitind">
 		<value> {0}'in evine gittin ancak orada kimse yoktu ve aç ve öfkeli şekilde inine dönmeye karar versin. Tam o esnada arkandan bir çakıl taşı atılır. Arkana ve etrafına baktığında kimseyi göremezsin. Ancak yere bakınca gölgenin şekil değiştridiğini ve hareket ettiğini fark edersin. BU O!! GÖLGE!!!</value>
 	</string>
-	<string key="indvisitxw">
-		<value> {0}'in evine girdiğini fark ettin. Ancak oldukça tüylü ve uzun pençeleri vardı. O kesinlikle bir KURT ADAM! Hemen onun dikkatini çekmeye karar verdin ve sürüye katıldın.</value>
-	</string>
-	<string key="indinteam">
-		<value> GÖLGE'Yİ BULDUN! {0} artık sürüye dahil oldu.</value>
-	</string>
 	<string key="bestvisitind">
 		<value> {0}'in evine girdiğini fark ettin. Ancak o oldukça ürpertici bir tipti... Devasa ve bir kurda göre oldukça fazla ucubeydi ama yine de {0}!in kurt olduğuna eminsin ve ondan sürü hakkında bilgi almaya karar verdin.</value>
 	</string>
 	<string key="bestvisitind2">
 		<value> {0}'in evine gittin ancak orada kimse yoktu. Çabuk pes etmeye niyetli değilsin elbet. Evi karış karış ararken gölgenin her zamankinden biraz daha ufak olduğunu fark ettin. Adın gibi eminsin burası GÖLGE'NİN evi ve onu kıskıvrak yakaladın. Artık {0} ile takım olma zamanı.</value>
-	</string>
-	<string key="indvdead">
-		<value> Köylüler Gölgeyi linç ettiğinde o hâlâ safkan şekilde köyden yanaydı. Kurt sürüsünün onu bulamamasının hayal kırıklığı ile ölümüne razı oldu. Ancak Gece yeteneklerinin heba olmaması adına ölmeden önce meydana bir parşömen fırlattı. Üzerinde {0}'in resmi vardı ve belli ki Gölge onun gece aksiyonun yakalamıştı. Parşömenin en altında ise koca harflerle {1} yazıyordu.</value>
 	</string>
 	<string key="indwdead">
 		<value> Köylüler Gölgeyi linç ettiğinde bi farklılık olduğu sezdiler ve haklıydılar da. Gölge kurt sürüsü tarafından keşfedilmiş ve saf değiştirmişti. Ölümünde bile Gölge yeni kurt müttefiklerine gece yeteneklerinden bir armağan veriyor. Köy meydanına bir parşömen fırlatır ve üzerinde {0}'in resmi vardı. Belli ki Gölge onun gece aksiyonun yakalamıştı ve parşömenin en altında ise koca harflerle {1} yazıyordu. </value>
@@ -4465,12 +4456,6 @@
 	</string>
 	<string key="socseeind2">
 		<value> {0}'in evine gittin ancak orada kimse yoktu. Yine de içinde bir ürperme oluştu ve gittikçe şüphe duymaya başladın. Gözlerinde mor parlaklık görüş yeteneğini oldukça öteye taşıyordu bu yüzden kendi gölgendeki tuhaflığı fark ettin. Gölge {0}'i oldukça şaşırttın ve hiç beklemediği bir anda onu ortaya çıkardun. Artık onunla ortak olup sürüyü aramaya başlarsın.</value>
-	</string>
-	<string key="impoind">
-		<value> {0}'in evine girdiğini fark ettin. Yüzünde maske vardı ve onu göremiyordun. Aniden elini gölgesine koydu ve bekle.. SENİ FARK ETTİ! İnanılır gibi değil ama {0} tıpkı senin gibi Gölge oldu. Taklitçi işinde gerçekten inanılmaz olmalı! Onunla iş birliği yapıp sürüyü keşfetmeye başalarsın.</value>
-	</string>
-	<string key="impoind2">
-		<value> {0}'in evine girdin ancak orada kimse yoktu. Şaka olmalı bu :p Hedefini evde mi bulamadın? Elbette bu kadar kolay değil. Diz çöküp kendi gölgene baktın ve onu kopyaladın. BU SENİN KENDİ GÖLGEN DEĞİLDİ AMA! Bunu ilk defa deneyimliyorsun ancak taklit ettiğin kişi Gölge {0} ve onunla iş birliği yapıp sürüyü keşfetmeye başlarsın.</value>
 	</string>
 	
 	<!-- pelao -->
@@ -4620,5 +4605,40 @@
 	</string>
 	<string key="vsinvictim">
 		<value> Eğer ki gecenin yaratıkları aynı hedefi seçer ve karşı karşıya gelirse, olacak sonuçlar ile ilgili bazı yüzdelik ihtimalleri buradan görebilirsin: \n\n   -Fısıltı ve Zombiler: \nEğer Fısıltı/Zombi Ubırlar ile aynı kurbanın evinde rastlaşırsa, Ubırlar daima Fısıltıyı/Zombiyi katledecektir. Ancak Kurt Adamlar ile aynı kurbanın evinde rastlaşırlarsa hiçbir şey olmayacak. Yalnızca gece aksiyonlarını boşa harcamış olacaklar. \n\n   -Kurt Adamlar ve Kont:\n Böyle bir durumda herşey tamamıyla kurt sürüsünün sayısına bağlıdır. Eğer ki, 3 veya 3'ten fazla Kurt Adam Kont'un kurbanı ile aynı evde rastlaşırsa Kurt adamlar galip gelir ve kurbanlarını da öldürürler. 3 kişiden az Kurt Adam var ise Kont Kurtlardan bir kişi varsa birini, iki kişi varsa ikisini de öldürecek ancak kurban ise hayatta kalacak. \n\n   -Kurt Adamlar ve Ubırlar: \nBu durumda da herşey her iki takımdaki üye sayısına bağlı. Ubırlar sayı olarak Kurt Adamlardan fazla olarak aynı kurbanın evinde rastlaşırsa, Ubırlar galip gelir ancak kurban hayatta kalır. Kurt Adamlar sayı olarak Ubırlardan fazla olarak aynı kurbanın evinde rastlaşırsa, Kurt Adamlar galip gelir ve kurban da ölür. İki tarafın da üye sayısı eşit ise 50% tek bir kazanan olacak.</value>
+	</string>
+	<string key="fleelimit">
+		<value> Bu oyundan zaten çıktın. Bu komutu sıralı ve bınus gibi modlarda yalnızca bir kez kullanabilirsin.</value>
+	</string>
+	<string key="nogamewamnesia">
+		<value>{0} alzheimer dili ayarlanmış olarak bu oyun modunu başlatamazsın. Lütfen düzeltmesi için bir grup yöneticisiyle iletişime geçin.</value>
+	</string>
+	<string key="wcmuted">
+		<value> Yabani çocuk olduğun için hiçbir zaman düzgün bir eğitim almamışsın ve nasıl konuşulucağını bilmiyorsun. Bu yüzden tüm oyun boyunca dilsiz kalacaksın.</value>
+	</string>
+	<string key="necroToCupid">
+		<!-- 0 - Hedefin İsmi -->
+		<value> Reenkarnist {0} Eros oldu. Şimdi sizinle yeni bir ekip oluşturacak.</value>
+	</string>
+	<string key="necroTransformToCupid">
+		<!-- 0 - Ölü Eros'un İsmi -->
+		<!-- 1 - Aşık Oyuncular -->
+		<value>Eros olan {0}'i seçtin. Oklu çift (hâlâ yaşıyorlarsa): {1}</value>
+	</string>
+	<string key="dopToCupid">
+		<!-- 0 - Hedefin İsmi -->
+		<value> Çift giden {0} Eros oldu. Şimdi sizinle yeni ekip oluşturacak.</value>
+	</string>
+	<string key="dopTransformToCupid">
+		<!-- 0 - Ölü Eros'un İsmi -->
+		<!-- 1 - Aşık Oyuncular -->
+		<value>{0} öldü ve Erostu. Oklu çift (hâlâ yaşıyorlarsa): {1}</value>
+	</string>
+	<string key="DGToindis">
+		<!-- 0 - Çift Giden İsmi -->
+		<value> Çift giden {0} yeni Gölge oldu.</value>
+	</string>
+	<string key="necroToindis">
+		<!-- 0 - Reenkarnist İsmi -->
+		<value> Reenkarnist {0} yeni Gölge oldu.</value>
 	</string>
 </strings>
