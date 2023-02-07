@@ -4312,10 +4312,10 @@
 		<value>el indiscreto 🕶</value>
 	</string>
 	<string key="RoleInfoindiscreto">
-		<value>Eres el Indiscreto 🕶 : Desde tu azotea te pasaste la vida cotilleando a tus vecinos, hasta tal punto que incluso puedes ver lo que hacen los roles con visión, como si hubieras adquirido un poder. Todas las noches verás todo lo que hacen si es que tienen acción, NO PODRÁS REVELAR TUS VISIONES EN EL GRUPO, las utilizarás solo para tu beneficio y el de los lobos, ya que son tus queridos cachorros, si te visitan te unirán a la manada pero mientras no lo hacen serás aldeano. Si algún rol nocturno hace acción sobre ti acabará mal parado, no te encontrarán ya que estarás en tu tejado y al día siguiente llenarás la aldea con carteles revelando su rol, a excepción del titiritero que será el único que te pueda matar en la noche. Si te matan siendo del team lobo, revelarás un ayudante del cazador de la noche si queda alguno vivo, por el contrario, si te matan siendo aún team aldea revelarás un lobo con tu último aliento.\nNO PUEDES REVELAR TU ROL EN EL GRUPO\nRol ideado por @dantravelsofficial\n\nTeam: Aldea, solo es team lobo al ser visitado por hechicera, lobos, impostor o bestia.\n\nConversiones: Inmune a zombis y vampiros.</value>
+		<value>Eres el Indiscreto 🕶 : Desde tu azotea te pasaste la vida cotilleando a tus vecinos, hasta tal punto que incluso puedes ver lo que hacen los roles con visión, como si hubieras adquirido un poder, todas las noches verás todo lo que hacen si es que tienen acción. Si algún rol nocturno hace acción sobre ti, no te encontrarán ya que estarás en tu tejado y al día siguiente llenarás la aldea con carteles revelando su rol, a excepción del titiritero que será el único que te pueda matar en la noche. Si te matan, revelarás un ayudante del cazador de la noche si queda alguno vivo.\nRol ideado por @dantravelsofficial\n\nTeam: Lobos.\n\nConversiones: Inmune a zombis y vampiros.</value>
 	</string>
 	<string key="aboutindiscreto">
-		<value>El Indiscreto 🕶 : Desde su azotea se pasó la vida cotilleando a sus vecinos, hasta tal punto que incluso puede ver lo que hacen los roles con visión, como si hubiera adquirido un poder. Todas las noches verá todo lo que hacen si es que tienen acción, NO PODRÁ REVELAR SUS VISIONES EN EL GRUPO, las utilizará solo para su beneficio y el de los lobos, ya que son sus queridos cachorros, si lo visitan se unirá a la manada pero mientras no lo hacen será aldeano. Si algún rol nocturno hace acción sobre él acabará mal parado, no lo encontrarán ya que estará en su tejado y al día siguiente llenará la aldea con carteles revelando su rol, a excepción del titiritero que será el único que lo pueda matar en la noche. Si lo matan siendo del team lobo, revelará un ayudante del cazador de la noche si queda alguno vivo, por el contrario, si lo matan siendo aún team aldea revelará un lobo con su último aliento.\nNO PUEDES REVELAR TU ROL EN EL GRUPO\nRol ideado por @dantravelsofficial\n\nTeam: Aldea, solo es team lobo al ser visitado por hechicera, lobos, impostor o bestia.\n\nConversiones: Inmune a zombis y vampiros.</value>
+		<value>El Indiscreto 🕶 : Desde su azotea se pasó la vida cotilleando a sus vecinos, hasta tal punto que incluso puede ver lo que hacen los roles con visión, como si hubiera adquirido un poder, todas las noches verá todo lo que hacen si es que tienen acción. Si algún rol nocturno hace acción sobre él, no lo encontrarán ya que estará en su tejado y al día siguiente llenará la aldea con carteles revelando su rol, a excepción del titiritero que será el único que lo pueda matar en la noche. Si lo matan, revelará un ayudante del cazador de la noche si queda alguno vivo.\nRol ideado por @dantravelsofficial\n\nTeam: Lobos.\n\nConversiones: Inmune a zombis y vampiros.</value>
 	</string>
 	<string key="visionindis">
 		<value>{0} visita o algo hace con {1}</value>
@@ -4332,35 +4332,20 @@
 	<string key="wvisitind">
 		<value>Visitando a {0} no lo ves por ninguna parte, de repente te tiran una piedrita, cuando alzas la vista al tejado, lo ves saludándote ¡ES EL INDISCRETO!</value>
 	</string>
-	<string key="indvisitxw">
-		<value>Ves a {0} acercándose a tu casa, ¡ES UN LOBO!, es tu oportunidad, llamas su atención tirándole una piedrita desde el tejado para que no se vaya y poder unirte a la manada.</value>
-	</string>
-	<string key="indinteam">
-		<value>¡HABEIS ENCONTRADO AL INDISCRETO! {0} se une a la manada.</value>
-	</string>
 	<string key="bestvisitind">
-		<value>Ves a {0} acercarse a tu casa, ves que es la bestia, intentas hacer equipo con {0} y le preguntarás por la manada.</value>
+		<value>Ves a {0} acercarse a tu casa, ves que es la bestia, le dices a {0} quien es el resto de la manada.</value>
 	</string>
 	<string key="bestvisitind2">
-		<value>No ves a {0} pero lo hueles cerca, al fijarte en la azotea ahí lo encuentras, ves que es el indiscreto, intentas hacer equipo con {0} y le preguntarás por la manada.</value>
-	</string>
-	<string key="indvdead">
-		<value>El indiscreto nunca consiguió que sus cachorros dieran con él, al sentirse olvidado y marginado por ellos, grita el nombre de uno de ellos, {0} es {1}.</value>
+		<value>No ves a {0} pero lo hueles cerca, al fijarte en la azotea ahí lo encuentras, ves que es el indiscreto, {0} no tarda en decirte quienes son la manada.</value>
 	</string>
 	<string key="indwdead">
 		<value>El indiscreto murió con el consuelo de que ya era de la manada, antes de morir grita dando a conocer uno de los ayudantes del cazador de la noche para intentar hacerle la vida más fácil a los lobos, {0} es {1}.</value>
 	</string>
 	<string key="socseeind">
-		<value>Sientes la presencia de {0} cerca pero no la ves, ves qué hace en su casa y descubres que es la hechicera, intentas hacer equipo con {0} y le preguntarás por la manada.</value>
+		<value>Sientes la presencia de {0} cerca pero no la ves, ves qué hace en su casa y descubres que es la hechicera.</value>
 	</string>
 	<string key="socseeind2">
-		<value>Cuando ves a {0} lo ves en su azotea, empiezas a fijarte mejor y ves que es el indiscreto, intentas hacer equipo con {0} y le preguntarás por la manada.</value>
-	</string>
-	<string key="impoind">
-		<value>Ves a {0} acercarse a tu casa, parece que está sacando fotos de tu ropa, es el impostor, las quiere para imitarte, intentas hacer equipo con {0} y le preguntarás por la manada.</value>
-	</string>
-	<string key="impoind2">
-		<value>Cuando reúnes información para copiar a {0}, se percata de tus acciones, te dice que es el indiscreto, intentas hacer equipo con {0} y le preguntarás por la manada.</value>
+		<value>Cuando ves a {0} lo ves en su azotea, empiezas a fijarte mejor y ves que es el indiscreto.</value>
 	</string>
 
 	<!-- diciembre -->
