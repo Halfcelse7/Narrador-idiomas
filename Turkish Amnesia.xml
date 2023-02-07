@@ -821,6 +821,12 @@ Son Günccelleme: 06.01.2023 -->
 	<string key="noextneg">
 		<value>/ extend komutu yalnızca süreyi arttırmak için kullanılır, düşürmek içindeğil.</value>
 	</string>
+	<string key="fleelimit">
+		<value> Bu oyundan zaten çıktın. Bu komutu sıralı ve bınus gibi modlarda yalnızca bir kez kullanabilirsin.</value>
+	</string>
+	<string key="nogamewamnesia">
+		<value>{0} alzheimer dili ayarlanmış olarak bu oyun modunu başlatamazsın. Lütfen düzeltmesi için bir grup yöneticisiyle iletişime geçin.</value>
+	</string>
 
 	<!-- OYUN MODLARI -->
 	
@@ -2279,6 +2285,14 @@ Son Günccelleme: 06.01.2023 -->
 		<!-- 0 - Kurban İsmi -->
 		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Evine baktıklarında kapı kilidinde bir zorlama olduğu fark ettiler ancak onun dışında evdeki her eşya yerli yerinde ve düzenliydi. {0}'in vücudunda derin kesikler vardı ve organlarının bir kısmı eksikti ancak kimse buna neyin sebep olduğunu anlamadı. {0}'in bedenini teşhis ettiklerinde onun <b> Eros 🏹 </b> olduğunu hatırladır.</value>
 	</string>
+	<string key="dopToCupid">
+		<!-- 0 - Çift Giden İsmi -->
+		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
+	</string>
+	<string key="necroToCupid">
+		<!-- 0 - Reenkarnist İsmi -->
+		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
+	</string>
 	<string key = "SerialKiller">
 		<value> Seri Katil 🔪 </value>
 	</string>
@@ -2410,6 +2424,10 @@ Son Günccelleme: 06.01.2023 -->
 	</string>
 	<string key = "DGTransformTooldvamp">
 		<!-- 1 - Ubır Takım Arkadaşları (varsa) -->
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+	</string>
+	<string key="dopTransformToCupid">
+		<!-- 1 - Aşık Oyuncular -->
 		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "doptransz">
@@ -3027,10 +3045,6 @@ Son Günccelleme: 06.01.2023 -->
 		<!-- 0 - Taklit Edilen Rol -->
 		<value> Akıl sağlığın için bir şeyler denedin. Belli ki işe yaramış ve bir şeyler hatırlıyorsun: {0}</value>
 	</string>
-	<string key="impoind2">
-		<!-- 0 - Hedefin İsmi -->
-		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. 🕶</value>
-	</string>
 	<string key = "Baker">
 		<value> Fırıncı 🍞 </value>
 	</string>
@@ -3361,6 +3375,10 @@ Son Günccelleme: 06.01.2023 -->
 	</string>
 	<string key = "necroTransformTooldvamp">
 		<!-- 1 - Ubır Takım Arkadaşları (varsa) -->
+		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
+	</string>
+	<string key="necroTransformToCupid">
+		<!-- 1 - Aşık Oyuncular -->
 		<value>Aniden rolün değişti. Halbuki öncesinde bile ne olduğunu hatırlamıyordun ama şimdi ise bu yeni rolünü keşfetmek zorundasın. {1}</value>
 	</string>
 	<string key = "necroTransformToz">
@@ -4096,7 +4114,7 @@ Son Günccelleme: 06.01.2023 -->
 		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="Aboutindiscreto">
-		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Eğer Kurtlar Gölgeyi keşfederse Gölge Kurt takımının bir parçası olacak. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Istası oldukça güçlü bür rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. Kurtlar tarafından henüz keşfedilmeden ölürse köylü takımından taraf olarak ölür ve öldüğünde herhangi bir kurdu ifşa eder. \nROLÜNÜ GRUPTA AÇIKLAMAMANI TABSİYE EDERİM!!! \nRol @dantravelsofficial tarafından oluşturuldu.</value>
+		<value>Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bür rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
 	</string>
 	<string key="visionindis">
 		<value> {0} seçimini yaptı: {1}</value>
@@ -4115,27 +4133,24 @@ Son Günccelleme: 06.01.2023 -->
 		<!-- 1 - Hedef Rolü -->
 		<value> Şafak yükseldiğinde herkes köyün meydanında bir afiş fark eder ve afişin ortasında {0}'in ismi vardır. {1}</value>
 	</string>
-	<string key="indvisitxw">
-		<!-- 0 - Kurt Adam İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
-	</string>
 	<string key="bestvisitind">
 		<!-- 0 - Ucube Kurt İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
-	<string key="indvdead">
-		<value> Köylüler Indisecreeti linç ettiğinde o hâlâ safkan şekilde köyden yanaydı. Kurt sürüsünün onu bulamamasının hayal kırıklığı ile ölümüne razı oldu. Ancak Gece yeteneklerinin heba olmaması adına ölmeden önce meydana bir parşömen fırlattı. Üzerinde {0}'in resmi vardı ve belli ki Gölge onun gece aksiyonun yakalamıştı. Parşömenin en altında ise koca harflerle {1} yazıyordu.</value>
-	</string>
 	<string key="indwdead">
-		<value> Köylüler Indisecreeti linç ettiğinde bi farklılık olduğu sezdiler ve haklıydılar da. Indisecreet kurt sürüsü tarafından keşfedilmiş ve saf değiştirmişti. Ölümünde bile Indisecreet yeni kurt müttefiklerine gece yeteneklerinden bir armağan veriyor. Köy meydanına bir parşömen fırlatır ve üzerinde {0}'in resmi vardı. Belli ki Indisecreet onun gece aksiyonun yakalamıştı ve parşömenin en altında ise koca harflerle {1} yazıyordu. </value>
+		<value> Köylüler Gölgeyi linç ettiğinde bi farklılık olduğu sezdiler ve haklıydılar da. Gölge kurt sürüsü tarafından keşfedilmişti. Ölümünde bile Gölge yeni kurt müttefiklerine gece yeteneklerinden bir armağan veriyor. Köy meydanına bir parşömen fırlatır ve üzerinde {0}'in resmi vardı. Belli ki Gölge onun gece aksiyonun yakalamıştı ve parşömenin en altında ise koca harflerle {1} yazıyordu. </value>
 	</string>
 	<string key="socseeind">
 		<!-- 0 - Falcı İsmi -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
-	<string key="impoind">
-		<!-- 0 - Taklitçi İsmi -->
-		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
+	<string key="DGToindis">
+		<!-- 0 - Çift Giden İsmi -->
+		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
+	</string>
+	<string key="necroToindis">
+		<!-- 0 - Reenkarnist İsmi -->
+		<value> Rolünü hatırlamıyorsun ancak anılarının bir köşesinde canlanan bu yeni isim belki de sana yardımcı olabilir: {0} </value>
 	</string>
 	<string key="greywolf">
 		<value> Sigma Kurt 🐕</value>
