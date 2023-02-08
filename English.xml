@@ -796,16 +796,13 @@
                  <value>A mason's job is simple - they automatically know who the other masons are. Otherwise, they are a simple Villager.</value> 
          </string> 
          <string key="AboutDG"> 
-                 <value> 
-                         Your ancestors had the ability to metamorph into others... while you don't have their full abilities, you can pick a player at the start of the game. If that player dies, you will become what they were. 
+                 <value> Your ancestors had the ability to metamorph into others... while you don't have their full abilities, you can pick a player at the start of the game. If that player dies, you will become what they were. 
                          Note: If the player was converted to cult, you will take on their original role. All other normal rules apply: If they were Wild Child and their role model died, you will become a Wolf. Otherwise, you will inherit their role model. 
                          The cult cannot convert the Doppelgänger (but can after the Doppelganger switches roles). Also - the Doppelgänger can NOT win unless they have transformed. If at the end of the game, the Doppelgänger is still the same, they lose (exception: lover) 
                  </value> 
          </string> 
          <string key="AboutHunter"> 
-                 <value> 
- 
-                         A trigger happy, vindictive player. As the Hunter, you try to keep to yourself. However, when others come to visit you, they may find themselves dead, as your paranoia takes hold and you shoot. If the Wolves attack you, you have a chance to take one of them with you. Otherwise, if you die, you will get a chance to shoot someone as you die. 
+                 <value> A trigger happy, vindictive player. As the Hunter, you try to keep to yourself. However, when others come to visit you, they may find themselves dead, as your paranoia takes hold and you shoot. If the Wolves attack you, you have a chance to take one of them with you. Otherwise, if you die, you will get a chance to shoot someone as you die. 
                          Note: For Wolf attacks, the chance starts at 30%. If there is one Wolf, the Hunter has a 30% chance to kill the Wolf (and survive). For each additional Wolf, add 20% (2 Wolves = 50%, 3 = 70%, etc). However - if there are multiple Wolves, while you may kill one of them, you will still be outnumbered and killed. 
                          If the cult tries to convert you, they have a 50% chance to fail. If they fail, you have a 50% chance to kill one of them! 
                  </value> 
@@ -1035,7 +1032,7 @@
                  <value>Would you like to spread the silver today, disabling the Wolves tonight?</value> 
          </string> 
          <string key="BlacksmithSpreadSilver"> 
-                 <value>As the rest of the village debates over the events, they suddenly notice {0} wandering around spreading silver across the grounds. For now, at least, the village will be safe from Wolf attacks. (Wolves are disabled tonight.)</value> 
+                 <value> As the rest of the village debates over the events, they suddenly notice {0} wandering around spreading silver across the grounds. For now, at least, the village will be safe from Wolf attacks. (Wolves are disabled tonight.)</value> 
          </string> 
          <string key="Mayor"> 
                  <value>the Mayor 🎖</value> 
@@ -1080,13 +1077,11 @@
                  <value>You are the Clumsy Guy. Maybe you should not have had so much alcohol for breakfast. You can't see a damn thing. Can you even vote for the person you want to? (You have a 50% chance to vote for someone random.)</value> 
          </string> 
          <string key="AboutBlacksmith"> 
-                 <value> 
-                         You are the Blacksmith. Through the years, no blades nor swords gave you as much satisfaction as the Silver Blades the elves ordered.\nYou might have some silverdust left. Who knows ? It might *prevent Wolves from eating tonight* 🤔 
+                 <value>You are the Blacksmith. Through the years, no blades nor swords gave you as much satisfaction as the Silver Blades the elves ordered.\nYou might have some silverdust left. Who knows ? It might *prevent Wolves from eating tonight* 🤔 
                  </value> 
          </string> 
          <string key="AboutAlphaWolf"> 
-                 <value> 
-                         You are the Alpha Wolf, the origin of the curse, the bane of banes. Every night, there's 30% chance that you will bite your pack's meal, and they will join your ranks instead of dying! 
+                 <value> You are the Alpha Wolf, the origin of the curse, the bane of banes. Every night, there's 30% chance that you will bite your pack's meal, and they will join your ranks instead of dying! 
                  </value> 
          </string> 
          <string key="AboutWolfCub"> 
@@ -1212,8 +1207,7 @@
          <!--1vs1 finales--> 
          <string key="HunterKillsWolfEnd"> 
                  <!--{0} = Hunter's name, {1} = Wolf's name--> 
-                 <value> 
-                         Knowing only {0} was left, {1} tries to eat {0} up, but {0}'s military training and paranoia proves too much to handle! All there is left is a carcass with two shots to the torso and the last man standing: the victorious Hunter for the village! 
+                 <value>Knowing only {0} was left, {1} tries to eat {0} up, but {0}'s military training and paranoia proves too much to handle! All there is left is a carcass with two shots to the torso and the last man standing: the victorious Hunter for the village! 
                  </value> 
          </string> 
          <string key="WolfKillsHunterEnd"> 
@@ -2317,7 +2311,7 @@
                  <value> The Chemist 👨‍🔬 </value> 
          </string> 
          <string key="AboutChemist"> 
-                 <value> The Chemist is a very weird person who likes to make potions and cause chaos with them. He will mix two of their potions and force other people to choose one to try it, while they will drink from the other. One potion is simple rose water, while the other will end in the moment with your life. Good luck! </value> 
+                 <value> The Chemist is a very weird person who likes to make potions and cause chaos with them. He will mix two of their potions and force other people to choose one to try it, while they will drink from the other. One potion is simple rose water, while the other will end in the moment with your life. Good luck! </value> 
          </string> 
          <string key="ChemistBrewing"> 
                  <value> While the other Villagers go to bed, you are awake in your laboratory mixing the potions for the next night. Make sure Wolves don't catch you. </value> 
@@ -2414,8 +2408,7 @@
                  <value>the Necromancer ⚰️</value> 
          </string> 
          <string key="AboutNecro"> 
-                 <value> 
-                         The Necromancer has the possibility to choose the role of someone already dead. At night, the Necromancer can choose to become the role of a dead person for the rest of the game. You cannot win a game like the Necromancer. Necromancer and Doppelgänger will not appear in the same game. 
+                 <value>The Necromancer has the possibility to choose the role of someone already dead. At night, the Necromancer can choose to become the role of a dead person for the rest of the game. You cannot win a game like the Necromancer. Necromancer and Doppelgänger will not appear in the same game. 
                          Note: If the player converts to the Cult(the one you choose), you will get their original role. For the rest the normal rules will apply: if they have the wild child and their role model is dead, you will become a Wolf. If not, you will take their role model. 
                          The Cult cannot convert to Necromancer (but after changing roles). Caution: The Necromancer cannot win if it has not changed roles. If at the end of the game, the Necromancer still does not become the role of a dead person, they have loses (exception: lovers). 
                  </value> 
@@ -2436,8 +2429,7 @@
                  </value> 
          </string> 
          <string key="LoverDiedBeauty"> 
-                 <value> 
-                         It seems the Beauty doesn't feel so hearted with their lover and the Beauty is saved from death.. 
+                 <value>It seems the Beauty doesn't feel so hearted with their lover and the Beauty is saved from death.. 
                  </value> 
          </string> 
          <string key="StartingGameWait"> 
@@ -2821,8 +2813,7 @@
                  <value> You went to {0 }'s house and managed to burn it. </value> 
          </string> 
          <string key="FireBurnKiller"> 
-                 <value> 
-                         The Fire Wolf, {0}, was preparing to burn someone during the night, but accidentally visited the serial killer; they noticed the unexpected visitor and stabbed {0}. 
+                 <value>The Fire Wolf, {0}, was preparing to burn someone during the night, but accidentally visited the serial killer; they noticed the unexpected visitor and stabbed {0}. 
                  </value> 
          </string> 
          <string key="fireWolfTurnalfa"> 
@@ -2848,8 +2839,7 @@
          <string key="necroToFireWolf"> 
                  <value> The Necromancer, {0}, has become the new fire Wolf! </value> 
          </string> <string key="AboutBeauty"> 
-                 <value> 
-                         You are the Beauty, you are the most beautiful person in the village and that is why every player who visits you will fall in love with you, even the Wolves. If your lovers die you will not die but if you die the last player to visit you will die. If you win the last one who visited you will win with you, if you win you will win with them regardless of their role. Be careful with the serial killer, they can kill you and will not fall in love with you. 
+                 <value>You are the Beauty, you are the most beautiful person in the village and that is why every player who visits you will fall in love with you, even the Wolves. If your lovers die you will not die but if you die the last player to visit you will die. If you win the last one who visited you will win with you, if you win you will win with them regardless of their role. Be careful with the serial killer, they can kill you and will not fall in love with you. 
                  </value> 
          </string> 
          <!-- {0}: grave digger --> 
@@ -2908,8 +2898,7 @@
                  <value> the Idiot 🤪 </value> 
          </string> 
          <string key="AboutIdiot"> 
-                 <value> 
-                         Lacks special power, unless lynched by the people. In that case, they will do some idiocy pretending that they really is a lost cause, as if it were Ace Ventura, and everyone will understand their mistake: the Idiot can still live and play the game, but they loses the right to vote. They can, however, continue to participate in the discussions and speak as much as they likes. The Idiot of the village will die irretrievably if they're eaten by the Wolves (before or after revealing their identity in a lynch), by the shot of the gunner or Town Hunter, the potion of the Chemist, if their lover dies, etc. If a player is in love with the Idiot and they're lynched, nothing happens since they has not really been eliminated from the game and therefore the one in love with them must not commit suicide. 
+                 <value>Lacks special power, unless lynched by the people. In that case, they will do some idiocy pretending that they really is a lost cause, as if it were Ace Ventura, and everyone will understand their mistake: the Idiot can still live and play the game, but they loses the right to vote. They can, however, continue to participate in the discussions and speak as much as they likes. The Idiot of the village will die irretrievably if they're eaten by the Wolves (before or after revealing their identity in a lynch), by the shot of the gunner or Town Hunter, the potion of the Chemist, if their lover dies, etc. If a player is in love with the Idiot and they're lynched, nothing happens since they has not really been eliminated from the game and therefore the one in love with them must not commit suicide. 
                  </value> 
          </string> 
          <string key="LynchIdiot"> 
@@ -2968,8 +2957,7 @@
                  <value> Apparently the Snow Wolf tries to freeze you, but you are smarter than it seems, with your flute you use a melody that gives them an illusion, making them think that they have frozen you. </value> 
          </string> 
          <string key="flautiskkilled"> 
-                 <value> 
-                         You visit {0} and see that they're not at home, when you are walking away, you see them on their roof playing a flute, you do not miss the opportunity to throw one of your sharp knives at them to end their life. 
+                 <value> You visit {0} and see that they're not at home, when you are walking away, you see them on their roof playing a flute, you do not miss the opportunity to throw one of your sharp knives at them to end their life. 
                  </value> 
          </string> 
  
@@ -2984,13 +2972,11 @@
          </string> 
  
          <string key="Politodetec"> 
-                 <value> 
-                         The Mayor decided that you deserve a promotion for your good services, they've promoted you to Detective, congratulations on your good work. 
+                 <value> The Mayor decided that you deserve a promotion for your good services, they've promoted you to Detective, congratulations on your good work. 
                  </value> 
          </string> 
          <string key="Politoserif"> 
-                 <value> 
-                         The Mayor decided that you deserve a promotion for your good services, they've promoted you to Sheriff, congratulations on your good work. 
+                 <value> The Mayor decided that you deserve a promotion for your good services, they've promoted you to Sheriff, congratulations on your good work. 
                  </value> 
          </string> 
          <string key="Politogb"> 
@@ -2998,8 +2984,7 @@
          </string> 
  
          <string key="baladeherrero"> 
-                 <value> 
-                         The Blacksmith has revealed themself, now that you know who he is, take the opportunity to tell them to make you an extra bullet. 
+                 <value> The Blacksmith has revealed themself, now that you know who he is, take the opportunity to tell them to make you an extra bullet. 
                  </value> 
          </string> 
  
@@ -3010,8 +2995,7 @@
                  <value> Wait... BUT WHAT IS THIS !! ?? A Puppet!! Looks like we've found the Puppet Master, but watch out, maybe {0} has more tricks up their sleeve. </value> 
          </string> 
          <string key="herbvstiti"> 
-                 <value> 
-                         The Herbalist wanted to give you their poison, but you were quick and created a Puppet to mislead them, {0} returned home without believing that they were a Guard. 
+                 <value> The Herbalist wanted to give you their poison, but you were quick and created a Puppet to mislead them, {0} returned home without believing that they were a Guard. 
                  </value> 
          </string>> 
          <string key="fireWolfvstiti"> 
@@ -3024,8 +3008,7 @@
                  <value> You can now thank your great skill with Puppets, you have managed to make the serial killer believe that one of them was a Guard, but surely {0} will realize when they sees that there are no dead in the village . </value> 
          </string> 
          <string key="Chemistvstiti"> 
-                 <value> 
-                         You managed to make the Chemist believe that you died with their poison by making a Puppet of yourself, but surely {0} will realize when they sees that there are no dead in the village. 
+                 <value> You managed to make the Chemist believe that you died with their poison by making a Puppet of yourself, but surely {0} will realize when they sees that there are no dead in the village. 
                  </value> 
          </string> 
  
@@ -3078,8 +3061,7 @@
                  <value> the Time Traveler ⏳ </value> 
          </string> 
          <string key="tttravelYou2"> 
-                 <value> 
-                         You were able to convince {0} to help you with the time machine, hopefully they keeps their word. 
+                 <value>You were able to convince {0} to help you with the time machine, hopefully they keeps their word. 
                  </value> 
          </string> 
          <string key="travelTime"> 
@@ -3097,10 +3079,8 @@
          <string key="AskTraveler2"> 
                  <value> The machine is complete, do you want to start the temporary process ?. </value> 
          </string> 
- 
- 
- 
-         <string key="zombi"> 
+  
+          <string key="zombi"> 
                  <value>a Zombie 🧟 </value> 
          </string> 
          <string key="SheriffVisitz"> 
@@ -3394,8 +3374,7 @@
                  <value> You are the Howling Wolf. On full moon nights you will howl at the moon, scaring the Villagers and preventing them from doing their nightly actions. \n\nTeam: Wolves. \n\nConversions: \nVampires: There is a 50% kill the Vampire or let a Wolf die. \nZombies: \n-If you visit: You won't like the food. \n-If they visit you: Always survive. </value> 
          </string> 
          <string key="RoleInfoFirefighter"> 
-                 <value> 
-                         You are the Firefighter. Every night you can save someone from the Wolves or the flames of the fire Wolf. You can save yourself, but if your target is not attacked, you will not be able to visit them the next night. \n\nTeam: Village. \n\nConversions: \nVampires: \n-If you visit: Not detected. \n-If they visit you: There is a 50% death rate, if they does not die they've 50% conversion. \nZombies: \n-If you visit: They cannot find them at home. \n-If they visit you: always survives. 
+                 <value> You are the Firefighter. Every night you can save someone from the Wolves or the flames of the fire Wolf. You can save yourself, but if your target is not attacked, you will not be able to visit them the next night. \n\nTeam: Village. \n\nConversions: \nVampires: \n-If you visit: Not detected. \n-If they visit you: There is a 50% death rate, if they does not die they've 50% conversion. \nZombies: \n-If you visit: They cannot find them at home. \n-If they visit you: always survives. 
                  </value> 
          </string> 
          <string key="RoleInfoGhost"> 
@@ -3408,8 +3387,7 @@
                  <value> You are the Troublemaker. As a village teenager, you are in full puberty, with all that goes with it. Once per game, when you feel very upset about everything, you can cause a huge rage in the village, and the Villagers will lynch 2 times that day. \n\nTeam: Village. \n\nConversions: \nVampires: Has 50% to die, if they does not die there is a 75% conversion. \nZombies: There is a 70% to be infected or to survive. </value> 
          </string> 
          <string key="RoleInfoGravedigger"> 
-                 <value> 
-                         You are the Gravedigger. It is your responsibility to dispose of the dead bodies of the Villagers. You dig a grave for everyone who is killed last night. In any case, you are usually too tired to finish the grave, so it is left uncovered. Some visitors could fall into them and die. But since you're out at night, the Wolves and the killer might find you on the road and kill you, and the more graves you have to dig, the more likely that will happen. \n\nTeam: Village. \n\nConversions: \nVampires: If you don't have graves to dig there is a 50% death rate, if you don't die you have 50% conversion. \nZombies: If there are no graves to dig, there is a 40% chance to be infected or survive. 
+                 <value> You are the Gravedigger. It is your responsibility to dispose of the dead bodies of the Villagers. You dig a grave for everyone who is killed last night. In any case, you are usually too tired to finish the grave, so it is left uncovered. Some visitors could fall into them and die. But since you're out at night, the Wolves and the killer might find you on the road and kill you, and the more graves you have to dig, the more likely that will happen. \n\nTeam: Village. \n\nConversions: \nVampires: If you don't have graves to dig there is a 50% death rate, if you don't die you have 50% conversion. \nZombies: If there are no graves to dig, there is a 40% chance to be infected or survive. 
                  </value> 
          </string> 
          <string key="RoleInfoChemist"> 
@@ -3632,8 +3610,7 @@
                  <value> {0} tried to eat an Elder Vampire but {1} crushed its head with one hand like a rotten fruit. </value> 
          </string> 
          <string key="HunterFindoldvamp"> 
-                 <value> 
-                         You go to the house of {0} and you find them stained with blood from top to bottom, quickly, you insert your sword into their chest, surprisingly when you turn around you see that they have disappeared, they appears right behind you, IT'S THE ELDER VAMPIRE! You dodge it and get away from it, grab the first chair that you find by hand and stamp it on their head, taking advantage of the broken pieces of wood, grab one and end their existence by sticking it in their heart. 
+                 <value> You go to the house of {0} and you find them stained with blood from top to bottom, quickly, you insert your sword into their chest, surprisingly when you turn around you see that they have disappeared, they appears right behind you, IT'S THE ELDER VAMPIRE! You dodge it and get away from it, grab the first chair that you find by hand and stamp it on their head, taking advantage of the broken pieces of wood, grab one and end their existence by sticking it in their heart. 
                  </value> 
          </string> 
          <string key="vdefendofcn"> 
@@ -3651,8 +3628,7 @@
                  </value> 
          </string> 
          <string key="GuardBlockedov"> 
-                 <value> 
-                         When the Elder Vampire visits {0} they meets an Angelic figure which with their light made them unable to do anything and had to turn away empty-handed. 
+                 <value> When the Elder Vampire visits {0} they meets an Angelic figure which with their light made them unable to do anything and had to turn away empty-handed. 
                  </value> 
          </string> 
          <string key="oldvampConvertSerialKiller"> 
@@ -3662,8 +3638,7 @@
                  <value> SURPRISE! {1} found a lost Wolf, did not hesitate to put an end to the existence of {0}. </value> 
          </string> 
          <string key="oldvampirkillz"> 
-                 <value> 
-                         {1} tasted {0} blood but they were rotten, they were a Zombie so they crushed their head with one hand. 
+                 <value> {1} tasted {0} blood but they were rotten, they were a Zombie so they crushed their head with one hand. 
                  </value> 
          </string> 
          <string key="huntKilledoldvampVisit"> 
@@ -3737,8 +3712,7 @@
                  <value> {0} was a hollow and quite hungry, it killed you with a powerful attack and ate your soul. </value> 
          </string> 
          <string key="holwindef"> 
-                 <value> 
-                         {0} tried to attack you but you are more powerful than they expected, it was not difficult for you to defeat them and eat their soul. 
+                 <value> {0} tried to attack you but you are more powerful than they expected, it was not difficult for you to defeat them and eat their soul. 
                  </value> 
          </string> 
          <string key="shiniwinatk"> 
@@ -3760,8 +3734,7 @@
                  <value> Did you want to eat the soul of {0}? Well, forget about eating more, he was a shinigami with more power than you, he ended your existence by freeing your soul. </value> 
          </string> 
          <string key="futureshinigami"> 
-                 <value> 
-                         You managed to kill {0} but his soul was strong, they managed to slip you away and escape from your jaws. 
+                 <value> You managed to kill {0} but his soul was strong, they managed to slip you away and escape from your jaws. 
                  </value> 
          </string> 
          <string key="hollowatklive"> 
@@ -3786,8 +3759,7 @@
                  <value> {0} will eat {1} </value> 
          </string> 
          <string key="holKillsshinEnd"> 
-                 <value> 
-                         {0} after dying they turned into a powerful hollow, they only needed {1} to devour to satisfy their wishes. 
+                 <value> {0} after dying they turned into a powerful hollow, they only needed {1} to devour to satisfy their wishes. 
                  </value> 
          </string> 
          <string key="shinKillsholEnd"> 
@@ -4157,8 +4129,7 @@
                  <value>A very strange character came to your house to propose a very crazy idea, they say they came from the future. Maybe it was their way of talking or their ideas, but you've decided to accept their proposal and you've decided to help them make a time machine they need. \n\n YOU MUST AVOID SAYING THAT THEY VISIT YOU, this must be kept secret for everyone's sake.</value> 
          </string> 
          <string key="RoleInfoTimeTraveler"> 
-                 <value> 
-                         You are the Time Traveller, you must convince the third part of the village to help you rebuild your machine. Bad roles won't help you, so they won't count as helpers for your purpose. 
+                 <value> You are the Time Traveller, you must convince the third part of the village to help you rebuild your machine. Bad roles won't help you, so they won't count as helpers for your purpose. 
                          \n YOU MUST AVOID TELLING YOUR ROLE, at least until complete time machine, because the only exception that you can reveal your role is in case you are in danger of death, in case the Herbalist gives you poison, in the last case, you cannot use use this role to tell if other players are safe or not. 
                          \n\nTeam: Village.\n\nConversions:\n Vampires:\n-If you visit: It does not detect them.\n-If they visit you: It has a 25% death rate, if it does not die there is a 33% of conversion .\n Zombies:\n-If you visit: Survive without knowing that you are a Zombie.\n-If you are visited: There is a 30% chance of being infected or surviving. 
                  </value> 
@@ -4168,16 +4139,14 @@
                  <value>You have been struck by love. You're madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win.\nThe Cupid is {1}, they will also win if you win as a pair, but you should get rid of them when victory is near, if your teams are different then there will be no problem as in the end you can kill them.</value> 
          </string> 
          <string key="AboutCupid"> 
-                 <value> 
-                         Love is in the air. As Cupid, you will choose two players at the start of the game. These two players will become madly in love! If one of them dies, the other will die of sorrow :( 
+                 <value> Love is in the air. As Cupid, you will choose two players at the start of the game. These two players will become madly in love! If one of them dies, the other will die of sorrow :( 
                          \nNote: Lovers will meet, you will team up with them to win as a couple, but you must always die before them for that to happen, if the couple dies you join the village for victory. 
                          \nIf the lovers are the only two survivors, they will win, regardless of their team. If they are on different teams (Villager + WereWolf), and one team wins (wereWolf), the lover (Villager), will also win. 
                          \nIf both are alive, and at least one of the lovers is on the winning team, then both will win. 
                  </value> 
          </string> 
          <string key="RoleInfoCupid"> 
-                 <value> 
-                 You are Cupid. Sent to Earth with only underpants, a bow and two arrows, you get to choose two players to love each other for eternity. If one of them dies, the other one dies of sorrow. 
+                 <value> You are Cupid. Sent to Earth with only underpants, a bow and two arrows, you get to choose two players to love each other for eternity. If one of them dies, the other one dies of sorrow. 
                  You will join them so they can win as a pair, but for that to happen only they must survive at the end of the game, which means they will have to kill you so that they are the only survivors in case they are close to winning as a pair.\n\nTeam: Lovers or Village if the pair dies.\n\nConversions:\n Vampires: Always converts.\n Zombies: Has 30% infection rate, 25% chance to survive, and 45% chance to convert.</value> 
          </string> 
          <string key="CupidChosen2"> 
@@ -4325,13 +4294,11 @@
         <value>{1} knows that only {0} is left in the town, so they takes advantage while {0} is sharpening the tips of their arrows to end their life, {0} ended up being one more Zombie in the Whisperer's collection.</value> 
            </string> 
         <string key="HunterKillssusEnd"> 
-          <value> 
-               Knowing that there was only {0} left in the village, {1} tries to kill them by surprise, but {0} already smelled their skin several meters away and manages to make {1} wince. The Villagers have won! 
+          <value> Knowing that there was only {0} left in the village, {1} tries to kill them by surprise, but {0} already smelled their skin several meters away and manages to make {1} wince. The Villagers have won! 
             </value> 
             </string> 
            <string key="HunterKillszEnd"> 
-           <value> 
-               As there are only {0} left in the town, {1} tries to eat their brain, but {0} can already hear their growls from across the street and as soon as they approaches, the Hunter drives the ax into their head. The Villagers have won! 
+           <value> As there are only {0} left in the town, {1} tries to eat their brain, but {0} can already hear their growls from across the street and as soon as they approaches, the Hunter drives the ax into their head. The Villagers have won! 
               </value> 
              </string> 
               <string key="bestKillszEnd"> 
@@ -4425,10 +4392,10 @@
   <value>the Netizen 🕶</value>
  </string>
  <string key="RoleInfoindiscreto">
-  <value>You're the Netizen 🕶! From your roof you've spent your life gossiping with your neighbors, to the point where you can even see what the roles are doing with your special vision, as if you've acquired a power. Every night you will see everything they do if they have action but YOU CANNOT REVEAL YOUR VISIONS IN THE GROUP, you will only use them for your benefit and that of the Wolves as they are your beloved pups if they visit you you will join to the pack, but until they do, you're a Villager. If any nocturnal role acts on you, it will end badly, they will not find you because you will be on your roof and the next day you will fill the village with posters revealing their role, except for the Puppet Master who will be the only one who can kill you at night. If you are killed while in the Wolves team, you will reveal a helper from the Night Hunter if one is alive, on the contrary, if you are killed while still in the village team, you will reveal a Wolf with your dying breath.\nYOU CAN'T REVEAL YOUR ROLE IN THE GROUP\nRole created by: Dan (@dantravelsofficial)\n\nTeam: Village, becomes part of the Wolves' team only if visited/seen by the Sorcerer, Wolves, Imposter or Beast.\n\n Conversations: Immune to Zombies and Vampires.</value>
+  <value>You're the Netizen 🕶! From your rooftop, you spent a lifetime gossiping about your neighbors, to such a point that you can even see what the roles do with vision as if you had acquired power, every night you will see everything they do if they have action. If any night role does action on you, they won't find you because you will be on your roof and the next day you'll fill the village with posters revealing their role, except for the Puppet Master who will be the only one who can kill you at night. If you are killed, you will show a helper of the night hunter if there is any left alive.\nRole created by: Dan (@dantravelsofficial)\n\nTeam: Wolves\n\n Conversions: Immune to Zombies and Vampires</value>
  </string>
  <string key="aboutindiscreto">
-  <value>The Netizen 🕶 : From their roof, they spent all day gossiping with their neighbors, to the point where they can even see what the papers are doing with vision, as if they had acquired a power. Every night they will see everything others do if they have action. The Netizen CANNOT REVEAL THEIR VISIONS IN THE GROUP, they will only use them for their benefit and that of the Wolves as they are their beloved pups if they visit, the Netizen will join the pack but until they do, this role will be in the village team. If any night role acts on them, they will end up in a bad light, they won't find them because they will be on their roof and the next day they will fill the village with posters revealing it's role, except the Puppet Master who will be the only one who can kill them. It at night. If they're killed while in the Wolf team, they will reveal a helper from the Night Hunter if any are alive, on the contrary, if they're killed while still in the village team, they will reveal a Wolf with their last breath.\nYOU CAN'T REVEAL YOUR ROLE IN THE GROUP\nRole created by: Dan (@dantravelsofficial)\n\nTeam: Village, becomes part of the Wolves' team only if visited/seen by the Sorcerer, Wolves, Imposter or Beast.\n\n Conversations: Immune to Zombies and Vampires.</value>
+  <value>The Netizen 🕶 : From your rooftop, he spends a lifetime gossiping about his neighbors, to such a point that he can even see what the roles do with vision as if he had acquired power, every night he will see everything they do if they have action. If any night role does action on him, they won't find him because he will be on his roof and the next day he will fill the village with posters revealing their role, except for the Puppet Master who will be the only one who can kill him at night. If hi is killed, he will show a helper of the night hunter if there is any left alive.\nYOU CAN'T REVEAL YOUR ROLE IN THE GROUP\nRole created by: Dan (@dantravelsofficial)\n\nTeam: Wolves\n\n Conversions: Immune to Zombies and Vampires.</value>
  </string>
  <string key="visionindis">
   <value>{0} visited or did something with {1}</value>
@@ -4445,21 +4412,14 @@
  <string key="wvisitind">
   <value>Visiting {0} you don't see them anywhere, suddenly someone throws a small rock at you, when you look up at the roof you see someone greeting you! IT'S THE NETIZEN.!</value>
  </string>
- <string key="indvisitxw">
-  <value>You see {0} approaching your house, IT'S A Wolf! This is your chance, get their attention by throwing a small rock from the roof so they won't go away and you can join the pack.</value>
- </string>
- <string key="indinteam">
-  <value>YOU HAVE FOUND THE NETIZEN! {0} joins the pack.</value>
- </string>
+
  <string key="bestvisitind">
-  <value>You see {0} approach your house, you see that it is the Beast, you try to team up with {0} and now you can ask about the pack.</value>
+  <value>You see {0} approaching your house, you see he is the beast, and you tell {0} who the rest of the pack is.</value>
  </string>
 <string key="bestvisitind2">
-  <value>You don't see {0} but you smell them nearby, when you look up on the roof you find them there, you see they're the Netizen, you try to join the pack and ask {0} about the pack.</value>
+  <value>You can't see {0} but you smell him nearby, when you look on the rooftop you find him there, and you see that he is the Netizen, {0} doesn't take long to tell you who the pack is.</value>
 </string>
- <string key="indvdead">
-  <value>The Netizen never managed to get their pups to find them, feeling forgotten and marginalized by them, the Netizen calls out the name of one of them, {0} is {1}.</value>
- </string>
+ 
  <string key="indwdead">
   <value>The Netizen died with the consolation of already being part of the pack, before dying they shouted, revealing one of the helpers of the Night Hunter to try to make life easier for the Wolves, {0} is {1}.</value>
  </string>
@@ -4640,10 +4600,10 @@
 	 </string>
 	 <string key="DGToindis">
 		 <!-- 0 - DG's name -->
-		 <value>The doppelgänger {0} has become the new indiscrete.</value>
+		 <value>The doppelgänger {0} has become the new netizen.</value>
 	 </string>
 	 <string key="necroToindis">
 		 <!-- 0 - DG's name -->
-		 <value>The necromancer {0} has become the new indiscreet.</value>
+		 <value>The necromancer {0} has become the new netizen.</value>
 	 </string>
   </strings>
