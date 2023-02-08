@@ -4526,4 +4526,11 @@
     <!-- 0 - DG's name -->
     <value>El necromancer {0} se ha convertido en el nuevo indiscreto.</value>
   </string>
+
+	<!-- Febrero -->
+
+	<string key="visittargetofzs">
+		<!-- 0 - target name -->
+		<value>Algunos zombis ya se están ocupando de {0}.</value>
+	</string>
   </strings>
