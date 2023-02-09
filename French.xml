@@ -4308,5 +4308,224 @@
 		<value>
 			Lorsque vous rassemblez des informations pour copier {0}, il remarque vos actions, vous dit que c'est lui l'indiscret, vous essayez de faire équipe avec {0} et de lui demander des informations sur la meute.</value>
 		</string>
+	<!-- Le Chauve -->
 
+	<String>
+		<string key="pelao">
+			<value>Le Chauve 👨🦲</value>
+		</string>
+		<string key="aboutpelao">
+			<value>Le Chauve 👨🦲 : Ce villageois est tellement concentré sur ses insécurités qu'il se rase même à zéro pour masquer sa calvitie, tellement concentré sur lui-même qu'il ne remarque même pas quand on l'attaque, il peut être zombifié, vampirisé avec une grande facilité. Le voyant le verra comme un villageois normal et le joueur recevra le message du villageois au début de la partie pour qu'il ne sache pas qu'il est le chauve égocentrique. \n- Rôle imaginé par @Barbolwey \n\nEquipe : Village. \n\nConversion:  Taux de conversion de 100% sauf avec les loups sans loup alpha.</value>
+		</string>
+		<string key="pelaoBittenWolves">
+			<value>Alors que les loups-garous attaquent {0}, {1} arrête la meute, car il est le loup alpha. {1} dit à la meute que {0} va les rejoindre plutôt que de mourir, donc la meute le libère et laisse l'infection suivre son cours rapidement.</value>
+		</string>
+		<string key="pelaoTurned">
+			<value>
+				Vous avez été mordu par les loups-garous, mais le loup alpha vous a choisi. Au lieu de mourir, vous avez été infecté. À la fin de la nuit, vous ressentez un étrange picotement et votre corps commence à se transformer - vous êtes désormais un loup-garou ! </value>.
+			</string>
+
+		<!-- beta -->
+
+		<string key="beta">
+			<value>Le Loup beta 🐺🅱️</value>
+		</string>
+		<string key="RoleInfobeta">
+			<value>Vous êtes le loup bêta 🐺🅱️ : Vous êtes le loup suivant le loup alpha dans l'ordre de succession, à la mort de l'alpha vous prendrez sa place de chef de meute en devenant le nouvel alpha. \n- Rôle conçu par @Barbolwey \n\nEquipe : Loups. \n\nConversions : \nVampires : Il y a 50% de chance de tuer le vampire ou un loup meurt. \nZombie: \n- Si vous visitez : Vous n'aimerez pas la nourriture .\n- Si vous etes visité : Vous survivrez toujours.</value>.
+		</string>
+		<string key="aboutbeta">
+			<value>Vous êtes le loup bêta 🐺🅱️ : C'est le loup suivant du loup alpha dans l'ordre de succession, lorsque l'alpha meurt il prendra sa place de chef de meute en devenant le nouvel alpha. \N- Rôle conçu par @BarbolweyTeam \n\nEquipe : Loups. \n\nConversions : \nVampires : Il y a 50% de chance de tuer le vampire ou tuer un loup \nZombie: \n- Si vous visitez : Vous n'aimerez pas la nourriture .\n- Si vous etes visité : Vous survivrez toujours.</value>.
+		</string>
+		<string key="newalpha">
+			<value>Notre chef est mort, {0} est devenu le nouveau loup alpha pour diriger la meute.</value>
+		</string>
+
+
+
+		<!-- loup gris -->
+
+		<string key="greywolf">
+			<value>Loup Gris 🐕</value>
+		</string>
+		<string key="RoleInfogreywolf">
+			<value>Vous êtes le Loup gris 🐕 : vous êtes l'un des plus connus de l'espèce des canidés. Votre physionomie naturelle fait que l'on peut éventuellement vous confondre avec certaines races de chiens, vous êtes donc censé être inoffensif pour ceux qui vous rendent visite. Votre instinct de protection et de coopération avec les vôtres signifie que si un joueur vous rend visite, il a 50% de chances de mourir ou de rejoindre la meute grâce à votre morsure hautement contagieuse due à la haute nutrition que vous maintenez. \nRôle conçu par @dantravelsofficial \n\nEquipe: Loups. \n\nConversions : \n- Vampires : Il y a 50% de chance de tuer le vampire aîné ou le loup meurt, avec les vampires normaux ils meurent. \n- Zombie: \n Si vous visitez: Vous n'aimerez pas la nourriture. \n S'il vous visitent: Vous survivrez Toujours, si vous êtes visité par le chuchoteur il aura le même sort que le reste des villageois.</value>
+		</string>
+		<string key="aboutgreywolf">
+			<value>Le loup gris 🐕 : est l'une des espèces de canidés les plus connues. Sa physionomie naturelle fait qu'il peut éventuellement être confondu avec certaines races de chiens, il est donc censé être inoffensif pour les visiteurs. Son instinct de protection et de coopération avec les vôtres signifie que si un joueur lui rend visite, il a 50% de chances de mourir ou de rejoindre la meute grâce à sa morsure hautement contagieuse due à la haute nutrition que vous maintenez. Le chasseur nocturne pourra mourir si vous le chassez avec une chance sur deux, sinon le loup mourra, avec le tueur en série ce sera pareil mais vous le convertissez au lieu de le tuer. Le voyant le verra comme s'il s'agissait du cadejo pour le confondre avec un chien. \nRôle conçu par @dantravelsofficial \n\nEquipe: Loups. \n\nConversions : \n- Vampires : Il y a 50% de chance de tuer le vampire aîné ou le loup meurt, avec les vampires normaux ils meurent. \n- Zombie: \n Si vous visitez: Vous n'aimerez pas la nourriture. \n S'il vous visitent: Vous survivrez Toujours, si vous êtes visité par le chuchoteur il aura le même sort que le reste des villageois.</value>
+		</string>
+		<string key="visitgwolf">
+			<value>Nous avons de la chance ! {0} a décidé de rendre visite au loup gris, il a été transformé en loup, nous avons un nouveau membre dans la meute.</value>
+		</string>
+		<string key="visitgwolf2">
+			<value>
+				Lorsque tu t'approches de {0}, tu le caresses en pensant que c'est un chien, il te donne une morsure surprise, ce n'était pas un chien, c'était le loup gris.</value>
+			</string>
+		<string key="deadxvisitgwolf">
+			<value>
+				Quelle Chance ! {0} a rendu visite au loup gris, il n'a pas pu être transformé en loup mais au moins tu n'auras pas faim aujourd'hui</value>
+			</string>
+		<string key="deadxvisitgwolf2">
+			<value>Nous avons de mauvaises nouvelles, {0} vous a surpris en le prenant pour un chien, vous êtes mort.</value>
+		</string>
+		<string key="deadxvisitgwolf3">
+			<value>Votre victime n'était pas ce qu'elle semblait être, {0} a été trop confiant et a fini par prendre {1} pour un chien.</value>
+		</string>
+		<string key="deadxvisitgw">
+			<value>Quel joli petit chien, pensa {0}, il était trop tard quand il réalisa qu'il s'agissait du loup gris.</value>
+			<value>{0} appréciait un chien qui croisait son chemin, au final le supposé chien a fini par apprécier ses os après l'avoir mangé.</value>
+			<value>{0}, il semble qu'il se soit pris pour un employé du chenil, il a aimé un spécimen qu'il a vu mais... il s'est trompé de race, c'était le loup gris.</value>
+		</string>
+
+		<string key="groupnorank2">
+			<value>Seuls les groupes qui apparaissent sur /grouplist sont autorisés à jouer les parties classées, vous pouvez demander à rejoindre grouplist dans le groupe de soutien https://t.me/+15_YMW-D1iQ1YmUx </value>
+		</string>
+
+		<!-- décembre -->
+
+		<string key="zeatfire2">
+			<value>En approchant de {0} vous commencez à ressentir une chaleur insupportable, vous enlevez vos fourrures et votre masque pour mieux respirer, ce n'était pas une bonne décision, vous vous approchiez du loup de feu, et quand il vous voit il n'hésite pas à vous brûler vif.</value>
+		</string>
+		<string key="stbonus" >
+			<value>
+				Prime restante.</value>
+			</string>
+
+		<string key="noextneg">
+			<value>L'extension ne peut être utilisée que pour ajouter du temps, pas pour le soustraire.</value>
+		</string>
+
+		<string key="vampConvertWolfPublic">
+			<!--used when vamp convert the wolves, only if wolves stayed home-->
+			<value>Alors que les loups-garous revenaient de leur chasse, un vampire décida de les défier aux portes de sa demeure, s'avérant trop difficile à résister pour les loups-garous. la tête de {0} s'est transformée en un délicieux dîner !</value>
+			<value>Les vampires ont rencontré des problèmes inattendus la nuit dernière. Son nouveau membre, {0}, a eu la malchance de rendre visite à un loup-garou la nuit où les loups-garous ont décidé de rester à la maison. Malheureusement pour les vampires, {0} est mort.</value>
+		</string>
+
+
+
+		<!-- vs in victim -->
+
+		<string key="susvisittarofv">
+			<value>Qui aurait cru que les vampires vous prendraient par surprise alors que vous vous approchiez de votre prochaine victime, vous avez été décapité </value>.
+		</string>
+		<string key="zdeadvisittarofov">
+			<value>Votre chef a croisé {0} rôdant très lentement et grognant près de la maison de {1}, serais-ce un zombie ? il en a profité pour se débarrasser de {0}.</value>
+		</string>
+		<string key="zdeadvisittarofv">
+			<value>Vous avez trouvé {0} marchant sans vie près de la maison de {1}, car il ressemble à un zombie, alors vous lui arrachez la tête.</value>
+		</string>
+		<string key="susvisittarofww">
+			<value>En tournant au coin pour aller chez votre prochaine victime, vous voyez un ou deux loups s'approcher, vous feriez mieux de décider de rentrer chez vous avant qu'ils ne se rendent compte que vous n'êtes pas un zombie.</value>.
+		</string>
+		<string key="ovvisittofw">
+			<value>
+				Votre vieux chef se présente avec les peaux de {0}, apparemment il a été trouvé à proximité de la maison de sa victime.</value>
+				<value>Il semble que votre vieux n'ait pas apporté un nouveau vampire, mais il apporte les crocs de {0} en souvenir.</value>.
+			</string>
+		<string key="ovdeadxvisittofws">
+			<value>Incroyable mais vrai, lorsque vous franchissez la porte de la maison de votre victime, une meute de loups apparaît et vous déchire en lambeaux.</value>
+		</string>
+		<string key="ovdeadxvisittofws2">
+			<value>2x1, on a de la chance, {0} se présente juste au moment où tu t'apprêtes à t'occuper de {1}, tu ne laisses pas passer cette occasion et achève {0} en le mettant en pièces.</value>
+		</string>
+		<string key="ovdeadxvisittofws3">
+			<value>
+				Vous remarquez que quelque chose se passe, {0} est mort d'une manière ou d'une autre en allant sucer le sang de {1}.</value>
+			</string>
+		<string key="vvisittofw">
+			<value>Coincidence, coïncidence, coïncidence??? on ne le saura jamais, mais si on en profite pour se débarrasser de {0} quand on le voit autour de la maison de notre victime.</value>
+			<value>Ce petit loup est allé au marché, l'autre petit loup est allé à la foire, mais {0} s'est trompé d'endroit en rendant visite à votre victime.</value>
+		</string>
+		<string key="vdeadxvisittofws2">
+			<value>C'est une chauve-souris, eh bien non, c'est {0} avec la soif de sang qui survole la maison de {1}, dès qu'elle atterrit vous l'achevez.</value>
+			<value>{0} s'approche de la maison de {1} avec un étrange manteau et un visage très pâle, mieux vaut ne pas le laisser vivre et mettre fin à sa triste vie.</value>
+		</string>
+		<string key="vdeadxvisittofws3">
+			<value>{0} n'est pas revenu de son bain de sang prévu ce soir, il a dû se passer quelque chose chez {1}.</value>
+				<value>{0} est introuvable, aux dernières nouvelles il devait s'occuper de {1}.</value>
+			</string>
+		<string key="vkillwwxvsinvictim">
+			<value>Personne ne s'attendait à ce que {0} soit de la meute, bon, un loup de moins pour se mêler des affaires des vampires, ce n'est pas une bonne idée de visiter la même victime qu'eux.</value>.
+			<value>{0} il avait tellement faim qu'il a essayé de voler de la nourriture aux vampires, visiblement il n'a pas eu de chance.</value>
+		</string>
+		<string key="vkillsusxvsinvictim">
+			<value>{0} voulait essayer d'ajouté un zombie de plus à sa horde personnelle, mais n'a pas remarqué les vampires à proximité, {0} en a subi les conséquences en se retrouvant sans tête.</value>.
+		</string>
+		<string key="vkillzxvsinvictim">
+			<value>
+				L'intelligence de {0} s'est arrêtée lorsqu'il est devenu un zombie, apparemment sa vue aussi puisque {0} n'a pas vu que son prochain dîner était déjà traqué par des vampires.</value>
+    <value>Un zombie abattu, les vampires en traquant leur prochaine victime ont trouvé {0} en train de grogner près de leur maison.</value>.
+			</string>
+		<string key="wwkillvxvsinvictim">
+			<value>{0} a regretté son choix de sucer du sang ce soir, il a rencontré les loups chez sa victime.</value>
+			<value>Aujourd'hui {0} voulait faire une bouteille de sang, dommage que les loups soient déjà là.</value>
+		</string>
+		<string key="vsinvictim">
+			<value> Explication des pourcentages lorsque plusieurs rôles coïncident avec la même victime. \n\n- Chuchoteur et zombies: \n\n- Coïncidant avec n'importe quel type de vampires ils seront toujours décapités, coïncidant avec des loups il ne leur arrivera rien mais ils perdront leur chance cette nuit-là. \n\n-Loups VS Vampire Ancien : \nDans cette situation dépendra du nombre de loups qui sont 3 ou plus, ils peuvent vaincre le vieux vampire et continuer leur action avec sa victime, sinon ils mourront et la victime survivra au vieux vampire. \n\nLoup VS Vampire : Cela dépend aussi du nombre de membres des deux équipes, si les vampires sont majoritaires, les loups meurent et la victime survit, si les loups gagnent à la majorité, ils réaliseront leur action avec leur victime, en cas d'égalité du nombre de membres des deux équipes, un pourcentage de 50% décidera de l'équipe gagnante.</value>
+		</string>
+
+		<string key="nogamewamnesia">
+			<value>{0} vous ne pouvez pas démarrer ce mode de jeu avec la langue d'amnésie définie, contactez un administrateur de groupe pour résoudre ce problème. </value>
+		</string>
+
+
+
+		<string key="wcmuted">
+			<value>Comme vous êtes un enfant sauvage, vous n'avez jamais reçu une bonne éducation et vous ne pouvez pas parler, vous serez donc muet pendant tout le jeu.</value>
+		</string>
+		<string key="necroToCupid">
+			<!-- 0 - target's name -->
+			<value>Le nécromancien {0} s'est transformé en Cupidon, il va maintenant faire équipe avec vous deux.</value>
+		</string>
+		<string key="necroTransformToCupid">
+			<!-- 0 - dead Cupid's name -->
+			<!-- 1 - players in love -->
+			<value>Vous avez choisi {0} qui était Cupidon. Le couple apparié (s'il est toujours en vie) est : {1}</value>
+		</string>
+		<string key="dopToCupid">
+			<!-- 0 - target's name -->
+			<value>Le Doppelganger {0} s'est transformé en Cupidon, il va maintenant faire équipe avec vous deux.</value>
+		</string>
+		<string key="dopTransformToCupid">
+			<!-- 0 - dead Cupid's name -->
+			<!-- 1 - players in love -->
+			<value>Le couple correspondant (s'il est toujours en vie) est : {1}</value>
+		</string>
+		<string key="DGToindis">
+			<!-- 0 - DG's name -->
+			<value>Le Doppelganger {0} est devenu le nouvel indiscret.</value>
+		</string>
+		<string key="necroToindis">
+			<!-- 0 - DG's name -->
+			<value>Le nécromancien {0} est devenu le nouvel indiscret.</value>
+		</string>
+
+		<string key="RoleInfoindiscreto">
+			<value>Vous êtes l'Indiscret 🕶 : Depuis votre toit vous avez passé votre vie à cancaner sur vos voisins, à tel point que vous pouvez même voir ce que font les rôles avec la vision, comme si vous aviez acquis un pouvoir, chaque nuit vous verrez tout ce qu'ils font s'ils ont une action. Si un rôle de nuit agit sur vous, il ne vous trouvera pas car vous serez sur votre toit et le lendemain, vous remplirez le village d'affiches révélant leur rôle, à l'exception du marionnettiste qui sera le seul à pouvoir vous tuer la nuit. Si vous êtes tué, vous révélerez une aide du chasseur de nuit s'il y en a encore en vie. \nRôle conçu par @dantravelsofficialTeam. \nEquipe: Loups. \n\nConversion : Immunisé contre les zombies et les vampires</value>
+		</string>
+		<string key="aboutindiscreto">
+			<value>L'Indiscret 🕶 : Depuis son toit il a passé sa vie à cancaner sur ses voisins, à tel point qu'il peut même voir ce que font les rôles avec la vision, comme s'il avait acquis un pouvoir, chaque nuit il verra tout ce qu'ils font s'ils ont une action. Si un rôle de nuit agit sur lui, ils ne le trouveront pas car il sera sur son toit et le lendemain, il remplira le village d'affiches révélant son rôle, à l'exception du marionnettiste qui sera le seul à pouvoir le tuer la nuit. S'il est tué, il révélera une aide du chasseur de nuit s'il en reste en vie.\nRôle conçu par @dantravelsofficialTeam. \nEquipe: Loups. \n\nConversion : Immunisé contre les zombies et les vampires</value>
+		</string>
+		<string key="socseeind">
+			<value>Vous sentez la présence de {0} à proximité mais vous ne la voyez pas, vous voyez ce qu'elle fait dans sa maison et vous découvrez qu'elle est la sorcière.</value>
+		</string>
+		<string key="socseeind2">
+			<value>Quand tu vois {0} tu le vois sur son toit, tu commences à regarder de plus près et tu vois que c'est lui l'indiscret.</value>
+		</string>
+
+		<string key="bestvisitind">
+			<value>Vous voyez {0} approcher de votre maison, vous voyez que c'est la bête du gevaudan, vous dites {0} qui est le reste du troupeau.</value>
+		</string>
+		<string key="bestvisitind2">
+			<value>Vous ne voyez pas {0} mais vous le sentez tout près, vous regardez sur le toit et il est là, vous voyez qu'il est l'indiscret, {0} vous dit bientôt qui est la meute.</value>
+		</string>
+
+		<!-- February -->
+
+		<string key="visittargetofzs">
+			<!-- 0 - target name -->
+			<value>Certains zombies s'occupent de {0}.</value>
+		</string>
+
+
+	</String>
 </strings>
