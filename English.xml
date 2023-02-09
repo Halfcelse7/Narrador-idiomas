@@ -4606,4 +4606,11 @@
 		 <!-- 0 - DG's name -->
 		 <value>The necromancer {0} has become the new netizen.</value>
 	 </string>
+	 
+	 <!-- February -->
+
+ <string key="visittargetofzs">
+	 <!-- 0 - target name -->
+	 <value>Some zombies are taking care of {0}.</value>
+ </string>
   </strings>
