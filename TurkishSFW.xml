@@ -2726,7 +2726,7 @@
     <value> Ubırlar kümeleniyor, {0} hayatının onlar tarafından sonlandırılacağını göremedi, bu kurtlar için büyük bir kayıp. </value>
   </string>
   <string key = "vKillw">
-    <value> Bu gece kasabada bazı tuhaf sesler ve kargaşa vardı, Ubırlar avlanıyorlardı ancak hedefleri köylüler değildi. Kurtlar sürüsünden bir üye eksildi. {1}. </value>
+    <value> Bu gece kasabada bazı tuhaf sesler ve kargaşa vardı, Ubırlar avlanıyorlardı ancak hedefleri köylüler değildi. Kurtlar sürüsünden bir üye eksildi. {0}. </value>
   </string>
   <string key = "HunterFindvampir">
     <!-- 0 - hedef adı -->
@@ -3676,141 +3676,6 @@
   <string key = "Askovvisit">
     <value> Bu gece kimi ziyaret edeceksin? </value>
   </string>
-
-  <!-- shinigami y hollow -->
-  <string key="RoleInfoshinigami">
-    <value> Ruhlar Alemi seni Shinigami olman için işe aldı, onlar Hollow ile (yozlaşmış ruhlar ve ruh yutan canavar) savaşmak için gerçek dünyaya seyahat eden ve ölen insanların iyi ruhlarını Ruhlar Alemi'ne gönderen ruhlardır. Her gece bir oyuncuyu ziyaret edebilirsin, eğer oyuncu öldüyse ruhunu serbest bırakacaksın, böylece Hollow onu yiyemez. Eğer oyuncu yaşıyorsa, ruhunu yememeleri için onu Hollow'un saldırılarından koruyacaksın. Dövüştüğün Hollow'dan daha fazla özgür ruhun olduğu sürece kazanırsın.\n\nTakım: Köy. </value>
-  </string>
-  <string key="Aboutshinigami">
-    <value> Shinigami, Hollow (ruh yutan canavarlara dönüşen yozlaşmış ruh) ile savaşmak için gerçek dünyaya seyahat eden ve ölen insanların iyi ruhlarını Ruhlar Alemine gönderen ruhlardan biridir. Her gece bir oyuncuyu ziyaret edebilirsin, eğer oyuncu öldüyse ruhunu serbest bırakacaksın, böylece Hollow onu yiyemez. Eğer oyuncu yaşıyorsa, ruhunu yememeleri için onu Hollow'un saldırılarından koruyacaksın. Dövüştüğün Hollow'dan daha fazla özgür ruhun olduğu sürece kazanırsın.\n\nTakım: Köy. </value>
-  </string>
-  <string key="RoleInfohollow">
-    <value> Sen Hollow'sun. Hollow, çeşitli nedenlerle diğer iyi ruhları yutan kötü ruhlar haline gelen ölen insanların ruhlarıdır, insanları ve Shinigami'leri de yiyebilirler. 3 veya daha fazla ölü ruhunu yutmayı başarırsan, daha güçlü hale geleceksin ve yaşayanların ruhlarını yutmak için öldürmeye başlayabileceksin. Bir Shinigami'yi, onun kurtardığından daha fazla sayıda yediğin ruh olduğu sürece yenebilirsin.\n\nTakım: Hollow. </value>
-  </string>
-  <string key="Abouthollow">
-    <value>
-      Hollow, çeşitli nedenlerle diğer iyi ruhları yutan kötü ruhlara dönüşen, ancak insanları ve Shinigami'yi de yiyip bitirebilen ölen insanların ruhlarıdır. 3 veya daha fazla ölü ruhu yutmayı başarırsan, daha güçlü hale geleceksin ve yaşayan ruhları yutmak için öldürmeye başlayabileceksin. Bir Shinigami'yi, onun kurtardığından daha fazla sayıda yediğin ruh olduğu sürece yenebilirsin.\n\nTakım: Hollow. </value>
-    </string>
-  <string key = "shinigami">
-    <value> Shinigami 👻👼</value>
-  </string>
-  <string key = "hollow">
-    <value> Hollow 👻👿</value>
-  </string>
-  <string key = "shinipierde">
-    <value>{0} 'e yaklaştığında, {1}' in bir Hollow'a dönüştüğü ortaya çıktı. Bu sefer oldukça güçlüydü, seni bitirdi ve ruhunu emdi.</value>
-  </string>
-  <string key = "shinipierdeh">
-    <value>{0} 'e yaklaştığında, {1}' in Shinigami'ye dönüştüğü ortaya çıktı. Bu sefer o kadar güçlü değildi, onu yenebilir ve ruhunu yiyebilirdin.</value>
-  </string>
-  <string key = "holpierde">
-    <value>{0} 'e yaklaştığında {1} Hollow'a dönüştü. Bu sefer o kadar güçlü değildi, onu yenebildin ve ruhunu serbest bırakmaya özen gösterdin.</value>
-  </string>
-  <string key = "holpierdeh">
-    <value>{0} 'e yaklaştığında {1} ortaya çıktı ve Shinigami'ye dönüştü. Bu sefer oldukça güçlüydü, seni bitirdi ve ruhunu serbest bıraktı.</value>
-  </string>
-  <string key = "soulliberated">
-    <value>{0}'in ruhunu kurtardın.</value>
-  </string>
-  <string key = "soullive">
-    <value>{0} şimdilik yaşıyor.</value>
-  </string>
-  <string key = "souleated">
-    <value>{0}'in ruhunu yuttun. </value>
-  </string>
-  <string key = "soulliveeated">
-    <value>Ruhunu yutmak için {0}'i öldürmeyi başardın.</value>
-  </string>
-  <string key = "soulalive">
-    <value>{0}'i serbest bırakmayı denedin ama yine de ona bir şey yapacak gücün yok.</value>
-  </string>
-  <string key = "shinTeam">
-    <value>\n\nShinigami Takımı: </value>
-  </string>
-  <string key = "holTeam">
-    <value>\n\nHollow Takımı: </value>
-  </string>
-  <string key = "holreclut">
-    <value>{0} Hollow olduğundan öldü.</value>
-  </string>
-  <string key = "shinreclut2">
-    <value>{0} öldü ve büyük manevi gücü nedeniyle Ruhlar Alemi onu Shinigami yapmaya karar verdi.</value>
-  </string>
-  <string key = "shinilostatk">
-    <value>{0} bir Hollow ve oldukça aç, güçlü bir saldırı ile onu aşağı aldı ve ruhunu yedi. </value>
-  </string>
-  <string key = "holwindef">
-    <value>{0} sana saldırmaya çalıştı ama beklediğinden daha güçlüsün. Onu yenmek ve ruhunu yemek senin için zor değildi.</value>
-  </string>
-  <string key = "shiniwinatk">
-    <value>Daha fazla ruh yutmadan önce {0}'i öldürmeyi başardın. Bu kadar zayıf bir Hollow bulacağını kim bilebilirdi?</value>
-  </string>
-  <string key = "hollostdef">
-    <value>{0} savaşta seni yendi ve ruhunu serbest bıraktı.</value>
-  </string>
-  <string key = "shinilostdef">
-    <value>{0} seni arkadan saldırarak şaşırttı, ruhun bu gece onun yemeği olacak.</value>
-  </string>
-  <string key = "holwinatk">
-    <value>{0}'i yemeye gittiğinde, onun bir Shinigami olduğunu görüyorsun. Varlığını sona erdirmekten çekinme.</value>
-  </string>
-  <string key = "shiniwindef">
-    <value>{0} arkandan sana saldırmaya çalıştı. İyi ki dikkat ettin ve işini bitirebildin.</value>
-  </string>
-  <string key = "hollostatk">
-    <value>{0}'in ruhunu yemek mi istedin? Daha fazla yemeyi unut, o senden daha fazla güce sahip bir Shinigami'ydi ve varlığını sona erdirdi. Ruhunu serbest bıraktı.</value>
-  </string>
-  <string key = "futureshinigami">
-    <value>{0}'i öldürmeyi başardın ama ruhu güçlüydü. Senden kaçmayı başardı.</value>
-  </string>
-  <string key = "hollowatklive">
-    <value>Olamaz!!! Gizemli bir varlık {0}'i öldürdü ve evin yarısını havaya uçurdu. Sanki bir ısırıkta yediler ama kim olduğuna dair hiçbir iz ya da ipucu yok.</value>
-  </string>
-  <string key = "soulalive2">
-    <value>{0}'e saldırmaya çalıştın ama bu sefer şans onun tarafındaydı.</value>
-  </string>
-  <string key = "hollowwins">
-    <value>Hollow'lar kalan Shinigami'ye rağmen kazandı. Kalanlar sadece ruhlarının yutulmalarını beklemek zorunda kaldılar. Hollow'lar bu sefer kazandı. :P</value>
-  </string>
-  <string key = "Askshinhunt">
-    <value>Bugün kimi kurtarmak ya da korumak istiyorsun?</value>
-  </string>
-  <string key = "Askholeat">
-    <value>Bu sefer kimin ruhunu yutmak istiyorsun?</value>
-  </string>
-  <string key = "shinVotedKill">
-    <value>{0}, {1}'i ziyaret etmek için oy kullandı.</value>
-  </string>
-  <string key = "hollowVotedKill">
-    <value>{0}, {1}'i yemek için oy kullandı.</value>
-  </string>
-  <string key = "holKillsshinEnd">
-    <value>{0} öldükten sonra güçlü bir Hollow haline geldi. Sadece arzularını tatmin etmek için, yutmak için {1} eksikti.</value>
-  </string>
-  <string key = "shinKillsholEnd">
-    <value>{0}, kalan son kişi olan {1} ile sona kaldı. Bu kalan son Hollow'du. Köy şimdi barış içinde yaşayabilir. Köylüler Kazandı.</value>
-  </string>
-  <string key = "errorxban">
-    <value>{0} isimli kullanıcı ban yediği için oynamasına izin verilmiyor.</value>
-  </string>
-  <string key = "shinitiedef">
-  <value> {0} sana arkadan kalleş bir şekilde saldırmaya çalıştı. Neyse ki dikkatliydin ve onunla yüzleştin. Oldukça güçlüydü, onu gebertemedin ama senin ruhani gücünü görünce evden ayrıldı. Güçlenmen gerekecek. </value>
-</string>
-  <string key = "holtieatk">
-    <value> {0} yemeğini yiyeceğin zaman onun Shinigami olduğunu görüyorsun. Var gücünle savaşıyorsun ama yetmiyor ve kaçıyorsun. Onu yenmek için daha güçlü olmalısın. </value>
-  </string>
-  <string key = "holtie">
-    <value> {0}'e yaklaştığında, Shinigami olan {1} belirdi. Teke tek kafes dövüşü yaptınız ama kazanan olmadı. Belki de Bursa tayfadaki birkaç kişiden tek dizle kara gömme taktikleri almalıydın. :D</value>
-  </string>
-  <string key = "shinitie">
-    <value> {0}'e yaklaştığında, {1} Hollow'a dönüşmüş görünüyordu. Onunla çok çetin bir mücadele ortaya koydun ama kazanan olmadı.</value>
-  </string>
-  <string key = "shinitieatk">
-    <value> {0} bir Hollow'du, onunla kavga ettin ama ne yazık ki kazanamadın. Tekrar denemek için kendini güçlendirmen gerekecek. </value>
-  </string>
-  <string key = "holtiedef">
-    <value> {0} seni buldu. Onunla kavga ettin ama kazanamadın. Bir dahaki sefere onu yenebilmek için kendini güçlendirmen gerekecek. </value>
-  </string>
   <string key = "PlayerStartedveteran">
     <!-- 0 - Oyuncu adı -->
     <value> {0} İblis modunda bir oyunu başlattı!  Katılmak için butona tıkla... Kesinlikle oyunun en hızlı modu 😂 </value>
@@ -4425,7 +4290,7 @@
 		<value> Sen Gölge'sin. Basit bir İnsan değilsin, bir Silüetsin. Köydeki herkesin gölgesindesin ve onları adım adım takip edebilirsin. Bu sayede gece vakti gerçekleşen tüm aksiyonları görebilecek. GRUP İÇİNDE BU AKSİYONLARI AFİŞE EDEMEZSİN! Çünkü bu bilgileri seni henüz keşfetmemiş kurt müttefiklerin için saklaman gerekecek. Gece oyuncularından biri seni ziyaret etmeye çalışırsa kendi kimliğini riske atmış olur. Kurtlar hariç seni başka biri ziyaret ettiği vakit onları köy meydanının ortasında rolleri ile ifşa edeceksin. Ancak Kukla Ustasının hünerleri senden oldukça üstün bu yüzden gece vakti seni kolaylıkla öldürebilir. Eğer linçlenerek ölürsen Kelle Avcısının yaşayan yardımcılarından birini ifşa edeceksin. \nRol @dantravelsofficial tarafından oluşturuldu. \n\nTakım: Kurtlar. \n\nDönüşümler: Ubır ve Zombilere karşı tam bağışıklılık.</value>
 	</string>
 	<string key="Aboutindiscreto">
-		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bür rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
+		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bir rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
 	</string>
 	<string key="visionindis">
 		<value> {0}'in gölgesini takip ederken {1}'in adresini ziyaret ettiğini gördün.</value>
@@ -4640,5 +4505,19 @@
 	<string key="necroToindis">
 		<!-- 0 - Reenkarnist İsmi -->
 		<value> Reenkarnist {0} yeni Gölge oldu.</value>
+	</string>
+	<string key="visittargetofzs">
+		<!-- 0 - Hedefin İsmi -->
+		<value> Bazı zombiler zaten {0}'in üzerine karar kıldı.</value>
+	</string>
+	<string key="notag">
+		<value> Bu komut şuan aynı zamanda başka gruplar tarafından kullanılıyor. En az/fazla 1 dakika içinde tekrar deneyin lütfen.</value>
+	</string>
+	<string key="errortag">
+		<value> Etiketleme işleminde hata meydana geldi. Silme işlemi durduruldu yada etiketleme sürecinin ortasında tekrar kullanıldı. İşlemi yeniden deneyin.</value>
+	</string>
+	<string key="tgfin">
+		<!-- 0 - Etiketlenen Kullanıcı Sayısı -->
+		<value> {0} oyuncu başarıyla çağırıldı.</value>
 	</string>
 </strings>
