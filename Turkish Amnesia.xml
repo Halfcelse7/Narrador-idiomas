@@ -827,6 +827,16 @@ Son Günccelleme: 06.01.2023 -->
 	<string key="nogamewamnesia">
 		<value>{0} alzheimer dili ayarlanmış olarak bu oyun modunu başlatamazsın. Lütfen düzeltmesi için bir grup yöneticisiyle iletişime geçin.</value>
 	</string>
+	<string key="notag">
+		<value> Bu komut şuan aynı zamanda başka gruplar tarafından kullanılıyor. En az/fazla 1 dakika içinde tekrar deneyin lütfen.</value>
+	</string>
+	<string key="errortag">
+		<value> Etiketleme işleminde hata meydana geldi. Silme işlemi durduruldu yada etiketleme sürecinin ortasında tekrar kullanıldı. İşlemi yeniden deneyin.</value>
+	</string>
+	<string key="tgfin">
+		<!-- 0 - Etiketlenen Kullanıcı Sayısı -->
+		<value> {0} oyuncu başarıyla çağırıldı.</value>
+	</string>
 
 	<!-- OYUN MODLARI -->
 	
@@ -4011,6 +4021,10 @@ Son Günccelleme: 06.01.2023 -->
 		<!-- 0 - Kurban İsmi -->
 		<value> Sabah vakti olduğunda tüm köylüler meydanda toplandı ancak {0} aralarında yoktu. Cesedini başka bir evde buldular ve yanıp kül olduğunu gördüler. {0}'in yanmış bedenini teşhis ettiklerinde onun <b> Fısıltı 🤫 </b> olduğunu hatırladır.</value>
 	</string>
+	<string key="visittargetofzs">
+		<!-- 0 - Hedefin İsmi -->
+		<value> Dün gece {0}'in evinde bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin.</value>
+	</string>
 
 
 	<!-- @Sxd_ness MARIA EMILIA TARAFINDAN YARATILAN UCUBE KURT ROLÜ -->
@@ -4114,7 +4128,7 @@ Son Günccelleme: 06.01.2023 -->
 		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="Aboutindiscreto">
-		<value>Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bür rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
+		<value>Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bir rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
 	</string>
 	<string key="visionindis">
 		<value> {0} seçimini yaptı: {1}</value>
