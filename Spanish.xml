@@ -1518,13 +1518,6 @@
   <string key="ExtraDouse">
     <value>Como no quedan hombres lobo, la aldea ha bajado la guardia y tú aprovechas la oportunidad para rociar a otra persona.</value>
   </string>
-  <string key="DefaultIgnited">
-    <!-- 0 - target's name -->
-    <!-- 1 - target's role -->
-    <value>¡Vaya catástrofe! Los aldeanos descubren la casa de {0} chamuscada. Ha de ser obra del pirómano. {1}.</value>
-    <value>Hoy es un día trágico. La aldea encuentra las cenizas de {0}, otra víctima del pirómano. {1}.</value>
-    <value>{0} trató de jugar con fuego esta noche, y... ha muerto. {1}.</value>
-  </string>
   <string key="PyroWins" isgif="true">
     <value>¡Toda la aldea ha sido incendiada! El pirómano ha ganado.</value>
   </string>
@@ -4532,5 +4525,14 @@
 	<string key="visittargetofzs">
 		<!-- 0 - target name -->
 		<value>Algunos zombis ya se están ocupando de {0}.</value>
+	</string>
+	<string key="notag">
+		<value>El tag está siendo utilizado en algún grupo, inténtalo de nuevo en un minuto o menos.</value>
+	</string>
+	<string key="errortag">
+		<value>Error en el tag, se ha detenido su borrado o llamado en medio del proceso, inténtelo de nuevo.</value>
+	</string>
+	<string key="tgfin">
+		<value>Se ha mencionado a {0} jugadores.</value>
 	</string>
   </strings>
