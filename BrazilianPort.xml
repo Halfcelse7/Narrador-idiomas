@@ -564,10 +564,6 @@
     <value>O tempo acabou! Seja mais rápido da próxima vez.</value>
   </string>
   <!-- new strings june 10 2016 -->
-  <string key="CupidChosen">
-    <value>Você foi atingido pelo amor. A memória de {0} nunca desaparecerá do seu coração. Se um dos dois morrer, o outro morrerá de tristeza. Se ambos estão vivos e um deles vence, o outro vence também.</value>
-    <value>As flechas do cupido atingiram você! Você está loucamente apaixonado por {0}! Se ele morrer, você também morrerá. Se você estiver vivo e um de vocês vencer, ambos vencerão!</value>
-  </string>
   <string key="HunterLynchedChoice">
     <value>Os aldeões decidiram enforcar você! Esta é sua última chance, escolha em quem atirar quando cair!</value>
   </string>
@@ -599,10 +595,6 @@
     <!-- 1 - target's name -->
     <!-- 2 - target's role -->
     <value>Quando a bala perfura {0}, ele cai no chão, mas não antes de pegar sua pistola e disparar em {1}, que leva uma bala entre os olhos. {2}</value>
-  </string>
-  <string key="HunterShotWolfMulti">
-    <!-- 0 - target's name -->
-    <value>Os lobisomens tentaram atacar o caçador ontem à noite, mas ele conseguiu alcançar o seu rifle enquanto morria! {0} está morto e era um lobisomem.</value>
   </string>
   <string key="HunterShotWolf">
     <!-- 0 - target's name -->
@@ -811,12 +803,6 @@
       Nota: Se o jogador foi convertido para o culto, você assumirá o papel original dele. Todas as outras regras normais se aplicam: se ele era criança selvagem e seu modelo morreu, você se tornará um lobo, caso contrário, você herdará o modelo dele.
       O culto não pode converter o doppelgänger (mas pode depois que o doppelgänger troca de papél). Além disso - o doppelgänger NÃO pode vencer a menos que ele tenha se transformado.
       Se no final do jogo, o doppelgänger ainda é o mesmo, ele perde (exceção: amante)
-    </value>
-  </string>
-  <string key="AboutCupid">
-    <value>
-      O amor está no ar. Como cupido, você escolherá dois jogadores no início do jogo. Esses dois jogadores ficarão loucamente apaixonados! Se um deles morrer, o outro morrerá de tristeza. :(
-      Nota: Os amantes saberão quem são, mas não serão informados de seus papéis. Se os amantes são os dois últimos vivos, eles vencem, independentemente dos times. Se os amantes estão em equipes diferentes (aldeão + lobo) e uma equipe vence (lobo), o amante (aldeão) também vence. TL; DR Se pelo menos um dos amantes estava no time vencedor, ambos vencem juntos.
     </value>
   </string>
   <string key="AboutHunter">
@@ -1610,7 +1596,7 @@
     <value>O xerife 🤠</value>
   </string>
   <string key="AboutSheriff">
-    <value>O papel do xerife é muito importante. É um papel de investigação e proteção ao mesmo tempo. Toda noite ele pode descobrir se um jogador tem um papel visitante e evitar que ele seja convertido para o culto. Entretanto, ele retorna cedo para casa, para que o culto possa convertê-lo, mesmo que ele saia em patrulha..</value>
+	  <value>O papel do xerife é muito importante. É um papel investigativo e protetor ao mesmo tempo. Todas as noites você pode saber se um jogador tem um papel de visitante.</value>
   </string>
   <string key="Police">
     <value>policial 👮</value>
@@ -1825,9 +1811,9 @@
   <string key="RandomKiller">
     <value>Papel de SK aleatório ⚠️</value>
   </string>
-  <string key="RandomBaddie">
-    <value>SK ou culto ⚠👤</value>
-  </string>
+	<string key="RandomBaddie">
+		<value>assassino ou marionetista⚠️👤</value>
+	</string>
   <string key="RandomWolf">
     <value>Papel Aleatorio 🆘</value>
   </string>
@@ -1843,12 +1829,12 @@
   <string key="RandomSkyro">
     <value>serial killer ou incendiário 🔪🔥</value>
   </string>
-  <string key="RandomCultable">
-    <value>Sempre cultável aleatório  💯</value>
-  </string>
-  <string key="RandomLowCultable">
-    <value>Pouco cultável aleatório ❇️</value>
-  </string>
+	<string key="RandomVampirable">
+	<value>sempre conversível aleatório 💯</value>
+</string>
+	<string key="RandomLowVampirable">
+		<value>pequeno conversível aleatório ❇️</value>
+	</string>
   <string key="HelpCustom">
     <value>
       Como criar um jogo personalizado: \n \n Para iniciar um jogo personalizado, você deve colocar o comando /startcustom seguido da lista de papéis a serem usados. Essa lista é composta pelos emojis dos papéis que você deseja, separados por vírgulas e sem espaços. Para ver quais emojis você pode usar, digite /emojisCustom.\n
@@ -2840,7 +2826,7 @@
 </string>
 <string key="vampConvertWolfPublic">
   <!--used when vamp convert the wolves, only if wolves stayed home-->
-  <value>Apesar dos lobisomens terem ficado em casa, um vampiro decidiu desafiá-los, sendo muito difícil para os lobisomens resistirem. A cabeça de {0} se transformou em um jantar delicioso!</value>
+	<value>Quando os lobisomens voltaram de sua caçada, um vampiro decidiu desafiá-los nos portões de sua residência, provando ser muito difícil para os lobisomens resistirem. A cabeça de {0} se transformou em um delicioso jantar!</value>
   <value>Os vampiros tiveram problemas inesperados na noite passada. Seu mais novo membro, {0}, teve a infelicidade de visitar um lobisomem na noite em que os lobisomens decidiram ficar em casa. Infelizmente para os vampiros, {0} morreu.</value>
 </string>
 <string key="vampConvertKillerPublic">
@@ -3045,10 +3031,6 @@
   <string key = "FightedfireWolf">
     <value>Conforme o Lobo do Fogo entra na casa de {0}, procurando por seu alvo, ele ouve um alarme se aproximando ... bombeiros! Ele não tem escolha a não ser fugir sem se queimar, antes de ser descoberto. </value>
   </string>
-  <string key = "GuardBlockedfireWolf">
-    <!-- 0 - nome do alvo -->
-    <value>O lobo de fogo segue para a casa de {0} para se banquetear com seu corpo recém-grelhado, mas ele se depara com uma figura alta e escura armada até os dentes. O anjo da guarda o impede de entrar e retorna ao seu covil derrotado. </value>
-    </string>
   <string key = "nonobsranked">
     <!-- 0 - nome do alvo -->
     <value>{0} você não poderá jogar com classificação-pro até ter jogado pelo menos 1000 jogos. </value>
@@ -3294,9 +3276,6 @@
   <string key = "NHKillszEnd">
     <value>{0} corta a cabeça de {1} para que a aldeia fique livre de Zumbis.</value>
   </string>
-  <string key = "vampKillszEnd">
-    <value>{0} preferia sangue, mas ao ver que {1} tem seu corpo podre, acaba com ele arrancando a sua cabeça.</value>
-  </string>
   <string key = "zeatguard">
     <value>Enquanto você pretendia comer um cérebro delicioso, outro apareceu em seu caminho. Você transformou um Guarda num Zumbi.
     </value>
@@ -3410,10 +3389,6 @@
   <string key = "RoleInfoMason">
     <value>
       Você é um maçom. Se houver outro, você saberá quem é; caso contrário, você é apenas mais um aldeão. \n\nEquipe: Aldeia. \n\nConversões: \n Vampiros: Sempre converte. \n Zumbis: Tem 30% de infecção, 25% de sobrevivência e 45% de convertidos. </value>
-    </string>
-  <string key = "RoleInfoCupid">
-    <value>
-      Você é o Cupido. Enviado à Terra apenas com sua cueca, um arco e duas flechas, você deve escolher dois jogadores que se amarão por toda a eternidade. Se um morrer, o outro morrerá de tristeza. \n\nEquipe: Aldeia. \n\nConversões: \n Vampiros: Sempre converte. \n Zumbis: têm 30% de infecção, 25% de sobrevivência e 45% de conversão. </value>
     </string>
   <string key = "RoleInfoDoppelganger">
     <value>
@@ -3744,9 +3719,8 @@
       {0} Pensei, ou assim queremos acreditar, que o cérebro de um caçador podia ser saboroso, não era o que eu esperava já que ficou sem cabeça. </value>
     </string>
   <string key = "donation">
-    <value>
-      PAYPAL \n Indique na nota de transferência "DOAÇÃO PARA NARRADOR" e nome de usuário para evitar confusão com outros tipos de transferências. Desmarque a caixa de proteção do comprador se ela aparecer como uma doação. \n O link é o seguinte: \n http://paypal.me/tmogeid \n \n CRIPTOMOEDAS \n Se você quiser doar criptomoedas, isso pode ser feito pela Coinbase para o e-mail do usuário tmogeid@gmail.com \n Para outras carteiras ou para enviar os códigos necessários (dependendo da moeda) contate em particular com @tmogeid </value>
-    </string>
+    <value>---PAYPAL---\nIndicar na nota de transferência "DOAÇÃO PARA NARRADOR" e nome de usuário para evitar confusão com outros tipos de transferências. Por favor, desmarque a caixa de proteção do comprador se ela aparecer, pois se trata de uma doação. \n\n---CRIPTOCURRENCY---\n Se quiser doar criptomoedas, pode fazê-lo por Coinbase para o email do utilizador tmogeid@gmail.com \n\n---TRANSFERÊNCIAS---\n É também é possível fazer doações por transferência internacional, seja pelo app do seu banco, bizum ou moneygram (onde as transferências entre cartões são gratuitas) e similares. \n\n Para qualquer dúvida ou esclarecimento pode contactar @tmogeid</value>
+		</string>
   <!-- cadejo -->
 
   <string key = "RoleInfocadejo">
@@ -3857,25 +3831,23 @@
   </string>
 
   <!-- shinigami e oco -->
-
-  <string key = "RoleInfoshinigami">
-    <value>
-      A Soul Society o recrutou para se tornar um Shinigami, eles são almas que viajam para o mundo real para lutar contra os Hollow (espíritos corrompidos e transformados em monstros devoradores de almas) e enviar os bons espíritos das pessoas falecidas para a Soul Society . Todas as noites você pode visitar um jogador, se o jogador morreu você vai libertar sua alma para que as covas não a comam, se o jogador estiver vivo você o protegerá dos ataques das covas para que não comam sua alma . Contanto que você tenha o mesmo número de almas liberadas ou mais do que aquelas que foram comidas pelo buraco que você está lutando, você vencerá. Se for o fim do jogo, você precisará de mais. \ N \nEquipe: Village. </value>
-    </string>
-  <string key = "Aboutshinigami">
-    <value> Shinigami são almas que viajam para o mundo real para lutar contra os Hollow (espíritos corrompidos transformados em monstros devoradores de almas) e enviam os bons espíritos de pessoas falecidas para a Soul Society. Todas as noites você pode visitar um jogador, se o jogador morreu você vai libertar sua alma para que as covas não a comam, se o jogador estiver vivo você o protegerá dos ataques das covas para que não comam sua alma . Contanto que você tenha o mesmo número de almas liberadas ou mais do que aquelas que foram comidas pelo buraco que você está lutando, você vencerá. Se for o fim do jogo, você precisará de mais. \ N \nEquipe: Village. </value>
-  </string>
+	<string key="RoleInfoshinigami">
+		<value>
+			A Soul Society recrutou você para se tornar um Shinigami, são almas que viajam para o mundo real para lutar contra os Hollow (espíritos corrompidos transformados em monstros comedores de almas) e enviam os bons espíritos de pessoas falecidas para a Soul Society. Todas as noites você poderá visitar um jogador, se o jogador morreu você liberará sua alma para que os etéreos não a comam, se o jogador estiver vivo você o protegerá dos ataques dos etéreos para que eles não coma sua alma. Contanto que você tenha mais almas libertadas do que o etéreo que você está lutando comeu, você ganha e conta como 2 almas libertadas.\n\nEquipe: Aldeia.</value>
+		</string>
+	<string key="Sobreshinigami">
+		<value>Shinigami são almas que viajam para o mundo real para lutar contra os Hollow (espíritos corrompidos transformados em monstros devoradores de almas) e enviam os bons espíritos de pessoas falecidas para a Soul Society. Todas as noites você poderá visitar um jogador, se o jogador morreu você liberará sua alma para que os etéreos não a comam, se o jogador estiver vivo você o protegerá dos ataques dos etéreos para que eles não coma sua alma. Contanto que você tenha mais almas libertadas do que o etéreo que você está lutando comeu, você ganha e conta como 2 almas libertadas.\n\nEquipe: Aldeia.</value>
+	</string>
+	<string key="RoleInfohollow">
+		<value>Você se tornou um Hollow. Os Hollow são as almas de humanos falecidos que, por vários motivos, se tornaram espíritos malignos que devoram outros bons espíritos, embora também possam devorar humanos e shinigami. Se você conseguir devorar 3 almas ou mais dos mortos, você se tornará mais poderoso e poderá começar a matar os vivos para devorar suas almas (estas contarão em dobro). Você pode vencer um shinigami desde que tenha mais espíritos devorados liberados do que ele (as almas também contam em dobro).\n\nEquipe: Hollow.</value>
+	</string>
+	<string key="Abouthollow">
+		<value>
+			Os Hollow são as almas dos humanos falecidos que, por várias razões, se tornaram espíritos malignos que devoram outros bons espíritos, embora também possam devorar humanos e shinigami. Se você conseguir devorar 3 almas ou mais dos mortos, você se tornará mais poderoso e poderá começar a matar os vivos para devorar suas almas (estas contarão em dobro). Você pode derrotar um shinigami desde que tenha mais espíritos devorados liberados do que ele (as almas também contam em dobro).\n\nEquipe: Hollow.</value>
+		</string>
   <string key = "shinigami">
     <value> o shinigami 👻👼 </value>
   </string>
-  <string key = "RoleInfohollow">
-    <value>
-      Você se tornou um Hollow. Os Hollow são almas de humanos falecidos que, por vários motivos, se tornaram espíritos malignos que devoram outros espíritos bons, embora também possam devorar humanos e shinigamis. Se você conseguir devorar 3 ou mais almas dos mortos, você se tornará mais poderoso e poderá começar a matar os vivos para devorar suas almas. Você pode derrotar um shinigami contanto que tenha mais espíritos devorados do que ele libertou. \ N \nEquipe: Oco. </value>
-    </string>
-  <string key = "Abouthollow">
-    <value>
-      Ocas são as almas de humanos falecidos que, por vários motivos, se tornaram espíritos malignos que devoram outros espíritos bons, embora também possam devorar humanos e shinigamis. Se você conseguir devorar 3 ou mais almas dos mortos, você se tornará mais poderoso e poderá começar a matar os vivos para devorar suas almas. Você pode derrotar um shinigami contanto que tenha mais espíritos devorados do que ele libertou. \ N \nEquipe: Oco. </value>
-    </string>
   <string key = "hollow">
     <value> o vazio 👻👿 </value>
   </string>
@@ -3974,7 +3946,919 @@
   <string key = "shinKillsholEnd">
     <value> {0} terminou com {1} que era o último vazio remanescente, a vila agora pode viver em paz. </value>
   </string>
-  <string key="NightTimer">
-    <value>Set Night Timer</value>
-  </string>
+	<string key="shinitiedef">
+		<value>
+			{0} tentou te atacar por trás sujo, graças a Deus você estava atento e conseguiu enfrentá-lo, ele era bem forte, você não conseguiu finalizá-lo mas ele saiu surpreso ao ver seu poder espiritual . Você terá que ficar mais forte.</value>
+		</string>
+	<string key="holtieatk">
+		<value>Quando você vai comer {0} você vê que ele se tornou um shinigami, você luta com todas as suas forças, mas não é o suficiente e você foge, você deve se tornar mais forte para derrotá-lo.</value>
+	</string>
+	<string key="holtie">
+		<value>Quando você chegou perto de {0} {1} apareceu que é um shinigami, você teve uma luta acirrada, mas não houve vencedor.</value>
+	</string>
+	<string key="shinitie">
+		<value>Quando você chegou perto de {0} {1} gerado, você teve uma correspondência próxima, mas nenhum vencedor.</value>
+	</string>
+	<string key="shinitieatk">
+		<value>{0} é um hollow, você brigou com ele mas foi muito perto, você terá que ficar mais forte para tentar novamente.</value>
+	</string>
+	<string key="holtiedef">
+		<value>{0} te encontrou, você brigou com ele mas foi muito perto, você vai ter que ficar mais forte para poder vencê-lo na próxima vez.</value>
+	</string>
+
+	<string key="PlayerStartedveteran">
+		<!-- 0 - Nome do jogador -->
+		<value>{0} iniciou um jogo de veteranos! Pressione o botão para entrar no… certamente o modo mais rápido do bot 😂</value>
+		<value>{0} iniciou um novo jogo de veteranos! Pressione o botão para ganhar linchado!</value>
+	</string>
+	<string key="GroupIdleCount">
+		<!-- {0} - Contagem ociosa nas últimas 24 horas no grupo atual -->
+		<!-- Esta string é anexada à string "IdleCount", certifique-se de que esta string se encaixe na próxima frase após "IdleCount" -->
+		<value>{0} dessas mortes estavam neste grupo.</value>
+	</string>
+	<string key="helperTurnWolf">
+		<value>Os lobos estão mortos e você é o último ajudante do bando. Você se tornou um lobisomem normal.</value>
+	</string>
+	<string key="NightTimer">
+		<value>Definir timer noturno</value>
+	</string>
+
+	//2022
+
+	<string key="PlayerStartedbonusrank">
+		<!-- 0 - Nome do jogador -->
+		<value>{0} iniciou um jogo de BÔNUS! Pressione o botão para entrar e ganhar mais pontos do que o normal.</value>
+		<value>{0} iniciou um novo jogo de bônus! Você será capaz de aproveitar esta oportunidade?</value>
+	</string>
+	<string key="nobonus">
+		<!-- 0 - Nome do jogador -->
+		<value>{0} você não tem nenhum jogo de bônus para jogar.</value>
+	</string>
+	<string key="titikill">
+		<!-- 0 - Nome do jogador -->
+		<value>VOCÊ ESTÁ MORTO!! O marionetista decidiu manter algumas partes do seu corpo para criar marionetes para si mesmo.</value>
+		<value>VOCÊ TE MATOU!! Você pode valer mais como uma boneca, o titereiro saberá como te usar.</value>
+	</string>
+
+	<!-- 2022 -->
+
+	<string key="FleeDisabledrankeds">
+		<value>Provavelmente não é! Nas ranqueadas, você não tem permissão para sair do jogo!</value>
+	</string>
+	<string key="pwin">
+		<value>Você ganhou o jogo e acabou com </value>
+	</string>
+	<string key="plost">
+		<value>Você perdeu o jogo e acabou com </value>
+	</string>
+	<string key="nopara2">
+		<value>Aconselhe um administrador de grupo oficial a usar este comando.</value>
+	</string>
+	<string key="cnnorabid">
+		<value>Foi uma má ideia tentar transformar o caçador noturno em um raivoso.</value>
+	</string>
+	<string key="nopara3">
+		<value>Aconselhe um administrador com direitos Smite a usar este comando.</value>
+	</string>
+	<string key="ppointf">
+		<value> pontos, sua pontuação atual é </value>
+	</string>
+	<string key="fwvisitcc">
+		<value>Não foi uma boa ideia visitar o Night Hunter enquanto ele ainda é forte o suficiente.</value>
+	</string>
+	<string key="ccvisitedxFireWolf">
+		<value>Você sentiu cheiro de cinza por perto e a temperatura parece ter subido um pouco, hora de tomar um sorvete enquanto abre as janelas para ventilar.</value>
+	</string>
+
+	<string key="Idle">
+		<value>AFK</value>
+	</string>
+	<string key="ramvfl">
+		<value>A prostituta manteve você distraído a noite toda, seus encantos não funcionaram, você deveria ter usado a flauta certa.</value>
+	</string>
+	<string key="polvfl">
+		<value>O policial queria interrogá-lo esta noite, ele o desconcertou um pouco e seus encantos com a flauta não saíram como você esperava.</value>
+	</string>
+	<string key="shervfl">
+		<value>Do seu telhado você observa o xerife rondando sua casa, ele te jogou um pouco fora e você não tocou a melodia para encantar corretamente.</value>
+	</string>
+
+	<!-- peludo -->
+
+	<string key="Aboutpeludo">
+		<value>
+			O peludo é um aldeão com problema de cabelo, ele tem tanto cabelo que nem dá para ver o rosto dele, por isso se o caçador noturno o visitar, ele vai confundir o pobre peludo com um lobo e matá-lo . Devido ao seu pelo, ele é mais resistente a vampiros e zumbis do que um aldeão normal.</value>
+		</string>
+	<string key="peludo">
+		<value>o peludo 🧔🏻‍♀️</value>
+		</string>
+	<string key="NHunterKilledpeludo">
+		<!-- 0 - nome da vítima -->
+		<value>É {0}???. O que pensávamos ser apenas uma bola de pelo gigante rolando pela Main Street era uma pessoa muito peluda. O caçador da noite o confundiu com um lobo de tanto pelo e não hesitou em se livrar dele esta noite.</value>
+	</string>
+	<string key="HunterFindpeludo">
+		<value>Ao visitar {0} para suas verificações, você encontra uma enorme bola de pelo, na dúvida se é humano ou não, você a mata.</value>
+	</string>
+	<string key="peludokilledxcn">
+		<value>Infelizmente {0} confundiu você com um lobo desde que você era excessivamente peludo, digo que você era porque morreu caçado devido a uma confusão.</value>
+	</string>
+
+	<string key="GuardBlockedfireWolf">
+		<!-- 0 - nome do alvo -->
+		<value>Você vai até a casa de {0} para se banquetear com seu corpo recém-grelhado, apenas para se deparar com uma figura alta e morena armada até os dentes. O Anjo da Guarda o impede de entrar e você retorna ao seu covil derrotado.</value>
+	</string>
+	<string key="FightedfireWolf">
+		<value>Ao entrar na casa de {0}, você ouve um alarme se aproximando... o corpo de bombeiros! Você não tem escolha a não ser fugir sem queimar antes que eles descubram você.</value>
+	</string>
+
+	<string key="SuccessFreeze">
+		<value>O lobo da neve foi até a casa de {0} e conseguiu congelá-la. Ele não poderá usar suas ações esta noite.</value>
+	</string>
+	<string key="SnoopAction2">
+		<value>Conforme o lobo farejador se aproxima da casa de {0}, ele ouve um movimento, então parece que está acordado. (Tem ação noturna). </value>
+	</string>
+	<string key="SnoopNoAction2">
+		<value>Depois de inspecionar a casa de {0}, o lobo farejador não ouve ou cheira nada incomum, parece estar dormindo. (Sem ação noturna.)</value>
+	</string>
+	<string key="SnoopDrunk2">
+		<value>Conforme o lobo farejador se aproxima da casa de {0}, ele reconhece um forte odor de álcool. Então {0} é {1}!</value>
+	</string>
+	<string key="SnoopHerbalist2">
+		<value>Conforme o lobo farejador se aproxima da casa de {0}, ele percebe um cheiro de plantas e ervas medicinais. Então {0} é {1}!</value>
+	</string>
+	<string key="SnoopBaker2">
+		<value>Ao se aproximar da casa de {0}, o lobo farejador sente um delicioso cheiro de pão recém-assado. Então {0} é {1}!</value>
+	</string>
+	<string key="cadbprotect2">
+		<value>
+			Quando o lobo de fogo se aproxima de {0}, vê um cachorro branco com ele, não importa, mas quanto mais se aproxima, esse cachorro fica cada vez maior, é o cadejo branco! volte para casa como { 0} está protegido de todos os danos.</value>
+		</string>
+	<string key="GuardBlockedfireWolf2">
+		<!-- 0 - nome do alvo -->
+		<value>O lobo de fogo segue para a casa de {0} para se banquetear com sua carcaça recém grelhada, apenas para encontrar uma figura alta e escura armada até os dentes. O Anjo da Guarda bloqueia sua entrada e ele retorna ao seu covil derrotado.</value>
+	</string>
+	<string key="FightedfireWolf2">
+		<value>Enquanto o lobo de fogo entra na casa de {0}, procurando por seu alvo, ele ouve um alarme chegando... os bombeiros! Ele não tem escolha a não ser fugir sem queimar, antes de ser descoberto.</value>
+	</string>
+	<string key="SuccessfulBurning2">
+		<value>O lobo de fogo foi até a casa de {0} e conseguiu queimá-la.</value>
+	</string>
+	<string key="bomberBurning2">
+		<value>O lobo de fogo foi até a casa de {0} e fez .... um bom splash, o bombeiro não mexe quando o assunto é fogo, chega em casa molhado e sem jantar.</value>
+	</string> 
+	<string key="fwvisitcc">
+		<value>Não foi uma boa ideia visitar o Night Hunter enquanto ele ainda é forte o suficiente.</value>
+	</string>
+	<string key="ccvisitedxFireWolf">
+		<value>Você sentiu cheiro de cinza por perto e a temperatura parece ter subido um pouco, hora de tomar um sorvete enquanto abre as janelas para ventilar.</value>
+	</string>
+	<string key="fwvisitacc2">
+		<value>Não foi uma boa ideia visitar o Night Hunter enquanto ele ainda é forte o suficiente, o lobo de fogo perdeu seu tempo esta noite.</value>
+	</string>
+	<string key="GAburnednofw2">
+		<value>Que azar, o lobo de fogo encontrou um anjo da guarda e antes de queimá-lo, voou para escapar de seu alcance.</value>
+	</string>
+	<string key="cadbprotect3">
+		<value>
+			Quando {0} é atacado, percebe-se que está acompanhado de um cachorro branco. Quanto mais perto você estiver de {0}, esse cachorro vai ficando cada vez maior, é o cadejo branco! Ele volta para casa agora que {0} está protegido contra todo o mal.</value>
+		</string>
+	<string key="FightedWolf2">
+		<value>Enquanto a matilha entra na casa de {0}, ouve-se um alarme se aproximando... o corpo de bombeiros! Não há escolha a não ser fugir sem comer, antes de ser descoberto.</value>
+	</string>
+	<string key="GuardBlockedWolf2">
+		<!-- 0 - nome do alvo -->
+		<value>O bando segue para a casa de {0} para se banquetear com seu corpo, apenas para encontrar uma figura alta e morena armada até os dentes. O anjo da guarda impede a entrada e eles retornam ao covil derrotados.</value>
+	</string>
+	<string key="WolvesTriedToEatWiseElder2">
+		<!-- 0 - Nome do Sábio Ancião -->
+		<value>O bando tentou invadir a casa de {0}, mas infelizmente o velho sábio estava lá! {0} evitou o ataque com sucesso, mas felizmente, eles não reconheceram nenhum dos lobos.</value>
+</string>
+
+<string key="bestia">
+<value>a Besta de Gévaudan 🐺🔱</value>
+</string>
+<string key="RoleInfobestia">
+<value>Você é a Besta de Gévaudan 🐺🔱 : Um devorador por excelência, os habitantes da vila ainda não sabem se você é um lobisomem ou uma enorme cadela-lobo, todos tremem com o quão forte você é. Você voltou para se vingar de seu maior inimigo: El Cadejo. Suas refeições serão 100% devoradas, além disso, você ficará imune a uma caçada do caçador noturno uma vez, deixando-o ferido para que não possa caçar na noite seguinte.\nFunção criada por Maria Emilia (@Sxd_ness) \n\nEquipe: Lobos \n \nConversões: \n Vampiros: \n-Se você visitar: Você come, exceto o vampiro ancião.\n-Se você for visitado: Você o espanta, exceto o vampiro ancião. \n Zumbis: \n-Se você visitar: Você não os mata.\n-Se eles visitarem você: Eles morrem. </value>
+</string>
+<string key="aboutbestia">
+<value>A Besta de Gévaudan 🐺🔱 : Um devorador por excelência, os habitantes da aldeia ainda não sabem se você é um lobisomem ou uma enorme cadela-lobo, todos tremem com o quão forte você é. Você voltou para se vingar de seu maior inimigo: El Cadejo. Suas refeições serão 100% devoradas, além disso, você ficará imune a uma caçada do caçador noturno uma vez, deixando-o ferido para que não possa caçar na noite seguinte.\nFunção criada por Maria Emilia (@Sxd_ness) \n\nEquipe: Lobos \n \nConversões: \n Vampiros: \n-Se você visitar: Você come, exceto o vampiro ancião.\n-Se você for visitado: Você o espanta, exceto o vampiro ancião. \n Zumbis: \n-Se você visitar: Você não os mata.\n-Se eles visitarem você: Eles morrem. </value>
+</string>
+<string key = "GunnerShotbestia">
+<value>{0} atira em {1}, mas não morre, é a Besta de Gévaudan! {0} percebendo que deve gastar outra bala para matar {1}. </value>
+</string>
+<string key="gunvisitbest">
+<value>Você visitou a pessoa errada, conheceu a Besta de Gévaudan, gastou sua última bala, mas ele conseguiu se esquivar, gostaria que você tivesse mais munição.</value>
+</string>
+<string key="gunvisitbest2">
+<value>Esta noite {0} tomou a decisão errada tentando matar a Besta de Gévaudan, foi devorada sem cerimônia, {0} era o vigilante, a besta teve sorte de desviar da única bala que lhe restava. </value>
+</string>
+<string key="gunvisitbest3">
+<value>O vigilante tentou te matar, {0} tinha apenas uma bala e felizmente você conseguiu desviar do tiro, você o devorou ​​deixando apenas seus ossos. </value>
+</string>
+<string key="frozenbestia">
+<value>O lobo da neve ia congelar você até que ele viu que você era parte lobo, ele disse a você quem era o resto do bando para se juntar a sua estratégia. </value>
+</string>
+<string key="Freezebestia">
+<value>Ao se aproximar de {0}, você vê algo familiar nela. Você reconhece {0} como {1}! Você não hesita em dar a ele os membros do bando para unir forças. </value>
+</string>
+<string key="Freezebestia2">
+<value>Conforme o lobo da neve se aproxima de {0}, ele vê algo familiar nela. Você reconheceu {0} como {1}! Ele não hesitou em dar a ele os membros do bando para unir forças. </value>
+</string>
+<string key="SnoopActionbestia">
+<value>Ao se aproximar de {0}, você sente um cheiro familiar nela. Você identifica {0} como {1} graças ao seu nariz! Você não hesita em dar a ele os membros do bando para unir forças. </value>
+</string>
+<string key="SnoopActionbestia2">
+<value>Conforme o farejador se aproxima de {0}, ele sente o cheiro de algo familiar nela. Ele identifica {0} como {1} graças ao seu nariz! Ele não hesita em dar a ela os membros do bando para unir forças. </value>
+</string>
+<string key="SnoopActionbestia3">
+<value>O lobo farejador estava perto de sua casa, pelo seu cheiro ele reconheceu você como um do bando, ele disse quem eram os outros lobos para que você pudesse se juntar a eles. </value>
+</string>
+<string key="bestiaburned">
+<value>Você começa a sentir cheiro de fumaça e cinzas no ambiente, você vê uma bola de fogo se aproximando e ela para bem na sua frente, era o lobo de fogo, reconhecer você como um lobo faz você conhecer o resto da matilha para trabalhar juntos. </value>
+</string>
+<string key="bestiaburned2">
+<value>Ao se aproximar de {0}, você percebe que ela tem muito cabelo para uma pessoa, então você para na frente dela para olhar mais de perto. !{0} é {1}! Felizmente você não o queimou e decide contar a ele os membros que restam no pacote. </value>
+</string>
+<string key="bestiaburned3">
+<value>Ao se aproximar de {0}, o lobo de fogo decidiu não queimá-lo. !{0} é {1}! Que sorte que ela não acabou chamuscada para ajudá-lo em sua tarefa. </value>
+</string>
+<string key="wtob">
+<value>Quando a matilha finge atacar {0}, eles veem que é realmente maior do que pensavam e que é parte lobo. Eles encontraram {1}! Eles a colocam em dia com os lobos restantes para desenvolver uma estratégia juntos. </value>
+</string>
+<string key="wtob2">
+<value>O bando fez uma visita a você, a princípio eles iam comê-lo, mas perceberam que você era um deles, eles revelam quem são seus membros para trabalhar juntos. </value>
+</string>
+<string key="cadvisitbest">
+<value>Você visitou a pessoa errada, conheceu a Besta de Gévaudan, é seu pior inimigo e nem mesmo seus poderes serão capazes de protegê-lo contra este animal.</value>
+</string>
+<string key="cadvisitbest2">
+<value>Esta noite {0} tomou a decisão errada ao visitar a Besta de Gévaudan, foi devorada sem consideração, a besta já obteve grande satisfação ao matar a presa que mais desejava, {0} era o cadejo. </value>
+</string>
+<string key="cadvisitbest3">
+<value>Quem ia te dizer que no final o mesmo cadejo acabaria te visitando, {0} teve a maravilhosa ideia de te visitar no seu covil, se soubesse que você realmente era teria pensado melhor isto. </value>
+</string>
+<string key="cadvisitvictimbest2">
+<value>Esta noite {0} tomou a decisão errada ao mirar na própria vítima da Besta Gévaudan, ela foi devorada sem consideração, a besta já obteve grande satisfação ao matar a presa que mais desejava, {0} era o cadejo </value>
+</string>
+<string key="cadvisitvictimbest3">
+<value>Quem te ia dizer que no final o mesmo cadejo acabaria por visitar o teu mesmo alvo esta noite, {0} não teve sorte esta noite, não perdeste esta oportunidade e resolveste devorá-la. </value>
+</string>
+<string key="guardvisitvictimbest">
+<value>Você tentou proteger a pessoa errada, você encontrou a Besta de Gévaudan montando guarda, mesmo com seu melhor escudo você não será capaz de se proteger contra este animal.</value>
+</string>
+<string key="guardvisitvictimbest2">
+<value>Esta noite {0} tomou a decisão errada protegendo o alvo da Besta de Gévaudan, foi devorado sem cerimônia, a besta continuará tentando encontrar o cadejo, {0} era um guarda. </value>
+</string>
+<string key="guardvisitvictimbest3">
+<value>Quando você estava indo para {1} você se deparou com {0} patrulhando os arredores, ele não tirava um olho de seu alvo, então você decidiu acabar com ele, seus dias de guarda acabaram para sempre. </value>
+</string>
+<string key="bestkill">
+<value>Você percebe algo perseguindo você, você pensa que é um lobo, mas não, uma fera enorme se lança sobre você, devorando-o sem deixar rastros. </value>
+</string>
+<string key="bestkill2">
+<value>Esta noite uma besta parecida com um lobo devorou ​​{0} que era {1}.</value>
+</string>
+<string key="bestkill3">
+<value>Você comeu {0} que era {1}.</value>
+</string>
+<string key="Fightedbestia">
+<value>Ao entrar na casa de {0}, você ouve um alarme se aproximando... o corpo de bombeiros! Você não tem escolha a não ser fugir sem comer, antes de ser descoberto.</value>
+</string>
+<string key="GuardBlockedbestia">
+<!-- 0 - nome do alvo -->
+<value>Você segue para a casa de {0} para se banquetear com o corpo dele, apenas para se deparar com uma figura alta e morena armada até os dentes. O Anjo da Guarda o impede de entrar e você retorna ao seu covil derrotado.</value>
+</string>
+<string key="ccvisitedxbestia">
+<value>Você sente uma presença estranha do lado de fora da casa, quando sai para inspecionar encontra algumas pegadas, mas essas pegadas são maiores que o normal mesmo tendo formato de lobo, deve ser uma fera enorme.</value>
+</string>
+<string key="bestiadeadvisitoldvamp">
+<value>{0} tentou comer {1}, que erro, não fazia ideia que poderia ser um vampiro ancião, {1} desmembrou-o e fez um sobretudo com sua pele.</value>
+</string>
+<string key="vampVisitbestia">
+<value>Ao atacar {0} você vê que é uma fera enorme e muito forte, prefere voltar para casa para evitar a morte certa.</value>
+</string>
+<string key="HunterFindbestia">
+<!-- 0 - nome do destino -->
+<value>Você vai até a casa de {0}, você vê que não há ninguém lá, quando você se vira para sair do local, uma enorme besta se lança sobre você, {0} é a Besta de Gévaudan, ela te pegou por surpresa e ela te machucou consideravelmente, na próxima noite você não poderá caçar ninguém, mas na próxima noite você estará pronto para matá-la.</value>
+</string>
+<string key="HunterFindbestia2">
+<!-- 0 - nome do destino -->
+<value>Ao voltar para sua casa você encontra a porta aberta, você sente o cheiro da essência de {0}, você sabe que não deve estar longe, ou mesmo dentro, você se esgueira pelo telhado e assim que ela sai você ataque-o, você não pode matá-lo, mas você o machucou o suficiente para que ele não pudesse caçar por uma noite.</value>
+</string>
+<string key="HunterFindbestia3">
+<!-- 0 - nome do alvo -->
+<value>Desta vez é o charme, você vai para {0} com toda a sua força e astúcia, você se esconde em alguns arbustos perto de seu covil para esperar que ele saia ou volte para ele, assim que ele aparecer desta vez foi você quem se lançou sobre ela, acabando com sua existência, não vai mais devorar ninguém.</value>
+</string>
+<string key="HunterFindbestia4">
+<!-- 0 - nome do alvo -->
+<value>Quando você estava voltando para casa esta noite, {0} se vingou de suas surpresas ontem à noite, seus dias de devorar as pessoas acabaram.</value>
+</string>
+<string key="HarlotFuckWolf2" >
+<!-- 0 - nome do jogador -->
+<value>Você entrou na casa de {0} para se divertir, mas encontrou a Besta de Gévaudan. Você morreu.</value>
+</string>
+<string key="bestiavstiti">
+<value>Você vê {0} se aproximando, mas o que é isso? É ENORME, deve ser a Besta de Gévaudan, você se prepara com uma marionete para confundi-la e pensar que eles te protegeram.</value>
+</string>
+<string key="bestvisitwolf">
+<value>Você vê {0} se aproximando de {1}, mas o que é isso? ELA É ENORME, ela deve ser a Besta de Gévaudan, você percebe que ela é meio-lobo, então você se junta ao bando dela para ganhar força.</value>
+</string>
+<string key="bestvisitwolf2">
+<value>Você pretendia atacar {0}, mas percebeu que vocês têm muito em comum, vocês são meio-lobo, então {0} decidiu lhe contar quem era o resto do bando.</value>
+</string>
+
+<!-- Setembro -->
+
+<string key="StartMe2" >
+<value>Comece-me</value>
+</string>
+<string key="pafk" >
+<value>Você morreu AFK neste jogo, como penalidade eles serão subtraídos de você </value>
+</string>
+
+<!-- Outubro -->
+
+<!-- estatísticas -->
+
+<string key="textstats" >
+<value>Eu apenas mostro as estatísticas em privado, você pode encaminhar o comando para mim ou usar o seguinte botão:</value>
+</string>
+<string key="botonstats" >
+<value>PRESSIONE-ME</value>
+<value>STATS</value>
+<value>Clique AQUI!</value>
+</string>
+<string key="stnogame" >
+<value>Você ainda não jogou nenhum jogo.</value>
+</string>
+<string key="strango" >
+<value>\n\nClassificação:</value>
+</string>
+<string key="stpoint" >
+<value>Pontos obtidos.\n</value>
+</string>
+<string key="stlogro" >
+<value>Conquistas obtidas.\n\n</value>
+</string>
+<string key="stinfog" >
+<value>Jogos:\n</value>
+</string>
+<string key="stgames" >
+<value> em total\n</value>
+</string>
+<string key="stwing" >
+<value> ganhos </value>
+</string>
+<string key="stlostg" >
+<value> perdidos </value>
+</string>
+<string key="stsurvg" >
+<value> sobreviveu </value>
+</string>
+<string key="stafkg" >
+<value>AFK </value>
+</string>
+<string key="stinforole" >
+<value>\nFunções que você desempenhou mais vezes:\n</value>
+</string>
+<string key="stinforole2" >
+<value>(Não existe aldeão, pedreiro, guarda, policial ou lobo porque são os papéis mais repetitivos)\n</value>
+</string>
+<string key="stkills" >
+<value>\nFormas das quais você mais morreu:\n</value>
+</string>
+<string key="stkills2" >
+<value>Você ainda não morreu.\n</value>
+</string>
+<string key="stkilled" >
+<value>\nJogadores que você mais matou:\n</value>
+</string>
+<string key="stkilled2" >
+<value>Você ainda não matou ninguém.\n</value>
+</string>
+<string key="stkilledby" >
+<value>\nJogadores que mataram você mais vezes:\n</value>
+</string>
+<string key="stkilledby2" >
+<value>Você ainda não foi morto.\n</value>
+</string>
+
+<!-- modos profissionais -->
+
+<string key="PlayerStartedbonuspro">
+<!-- 0 - Nome do jogador -->
+<value>{0} iniciou um jogo BonusPro! Você só pode entrar com uma classificação de ouro ou com mais de 1000 jogos jogados. Manqueos não são permitidos 🤣</value>
+<value>{0} iniciou um novo jogo BonusPro! Você só pode entrar com uma classificação de ouro ou com mais de 1000 jogos jogados. Adequado apenas para veteranos.</value>
+</string>
+<string key="PlayerStartedRankedpro">
+<!-- 0 - Nome do jogador -->
+<value>{0} iniciou um jogo do RankingPro! Você só pode entrar com uma classificação de ouro ou com mais de 1000 jogos jogados. Manqueos não são permitidos 🤣</value>
+<value>{0} iniciou um novo jogo do RankingPro! Você só pode entrar com uma classificação de ouro ou com mais de 1000 jogos jogados. Adequado apenas para veteranos.</value>
+</string>
+<string key="nonobsranked">
+<!-- 0 - nome do alvo -->
+<value>{0} você não poderá jogar este tipo de modo até que tenha jogado pelo menos 1000 jogos ou até atingir a classificação de ouro (🥇).</value>
+</string>
+<string key="nonobsranked2">
+<!-- 0 - nome do alvo -->
+<value>Você não poderá iniciar este tipo de modo até ter jogado pelo menos 1.000 partidas ou até atingir a classificação ouro (🥇).</value>
+</string>
+<string key="gruponorank">
+<value>Grupos não oficiais não têm permissão para jogar modos profissionais, no entanto, todos os outros modos estão disponíveis para você.</value>
+</string>
+
+
+<string key="Abouttimetraveler">
+<value>O viajante do tempo é um gênio do futuro, um futuro em que ele estava sozinho devido ao massacre da vila. Seu propósito é evitar o ocorrido mudando o passado, para isso ele deve convencer uma terceira parte da vila a ajudá-lo a reconstruir sua máquina do tempo, já que na primeira tentativa, que foi um teste, ele apareceu na beira de um precipício. e foi destruído no outono. Se o viajante do tempo visitar papéis ruins, eles ainda os aceitarão, mas não o ajudarão em nada, ou seja, ele não saberá quais são bons ou ruins.\nNÃO PODE SER REVELADO NO JOGO, a menos que está em perigo de morte, por exemplo, se o fitoterapeuta der veneno. Também não é um papel de visão, então não pode ser usado para proteger outros jogadores se for revelado, já que não saberá se os que visita são bons ou ruins.</value>
+</string>
+<string key="tttravelYou">
+<value>Um personagem muito estranho veio a sua casa para propor uma ideia muito maluca, ele diz que vem do futuro. Talvez tenha sido sua maneira de falar ou suas idéias, mas você aceitou sua proposta e o ajudará a fazer uma máquina que ele precisa.\n\nVOCÊ NÃO PODE REVELAR QUE ELE TE VISITOU, isso será um segredo para o bem de todos .</value>
+</string>
+<string key="RoleInfotimetraveler">
+<value>Você é o viajante do tempo, deve convencer a terceira parte da vila a ajudá-lo a reconstruir sua máquina. Papéis ruins não irão ajudá-lo, então eles não contarão como ajudantes para o seu propósito.\nNÃO SE REVELE NO JOGO, pelo menos até completar a máquina do tempo, como a única exceção que você pode revelar se estiver em perigo de morte, como se o herborista der veneno, neste último caso você não poderá usar esse papel para proteger outros jogadores, pois não saberá quem é bom ou mau.\n\nEquipe: Aldeia.\n\nConversões :\n Vampiros:\n-Sim visita: Não os detecta.\n-Se te visitam: Tem 25% de morte, se não morrer tem 33% de conversão.\n Zumbis:\n -Se você visitar: Sobreviva sem saber que é um zumbi.\n- Se eles o visitarem: Há 30% de chance de ser infectado ou sobreviver.</value>
+</string>
+<string key="CupidChosen">
+<value>Você foi atingido pelo amor. A memória de {0} nunca desaparecerá do seu coração. Se um dos dois morrer, o outro morrerá de tristeza. Se enquanto os dois estiverem vivos, um deles vencer, o outro também vencerá.\nCupido é {1}, ele também vencerá se você vencer como casal, mas você deve se livrar dele quando estiver perto da vitória , se suas equipes forem diferentes, não haverá problema, pois no final você poderá matá-lo.</value>
+<value>As flechas do Cupido atingiram você! Você está loucamente apaixonado por {0}! Se ele morrer, você também. Se você estiver vivo e um de vocês vencer, ambos vencerão!\nCupido é {1}, ele também vencerá se vocês vencerem como um casal, mas você deve se livrar dele quando estiver perto da vitória , se suas equipes forem diferentes, não será um problema, pois no final você poderá matá-lo.</value>
+</string>
+<string key="AboutCupid">
+<value>
+O amor está no ar. Como Cupido, você escolherá dois jogadores no início do jogo. Esses dois vão se apaixonar perdidamente! Se um morrer, o outro morrerá de tristeza :_(
+\nNota: Os amantes vão se encontrar, você vai se unir a eles para vencer como casal, mas sempre deve morrer antes que isso aconteça, se o casal morrer, você colaborará com a aldeia.
+\nSe os amantes forem os únicos dois sobreviventes, eles vencerão, independentemente de seus times. Se eles estiverem em times diferentes (Aldeão + Lobisomem) e um time vencer (Lobisomem), o amante (Aldeão) também vencerá.
+\nSe, enquanto ambos estiverem vivos, pelo menos um dos amantes estiver no time vencedor, ambos vencerão.
+</value>
+</string>
+<string key="RoleInfoCupid">
+<value>Você é o Cupido. Enviado para a Terra apenas com sua cueca, um arco e duas flechas, você deve escolher dois jogadores que se amarão por toda a eternidade. Se um morrer, o outro morrerá de tristeza. Você se juntará a eles para vencer como um casal, mas para isso acontecer apenas eles devem ser deixados vivos, o que significa que eles terão que matá-lo de alguma forma primeiro se estiverem perto disso.\n\nEquipe: Amor ou Aldeia se o casal morre. \n\nConversões:\n Vampiros: Sempre convertem.\n Zumbis: Tem 30% de infecção, 25% de capacidade de sobrevivência e 45% de conversão.</value>
+</string>
+<string key="CupidChosen2">
+<value>O par é {0} e {1}.</value>
+</string>
+
+<string key="confictplayer">
+<value>{0} não pode entrar neste jogo devido a conflitos com um dos jogadores.</value>
+</string>
+
+<!-- Novembro -->
+
+<string key="pointsum">
+<value>\n\nResumo dos pontos do jogo:\n</value>
+</string>
+<string key="pointbonus">
+<value> pontos acumulados pelo seu bom jogo.\n-</value>
+</string>
+<string key="pointbadbonus">
+	<value> pontos subtraídos para ações ruins.\n</value>
+</string>
+<string key="pointsrole">
+	<value> pontos atribuídos ao seu papel quando ele ganha ou perde.\n</value>
+</string>
+<string key="pointbigg">
+<value> pontos de bônus para maciços.\n</value>
+</string>
+<string key="psumendinf">
+<value>\nA totalidade desses pontos é multiplicada por um fator que depende da sua classificação:\n🌑x6 🌘x5 🌗x4 🌖x3 🌕x2 🔅x1'5 🔆x0'8\n🥉x0'6 🥈x0'5 🥇x0'4 💎x0'2 💎👉🏆x0`17 🏆x0'1
+</value>
+</string>
+<string key="psumendinfb">
+<value>\nA totalidade desses pontos é multiplicada por um fator que depende da sua classificação:\n🌑x12 🌘x10 🌗x8 🌖x6 🌕x4 🔅x3 🔆x1'6\n🥉x1'2 🥈x1 🥇x0'8 💎x0'6 💎👉🏆x0'51 🏆x0'3
+</value>
+</string>
+<string key="pointlost">
+<value>
+	pontos de penalidade por perder (depende da sua classificação).\n\nPenalidades:\n🌑/🌘/🌗/🌖/🌕/🔅-0 🔆-1 🥉-2 \n🥈-3 🥇-4 💎/💎👉🏆-5 🏆-6
+	</value>
+</string>
+
+<!-- sussurro -->
+
+<string key="susurrador">
+<value>o sussurro 🤫</value>
+</string>
+<string key="RoleInfosusurrador">
+<value>Você é um Sussurrador 🤫 : Com tanto tormento pelos horrores da vila, um dia você descobriu que disfarçados com peles de zumbis eles não só não te atacavam, mas que você era capaz de guiá-los. Todas as noites você tenta transformar alguém em zumbi para aumentar a horda. Em cada linchamento você guia os zumbis até a sua escolha, mesmo que eles votem em outra pessoa, o seu voto é o que conta, vote rápido porque se um zumbi votar antes de você, você não poderá linchar. \n\nEquipe: Zumbis \n\nConversões: \n Vampiros: \n-Se você visita ou é visitado: Você é decapitado por se confundir com um zumbi. \n Lobos: \n-Se você visitar: Você não encontra ninguém porque está procurando pessoas.\n-Se eles te visitarem: Eles o confundem com um zumbi e você sobrevive. </value>
+</string>
+<string key="aboutsusurrador">
+<value>
+	O Sussurrador 🤫 : Com tanto tormento pelos horrores da vila, um dia ele descobriu que disfarçados com peles de zumbis eles não só não o atacavam, como ele era capaz de guiá-los. Todas as noites ele tenta transformar alguém em zumbi para aumentar a horda. Em cada linchamento, guie os zumbis rumo a sua eleição, mesmo que eles votem em outra pessoa, o seu voto é o que conta, vote rápido porque se um zumbi votar antes de você, você não poderá linchar. Por estar camuflado, é capaz de enganar os lobos e às vezes até o caçador noturno e o sk. \n\nEquipe: Zumbis \n\nConversões: \n Vampiros: \n-Se você visita ou é visitado: Você é decapitado por se confundir com um zumbi. \n Lobos: \n-Se você visitar: Você não encontra ninguém porque está procurando pessoas.\n-Se eles te visitarem: Eles o confundem com um zumbi e você sobrevive. </value>
+</string>
+<string key="doptranssus">
+<value>A boa notícia é que o sussurrante está morto, a notícia não tão boa é que foi sua escolha copiar. </value>
+</string>
+<string key="necrotranssus">
+<value>Você escolheu se tornar o novo líder da horda de zumbis usando o corpo do sussurrador.</value>
+</string>
+<string key="susseewolf">
+<value>Enquanto você lidera sua horda esta noite, você percebe algo se aproximando, é {0} em forma de besta, graças às suas skins de zumbi, você o leva a pensar que você é um da horda.</value>
+</string>
+<string key="HunterFindsus">
+<value>Não é exatamente o que você estava procurando, mas {0} era um zumbi, um pouco menos escória na vila, estranhamente não parece tão podre.</value>
+</string>
+<string key="cnxsus">
+<value>Esta noite você vai verificar se {0} não é uma criatura da noite, você está atrasado, já é um zumbi, você avança para dar o golpe final na cabeça dele quando ele SE ESQUIVA!, e não só isso, FOI UM CONTRA-ATAQUE!, esta noite o caçador tornou-se a presa do sussurrante. </value>
+</string>
+<string key="cnxsus2">
+<value>Enquanto você caminha com sua amada horda, você vê {0} se aproximando de você, você sente a intenção dele de matá-lo, ele está confundindo você com um zumbi, você não deixa escapar esta grande oportunidade e o contra-ataca de surpresa quando ele tenta acabar com você.</value>
+</string>
+<string key="HarlotVisitsus">
+<value>Esta noite seu cliente está com uma máscara muito peculiar, você não dá importância e acha que ele é um degenerado ou algo assim, a má notícia não é que ele não te pagou, mas que ele decidiu acabar com seu vida para dar a ele outra nova, o sussurrador adicionou você à sua coleção de zumbis. </value>
+</string>
+<string key="harlotinsus">
+<value>A prostituta decidiu servi-lo esta noite, já que ela viu suas peles, é melhor você cuidar para que ela fique para sempre em sua horda.</value>
+</string>
+<string key="polixsus">
+<value>{0} pretendia interrogá-lo esta noite, você não tem tempo para lidar com ele e esconder seus zumbis, é melhor adicioná-lo à horda.</value>
+</string>
+<string key="polixsus2">
+<value>Quando você está prestes a iniciar o interrogatório de {0}, você percebe um cheiro podre, quando olha em volta para ver o que é..... esqueça os interrogatórios, agora você só quer cérebros.</value>
+</string>
+<string key="chemxsus">
+<value>Hoje é hora de apostar sua vida com {0}, você nunca imaginaria que seria sua última aposta, o sussurro preferiu apostar em sua fome de cérebros.</value>
+</string>
+<string key="chemxsus2">
+<value>{0} aparece em sua casa pouco antes de você colocar sua máscara, ele quer que você faça uma aposta com ele para ver quem sai vivo, é melhor você decidir se ele é apenas mais um zumbi em sua horda.</value >
+</string>
+<string key="guardinsus">
+<value>Quem diria a você que hoje à noite aquele que você estava protegendo era o sussurrante, no momento em que você virou as costas para ele para inspecionar o terreno, era a hora dele apunhalar você e deixá-lo virar. </value>
+</string>
+<string key = "bomberodinsus">
+<value>Enquanto você cuidava de se proteger dos lobos, o sussurrante cuidou de adicioná-lo à horda, você deveria se proteger melhor dele. </value>
+   </string>
+   <string key="herbxsus">
+     <value>Vou envenenar {0} quem cheira mal, você pensou, mas o cheiro dele era devido a algo mais sinistro, era o sussurrador, agora suas ervas têm mais vida que você. </value>
+   </string>
+   <string key="herbxsus2">
+     <value>{0} queria fazer uma visita, ela pensou que você não notaria, mas você a viu colocar algo estranho em sua bebida. Realmente não importa, você iria adicioná-la ao seu grupo de zumbis, não importa o que ela fizesse.</value>
+   </string>
+   <string key="vkillsuspublic">
+     O corpo de <value>{0} é encontrado sem cabeça em um beco, cercado por um pelo raro. Parece que o sussurrador foi confundido com um zumbi.</value>
+   </string>
+   <string key="NHunterKilledsus">
+     <value>{0} aparece decapitado em uma das ruas do vilarejo, o Caçador Noturno pensou que fosse um zumbi e por isso não hesitou em matá-lo cortando sua cabeça, a surpresa foi quando viram que ele era apenas disfarçado. </value>
+   </string>
+   <string key="SerialKillerKilledsus">
+     <value>O sussurrante não teve muita sorte esta noite com sua vítima, o assassino sério prefere continuar matando do que comer cérebros {0}foi assassinado a sangue frio!</value>
+   </string>
+   <string key="vampirKilledsus">
+     <value>{0} parece que subestimou sua vítima, nunca imaginou conhecer um vampiro e como eles odeiam zumbis, sendo confundidos com um o deixaram sem cabeça.</value>
+   </string>
+   <string key="NHunterKilledsusxvisit">
+     <!-- 0 - nome do alvo -->
+     <value>{0} queria tentar a sorte para ver se conseguia adicionar o Night Hunter à sua coleção, mas a sorte não estava do seu lado.</value>
+   </string>
+   <string key="SerialKillerKilledz">
+     <!-- 0 - nome do alvo -->
+     <value>Algum aldeão avisou que o corpo de {0} estava pendurado em um poste de luz sem cabeça, no chão havia uma assinatura muito peculiar feita com o sangue dela que dizia SK, agora essa mulher louca resolveu assinar. </value>
+   </string>
+   <string key="vampirKilledz">
+     <!-- 0 - nome do alvo -->
+     <value>{0} tentou atacar um vampiro, ele entendeu do que se tratava, não havia escolha a não ser atacar sua cabeça e ficar sem sangue para o jantar, {0} era um zumbi.</value>
+   </string>
+   <string key="susKillsHunterEnd">
+     <value>{1} sabe que resta apenas {0} na cidade, então aproveite enquanto {0} está afiando as pontas de suas flechas para acabar com sua vida, {0} acabou sendo mais um zumbi na coleção do Sussurrador.</value>
+   </string>
+   <string key="HunterKillssusEnd">
+     <value>
+       Sabendo que restavam apenas {0} na aldeia, {1} tenta matá-lo de surpresa, mas {0} já farejando seu pelo a vários metros de distância e consegue levar {1} um tiro entre as sobrancelhas. Os aldeões venceram!
+     </value>
+   </string>
+   <string key="HunterKillszEnd">
+     <value>
+       Restando apenas {0} na cidade, {1} tenta comer seu cérebro, mas {0} já ouviu seus rosnados do outro lado da rua e assim que chega perto enfia o machado no meio da cabeça. Os aldeões venceram!
+</value>
+   </string>
+   <string key="bestKillszEnd">
+     <value>{0} termina com apenas {1} na vila, é claro que um zumbi não tem nada para fazer. O pacote ganhou!</value>
+   </string>
+<string key="susend">
+     <value>{0} foi deixado sozinho na vila, vendo que não há zumbis para entretê-lo, ele cai em tal depressão que o leva a cometer suicídio.</value>
+   </string>
+   <string key="Asksuskill">
+     <value>Quem você deseja adicionar à sua horda esta noite?</value>
+   </string>
+   <string chave = "suslider">
+     <value>Há um zumbi que parece pronto, ele cuidará do linchamento para ver como isso termina.\n\n NÃO LINQUE ANTES DE {0}\nVocê deve esperar pelo linchamento dele primeiro ou ele não será capaz de guiar os zumbis.</value >
+   </string>
+   <string key="guartransxsus">
+     <value>Enquanto observa os arredores, você se depara com um zumbi, quando vai se livrar dele, de repente ele puxa uma faca e a crava em seu peito.</value>
+   </string>
+   <string key="transguard">
+     <value>Quando você vai até a casa de sua vítima, descobre que há alguém protegendo-a, que melhor momento para adicionar alguém à sua coleção fazendo o falso truque do zumbi.</value>
+   </string>
+   <string key="targettransxsus">
+     <value>Esta noite o sussurrante decidiu que você será mais um zumbi em sua horda.</value>
+   </string>
+   <string key="sustranstarget">
+     <value>Você tem um novo zumbi para sua horda.</value>
+   </string>
+   <string key="marionetBlockedsus">
+     <value>Que estranho, você pensou que estava adicionando mais um zumbi à sua horda, mas ele nunca se transformou, parecia um trapo. </value>
+   </string>
+   <string key="susskilled">
+     <value>A propósito, o assassino não queria que você continuasse aumentando sua horda e fez uma visita surpresa.</value>
+   </string>
+   <string key="skxsus">
+     <value>Que pena, ele é apenas um zumbi, você vai enfiar a faca nas costas dele, mas surpreendentemente ele se esquiva e enfia um pedaço de vidro no seu pescoço. Era o sussurrador, agora você será mais um zumbi em sua horda.</value>
+   </string>
+   <string key="skinsus">
+     <value>Você ouviu um barulho estranho, de repente você ouve:\n\n"Que pena, é só um zumbi."\n\nÉ O ASSASSINO EM SÉRIE! você se vira e enfia um pedaço de vidro que tinha em mãos. Quem teria pensado que você adicionaria o serial killer à sua horda, que sorte.</value>
+   </string>
+   <string key="susxvamp">
+     <value>Inacreditável, você se depara com um vampiro, aparentemente eles não suportam zumbis, eles te confundem com um e arrancam sua cabeça.</value>
+   </string>
+   <string key="susxsk">
+     <value>O QUE!, ele vem correndo atrás de mim com uma faca, não estou salvo dessa nem disfarçado de zumbi.</value>
+   </string>
+   <string key="susxsk2">
+     <value>Você vê um zumbi perto de sua casa, curiosamente você o vê segurando um facão, desde quando eles fazem isso? Vamos acabar com ele antes que ele fique mais esperto.</value>
+   </string>
+   <string key="sustranssk">
+     <value>Há um zumbi perto de sua casa, você vai acabar com sua existência dolorosa, mas ele puxa um facão, um zumbi com um facão? Que zumbi inteligente você pensa enquanto ele corta até entediar.</value>
+   </string>
+   <string chave = "sustranssk2">
+     <value>Você acabou de ver sua vítima chegando em casa, parece que ele não tem medo mesmo que te veja com suas peles de zumbi, ele vai em sua direção com uma faca, felizmente hoje você decidiu sair de casa com um facão, não isso maneira Esta mulher louca é salva.</value>
+   </string>
+   <string key="susdeadxcn">
+     <value>Que estranho, tem um zumbi perto da minha casa, ele não sabe para onde está indo, é hora de cortar cabeças.</value>
+   </string>
+   <string key="susdeadxcn2">
+     <value>Não parecia que você estava em casa, até que você viu tudo girando ao seu redor, não é que tudo estava girando, mas sua cabeça estava rolando após ser cortada pelo Night Hunter.</value>
+   </string>
+<string key="zeatfire">
+     <value>Você pensou que {0} era apenas um cachorrinho, mas se enganou, eles fizeram um churrasco com você.</value>
+   </string>
+   <string key="fwKilledzvisit">
+     <value>Os zumbis são notados por falta de inteligência,{0} foram transformados em uma fogueira ambulante, cortesia do lobo de fogo.</value>
+   </string>
+<string key="fwKilledsusvisit">
+     <value>{0} se transformou em uma montanha de cinzas, isso é o que ele ganha bisbilhotando as coisas do lobo de fogo.</value>
+   </string>
+
+
+<string key="vampKillszEnd">
+<value>{0} prefere sangue, mas vendo que {1} é um zumbi, o mata arrancando sua cabeça.</value>
+</string>
+<string key="HunterShotWolfMulti">
+<!-- 0 - nome do alvo -->
+<value>Os lobisomens tentaram atacar o caçador ontem à noite, mas o caçador conseguiu acertar seu rifle a tempo! {0} morreu e era um lobisomem.</value>
+</string>
+
+<!-- desviador -->
+
+<string key="desviador">
+<value>o desviador 🔀</value>
+</string>
+<string key="RoleInfodesviador">
+<value>Você é o Desviador 🔀 : Uma força sobrenatural protege você à noite, você pode desviar as ações de todos os papéis noturnos, exceto cupido, mas há um problema, essas ações são sempre desviadas para outra pessoa.\nPapel criado por @lukinoteg \ n\nEquipe: Aldeia \n\nConversões: Imune a qualquer time inimigo. </value>
+</string>
+<string key="aboutdesviador">
+<value>O Desviador 🔀 : Uma força sobrenatural o protege à noite, ele pode desviar as ações de todos os papéis noturnos, exceto cupido, mas há um problema, essas ações são sempre desviadas para outra pessoa.\nPapel criado por @lukinoteg\n \nEquipe: Aldeia \n\nConversões: Imune a qualquer time inimigo. </value>
+</string>
+
+<!-- intrusivo -->
+
+<string key="indiscreto">
+<value>o indiscreto 🕶</value>
+</string>
+<string key="RoleInfoindiscreto">
+<value>Você é o Indiscreto 🕶 : Do seu telhado você passou a vida fofocando com seus vizinhos, a tal ponto que você pode até ver o que os papéis fazem com visão, como se você tivesse adquirido um poder, todas as noites você verá tudo o que fazem se tiverem ação. Se algum papel noturno agir sobre você, eles não o encontrarão, pois você estará no seu telhado e no dia seguinte você encherá a vila de cartazes revelando o papel deles, exceto o marionetista que será o único que poderá matá-lo à noite. Se morto, você revelará um Ajudante do Caçador Noturno se algum estiver vivo.\nFunção criada por @dantravelsofficial\n\nEquipe: Lobos.\n\nConversões: Imune a zumbis e vampiros.</value>
+</string>
+<string key="aboutindiscreto">
+<value>
+	O Indiscreto 🕶 : De seu telhado passou a vida fofocando com os vizinhos, a tal ponto que consegue até ver o que os papéis estão fazendo com visão, como se tivesse adquirido um poder, todas as noites ele verá tudo eles fazem se é que eles têm ação. Se algum papel noturno agir sobre ele, eles não o encontrarão, pois ele estará em seu telhado e no dia seguinte encherá a vila de cartazes revelando seu papel, exceto o titereiro que será o único que poderá matá-lo à noite. Se morto, revelará um Ajudante do Caçador Noturno se algum estiver vivo.\nFunção criada por @dantravelsofficial\n\nEquipe: Lobos.\n\nConversões: Imune a zumbis e vampiros.</value>
+</string>
+<string key="visionindis">
+<value>{0} visita ou faz algo com {1}</value>
+</string>
+<string key="cartelindis">
+<value>Ao amanhecer, outdoors são vistos por toda a aldeia do homem curioso anunciando que {0} estava rondando sua casa ontem à noite, mas não conseguiu descobrir por quê.</value>
+</string>
+<string key="cartepvisit">
+<value>Ao amanhecer, outdoors são vistos por toda a aldeia do homem curioso anunciando que {0} estava rondando sua casa ontem à noite e notou que {0} é {1}.</value>
+</string>
+<string key="cartepvision">
+<value>
+	Ao amanhecer, cartazes são vistos por toda a aldeia do indiscreto onde ele anuncia que sentiu a presença de {0} ontem à noite e de seu telhado observou sua casa, descobriu que {0} é {1}. </value>
+</string>
+<string key="wvisitind">
+<value>Visitando {0} você não o vê em lugar nenhum, de repente eles jogam uma pedrinha em você, quando você olha para o telhado, você o vê cumprimentando você, ELE É O INDISCRETO!</value>
+</string>
+<string key="bestvisiting">
+<value>Você vê {0} se aproximar de sua casa, vê que é a fera, diz a {0} quem é o resto do bando.</value>
+</string>
+<string key="bestvisitind2">
+<value>Você não vê {0} mas sente o cheiro dele por perto, quando você olha para o telhado você o encontra lá, você vê que ele é o indiscreto, {0} não demora muito para dizer quem é o bando é.</value>
+</string>
+<string key="indwdead">
+<value>
+	O indiscreto morreu com a consolação de que já fazia parte da matilha, antes de morrer grita, revelando um dos ajudantes do caçador noturno para tentar facilitar a vida dos lobos, {0} é {1}.</value>
+</string>
+<string key="socseeind">
+<value>Você sente a presença de {0} por perto, mas não a vê, você vê o que ela está fazendo na casa dela e descobre que ela é a feiticeira.</value>
+</string>
+<string key="socseeind2">
+<value>Quando você vê {0} você o vê em seu telhado, você começa a olhar mais de perto e vê que ele é o bisbilhoteiro.</value>
+</string>
+
+<!-- Dezembro -->
+
+<string key="zeatfire2">
+<value>Conforme você se aproxima de {0} começa a sentir um calor insuportável, tira a pele e a máscara para respirar melhor, não foi uma boa decisão, você estava se aproximando do lobo de fogo, quando ele te vê não hesita em queimá-lo vivo. </value>
+</string>
+<string key="stbonus" >
+<value>Bônus restantes.\n</value>
+</string>
+
+<!-- careca -->
+
+<string key="pelao">
+<value>o careca 👨‍🦲</value>
+</string>
+<string key="aboutpelao">
+<value>El careca 👨‍🦲 : Este aldeão está tão focado em suas inseguranças que até raspa a cabeça para esconder a calvície, ele está tão focado em si mesmo que nem percebe quando está sendo atacado, ele pode ser zumbificado , vampirizado ou estragado com grande facilidade. O vidente o verá como um aldeão normal e o jogador receberá a mensagem do aldeão no início do jogo para que ele não saiba que é o careca egocêntrico.\nPapel criado por @Barbolwey\n\nEquipe: Aldeia .\n\nConversões: 100% de conversão exceto lobos sem lobo alfa.</value>
+</string>
+<string key="pelaoBittenWolves">
+<value>Enquanto os lobisomens atacam {0}, {1} para a matilha, pois eles são o lobo alfa. {1} diz ao bando que {0} se juntará a eles em vez de morrer, então o bando deixa a infecção seguir seu curso rapidamente.</value>
+</string>
+<string key="pelaoTurned">
+<value>Você foi mordido por lobisomens, mas o lobo alfa escolheu você. Em vez de morrer, você foi infectado. Quando a noite termina, você sente um formigamento estranho e como seu corpo começa a se transformar. Agora você é um lobisomem!</value>
+</string>
+
+<!-- beta -->
+
+<string key="beta">
+<value>o lobo beta 🐺🅱️</value>
+</string>
+<string key="RoleInfobeta">
+<value>
+	Você é o Lobo Beta 🐺🅱️ : Você é o próximo lobo do lobo alfa em ordem de sucessão, quando o alfa morrer você assumirá o lugar dele como líder da matilha, tornando-se o novo alfa.\nPapel criado por @ Barbolwey\n\nEquipe: Lobos.\n\nConversões:\n Vampiros: Há 50% de chance de matar o vampiro ou um lobo morrerá.\n Zumbis:\n-Se você visitar: Você não vai gostar da comida .\n-Se você for visitado: Sobreviva sempre.</value>
+</string>
+<string key="aboutbeta">
+<value>
+	O Lobo Beta 🐺🅱️ : É o próximo lobo do lobo alfa na ordem de sucessão, quando o alfa morrer ele assumirá seu lugar como líder da matilha tornando-se o novo alfa.\nPapel criado por @Barbolwey\n \nEquipe: Lobos.\n\nConversões:\n Vampiros: Há 50% de chance de matar o vampiro ou um lobo morrerá.\n Zumbis:\n-Se você visitar: Você não vai gostar da comida.\n -Se você for visitado: Sempre sobreviva.</value>
+</string>
+<string key="newalfa">
+<value>Nosso líder está morto, {0} tornou-se o novo lobo alfa para liderar o bando.</value>
+</string>
+
+<!-- lobo cinzento -->
+
+<string key="greywolf">
+<value>
+	o lobo cinzento 🐕</value>
+</string>
+<string key="RoleInfogreywolf">
+<value>
+	Você é o Lobo Cinzento 🐕 : você é uma das espécies de canídeos mais conhecidas. A sua fisionomia natural acaba por fazer com que seja confundido com algumas raças de cães, pelo que será supostamente inofensivo para quem o visita. Seu instinto de proteger e cooperar com sua família significa que, se um jogador o visitar, ele terá 50% de chance de morrer ou se juntar ao bando, graças à sua mordida altamente contagiosa devido à ótima nutrição que você mantém.\nPapel criado por @dantravelsofficial\ n \nEquipe: Lobos.\n\nConversões:\n Vampiros: Há 50% de chance de matar o vampiro ancião ou o lobo morre, com vampiros normais eles morrem.\n Zumbis:\n-Se você visitar: Você vai não gosto da comida.\n-Se você for visitado: Sobreviva sempre, se o sussurrador te visitar ele terá a mesma sorte que o resto dos aldeões.</value>
+</string>
+<string key="aboutgreywolf">
+<value>
+	O Lobo Cinzento 🐕 : é uma das espécies de canídeos mais conhecidas. A sua fisionomia natural acaba por fazer com que seja confundido com algumas raças de cães, pelo que será supostamente inofensivo para quem o visita. Seu instinto de proteger e cooperar com o seu significa que se um jogador o visitar, ele tem 50% de chance de morrer ou se juntar ao bando graças à sua mordida altamente contagiosa devido à ótima nutrição que você mantém. O caçador da noite poderá morrer se o caçar com 50% de chance, caso contrário o lobo morrerá, com o serial killer será o mesmo mas ele a transforma em vez de matá-la. A vidente o verá como se fosse o cadejo quando o confundir com um cachorro.\nPapel idealizado por @dantravelsofficial\n\nEquipe: Lobos.\n\nConversões:\n Vampiros: Há 50% de chance de matar o velho vampiro ou fazer com que ele morra como lobo, com vampiros normais eles morrem.\n Zumbis:\n-Se você visitar: Você não vai gostar da comida.\n-Se eles te visitarem: Sempre sobreviva, se o sussurrador te visitar terá a mesma sorte que o resto dos aldeões. </value>
+</string>
+<string key="visitgwolf">
+<value>Estamos com sorte! {0} decidiu visitar o lobo cinzento, ele se transformou em lobo, temos um novo membro na matilha.</value>
+</string>
+<string key="visitgwolf2">
+<value>Ao se aproximar de {0} você o acaricia pensando que é um cachorro, ele te deu uma mordida surpresa, não era um cachorro, era o lobo cinza.</value>
+</string>
+<string key="deadxvisitgwolf">
+<value>Observe onde! {0} visitou o lobo cinzento, não pode ser transformado em lobo, mas pelo menos você não vai morrer de fome hoje.</value>
+</string>
+<string key="deadxvisitgwolf2">
+<value>Temos más notícias, {0} pegamos você de surpresa confundindo-o com um cachorro, você está morto.</value>
+</string>
+<string key="deadxvisitgwolf3">
+<value>Sua vítima não era o que parecia, {0} confiou demais e acabou confundindo {1} com um cachorro.</value>
+</string>
+<string key="deadxvisitgw">
+<value>Que cachorrinho fofo, então {0} pensou, era tarde demais quando ele percebeu que era o lobo cinza.</value>
+<value>{0} estava apreciando um cachorro que cruzou seu caminho, no final o suposto cachorro acabou apreciando seus ossos depois de comê-lo.</value>
+<value>{0} Parece que ele pensou que era funcionário do canil, gostou de um espécime que viu mas... enganou-se da raça, foi o lobo cinzento.</value>
+</string>
+
+<!-- 2023 -->
+
+<!-- Janeiro -->
+
+<string key="groupnorank2">
+<value>Apenas grupos aprovados para aparecer na grouplist podem jogar ranqueados, você pode pedir para entrar na grouplist no grupo de suporte https://t.me/+15_YMW-D1iQ1YmUx </value>
+</string>
+<string key="linkposgame">
+<value>Lembre-se que agora existe um grupo para discutir os jogos quando eles terminarem, você pode pedir para entrar no seguinte link:\n\n https://t.me/+hHR-4ptcpIRiNDJk \n\nSe você fizer não seguir as instruções pode ser silenciado, esse grupo pós-jogo foi criado para poder discutir as jogadas e estratégias do jogo, sempre respeitando o restante de seus jogadores para não incentivar longas discussões pós-jogo neste grupo. </value>
+</string>
+<string key="noextneg">
+<value>A extensão só pode ser usada para adicionar tempo, não subtraí-lo.</value>
+</string>
+
+<!-- vs na vítima -->
+
+<string key="susvisittarofv">
+<value>Quem diria que os vampiros iriam pegá-lo de surpresa quando você se aproximasse de sua próxima vítima, você morreria decapitado.</value>
+</string>
+<string key="zdeadvisittarofov">
+<value>Seu líder encontrou {0} vagando muito devagar e rosnando perto da casa de {1}, é um zumbi?, ele aproveitou para se livrar de {0}.</value>
+</string>
+<string key="zdeadvisittarofv">
+<value>Você encontrou {0} andando sem vida nas proximidades da casa de {1}, parecendo um zumbi enquanto arrancava sua cabeça.</value>
+</string>
+<string key="susvisittarofww">
+<value>Ao virar a esquina para chegar à casa de sua próxima vítima, você vê um ou dois lobos se aproximando, é melhor decidir voltar para casa antes que perceba que você não é um zumbi.</value>
+</string>
+<string key="ovvisittofw">
+<value>Seu líder ancião aparece nas peles de {0}, aparentemente encontrado nas proximidades da casa de sua vítima.</value>
+<value>Parece que seu velho não trouxe um novo vampiro, mas ele trouxe as presas de {0} como lembrança.</value>
+</string>
+<string key="ovdeadxvisittofws">
+<value>Inacreditável, mas é verdade, quando você entra pela porta da casa de sua vítima, uma matilha de lobos aparece e te despedaça.</value>
+</string>
+<string key="ovdeadxvisittofws2">
+<value>2x1, estamos com sorte, {0} aparece como pedro na casa dele quando você está prestes a cuidar de {1}, você não deixa escapar esta oportunidade e acaba com {0 } rasgando-o em pedaços.</value>
+</string>
+<string key="ovdeadxvisittofws3">
+<value>Você percebe que algo está errado, {0} morreu de alguma forma quando foi sugar o sangue de {1}.</value>
+</string>
+<string key="vvisittofw">
+<value>Coincidência? Aleatório? Nunca saberemos, mas se aproveitarmos para nos livrar de {0} quando o virmos na casa de nossa vítima.</value>
+<value>Este lobinho foi ao mercado, o outro lobinho foi à feira, mas {0} entrou no lugar errado ao visitar sua vítima.</value>
+</string>
+<string key="vdeadxvisittofws2">
+<value>Isso é um morcego? Bem, não, é {0} sedento de sangue voando sobre a casa de {1}, assim que ele pousar, você o mata.</value>
+<value>{0} se aproxima da casa de {1} com uma capa estranha e um rosto muito pálido, melhor não deixá-lo viver e acabar com sua triste vida já.</value>
+</string>
+<string key="vdeadxvisittofws3">
+<value>{0} não voltou da garrafa de sangue planejada esta noite, algo deve ter acontecido na casa de {1}.</value>
+<value>{0} não foi encontrado em lugar nenhum, ouvi pela última vez que ele iria cuidar de {1}.</value>
+</string>
+<string key="vkillwwxvsinvictim">
+<value>Ninguém esperava que {0} fosse do bando, bem, um lobo a menos por se intrometer nos negócios dos vampiros, não é uma boa ideia visitar a mesma vítima que eles.</value>
+<value>{0} estava com tanta fome que tentou roubar a comida dos vampiros, claramente sem sorte.</value>
+</string>
+<string key="vkillsusxvsinvictim">
+<value>{0} queria tentar adicionar mais um zumbi à sua horda pessoal, mas não percebeu os vampiros próximos, {0} sofreu as consequências, perdendo a cabeça.</value>
+</string>
+<string key="vkillzxvsinvictim">
+A inteligência de <value>{0} acabou quando ele virou zumbi, aparentemente sua visão também, já que {0} não percebeu que seu próximo jantar já estava sendo perseguido por vampiros.</value>
+<value>Um zumbi a menos, os vampiros perseguindo sua próxima vítima encontraram {0} rosnando perto de sua casa.</value>
+</string>
+<string key="wwkillvxvsinvictim">
+<value>{0} lamentando sua escolha de sugar sangue esta noite, ela encontrou os lobos na casa de sua vítima.</value>
+<value>Hoje {0} queria fazer uma grande garrafa de sangue, pena que os lobos já estavam lá.</value>
+</string>
+<string key="vsinvictim">
+<value>Explicação de porcentagens quando vários papéis coincidem com a mesma vítima:\n\n-Whisperer e zumbis:\nCombinar com qualquer tipo de vampiro sempre será decapitado, coincidindo com lobos nada acontecerá com eles, mas eles perderão a chance de que noite.\ n\n-Lobos VS Vampiro Ancião:\nNessa situação vai depender da quantidade de lobos que existem, se forem 3 ou mais lobos, eles conseguirão derrotar o antigo vampiro e continuar com sua ação com sua vítima, caso contrário eles morrerão e a vítima o velho vampiro sobreviverá.\n\n-Lobos VS Vampiros:\nTambém depende do número de membros de ambas as equipes, se os vampiros forem a maioria os lobos morrem e a vítima sobreviver, se os lobos vencerem por maioria realizarão sua ação com sua vítima, em caso de empate no número de integrantes de ambas as equipes haverá um percentual de 50% para decidir qual equipe vence.</value>
+</string>
+
+<string key="fleelimit">
+<value>{0} você já fugiu deste jogo, no modo ranqueado e derivados dele, você só pode usar uma vez.</value>
+</string>
+<string key="nogamewamnesia">
+<value>{0} você não pode iniciar este modo de jogo com o idioma da amnésia definido, entre em contato com um administrador de grupo para corrigi-lo.</value>
+</string>
+<string key="wcmuted">
+<value>Como você é uma criança selvagem, nunca teve uma educação adequada e não pode falar, então ficará mudo durante todo o jogo.</value>
+</string>
+   <string key="necroToCupid">
+     <!-- 0 - nome do alvo -->
+     <value>O necromante {0} tornou-se Cupido, ele agora se juntará a você.</value>
+   </string>
+   <string key="necroTransformToCupid">
+     <!-- 0 - nome do Cupido morto -->
+     <!-- 1 - jogadores apaixonados -->
+     <value>Você escolheu {0} quem era Cupido. O par de flechas (se ainda estiverem vivos) é: {1}</value>
+   </string>
+   <string key="dopToCupid">
+     <!-- 0 - nome do alvo -->
+	   <value>O doppelganger {0} tornou-se Cupido, agora ele se unirá a você.</value>
+   </string>
+   <string key="dopTransformToCupid">
+	   <!-- 0 - nome do Cupido morto -->
+	   <!-- 1 - jogadores apaixonados -->
+	   <value>
+		   {0} está morto e era Cupido. O par de flechas (se ainda estiverem vivos) é: {1}</value>
+	   </string>
+   <string key="DGToindis">
+	   <!-- 0 - Nome do DG -->
+	   <value>O doppelgänger {0} tornou-se o novo intrometido.</value>
+   </string>
+   <string key="necroToindis">
+	   <!-- 0 - Nome do DG -->
+	   <value>O necromante {0} tornou-se o novo curioso.</value>
+   </string>
+
+   <!-- Fevereiro -->
+
+   <string key="visittargetofzs">
+	   <!-- 0 - nome do alvo -->
+	   <value>Alguns zumbis já estão lidando com {0}.</value>
+   </string>
+   <string key="notag">
+	   <value>A tag está sendo usada por algum grupo, tente novamente em um minuto ou menos.</value>
+   </string>
+   <string key="errortag">
+	   <value>Erro no tag, sua exclusão parou ou chamou no meio do processo, tente novamente.</value>
+   </string>
+   <string key="tgfin">
+	   <value>{0} jogadores foram mencionados.</value>
+   </string>
 </strings>
