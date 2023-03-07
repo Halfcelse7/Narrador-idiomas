@@ -10,7 +10,7 @@
 	   última edição: 22/05/2019
 -->
 <strings>
-	<language name="Português (Brasil Clássico)" base="Português" variant="Brasil Clássico" code="pt-BR" isDefault="true"/>
+	<language name="Português (Brasil Clássico)" base="Português" variant="Brasil Clássico" code="pt-BR" isDefault="false"/>
 	<string key="NotInGame" deprecated="true">
 		<value>Você não parece estar em nenhum jogo neste momento...</value>
 	</string>
@@ -1906,5 +1906,34 @@ Atual: {0}</value>
 	</string>
 	<string key="HarlotVisitNotHome">
 		<value>Você planejou uma noite bem quente com {0}, mas ele não estava em casa... Sem brincadeiras esta noite!</value>
+	</string>
+	<!-- Março -->
+
+	<string key="taggame">
+		<value>Ativar tag inicial</value>
+	</string>
+	<string key="taggameQ">
+		<value>Os jogadores serão chamados ao iniciar um jogo?\nAtual: {0}</value>
+	</string>
+	<string key="taggameA">
+		<value>Etiqueta inicial: {0}</value>
+	</string>
+	<string key="changelenguajeconfig">
+		<value>Mudança de idioma</value>
+	</string>
+	<string key="srolesend">
+		<value>Visualizar papéis finais</value>
+	</string>
+	<string key="configmaxplayers">
+		<value>Máximo de jogadores</value>
+	</string>
+	<string key="configtimeday">
+		<value>Duração do dia</value>
+	</string>
+	<string key="configtimelynch">
+		<value>Duração do linchamento</value>
+	</string>
+	<string key="configtimenoche">
+		<value>Duração da noite</value>
 	</string>
 </strings>
