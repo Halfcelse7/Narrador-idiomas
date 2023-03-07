@@ -4873,7 +4873,7 @@ A inteligência de <value>{0} acabou quando ele virou zumbi, aparentemente sua v
 	<string key="taggameA">
 		<value>Etiqueta inicial: {0}</value>
 	</string>
-	<string key="changelanguageconfig">
+	<string key="changelenguajeconfig">
 		<value>Mudança de idioma</value>
 	</string>
 	<string key="srolesend">
@@ -4888,7 +4888,7 @@ A inteligência de <value>{0} acabou quando ele virou zumbi, aparentemente sua v
 	<string key="configtimelynch">
 		<value>Duração do linchamento</value>
 	</string>
-	<string key="configtimenight">
+	<string key="configtimenoche">
 		<value>Duração da noite</value>
 	</string>
 </strings>
