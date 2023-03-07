@@ -1424,7 +1424,7 @@
   <string key="ShowRolesDeath">
     <value>Tunjukkan peranan selepas di buang sekolah</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Membenarkan untuk melarikan diri</value>
   </string>
   <string key="ShowIDs">

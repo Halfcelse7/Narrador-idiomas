@@ -1480,7 +1480,7 @@
 	<string key="ShowRolesDeath">
 		<value>Tampilkan Peran ketika mati</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>Ijinkan Fleeing</value>
 	</string>
 	<string key="ShowIDs">

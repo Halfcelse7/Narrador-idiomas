@@ -1466,7 +1466,7 @@ THE NORTH REMEMBERS!</value>
   <string key="ShowRolesDeath">
     <value>نشون دادن نقش ها در زمان مرگ</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>آزاد بودن فرار کردن</value>
   </string>
   <string key="ShowIDs">

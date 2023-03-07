@@ -1015,7 +1015,7 @@
   <string key="AllowFleeQ">
     <value>بازیکنا اجازه داشته باشن از بازی فرار کنن؟\n حالت فعلی: {0}\n حواست باشه قبل از شروع بازی میتونن فرار کنن</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Allow Fleeing</value>
   </string>
   <string key="AllowFleeA">

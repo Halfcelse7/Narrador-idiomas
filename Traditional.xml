@@ -1517,7 +1517,7 @@
   <string key="ShowRolesDeath">
     <value>死亡時顯示角色</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>允許遊戲中逃跑</value>
   </string>
   <string key="ShowIDs">
@@ -1739,7 +1739,7 @@
   <string key="ShowRolesDeath">
     <value>死亡時展示玩家身份</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>允許逃跑</value>
   </string>
   <string key="ShowIDs">

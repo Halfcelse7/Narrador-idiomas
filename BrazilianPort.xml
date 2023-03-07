@@ -1307,7 +1307,7 @@
   <string key="ShowRolesDeath">
     <value>Mostrar papéis depois da morte</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Permitir sair do jogo</value>
   </string>
   <string key="ShowIDs">
@@ -4861,4 +4861,34 @@ A inteligência de <value>{0} acabou quando ele virou zumbi, aparentemente sua v
    <string key="tgfin">
 	   <value>{0} jogadores foram mencionados.</value>
    </string>
+
+	<!-- Março -->
+
+	<string key="taggame">
+		<value>Ativar tag inicial</value>
+	</string>
+	<string key="taggameQ">
+		<value>Os jogadores serão chamados ao iniciar um jogo?\nAtual: {0}</value>
+	</string>
+	<string key="taggameA">
+		<value>Etiqueta inicial: {0}</value>
+	</string>
+	<string key="changelanguageconfig">
+		<value>Mudança de idioma</value>
+	</string>
+	<string key="srolesend">
+		<value>Visualizar papéis finais</value>
+	</string>
+	<string key="configmaxplayers">
+		<value>Máximo de jogadores</value>
+	</string>
+	<string key="configtimeday">
+		<value>Duração do dia</value>
+	</string>
+	<string key="configtimelynch">
+		<value>Duração do linchamento</value>
+	</string>
+	<string key="configtimenight">
+		<value>Duração da noite</value>
+	</string>
 </strings>

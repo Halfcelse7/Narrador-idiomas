@@ -1387,7 +1387,7 @@
     <value>{0} jugadores han votado, {1} en total.</value>
   </string>
   <string key="EnableSecretLynchQ">
-    <value>¿Activar linchamientos secretos?\nCurrent: {0}</value>
+    <value>¿Activar linchamientos secretos?\nActualmente: {0}</value>
   </string>
   <string key="EnableSecretLynchA">
     <value>La activación de linchamientos secretos está: {0}</value>
@@ -1426,7 +1426,7 @@
   <string key="ShowRolesDeath">
     <value>Mostrar roles al salir del piso</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Permitir salir del edificio</value>
   </string>
       <string key="ShowIDs">

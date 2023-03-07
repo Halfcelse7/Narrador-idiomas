@@ -1409,7 +1409,7 @@
   <string key="ShowRolesDeath">
     <value>htaeD no seloR wohS</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>gnieelF wollA</value>
   </string>
   <string key="ShowIDs">

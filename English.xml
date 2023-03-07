@@ -156,9 +156,7 @@
          </string> 
          <string key="LynchTime"> 
                  <!-- 0 - number of seconds --> 
-                 <value> 
-                         Dusk draws near, and the Villagers gather to decide who they are lynching this evening... 
-                         Everyone now has {0} seconds to vote! 
+                 <value>Dusk draws near, and the Villagers gather to decide who they are lynching this evening... Everyone now has {0} seconds to vote! 
                  </value> 
          </string> 
          <string key="DayTime"> 
@@ -1303,7 +1301,7 @@
          <string key="ShowRolesDeath"> 
                  <value>Show Roles on Death</value> 
          </string> 
-         <string key="AllowFlee"> 
+         <string key="qallowflees"> 
                  <value>Allow Fleeing</value> 
          </string> 
          <string key="ShowIDs"> 
@@ -2408,9 +2406,7 @@
                  <value>the Necromancer ⚰️</value> 
          </string> 
          <string key="AboutNecro"> 
-                 <value>The Necromancer has the possibility to choose the role of someone already dead. At night, the Necromancer can choose to become the role of a dead person for the rest of the game. You cannot win a game like the Necromancer. Necromancer and Doppelgänger will not appear in the same game. 
-                         Note: If the player converts to the Cult(the one you choose), you will get their original role. For the rest the normal rules will apply: if they have the wild child and their role model is dead, you will become a Wolf. If not, you will take their role model. 
-                         The Cult cannot convert to Necromancer (but after changing roles). Caution: The Necromancer cannot win if it has not changed roles. If at the end of the game, the Necromancer still does not become the role of a dead person, they have loses (exception: lovers). 
+                 <value>The Necromancer has the possibility to choose the role of someone already dead. At night, the Necromancer can choose to become the role of a dead person for the rest of the game. You cannot win a game like the Necromancer. Necromancer and Doppelgänger will not appear in the same game. Note: If the player converts to the Cult(the one you choose), you will get their original role. For the rest the normal rules will apply: if they have the wild child and their role model is dead, you will become a Wolf. If not, you will take their role model. The Cult cannot convert to Necromancer (but after changing roles). Caution: The Necromancer cannot win if it has not changed roles. If at the end of the game, the Necromancer still does not become the role of a dead person, they have loses (exception: lovers). 
                  </value> 
          </string> 
          <string key="necroToSnowWolf"> 
@@ -2424,8 +2420,7 @@
                  <value>You are the Necromancer. Your dead choosen {0}</value> 
          </string> 
          <string key="NoGame2"> 
-                 <value> 
-                         You can use this command to cancel game only if there are less than 5 players joined. 
+                 <value>You can use this command to cancel game only if there are less than 5 players joined. 
                  </value> 
          </string> 
          <string key="LoverDiedBeauty"> 
@@ -2929,8 +2924,7 @@
                  <value> Restricted command, can only be used in official groups. </value> 
          </string> 
  
-         <!-- flute player --> 
- 
+         <!-- flute player -->  
  
          <string key="flautista"> 
                  <value> the Piper 🎼✨ </value> 
@@ -3548,8 +3542,7 @@
          <!-- Cadejo --> 
  
          <string key="RoleInfoCadejo"> 
-                 <value> 
-                         You are the Cadejo, a legendary dog-like animal with fiery red eyes. Your work depends on how people treat you, if they leave you alone you will be a target and you will take care of protecting people from any evil. However, if they bother you, throw stones or something similar to scare you away, you turn black and instead of protecting that player you will cause their death. \n\nTeam: Village. \n\nConversions: \n Vampires: \n-If you visit : It doesn't detect them. \n-If they visit you: They won't find you at home. \n Zombies: \n-If you visit: Survive without knowing you're a Zombie. \n-If they visit you: They won't find you at home. 
+                 <value>You are the Cadejo, a legendary dog-like animal with fiery red eyes. Your work depends on how people treat you, if they leave you alone you will be a target and you will take care of protecting people from any evil. However, if they bother you, throw stones or something similar to scare you away, you turn black and instead of protecting that player you will cause their death. \n\nTeam: Village. \n\nConversions: \n Vampires: \n-If you visit : It doesn't detect them. \n-If they visit you: They won't find you at home. \n Zombies: \n-If you visit: Survive without knowing you're a Zombie. \n-If they visit you: They won't find you at home. 
                  </value> 
          </string> 
          <string key="AboutCadejo"> 
@@ -3623,8 +3616,7 @@
                  <value> The village sets out to lynch {0} when they suddenly turns into dozens of bats and disappears. Next time you will be more cautious and they will be properly lynched. </value> 
          </string> 
          <string key="cadbprotectofov"> 
-                 <value> 
-                         When the Elder Vampire visits {0} they met a giant dog, that was not a Wolf and seemed supernatural, they better decided to go home with a thirst for blood. 
+                 <value>When the Elder Vampire visits {0} they met a giant dog, that was not a Wolf and seemed supernatural, they better decided to go home with a thirst for blood. 
                  </value> 
          </string> 
          <string key="GuardBlockedov"> 
@@ -3671,8 +3663,7 @@
                  <value> When you got closer to {0}, {1} appeared transformed into a hollow, this time it was quite powerful, it killed you and absorbed your soul. </value> 
          </string> 
          <string key="shinipierdeh"> 
-                 <value> 
-                         When you got close to {0}, {1} appeared transformed into a shinigami, this time it was not that powerful, you were able to defeat them and you ate their soul. 
+                 <value>When you got close to {0}, {1} appeared transformed into a shinigami, this time it was not that powerful, you were able to defeat them and you ate their soul. 
                  </value> 
          </string> 
          <string key="holpierde"> 
@@ -3889,8 +3880,7 @@
      <value>The Fire Wolf went to the house of {0} and is surprised by a jet of water. The Firefighter does not mess around when it comes to fire, The Fire Wolf returns home wet and without dinner.</value> 
    </string> 
    <string key="fwvisitacc2"> 
-     <value> 
- It wasn't a good idea to visit the Night Hunter when he's still strong enough, The Fire Wolf wasted their time tonight.</value> 
+     <value>It wasn't a good idea to visit the Night Hunter when he's still strong enough, The Fire Wolf wasted their time tonight.</value> 
    </string> 
    <string key="GAburnednofw2"> 
      <value>Too bad, the Fire Wolf found the Guardian Angel but before it could burn them, the Guardian Angel flew out of their grasp.</value> 
@@ -4129,9 +4119,7 @@
                  <value>A very strange character came to your house to propose a very crazy idea, they say they came from the future. Maybe it was their way of talking or their ideas, but you've decided to accept their proposal and you've decided to help them make a time machine they need. \n\n YOU MUST AVOID SAYING THAT THEY VISIT YOU, this must be kept secret for everyone's sake.</value> 
          </string> 
          <string key="RoleInfoTimeTraveler"> 
-                 <value> You are the Time Traveller, you must convince the third part of the village to help you rebuild your machine. Bad roles won't help you, so they won't count as helpers for your purpose. 
-                         \n YOU MUST AVOID TELLING YOUR ROLE, at least until complete time machine, because the only exception that you can reveal your role is in case you are in danger of death, in case the Herbalist gives you poison, in the last case, you cannot use use this role to tell if other players are safe or not. 
-                         \n\nTeam: Village.\n\nConversions:\n Vampires:\n-If you visit: It does not detect them.\n-If they visit you: It has a 25% death rate, if it does not die there is a 33% of conversion .\n Zombies:\n-If you visit: Survive without knowing that you are a Zombie.\n-If you are visited: There is a 30% chance of being infected or surviving. 
+                 <value> You are the Time Traveller, you must convince the third part of the village to help you rebuild your machine. Bad roles won't help you, so they won't count as helpers for your purpose. \n YOU MUST AVOID TELLING YOUR ROLE, at least until complete time machine, because the only exception that you can reveal your role is in case you are in danger of death, in case the Herbalist gives you poison, in the last case, you cannot use use this role to tell if other players are safe or not. \n\nTeam: Village.\n\nConversions:\n Vampires:\n-If you visit: It does not detect them.\n-If they visit you: It has a 25% death rate, if it does not die there is a 33% of conversion .\n Zombies:\n-If you visit: Survive without knowing that you are a Zombie.\n-If you are visited: There is a 30% chance of being infected or surviving. 
                  </value> 
          </string> 
          <string key="CupidChosen"> 
@@ -4139,15 +4127,11 @@
                  <value>You have been struck by love. You're madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win.\nThe Cupid is {1}, they will also win if you win as a pair, but you should get rid of them when victory is near, if your teams are different then there will be no problem as in the end you can kill them.</value> 
          </string> 
          <string key="AboutCupid"> 
-                 <value> Love is in the air. As Cupid, you will choose two players at the start of the game. These two players will become madly in love! If one of them dies, the other will die of sorrow :( 
-                         \nNote: Lovers will meet, you will team up with them to win as a couple, but you must always die before them for that to happen, if the couple dies you join the village for victory. 
-                         \nIf the lovers are the only two survivors, they will win, regardless of their team. If they are on different teams (Villager + WereWolf), and one team wins (wereWolf), the lover (Villager), will also win. 
-                         \nIf both are alive, and at least one of the lovers is on the winning team, then both will win. 
+                 <value> Love is in the air. As Cupid, you will choose two players at the start of the game. These two players will become madly in love! If one of them dies, the other will die of sorrow :( \nNote: Lovers will meet, you will team up with them to win as a couple, but you must always die before them for that to happen, if the couple dies you join the village for victory. \nIf the lovers are the only two survivors, they will win, regardless of their team. If they are on different teams (Villager + WereWolf), and one team wins (wereWolf), the lover (Villager), will also win.\nIf both are alive, and at least one of the lovers is on the winning team, then both will win. 
                  </value> 
          </string> 
          <string key="RoleInfoCupid"> 
-                 <value> You are Cupid. Sent to Earth with only underpants, a bow and two arrows, you get to choose two players to love each other for eternity. If one of them dies, the other one dies of sorrow. 
-                 You will join them so they can win as a pair, but for that to happen only they must survive at the end of the game, which means they will have to kill you so that they are the only survivors in case they are close to winning as a pair.\n\nTeam: Lovers or Village if the pair dies.\n\nConversions:\n Vampires: Always converts.\n Zombies: Has 30% infection rate, 25% chance to survive, and 45% chance to convert.</value> 
+                 <value> You are Cupid. Sent to Earth with only underpants, a bow and two arrows, you get to choose two players to love each other for eternity. If one of them dies, the other one dies of sorrow. You will join them so they can win as a pair, but for that to happen only they must survive at the end of the game, which means they will have to kill you so that they are the only survivors in case they are close to winning as a pair.\n\nTeam: Lovers or Village if the pair dies.\n\nConversions:\n Vampires: Always converts.\n Zombies: Has 30% infection rate, 25% chance to survive, and 45% chance to convert.</value> 
          </string> 
          <string key="CupidChosen2"> 
                  <value>The pair is {0} and {1}.</value> 
@@ -4612,5 +4596,44 @@
  <string key="visittargetofzs">
 	 <!-- 0 - target name -->
 	 <value>Some zombies are taking care of {0}.</value>
+ </string>
+	 <string key="notag">
+		 <value>The tag is being used by some group, please try again in a minute or less.</value>
+	 </string>
+	 <string key="errortag">
+		 <value>Error in the tag, its deletion has stopped or called in the middle of the process, try again.</value>
+	 </string>
+	 <string key="tgfin">
+		 <value>{0} players have been mentioned.</value>
+	 </string>
+	 
+	 <!-- March -->
+
+ <string key="taggame">
+	 <value>Activate initial tag</value>
+ </string>
+ <string key="taggameQ">
+	 <value>Will players be called when starting a game?\nCurrent: {0}</value>
+ </string>
+ <string key="taggameA">
+	 <value>Start tag: {0}</value>
+ </string>
+ <string key="changelanguageconfig">
+	 <value>Language change</value>
+ </string>
+ <string key="srolesend">
+	 <value>View endgame roles</value>
+ </string>
+ <string key="configmaxplayers">
+	 <value>Max players</value>
+ </string>
+ <string key="configtimeday">
+	 <value>Length of day</value>
+ </string>
+ <string key="configtimelynch">
+	 <value>Lynch Duration</value>
+ </string>
+ <string key="configtimenight">
+	 <value>Length of night</value>
  </string>
   </strings>

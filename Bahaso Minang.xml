@@ -1473,7 +1473,7 @@ LALOK 😌</value>
   <string key="ShowRolesDeath">
     <value>Caliakan Peran katiko mati</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Buliahan Fleeing</value>
   </string>
   <string key="ShowIDs">

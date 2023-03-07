@@ -1877,7 +1877,7 @@
 	<string key="ShowRolesDeath">
 		<value>機制／ Quit U 時亮角色</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>權限／中途申請 Quit U</value>
 	</string>
 

@@ -1728,7 +1728,7 @@ Ein verrücktes Lachen klang {0} in den Ohren als sein Mewtu 👤 durch die Wuch
   <string key="ShowRolesDeath">
     <value>Zeige Rollen bei Tod</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Erlaube Fliehen</value>
   </string>
   <string key="ShowIDs">

@@ -1237,7 +1237,7 @@
   <string key="ShowRolesDeath">
     <value>Mostra ruoli alla morte</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Fuga Dal gioco</value>
   </string>
   <string key="ShowIDs">

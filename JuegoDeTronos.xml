@@ -1189,7 +1189,7 @@
   <string key="ShowRolesDeath">
     <value>Mostrar papeles al morir</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Permitir huir de la partida</value>
   </string>
   <string key="ShowIDs">

@@ -1340,7 +1340,7 @@
   <string key="ShowRolesDeath">
     <value>Rollen bij doodgaan laten zien</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Vluchten toestaan</value>
   </string>
   <string key="ShowIDs">

@@ -1193,9 +1193,9 @@
   <string key="ShowRolesDeath">
     <value>Mostrar roles con la muerte</value>
   </string>
-  <string key="AllowFlee">
-    <value>Permitir salir del juego</value>
-  </string>
+	<string key="qallowflees">
+		<value>Permitir flee</value>
+	</string>
   <string key="ShowIDs">
     <value>Mostrar IDs durante el join.</value>
   </string>
@@ -4534,5 +4534,35 @@
 	</string>
 	<string key="tgfin">
 		<value>Se ha mencionado a {0} jugadores.</value>
+	</string>
+
+	<!-- Marzo -->
+
+	<string key="taggame">
+		<value>Activar tag inicial</value>
+	</string>
+	<string key="taggameQ">
+		<value>¿Se llamará a los jugadores al iniciar una partida?\nActual: {0}</value>
+	</string>
+	<string key="taggameA">
+		<value>Tag inicial: {0}</value>
+	</string>
+	<string key="changelenguajeconfig">
+		<value>Cambio de idioma</value>
+	</string>
+	<string key="srolesend">
+		<value>Ver roles al final del juego</value>
+	</string>
+	<string key="configmaxplayers">
+		<value>Máximo de jugadores</value>
+	</string>
+	<string key="configtimeday">
+		<value>Duración del día</value>
+	</string>
+	<string key="configtimelynch">
+		<value>Duración del linche</value>
+	</string>
+	<string key="configtimenoche">
+		<value>Duración de la noche</value>
 	</string>
   </strings>

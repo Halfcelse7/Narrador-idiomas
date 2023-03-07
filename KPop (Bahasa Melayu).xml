@@ -1420,7 +1420,7 @@ Penduduk Kpop berharap dapat berjumpa {0} , tetapi apa mereka jumpa dalam rumah 
 	<string key="ShowRolesDeath">
 		<value>Menunjukkan peranan sesudah mati</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>Membenarkan melarikan diri</value>
 	</string>
 	<string key="ShowIDs">

@@ -1599,7 +1599,7 @@
   <string key="ShowRolesDeath">
     <value>Показать роли мертвых игроков</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Разрешить Flee</value>
   </string>
   <string key="ShowIDs">

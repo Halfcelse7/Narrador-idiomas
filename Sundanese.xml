@@ -1563,7 +1563,7 @@ Mun kultus nyobaan ngahasut maneh, manehna boga 50% bakal gagal. Mun maneh na ga
   <string key="ShowRolesDeath">
     <value>Tembongkeun role mun paeh</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Ijinkeun Mampret</value>
   </string>
   <string key="ShowIDs">

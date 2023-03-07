@@ -1516,7 +1516,7 @@
   <string key="ShowRolesDeath">
     <value>إظهار الأدوار عند الموت</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>السماح بالإنسحاب</value>
   </string>
   <string key="ShowIDs">

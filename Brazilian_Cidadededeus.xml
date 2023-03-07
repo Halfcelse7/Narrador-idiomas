@@ -1206,7 +1206,7 @@
   <string key="StartFromGroup">
     <value>Jogos devem ser começados dentro de um grupo!</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Permitir Fugas</value>
   </string>
   <string key="ShowRolesDeath">

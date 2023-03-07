@@ -1283,7 +1283,7 @@
 	<string key="ShowRolesDeath">
 		<value>死亡時公開角色</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>開場後走場</value>
 	</string>
 	<string key="ShowIDs">

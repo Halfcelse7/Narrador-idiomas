@@ -1242,7 +1242,7 @@
   <string key="ShowRolesDeath">
     <value>🙂➡️💀❓</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>🚶❓</value>
   </string>
   <string key="ShowIDs">

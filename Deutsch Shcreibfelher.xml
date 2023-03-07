@@ -2570,7 +2570,7 @@
     <value>Rollen ncah dem Tod</value>
     <value>Rollen ncah dem Tod</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Fliehen eueblarn</value>
     <value>Fliehen eealburn</value>
     <value>Fliehen elabruen</value>

@@ -1234,7 +1234,7 @@ Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele
 	<string key="ShowRolesDeath">
 		<value>Mostrar papéis após a morte</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>Permitir fugir da partida</value>
 	</string>
 	<string key="ShowIDs">

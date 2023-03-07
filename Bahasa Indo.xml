@@ -1299,7 +1299,7 @@ Catatan: Jika hanya ada 1 serigala, Hunter memiliki potensi 30% membunuh serigal
 	<string key="ShowRolesDeath">
 		<value>Tampilkan peran saat mati</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>Izinkan pemain keluar dari permainan</value>
 	</string>
 	<string key="ShowIDs">

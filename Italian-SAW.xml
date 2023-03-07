@@ -1395,7 +1395,7 @@ variant="SAW MODE"/>
   <string key="ShowRolesDeath">
     <value>Rivela Ruoli alla Morte</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Ammettere il Flee</value>
   </string>
     <string key="TannerEnd">

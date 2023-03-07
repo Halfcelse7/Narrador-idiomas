@@ -1559,7 +1559,7 @@ Notitie: Als de Wolven aanvallen heb de Jager bij 1 Wolf 30% kans dat hij/zij de
   <string key="ShowRolesDeath">
     <value>Rollen laten zien bij sterven</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Vluchten toestaan</value>
   </string>
   <string key="ShowIDs">

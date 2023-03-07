@@ -1322,7 +1322,7 @@
 	<string key="ShowRolesDeath">
 		<value>Zeige Rolle beim Tod</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>Erlaube Flucht</value>
 	</string>
 	<string key="ShowIDs">

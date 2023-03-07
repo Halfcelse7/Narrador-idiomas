@@ -1463,7 +1463,7 @@
   <string key="ShowRolesDeath">
     <value>死亡時顯示角色</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>允許比賽中逃跑</value>
   </string>
       <string key="ShowIDs">

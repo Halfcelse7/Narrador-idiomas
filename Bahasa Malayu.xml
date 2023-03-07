@@ -1417,7 +1417,7 @@ Nota: Para adalah pembuat bot ini.</value>
   <string key="ShowRolesDeath">
     <value>Menunjukkan peranan sesudah mati</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Membenarkan melarikan diri</value>
   </string>
   <string key="ShowIDs">

@@ -1418,7 +1418,7 @@ Si les cultistes essaient de vous convertir, ils ont une chance de 50% à l'éch
   <string key="ShowRolesDeath">
     <value>Mostrar roles con la muerte\n </value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Permitir salir del juego\n </value>
   </string>
     <string key="ShowIDs">

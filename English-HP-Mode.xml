@@ -1320,7 +1320,7 @@ However, if you protect a Death Eater, you may have a fate worse than death.</va
   <string key="ShowRolesDeath">
     <value>Show Roles on Death</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Allow Fleeing</value>
   </string>
   <string key="ShowIDs">

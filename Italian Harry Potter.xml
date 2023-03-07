@@ -1725,7 +1725,7 @@ Se il Professore di Divinazione o Fiorenzo ti guarda, puoi o meno essere identif
 <value>Show Roles on Death</value>
 </string>
 
-<string key="AllowFlee">
+<string key="qallowflees">
 <value>Allow Fleeing</value>
 </string>
 

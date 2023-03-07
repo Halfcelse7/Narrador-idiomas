@@ -1071,7 +1071,7 @@ ChemistKillWiseElder, ArsonistWinsOverpower（官方2019.2.22添加）-->
   <string key="ShowRolesDeath">
     <value>死亡时展示玩家身份</value>
    </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>逃跑设置</value>
   </string>
   <string key="ShowIDs">

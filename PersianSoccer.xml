@@ -1395,7 +1395,7 @@
   <string key="ShowRolesDeath">
     <value>افشای نقش</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>فرار کردن</value>
   </string>
   <string key="ShowIDs">

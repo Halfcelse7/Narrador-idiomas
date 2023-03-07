@@ -1432,7 +1432,7 @@
   <string key="ShowRolesDeath">
     <value>Tampilke lakon pas mati</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Ijinke minggat (flee)</value>
   </string>
   <string key="ShowIDs">

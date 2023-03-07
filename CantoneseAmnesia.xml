@@ -1429,7 +1429,7 @@
 	<string key="ShowRolesDeath">
 		<value>機制／死亡時披露身份</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>權限／逃離遊戲</value>
 	</string>
 	<string key="ShowIDs">

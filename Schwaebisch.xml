@@ -1588,7 +1588,7 @@
   <string key="ShowRolesDeath">
     <value>Rolla beim Schderba ozeiga</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Flieha erlaoba</value>
   </string>
   <string key="ShowIDs">

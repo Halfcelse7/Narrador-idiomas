@@ -1415,7 +1415,7 @@
   <string key="ShowRolesDeath">
     <value>Laat rollen zien bij doodgaan</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Vluchten toestaan</value>
   </string>
   <string key="ShowIDs">

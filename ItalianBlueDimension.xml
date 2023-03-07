@@ -1304,7 +1304,7 @@ Il Farfallone messaggero conferma il decesso di {0}.</value>
   <string key="ShowRolesDeath">
     <value>Show Roles on Death</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Allow Fleeing</value>
   </string>
   <string key="ShowIDs">

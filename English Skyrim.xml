@@ -1989,7 +1989,7 @@ HELP US STOPPING THE VAMPIRE THREAT."</value>
     <string key="ShowRolesDeath">
         <value>Show Roles on Death</value>
     </string>
-    <string key="AllowFlee">
+    <string key="qallowflees">
         <value>Allow Fleeing</value>
     </string>
     <string key="ShowIDs">

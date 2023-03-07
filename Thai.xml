@@ -1434,7 +1434,7 @@
 	<string key="ShowRolesDeath">
 		<value>แสดงบทบาทตอนตาย</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>อนุญาตให้หนีได้</value>
 	</string>
 	<string key="ShowIDs">

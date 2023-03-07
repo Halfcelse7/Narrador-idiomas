@@ -1182,7 +1182,7 @@
     <string key="ShowRolesDeath">
     <value>邊個死左</value>
   </string>
-    <string key="AllowFlee">
+    <string key="qallowflees">
     <value>俾走</value>
   </string>
   <string key="ShowIDs">

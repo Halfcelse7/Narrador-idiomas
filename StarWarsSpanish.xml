@@ -843,7 +843,7 @@
     <value>Permitir Extender tiempo</value>
   </string><string key="ShowRolesDeath">
     <value>Mostrar roles al morir.</value>
-  </string><string key="AllowFlee">
+  </string><string key="qallowflees">
     <value>Perimitir Huir</value>
   </string><string key="HaveJoined">
     <value>{0} entraron en los últimos 30 segundos.</value>

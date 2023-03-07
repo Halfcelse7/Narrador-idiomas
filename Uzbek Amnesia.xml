@@ -1488,7 +1488,7 @@ Agar qotildan kimdir habar olsa so'zsiz o'ladi)</value>
   <string key="ShowRolesDeath">
     <value>O'lganlarni ro'lini ko'rsatish</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>O'yinda chiqish ruhsat berish</value>
   </string>
   <string key="ShowIDs">

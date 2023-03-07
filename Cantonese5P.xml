@@ -1366,7 +1366,7 @@
 	<string key="ShowRolesDeath">
 		<value>機制／歹匕亡時揭露身亻分</value>
 	</string>
-	<string key="AllowFlee">
+	<string key="qallowflees">
 		<value>權限／逃離遊戲</value>
 	</string>
 	<string key="ShowIDs">

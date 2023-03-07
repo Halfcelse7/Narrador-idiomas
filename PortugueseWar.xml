@@ -1248,7 +1248,7 @@
   <string key="ShowRolesDeath">
     <value>Mostrar papeis ao morrer</value>
   </string>
-  <string key="AllowFlee">
+  <string key="qallowflees">
     <value>Permite fugir</value>
   </string>
   <string key="AchievementsUnlocked">
