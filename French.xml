@@ -467,7 +467,7 @@
 		<value>{0} est un groupe préféré, et a sauté la file d'attente!!</value>
 	</string>
 	<string key="NoGame">
-		<value>Il n'y a pas de jeu en cours.  Commencez une nouvelle partie avec /startgame@Narrador2bot. \nDémarrez une partie de chaos avec /startchaos@Narrador2bot ou superchaos avec /superchaos@Narrador2bot, \nUne partie inversée avec /startinverted@Narrador2bot ou une partie avec des points avec /startranked@Narrador2bot.\nIl existe d'autres modes mais vous devrez vous classer et gagner plus de points pour les activer et les démarrer. Amusez-vous bien !!! ;)</value>
+		<value>Il n'y a pas de jeu en cours.  \n\n-Commencez une nouvelle partie avec : \n /startgame@Narrador2bot \n-Démarrez une partie de chaos ou superchaos avec : \n /startchaos@Narrador2bot  \n /superchaos@Narrador2bot \n-Une partie inversée avec : \n/startinverted@Narrador2bot ou \n-Une partie classé avec : \n /startranked@Narrador2bot.\n\nIl existe d'autres modes mais vous devrez vous classer et gagner plus de points pour les activer et les démarrer. \n\nAmusez-vous bien !!! ;)</value>
 	</string>
 	<string key="GroupAdminOnly">
 		<value>Seul un administrateur du groupe peut exécuter cette commande.</value>
@@ -4308,9 +4308,9 @@
 		<value>
 			Lorsque vous rassemblez des informations pour copier {0}, il remarque vos actions, vous dit que c'est lui l'indiscret, vous essayez de faire équipe avec {0} et de lui demander des informations sur la meute.</value>
 		</string>
+	
 	<!-- Le Chauve -->
 
-	<String>
 		<string key="pelao">
 			<value>Le Chauve 👨🦲</value>
 		</string>
@@ -4333,9 +4333,9 @@
 		<string key="RoleInfobeta">
 			<value>Vous êtes le loup bêta 🐺🅱️ : Vous êtes le loup suivant le loup alpha dans l'ordre de succession, à la mort de l'alpha vous prendrez sa place de chef de meute en devenant le nouvel alpha. \n- Rôle conçu par @Barbolwey \n\nEquipe : Loups. \n\nConversions : \nVampires : Il y a 50% de chance de tuer le vampire ou un loup meurt. \nZombie: \n- Si vous visitez : Vous n'aimerez pas la nourriture .\n- Si vous etes visité : Vous survivrez toujours.</value>.
 		</string>
-		<string key="aboutbeta">
-			<value>Vous êtes le loup bêta 🐺🅱️ : C'est le loup suivant du loup alpha dans l'ordre de succession, lorsque l'alpha meurt il prendra sa place de chef de meute en devenant le nouvel alpha. \N- Rôle conçu par @BarbolweyTeam \n\nEquipe : Loups. \n\nConversions : \nVampires : Il y a 50% de chance de tuer le vampire ou tuer un loup \nZombie: \n- Si vous visitez : Vous n'aimerez pas la nourriture .\n- Si vous etes visité : Vous survivrez toujours.</value>.
-		</string>
+	<string key="aboutbeta">
+		<value>Vous êtes le loup bêta 🐺🅱️ : C'est le loup suivant du loup alpha dans l'ordre de succession, lorsque l'alpha meurt il prendra sa place de chef de meute en devenant le nouvel alpha. \n- Rôle conçu par @BarbolweyTeam \n\nEquipe : Loups. \n\nConversions : \nVampires : Il y a 50% de chance de tuer le vampire ou tuer un loup \nZombie: \n- Si vous visitez : Vous n'aimerez pas la nourriture .\n- Si vous etes visité : Vous survivrez toujours.</value>.
+	</string>
 		<string key="newalpha">
 			<value>Notre chef est mort, {0} est devenu le nouveau loup alpha pour diriger la meute.</value>
 		</string>
@@ -4526,6 +4526,54 @@
 			<value>Certains zombies s'occupent de {0}.</value>
 		</string>
 
+		<string key="notag">
+			    <value>Le tag est utilisé dans un autre groupe, veuillez reessayer dans une minute s'il vous plaît !.</value>
+			 
+		</string>
+		  <string key="errortag">
+			    <value>Erreur lors de l'exéuction du tag, veuillez recommencer s'il vous plaît !.</value>
+			 
+		</string>
+		  <string key="tgfin">
+			    <value>Fin du tag! \n{0} joueurs ont été mentionné.</value>
+			 
+		</string>
 
-	</String>
-</strings>
+		<!-- Mars -->
+
+		  <string key="taggame">
+			    <value>Activer la commande initiale</value>
+			 
+		</string>
+		  <string key="taggameQ">
+			    <value>Les joueurs seront-ils appelés au début d'une partie ? \n\nActuel : {0} </value>
+			 
+		</string>
+		  <string key="taggameA">
+			    <value>Tag initial: {0}</value>
+			 
+		</string>
+		  <string key="changelenguajeconfig">
+			    <value>Modification de la langue</value>
+			 
+		</string>
+		  <string key="srolesend">
+			    <value>Voir les rôles à la fin de la partie</value>
+			 
+		</string>
+		  <string key="configmaxplayers">
+			    <value>Nombre maximum de joueurs</value>
+			 
+		</string>
+		  <string key="configtimeday">
+			    <value>Durée de la journée</value>
+			 
+		</string>
+		  <string key="configtimelynch">
+			    <value>Durée du lynchage</value>
+			 
+		</string>
+		  <string key="configtimenoche">
+			    <value>Durée de la nuit</value>
+		</string>
+	</strings>
