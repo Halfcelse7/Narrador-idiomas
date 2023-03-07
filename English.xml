@@ -4618,7 +4618,7 @@
  <string key="taggameA">
 	 <value>Start tag: {0}</value>
  </string>
- <string key="changelanguageconfig">
+ <string key="changelenguajeconfig">
 	 <value>Language change</value>
  </string>
  <string key="srolesend">
@@ -4633,7 +4633,7 @@
  <string key="configtimelynch">
 	 <value>Lynch Duration</value>
  </string>
- <string key="configtimenight">
+ <string key="configtimenoche">
 	 <value>Length of night</value>
  </string>
   </strings>
