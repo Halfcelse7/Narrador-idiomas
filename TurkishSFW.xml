@@ -201,7 +201,7 @@
   </string>
   <string key = "SeerEaten">
     <!-- 0 - kurban adı -->
-    <value> Sabah olunca köylüler {0}'i evinde bulamadılar. Psişik güçleri ile üst düzey bir görüşe sahip olmak istersek hiç beklemediği bir anda kurtların saldırısına uğradı. Gelecekte bunu kestirememiş olması hem kendisi için hazin bir son oldu ve köy halkı zor bir durumda artık. Gözcü öldü. </value>
+    <value> Sabah olunca köylüler {0}'i evinde bulamadılar. Psişik güçleri ile üst düzey bir görüşe sahip olmak isterken hiç beklemediği bir anda kurtların saldırısına uğradı. Gelecekte bunu kestirememiş olması hem kendisi için hazin bir son oldu ve hem de köy halkınu zor bir durumda bıraktı. Gözcü {0} öldü. </value>
   </string>
   <string key = "DrunkEaten">
     <!-- 0 - kurban adı -->
@@ -1258,8 +1258,8 @@
   <string key = "ShowRolesDeath">
     <value> Öldükten sonra rolleri göster </value>
   </string>
-  <string key = "AllowFlee">
-    <value> Oyundan kaçışa izin ver </value>
+  <string key = "qallowflees">
+    <value> Oyundan kaçış </value>
   </string>
   <string key = "ShowIDs">
     <value> Katılımcı ID’lerini Göster </value>
@@ -1915,7 +1915,7 @@
   </string>
 
   <string key = "SpeedWolfRunning">
-    <value>{0} Kaçmadan önce herkesin önüne çıkıyor ve "ZZOOOORRRTTT Hadi köyünüze dönün!" diyor ve arkasına bakmadan topukluyor. Korkak Tavuk {0} Hızlı Kurt ve bugün onu linç edemezsiniz. İllaki elimize düşeceksin! </value>
+    <value>{0} Kaçmadan önce herkesin önüne çıkıyor ve 'ZZOOOORRRTTT Hadi köyünüze dönün!' diyor ve arkasına bakmadan topukluyor. Korkak Tavuk {0} Hızlı Kurt ve bugün onu linç edemezsiniz. İllaki elimize düşeceksin! </value>
   </string>
   <string key = "AskRunaway">
     <value>Kaçmak ve linç edilmekten kurtulmak istiyor musun? Şimdi böyle yaparak kendini bir kurt olarak göstereceksin. Ama linç olmayacaksın. </value>
@@ -4126,7 +4126,7 @@
 		<value> Bu gece kılıcınla karanlık bir yaratığın daha hayatına son verecektin. {0}'in evine gittiğinde onun bir anlığına zombi olduğunu düşündün ve kolayca alt edebileceğin için rahattın. Ancak bu da ne???!!! {0} senden kaçıyor ve karşılık veriyordu! Bir anlığına affladın ve kılıcını almaya gittin ancak bunun için çok geçti. Ulu lider Kelle Avcısı fısıltının zombi kölelerinden biri oldu! Bu kadar kolay mıydı be...</value>
 	</string>
     <string key="cnxsus2">
-		<value> Zombi sürünle hareket ederken bir koku fark ettin. Bu senin çürük derili zombi süründekilerinden farklı, daha taze ve güçlü bir kokuydu. Belli ki Kelle Avcısı {0} sana saldırmaya çalışıyor! Sürünün içinde dolanarak ve derin sayesinde kamuflaj olarak onun kafasını karıştırmaya çalışıyorsun. En sonunda hiç beklemediği bir anda onu etkin altına alıp, sürüne dahil ediyorsun. Çantada keklik! Ez Pez ÇereZ PatateZ DomateZ MayoneZ ÖlmeZ BölünmeZ... </value>
+		<value> Zombi sürünle hareket ederken bir koku fark ettin. Bu senin çürük derili zombi süründekilerinden farklı, daha taze ve güçlü bir kokuydu. Belli ki Kelle Avcısı {0} sana saldırmaya çalışıyor! Sürünün içinde dolanarak ve derin sayesinde kamuflaj olarak onun kafasını karıştırmaya çalışıyorsun. En sonunda hiç beklemediği bir anda onu etkin altına alıp, sürüne dahil ediyorsun. Çantada keklik!</value>
 	</string>
     <string key="HarlotVisitsus">
 		<value> Bu gece müşterinin değişik türde bir maskesi vardı. Fantezi için de takıyor olabilirdi bu yüzden pek de umursamadın. Doruk noktasına ulaşmak üzereyken derisinde bir soğukluk ve katılık hissettin ancak herşey için geçti. Fısıltı o pozisyona rağmen seni etkisi altına aldı ve zombi sürüsüne dahil etti. Artık para için değil, mecburiyetten kölelik yapıyorsun.</value>
@@ -4290,7 +4290,7 @@
 		<value> Sen Gölge'sin. Basit bir İnsan değilsin, bir Silüetsin. Köydeki herkesin gölgesindesin ve onları adım adım takip edebilirsin. Bu sayede gece vakti gerçekleşen tüm aksiyonları görebilecek. GRUP İÇİNDE BU AKSİYONLARI AFİŞE EDEMEZSİN! Çünkü bu bilgileri seni henüz keşfetmemiş kurt müttefiklerin için saklaman gerekecek. Gece oyuncularından biri seni ziyaret etmeye çalışırsa kendi kimliğini riske atmış olur. Kurtlar hariç seni başka biri ziyaret ettiği vakit onları köy meydanının ortasında rolleri ile ifşa edeceksin. Ancak Kukla Ustasının hünerleri senden oldukça üstün bu yüzden gece vakti seni kolaylıkla öldürebilir. Eğer linçlenerek ölürsen Kelle Avcısının yaşayan yardımcılarından birini ifşa edeceksin. \nRol @dantravelsofficial tarafından oluşturuldu. \n\nTakım: Kurtlar. \n\nDönüşümler: Ubır ve Zombilere karşı tam bağışıklılık.</value>
 	</string>
 	<string key="Aboutindiscreto">
-		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bir rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
+		<value> Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bir rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Eğer linç esnasında öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
 	</string>
 	<string key="visionindis">
 		<value> {0}'in gölgesini takip ederken {1}'in adresini ziyaret ettiğini gördün.</value>
@@ -4314,7 +4314,7 @@
 		<value> {0}'in evine gittin ancak orada kimse yoktu. Çabuk pes etmeye niyetli değilsin elbet. Evi karış karış ararken gölgenin her zamankinden biraz daha ufak olduğunu fark ettin. Adın gibi eminsin burası GÖLGE'NİN evi ve onu kıskıvrak yakaladın. Artık {0} ile takım olma zamanı.</value>
 	</string>
 	<string key="indwdead">
-		<value> Köylüler Gölgeyi linç ettiğinde bi farklılık olduğu sezdiler ve haklıydılar da. Gölge kurt sürüsü tarafından keşfedilmiş ve saf değiştirmişti. Ölümünde bile Gölge yeni kurt müttefiklerine gece yeteneklerinden bir armağan veriyor. Köy meydanına bir parşömen fırlatır ve üzerinde {0}'in resmi vardı. Belli ki Gölge onun gece aksiyonun yakalamıştı ve parşömenin en altında ise koca harflerle {1} yazıyordu. </value>
+		<value> Köylüler Gölgeyi linç ettiklerinde , silüet köy halkını terk etmeden önce kurt müttefiklerine büyük bir armağan sundu. Köy meydanına bir parşömen fırlatır ve üzerinde {0}'in resmi vardı. Belli ki Gölge onun gece aksiyonun yakalamıştı ve parşömenin en altında ise koca harflerle {1} yazıyordu. </value>
 	</string>
 	<string key="socseeind">
 		<value> {0}'in evine girdiğin fark ettin. Sıradan biri gibi gözüküyordu ama gözlerindeki mor renk elindeki kara kristal küreyi görünce oldukça şaşırdın. Kurtların kudretli Falcısı {0} bu. Gölgelerden çıkıp onun karşısına çıkarsın ve sürüyü aramaya başlarsın.</value>
@@ -4363,7 +4363,7 @@
 		<value> Sen Sigma Kurtsun. Sürüdeki doğal fizyonizm gücüne sahip tek kurtsun. Ziyaretçilerine karşı "sözde" zararsızın. Gece eylemindeki herhangi bir oyuncu seni ziyaret ederse ya ölecek yada kurt sürüsünün bir parçası olacak. \nRol @dantravelsofficial tarafından yaratıldı. \n\nTakım:Kurtlar \n\nDönüşümler:\nUbırlar: Kont'u 50% öldürme şansı var. Ubırlar direkt olarak ölür. \nZombiler: \n-Eğer onları ziyaret edersen: Tatlarını beğenmeyecek ve onları yemeyeceksin. \n-Eğer seni ziyaret ederlerse: Her zaman hayatta kalırsın. Fısıltı seni ziyaret ederse diğer köylüler ile aynı şansa sahip olacak.</value>
 	</string>
 	<string key="aboutgreywolf">
-		<value> Sigma Kurt 🐕: \nSiga Kurt sürüdeki doğa üstü güçlere sahip olan inanılmaz bir kurttur. Alfa ve Beta bile karşısında boyun eğebilir çünkü Sigma Kurt ziyaretçilerini kendi tuzağına düşürerek onları sürünün bir parçası haline getirebilir! Genellikle ziyaretçilerinekarşı zararsız görünür ancak 50% şans ile ya ölecek, yada sürünün birparçası olmak zorunda kalacaklar. Kelle Avcısı Sigma Kurdu avlarsa ya o ölecek yada Sigma Kurt. Ancak Seri Katil içintek farklı olan nokta, Sigma Kurt onu öldürmek yerine sürünün bir parçası haline getirecektir. Gözcü Sigma Kurdu Barak olarak algılayacaktır. \nRol @dantravelsofficial tarafından yaratıldı.</value>
+		<value> Sigma Kurt 🐕: \nSiga Kurt sürüdeki doğa üstü güçlere sahip olan inanılmaz bir kurttur. Alfa ve Beta bile karşısında boyun eğebilir çünkü Sigma Kurt ziyaretçilerini kendi tuzağına düşürerek onları sürünün bir parçası haline getirebilir! Genellikle ziyaretçilerine karşı zararsız görünür ancak 50% şans ile ya ölecek, yada sürünün birparçası olmak zorunda kalacaklar. Kelle Avcısı Sigma Kurdu avlarsa ya o ölecek yada Sigma Kurt. Ancak Seri Katil içintek farklı olan nokta, Sigma Kurt onu öldürmek yerine sürünün bir parçası haline getirecektir. Gözcü Sigma Kurdu Barak olarak algılayacaktır. \nRol @dantravelsofficial tarafından yaratıldı.</value>
 	</string>
 	<string key="visitgwolf">
 		<!-- 0 - Ziyaretçi İsmi -->
@@ -4379,18 +4379,18 @@
 	</string>
 	<string key="deadxvisitgwolf2">
 		<!-- 0 - Hedef İsmi -->
-		<value> Köyü haber... {0}'i seni koruması gereken Barak sandın. Sigma Kurt ziyaretinden rahatsız oldu ve öldün.</value>
+		<value> Kötü haber... {0}'i seni koruması gereken Barak sandın. Sigma Kurt ziyaretinden rahatsız oldu ve öldün.</value>
 	</string>
 	<string key="deadxvisitgwolf3">
 		<!-- 0 - Ubır İsmi -->
 		<!-- 1 - Sigma Kurt İsmi -->
-		<value> Ubır {0} bu gece büyükbir hata yaptı. Sigma Kurt {1}'i ziyaret etti ve öldü.</value>
+		<value> Ubır {0} bu gece büyük bir hata yaptı. Sigma Kurt {1}'i ziyaret etti ve öldü.</value>
 	</string>
 	<string key="deadxvisitgw">
 		<!-- 0 - Kurbanın İsmi -->
-		<value> Dün gece {0} yanlış kişiyi ziyaret etti. Sigma Kurt ziyaretçesini öldürmeyü tercih etti ve artık {0} ölü.</value>
+		<value> Dün gece {0} yanlış kişiyi ziyaret etti. Sigma Kurt ziyaretçisini öldürmeyi tercih etti ve artık {0} ölü.</value>
 		<value> {0} koruyucu köpeği Barak'ın yanında güvende olduğunu sanıyordu ancak ziyaret ettiği kişi Barak değil Sigma Kurduydu. {0} öldü.</value>
-		<value> {0} dün gece Sigma Kurdun adresini ziyaret ederek büyük birtehlikeye atıldı ve hedefi tarafından avlandı. {0} öldü.</value>
+		<value> {0} dün gece Sigma Kurdun adresini ziyaret ederek büyük bir tehlikeye atıldı ve hedefi tarafından avlandı. {0} öldü.</value>
 	</string>
 	<string key="noextneg">
 		<value>/ extend komutu yalnızca süreyi arttırmak için kullanılır, düşürmek için değil.</value>
@@ -4412,7 +4412,7 @@
 		<value> {1}'in evinin önünde dolanan bir varlığı fark edersin. {0}'in çıkardığı seslerden ve çürümüş bedeninden anlayacağın üzere o bir zombi. Hiç tereddüt etmeden kafasını kopardın.</value>
 	</string>
 	<string key="susvisittarofww">
-		<value> Bir sonraki kurbanının evinegitmek içinköşeyi döndüğünde, birkaç tane Kurt Adam fark edersin. Çürükbedenleri pek tercih etmeselerde senin bir zombi olmadığını anlamadan kaçsan iyi olur.</value>
+		<value> Bir sonraki kurbanının evine gitmek için köşeyi döndüğünde, birkaç tane Kurt Adam fark edersin. Çürük bedenleri pek tercih etmeselerde senin bir zombi olmadığını anlamadan kaçsan iyi olur.</value>
 	</string>
 	<string key="ovvisittofw">
 		<!-- 0 - Kurt Adam İsmi -->
@@ -4435,7 +4435,7 @@
 	<string key="vvisittofw">
 		<!-- 0 - Kurt Adam İsmi -->
 		<value> Şans? Kader? Adına her ne dersen de. Ancak hedefinin evinde {0}'i görüp de öylece bırakmak olmaz. Göz hakkıdır onun da canı ister. Hemen bu itin kanını emip kafasını kopardın.</value>
-		<value> Sürü belli ki farklı yerlere dağılmış. Ama bariz bir şekilde en şanssızları {0} idi. Çünkü senin kurbanın evine geldi ve onun da işini bitirdin.</value>
+		<value> Sürü belli ki farklı yerlere dağılmış. Ama bariz bir şekilde en şanssızları {0} idi. Çünkü senin kurbanının evine geldi ve onun da işini bitirdin.</value>
 	</string>
 	<string key="vdeadxvisittofws2">
 		<!-- 0 - Ubır İsmi -->
@@ -4456,12 +4456,12 @@
 	</string>
 	<string key="vkillsusxvsinvictim">
 		<!-- 0 - Fısıltı İsmi -->
-		<value> Avınla meşgul iken çürük vücutlu biri hedefinin etrafındaydı. Pek de zombi gibi hareketleri yoktu ancak belli ki {0} senin avını kendi zombi sürüsüne dahil etmek isteyen fısıltıydı. Bu da ibreti alem olsun "Ubırların kurbanlarına göz dikemesin".</value>
+		<value> Avınla meşgul iken çürük vücutlu biri hedefinin etrafındaydı. Pek de zombi gibi hareketleri yoktu ancak belli ki {0} senin avını kendi zombi sürüsüne dahil etmek isteyen fısıltıydı. Bu da ibreti alem olsun "Ubırların kurbanlarına göz dikemezsin".</value>
 	</string>
 	<string key="vkillzxvsinvictim">
 		<!-- 0 - Zombi İsmi -->
-		<value> {0}'in zekası literatür olarak beynini terk etmiş! Senin gibi doyumsuz ubırın hedefine göz dikmesi inanılmaz cesurca. E tabi bi o kadarda aptalca amaişte, cesaret para etmiyor. Doğrudan {0}'in sefil kafasını gövdesinden ayırdın.</value>
-		<value> Bir başka zombi olan {0} senin avına göz dikmişti. Allah versin kardeş deyip de onu geri döndürebilirdin onu ama en iyi kellesini koparmaktı.</value>
+		<value> {0}'in zekası literatür olarak beynini terk etmiş! Senin gibi doyumsuz ubırın hedefine göz dikmesi inanılmaz cesurca. E tabi bi o kadarda aptalca ama işte, cesaret para etmiyor. Doğrudan {0}'in sefil kafasını gövdesinden ayırdın.</value>
+		<value> Bir başka zombi olan {0} senin avına göz dikmişti. Allah versin kardeş deyip de onu geri döndürebilirdin onu ama en iyisi kellesini koparmaktı.</value>
 	</string>
 	<string key="wwkillvxvsinvictim">
 		<!-- 0 - Ubir İsmi -->
@@ -4519,5 +4519,35 @@
 	<string key="tgfin">
 		<!-- 0 - Etiketlenen Kullanıcı Sayısı -->
 		<value> {0} oyuncu başarıyla çağırıldı.</value>
+	</string>
+	
+	<!-- Marzo -->
+	
+	<string key="taggame">
+	    <value> Otomatik etiketleme</value>
+	</string>
+	<string key="taggameQ">
+	    <value> Yeni bir oyun başlatıldığı an oyuncuları etiketleme işlemi otomatik olarak başlatılmasına izin verilsin mi?\nMevcut: {0}</value>
+	</string>
+	<string key="taggameA">
+	    <value> Otomatik etiketleme: {0}</value>
+	</string>
+	<string key="changelanguajeconfig">
+	    <value> Oyun Dili</value>
+	</string>
+	<string key="srolesend">
+	    <value> Oyun sonu rolleri göster</value>
+	</string>
+	<string key="configmaxplayers">
+	    <value> Maximum oyuncu limiti</value>
+	</string>
+	<string key="configtimeday">
+	    <value> Gündüz süresi</value>
+	</string>
+	<string day="configtimelynch">
+	    <value> Linç süresi</value>
+	</string>
+	<string key="configtimenoche">
+	    <value> Gece süresi</value>
 	</string>
 </strings>
