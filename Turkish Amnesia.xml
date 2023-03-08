@@ -250,6 +250,9 @@ Son Günccelleme: 06.01.2023 -->
 	<string key = "Cancel">
 		<value> İptal </value>
 	</string>
+	<string key="qallowflees">
+	    <value> Oyundan Kaçış</value>
+	</string>
 	<string key = "AllowFleeQ">
 		<!-- not, {0} sonrasında boşluk yok. Bu kasıtlı -->
 		<value> Oyun başladıktan sonra kaçışa izin veriyor musun?\nNot: Oyuncular oyuna katılma aşamasında ayrılabilirler.\nMevcut: {0} kaçış</value>
@@ -3208,7 +3211,7 @@ Son Günccelleme: 06.01.2023 -->
 	</string>
 	<string key = "SpeedWolfRunning">
 		<!-- 0 - Hızlı Kurt İsmi -->
-		<value>{0} Kaçmadan önce herkesin önüne çıkıyor ve "ZZOOOORRRTTT Hadi köyünüze dönün!" diyor ve arkasına bakmadan topukluyor. Korkak Tavuk {0} Hızlı Kurt ve bugün onu linç edemezsiniz. İllaki elimize düşeceksin! </value>
+		<value>{0} Kaçmadan önce herkesin önüne çıkıyor ve 'ZZOOOORRRTTT Hadi köyünüze dönün!' diyor ve arkasına bakmadan topukluyor. Korkak Tavuk {0} Hızlı Kurt ve bugün onu linç edemezsiniz. İllaki elimize düşeceksin! </value>
 	</string>
 	<string key = "SpeedWolfLynched">
 		<value>{0} adlı kişiyi linç etmek üzeresin, ama ... o ortadan kayboldu! Ardına bakmadan kaçmış gibi görünüyor. Yarın onu daha sıkı tutun. </value>
@@ -4128,7 +4131,7 @@ Son Günccelleme: 06.01.2023 -->
 		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="Aboutindiscreto">
-		<value>Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bir rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Kurt takımında iken öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
+		<value>Gölge 🕶: \nGölge köydeki sıradan biri değil, o bir silüet. Karanlığın ardına saklanarak köydeki her sırra, her gizeme tanıklık eder. Her bir köylünün gölgesine sinerek onları takip eder ve tüm gece aksiyonlarına şahitlik eder. ANCAK BUNLARI GRUPTA HERHANGİ BİRİNE AÇIKLAYAMAZ! Bu sahip olduğu bilgileri gelecekteki Kurt müttefikleri ile paylaşabilir. Gölge kurt takımına aittir ancak falcının nasıl kurtları keşfederek işbirliği yapması gerekiyorsa, kurtların da Gölgeyi keşfederek işbirliği yapması gerekir. Kurtlar hariç hiçbir gece ziyaretçisi Gölgeyi evde bulamaz ancak Gölge tüm ziyaretçilerini rolleri ile köy halkına ifşa eder. Kukla Ustası oldukça güçlü bir rol bundan dolayı Gölgeyi kontrol etmek isterse onu kolaylıkla öldürebilir. Buna karşın oldukça dikkatli olmalı. Eğer linç esnasında öldürülürse Kelle Avcısının yaşayan herhangi bir yardımcısını ifşa edecek. \nRol @dantravelsofficial tarafından oluşturuldu.</value>
 	</string>
 	<string key="visionindis">
 		<value> {0} seçimini yaptı: {1}</value>
@@ -4152,7 +4155,7 @@ Son Günccelleme: 06.01.2023 -->
 		<value> Dün gece bir şeyler mi oldu? Neler olup bittiği hakkında emin değilsin. {0}</value>
 	</string>
 	<string key="indwdead">
-		<value> Köylüler Gölgeyi linç ettiğinde bi farklılık olduğu sezdiler ve haklıydılar da. Gölge kurt sürüsü tarafından keşfedilmişti. Ölümünde bile Gölge yeni kurt müttefiklerine gece yeteneklerinden bir armağan veriyor. Köy meydanına bir parşömen fırlatır ve üzerinde {0}'in resmi vardı. Belli ki Gölge onun gece aksiyonun yakalamıştı ve parşömenin en altında ise koca harflerle {1} yazıyordu. </value>
+		<value> Köylüler Gölgeyi linç ettiklerinde , silüet köy halkını terk etmeden önce kurt müttefiklerine büyük bir armağan sundu. Köy meydanına bir parşömen fırlatır ve üzerinde {0}'in resmi vardı. Belli ki Gölge onun gece aksiyonun yakalamıştı ve parşömenin en altında ise koca harflerle {1} yazıyordu. </value>
 	</string>
 	<string key="socseeind">
 		<!-- 0 - Falcı İsmi -->
@@ -4173,7 +4176,7 @@ Son Günccelleme: 06.01.2023 -->
 		<value> Çok garip... Kim olduğunu, neden veya hangi sebeple burada olduğunu bilmiyorsun. \n\nTakım: Hatırlanmıyor. \n\nDönüşümler: \nUbırlar: Bilinmiyor. \nZombiler: Bilinmiyor.</value>
 	</string>
 	<string key="aboutgreywolf">
-		<value> Sigma Kurt 🐕: \nSiga Kurt sürüdeki doğa üstü güçlere sahip olan inanılmaz bir kurttur. Alfa ve Beta bile karşısında boyun eğebilir çünkü Sigma Kurt ziyaretçilerini kendi tuzağına düşürerek onları sürünün bir parçası haline getirebilir! Genellikle ziyaretçilerinekarşı zararsız görünür ancak 50% şans ile ya ölecek, yada sürünün birparçası olmak zorunda kalacaklar. Kelle Avcısı Sigma Kurdu avlarsa ya o ölecek yada Sigma Kurt. Ancak Seri Katil içintek farklı olan nokta, Sigma Kurt onu öldürmek yerine sürünün bir parçası haline getirecektir. Gözcü Sigma Kurdu Barak olarak algılayacaktır. \nRol @dantravelsofficial tarafından yaratıldı.</value>
+		<value> Sigma Kurt 🐕: \nSiga Kurt sürüdeki doğa üstü güçlere sahip olan inanılmaz bir kurttur. Alfa ve Beta bile karşısında boyun eğebilir çünkü Sigma Kurt ziyaretçilerini kendi tuzağına düşürerek onları sürünün bir parçası haline getirebilir! Genellikle ziyaretçilerine karşı zararsız görünür ancak 50% şans ile ya ölecek, yada sürünün birparçası olmak zorunda kalacaklar. Kelle Avcısı Sigma Kurdu avlarsa ya o ölecek yada Sigma Kurt. Ancak Seri Katil içintek farklı olan nokta, Sigma Kurt onu öldürmek yerine sürünün bir parçası haline getirecektir. Gözcü Sigma Kurdu Barak olarak algılayacaktır. \nRol @dantravelsofficial tarafından yaratıldı.</value>
 	</string>
 	<string key="visitgwolf">
 		<!-- 0 - Ziyaretçi İsmi -->
@@ -4234,5 +4237,32 @@ Son Günccelleme: 06.01.2023 -->
 		<!-- 0 - Beta Kurt İsmi -->
 		<!-- Alfa Kurt öldükten sonra Beta Kurdun yeni Alfa olduğunu duyurmak için kullanılır -->
 		<value>Aniden içinizden birinin rolü değişti. Şimdi {0}, yeni rolünü hatırlamak ve keşfetmek zorunda.</value>
+	</string>
+		<string key="taggame">
+	    <value> Otomatik etiketleme</value>
+	</string>
+	<string key="taggameQ">
+	    <value> Yeni bir oyun başlatıldığı an oyuncuları etiketleme işlemi otomatik olarak başlatılmasına izin verilsin mi?\nMevcut: {0}</value>
+	</string>
+	<string key="taggameA">
+	    <value> Otomatik etiketleme: {0}</value>
+	</string>
+	<string key="changelanguajeconfig">
+	    <value> Oyun Dili</value>
+	</string>
+	<string key="srolesend">
+	    <value> Oyun sonu rolleri göster</value>
+	</string>
+	<string key="configmaxplayers">
+	    <value> Maximum oyuncu limiti</value>
+	</string>
+	<string key="configtimeday">
+	    <value> Gündüz süresi</value>
+	</string>
+	<string day="configtimelynch">
+	    <value> Linç süresi</value>
+	</string>
+	<string key="configtimenoche">
+	    <value> Gece süresi</value>
 	</string>
 </strings>
