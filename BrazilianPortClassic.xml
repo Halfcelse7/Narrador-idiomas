@@ -910,7 +910,7 @@
 		<value>Existência da Seita definida como: {0}</value>
 	</string>
 	<string key="EnableSecretLynchQ">
-		<value>Permitir voto secreto para linchar?:/nAtual: {0}</value>
+		<value>Permitir voto secreto para linchar?:\nAtual: {0}</value>
 	</string>
 	<string key="EnableSecretLynchA">
 		<value>Permissão de voto secreto definida como: {0}</value>
