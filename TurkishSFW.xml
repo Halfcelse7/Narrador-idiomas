@@ -1259,7 +1259,7 @@
     <value> Öldükten sonra rolleri göster </value>
   </string>
   <string key = "qallowflees">
-    <value> Oyundan kaçış </value>
+    <value> Oyundan kaçışa izin ver </value>
   </string>
   <string key = "ShowIDs">
     <value> Katılımcı ID’lerini Göster </value>
@@ -3437,7 +3437,7 @@
     </value>
   </string>
   <string key = "RoleInfoidiot">
-    <value> Sen "Deli"sin. Halk tarafından linç edilmedikçe özel bir gücün yoktur. Bu durumda, sanki Ace Ventura'ymış gibi, gerçekten kayıp bir deli gibi salak saçma bir şey yapacaksın ve herkes hatasını anlayacaktır; Deli hâlâ hayatta olabilir ve oyuna devam edebilir, ancak oylamaya katılma hakkı kalmaz. Bununla birlikte, tartışmalara katılmaya ve istediğin kadar konuşmaya devam edebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Ölmek için %50 , ölmezsen %75 dönüşüm. \nZombiler: Her zaman dönüştürür. </value>
+    <value> Sen Delisin. Halk tarafından linç edilmedikçe özel bir gücün yoktur. Bu durumda, sanki Ace Ventura'ymış gibi, gerçekten kayıp bir deli gibi salak saçma bir şey yapacaksın ve herkes hatasını anlayacaktır; Deli hâlâ hayatta olabilir ve oyuna devam edebilir, ancak oylamaya katılma hakkı kalmaz. Bununla birlikte, tartışmalara katılmaya ve istediğin kadar konuşmaya devam edebilirsin. \n\nTakım: Köy. \n\nDönüşümler: \nUbırlar: Ölmek için %50 , ölmezsen %75 dönüşüm. \nZombiler: Her zaman dönüştürür. </value>
   </string>
   <string key = "RoleInfoflautista">
     <value> Sen İllüzyonistsin. İllüzyonist yalnız bir roldür. Her gece iki oyuncuyu eski bir melodiyle büyüleyebilirsin. Tüm canlı oyuncuları büyülersen kazanırsın. Bazı yaratıklar seni evde bulamayacak, ancak seri katile dikkat ed. \n\nTakım: Yok. \n\nDönüşümler: \nUbırlar: \nZiyaret edersen: Ubır hipnoz olur. \nZiyaret ederlerse: Seni evde bulamazlar. \nZombiler: \nZiyaret edersen: Zombi büyülenir. \nSeni ziyaret ederlerse: Seni evde bulamazlar. </value>
@@ -4520,34 +4520,34 @@
 		<!-- 0 - Etiketlenen Kullanıcı Sayısı -->
 		<value> {0} oyuncu başarıyla çağırıldı.</value>
 	</string>
-	
+
 	<!-- Marzo -->
-	
+
 	<string key="taggame">
-	    <value> Otomatik etiketleme</value>
+		<value> Otomatik etiketleme</value>
 	</string>
 	<string key="taggameQ">
-	    <value> Yeni bir oyun başlatıldığı an oyuncuları etiketleme işlemi otomatik olarak başlatılmasına izin verilsin mi?\nMevcut: {0}</value>
+		<value> Yeni bir oyun başlatıldığı an oyuncuları etiketleme işlemi otomatik olarak başlatılmasına izin verilsin mi?\nMevcut: {0}</value>
 	</string>
 	<string key="taggameA">
-	    <value> Otomatik etiketleme: {0}</value>
+		<value> Otomatik etiketleme: {0}</value>
 	</string>
-	<string key="changelanguajeconfig">
-	    <value> Oyun Dili</value>
+	<string key="changelenguajeconfig">
+		<value> Oyun Dili</value>
 	</string>
 	<string key="srolesend">
-	    <value> Oyun sonu rolleri göster</value>
+		<value> Oyun sonu rolleri göster</value>
 	</string>
 	<string key="configmaxplayers">
-	    <value> Maximum oyuncu limiti</value>
+		<value> Maximum oyuncu limiti</value>
 	</string>
 	<string key="configtimeday">
-	    <value> Gündüz süresi</value>
+		<value> Gündüz süresi</value>
 	</string>
-	<string day="configtimelynch">
-	    <value> Linç süresi</value>
+	<string key="configtimelynch">
+		<value> Linç süresi</value>
 	</string>
 	<string key="configtimenoche">
-	    <value> Gece süresi</value>
+		<value> Gece süresi</value>
 	</string>
 </strings>
