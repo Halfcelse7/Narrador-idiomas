@@ -250,9 +250,6 @@ Son Günccelleme: 06.01.2023 -->
 	<string key = "Cancel">
 		<value> İptal </value>
 	</string>
-	<string key="qallowflees">
-	    <value> Oyundan Kaçış</value>
-	</string>
 	<string key = "AllowFleeQ">
 		<!-- not, {0} sonrasında boşluk yok. Bu kasıtlı -->
 		<value> Oyun başladıktan sonra kaçışa izin veriyor musun?\nNot: Oyuncular oyuna katılma aşamasında ayrılabilirler.\nMevcut: {0} kaçış</value>
@@ -498,7 +495,7 @@ Son Günccelleme: 06.01.2023 -->
 	<string key = "ShowRolesDeath">
 		<value> Öldükten sonra rolleri göster </value>
 	</string>
-	<string key = "AllowFlee">
+	<string key = "qallowflees">
 		<value> Oyundan kaçışa izin ver </value>
 	</string>
 	<string key = "ShowIDs">
@@ -630,6 +627,33 @@ Son Günccelleme: 06.01.2023 -->
 	</string>
 	<string key = "CantShowRank">
 		<value> Puanın bu komutu kullanmak için çok düşük. Önce 1000 puana ulaşın. </value>
+	</string>
+	<string key="taggame">
+		<value> Otomatik etiketleme</value>
+	</string>
+	<string key="taggameQ">
+		<value> Yeni bir oyun başlatıldığı an oyuncuları etiketleme işlemi otomatik olarak başlatılmasına izin verilsin mi?\nMevcut: {0}</value>
+	</string>
+	<string key="taggameA">
+		<value> Otomatik etiketleme: {0}</value>
+	</string>
+	<string key="changelanguajeconfig">
+		<value> Oyun Dili</value>
+	</string>
+	<string key="srolesend">
+		<value> Oyun sonu rolleri göster</value>
+	</string>
+	<string key="configmaxplayers">
+		<value> Maximum oyuncu limiti</value>
+	</string>
+	<string key="configtimeday">
+		<value> Gündüz süresi</value>
+	</string>
+	<string key="configtimelynch">
+		<value> Linç süresi</value>
+	</string>
+	<string key="configtimenoche">
+		<value> Gece süresi</value>
 	</string>
 	<string key = "NoRoleProvided">
 		<value> /toprole komutunu ve ardından bir rolün emojisini kullanmalısın. </value>
@@ -4237,32 +4261,5 @@ Son Günccelleme: 06.01.2023 -->
 		<!-- 0 - Beta Kurt İsmi -->
 		<!-- Alfa Kurt öldükten sonra Beta Kurdun yeni Alfa olduğunu duyurmak için kullanılır -->
 		<value>Aniden içinizden birinin rolü değişti. Şimdi {0}, yeni rolünü hatırlamak ve keşfetmek zorunda.</value>
-	</string>
-		<string key="taggame">
-	    <value> Otomatik etiketleme</value>
-	</string>
-	<string key="taggameQ">
-	    <value> Yeni bir oyun başlatıldığı an oyuncuları etiketleme işlemi otomatik olarak başlatılmasına izin verilsin mi?\nMevcut: {0}</value>
-	</string>
-	<string key="taggameA">
-	    <value> Otomatik etiketleme: {0}</value>
-	</string>
-	<string key="changelanguajeconfig">
-	    <value> Oyun Dili</value>
-	</string>
-	<string key="srolesend">
-	    <value> Oyun sonu rolleri göster</value>
-	</string>
-	<string key="configmaxplayers">
-	    <value> Maximum oyuncu limiti</value>
-	</string>
-	<string key="configtimeday">
-	    <value> Gündüz süresi</value>
-	</string>
-	<string day="configtimelynch">
-	    <value> Linç süresi</value>
-	</string>
-	<string key="configtimenoche">
-	    <value> Gece süresi</value>
 	</string>
 </strings>
