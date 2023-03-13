@@ -2163,10 +2163,10 @@
          <string key="CantStartClumsy"> 
                  <value> Your rank is too low to start a clumsy game. Reach 1800 points to unlock it. </value> 
          </string> 
-         <string key="AboutGravedigger"> 
+         <string key="AboutGraveDigger"> 
                  <value>You are the Grave Digger ☠️. Every night, you dig the graves for all the people who died since the last time you did (yes, even Wolves deserve a proper burial). Since you are out all night, Wolves and the cult can't find you, unless you actually have nothing to do (i.e. no one died), in that case you'll just stay home. Everyone who visits you has a chance of falling into your newly dug graves, depending on how many graves you have dig. Also, the chance is halved for everyone who is on the village team with you. But since you are out at night, the Wolves or the serial killer might spot and kill you, and the more graves you have to dig, the more likely it is. Also, apparently the serial killer can find you whether you're at home or not, but they might at least stumble in one of your graves and hurt their leg, causing them to maybe lose control over who is their victim the next night...</value> 
          </string> 
-         <string key="Gravedigger"> 
+         <string key="GraveDigger"> 
                  <value>the Grave Digger ☠️</value> 
          </string> 
          <string key="DigNoGraves"> 
@@ -2176,11 +2176,11 @@
          <string key="DigGraves"> 
                  <value>Until late into the night, you dig the grave(s) for {0}. May their souls come to rest and their bodies lie in peace.</value> 
          </string> 
-         <string key="GravediggerFrozen"> 
+         <string key="GraveDiggerFrozen"> 
                  <value>As you left your house to bury those who passed away, a gust of wind blew in from the shadows, causing you to freeze. Unable to move, you waited for the sun to go up and thaw you. The dead will have to be restless for yet another night...</value> 
          </string> 
          <!--{0}: grave digger--> 
-         <string key="GravediggerNotHome"> 
+         <string key="GraveDiggerNotHome"> 
                  <value>The pack heads to the house of {0}, just to find that they are not home. All you can see is a candle shining lonely on a grave...</value> 
          </string> 
          <!--{0}: grave digger, {1}: Wolf who fell into the grave--> 
@@ -2214,10 +2214,6 @@
          <!--{0}: cultist--> 
          <string key="CultFell"> 
                  <value>You return from another tiring night, when suddenly you hear a scream from one of your unfinished graves! You hurry there, just to find {0} lying dead in an unfinished grave. What kind of cult tries to convert a grave digger, anyway?</value> 
-         </string> 
-         <!--{0}: cultist who fell, {1}: grave digger--> 
-         <string key="CultConvertGravedigger"> 
-                 <value>On your way to {1}'s house, {0} suddenly decides that it would be a good idea to burn down the church as well. They lead you through the graveyard when suddenly a bear trap snaps around their ankle! All you can hear is their scream before they fall into a grave and you run for your lives.</value> 
          </string> 
          <!--{0}: grave digger--> 
          <string key="ChemistFell"> 
@@ -2657,7 +2653,7 @@
                  <value> OOOH NOOO !! Who would say that Vampires would like your blood so much, they have left you dry and lifeless. </value> 
          </string> 
          <!-- {0}: vampir who fell, {1}: grave digger --> 
-         <string key="vampConvertGravedigger"> 
+         <string key="vampConvertGraveDigger"> 
                  <value> in the caminot to {1 }'s house, {0} decides it would be a good idea to cut through the graveyard in case they are found. {0} is walking so calmly through the cemetery, when suddenly they trips and falls into a hole. All they can hear is cry after falling into a grave, the rest of the Vampires don't know where they went. </value> 
          </string> 
          <string key="vampTargetDead"> 
@@ -2861,7 +2857,7 @@
          <string key="Chemistburned"> 
                  <value> As you open the door to leave the house, you see a flame approaching, but ... it's not a flame, incredible !! a Wolf engulfed in flames is pouncing on you. You would never bet this would happen to you, the fire Wolf burned you alive. </value> 
          </string> 
-         <string key="Gravediggerburned"> 
+         <string key="GraveDiggerburned"> 
                  <value> As you open the door to leave the house, you see a flame approaching, but ... it's not a flame, incredible !! a Wolf engulfed in flames is pouncing on you. Luckily you already have the graves nearby to save the trip. </value> 
          </string> 
          <string key="bomberburned"> 
@@ -3380,7 +3376,7 @@
          <string key="RoleInfoTroublemaker"> 
                  <value> You are the Troublemaker. As a village teenager, you are in full puberty, with all that goes with it. Once per game, when you feel very upset about everything, you can cause a huge rage in the village, and the Villagers will lynch 2 times that day. \n\nTeam: Village. \n\nConversions: \nVampires: Has 50% to die, if they does not die there is a 75% conversion. \nZombies: There is a 70% to be infected or to survive. </value> 
          </string> 
-         <string key="RoleInfoGravedigger"> 
+         <string key="RoleInfoGraveDigger"> 
                  <value> You are the Gravedigger. It is your responsibility to dispose of the dead bodies of the Villagers. You dig a grave for everyone who is killed last night. In any case, you are usually too tired to finish the grave, so it is left uncovered. Some visitors could fall into them and die. But since you're out at night, the Wolves and the killer might find you on the road and kill you, and the more graves you have to dig, the more likely that will happen. \n\nTeam: Village. \n\nConversions: \nVampires: If you don't have graves to dig there is a 50% death rate, if you don't die you have 50% conversion. \nZombies: If there are no graves to dig, there is a 40% chance to be infected or survive. 
                  </value> 
          </string> 
