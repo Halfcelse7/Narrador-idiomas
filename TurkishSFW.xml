@@ -2299,16 +2299,16 @@
   <string key = "ChemistSuccessPublic">
     <!-- {0} - Kimyacının kurbanı -->
     <!-- {1} - "(kurban) (rol)" ile değiştirilecektir -->
-    <value>Kimyager 👨‍🔬 bu gece {0}’i ziyaret etti ve zehirli iksiri seçtirdi!  Çılgın kimyager hala hayatta iken, {0} öldü ve {1} idi  </value>
+    <value>Kimyager 👨‍🔬 bu gece {0}’i ziyaret etti ve zehirli iksiri seçtirdi! Çılgın kimyager hâlâ hayatta ve bilimin ölümcül zehrini etrafa saçmaya devam ediyor. {0} </value>
   </string>
   <string key = "ChemistVisitYouFail">
-    <value>Kimyager seni ziyaret etti 👨‍🔬 {0}, seni bir iksir seçmeye zorladı.  Bir an tereddüt ettikten sonra, iyi olanı seçtin!  Seni şanslı!  </value>
+    <value>Kimyager seni ziyaret etti 👨‍🔬 {0}, seni bir iksir seçmeye zorladı. Bir an tereddüt ettikten sonra, iyi olanı seçtin!  Seni şanslı!  </value>
   </string>
   <string key = "ChemistFail">
-    <value> {0}’in adresini ziyaret ettin ve bir iksir seçmesine izin verdin!  Ancak iyi olanı seçti!  Sonuç olarak, zehirli olanı içtin ve öldün. Belki de daha iyi bir iş çıkarmalıydın... </value>
+    <value> {0}’in adresini ziyaret ettin ve bir iksir seçmesine izin verdin! Ancak iyi olanı seçti! Sonuç olarak, zehirli olanı içtin ve öldün. Belki de daha iyi bir iş çıkarmalıydın... </value>
   </string>
   <string key = "ChemistFailPublic">
-    <value> Kimyager👨‍🔬 {0}, ölü bulundu! Anlaşılan {0} epey şanssızdı ve gece ziyaretlerinden birinde zehirli iksiri içti! Dua et, ilaçlarını hiç ondan almadın. </value>
+    <value> Kimyager👨‍🔬 {0} ölü bulundu! Anlaşılan {0} epey şanssızdı ve gece ziyaretlerinden birinde zehirli iksiri içti! Dua et, ilaçlarını hiç ondan almadın. </value>
   </string>
   <string key = "ChemistTargetEmpty">
     <value> {0} evde değildi! Çantanı eve geri sürükleyip kötü şansına küfrediyorsun. </value>
@@ -3595,7 +3595,7 @@
     <value> {0} seni görmekten korktu ve salakça sana taş atmaya başladı, öfkelendin. </value>
   </string>
   <string key = "visitxcadeb">
-    <value> Gizemli bir güç hissediyorsun, bir şeyin yanında yürüdüğünü ve yanında oturduğunu hissediyorsun. Barak seni korudu. </value>
+    <value> Gizemli bir güç hissediyorsun, bir şeyin yanında yürüdüğünü ve yanında oturduğunu hissediyorsun. Merak etme, Barak seni gece boyu korudu. </value>
   </string>
   <string key = "visitxcaden">
     <value>
@@ -3633,7 +3633,7 @@
     <value> Reenkarnist {0} Kont'a dönüştü. </value>
   </string>
   <string key = "necroTransformTooldvamp">
-    <value> Kont olann {0}'i seçtin. Takım arkadaşların (varsa): {1} </value>
+    <value> Kont olan {0}'i seçtin. Takım arkadaşların (varsa): {1} </value>
   </string>
   <string key = "wolfdeadvisitoldvamp">
     <value> {0}, {1}'i yemeye çalıştı. Büyük acemilik! Onun Kont olabileceğine dair hiçbir fikri yoktu. {1} onu parçaladı ve derisiyle bir yağmurluk yaptı. Kurtlar artık onun kim olduğunu biliyor. O çok güçlü bir Ubır, dikkat et. </value>
